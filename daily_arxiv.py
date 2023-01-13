@@ -20,7 +20,7 @@ def load_config(config_file:str) -> dict:
     config_file: input config file path
     return: a dict of configuration
     '''
-    # make filters pretty
+    
     def pretty_filters(**config) -> dict:
         keywords = dict()
         EXCAPE = '\"'
