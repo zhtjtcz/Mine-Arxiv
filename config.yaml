@@ -1,0 +1,34 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "zhtjtcz"
+repo_name: "Mine-Arxiv"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/Mine-Arxiv.json'
+json_gitpage_path: './docs/Mine-Arxiv-web.json'
+json_wechat_path: './docs/Mine-Arxiv-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "diffusion model": 
+        filters: ["diffusion model"]
+    "sketch": 
+        filters: ["sketch"]
+    "3D reconstruction": 
+        filters: ["3D reconstruction"]
+    "generate": 
+        filters: ["generate"]
+    "generation": 
+        filters: ["generation"]
+

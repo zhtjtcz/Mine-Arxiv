@@ -1,0 +1,13 @@
+# 设为true时，才会停止查找.editorconfig文件
+root = true
+
+# 对于 py 文件  始终在文件末尾插入一个新行
+[*.py]
+end_of_line = lf
+insert_final_newline = true
+
+
+# 设置 py 文件的缩进
+[*.py]
+indent_style = space
+indent_size = 4
