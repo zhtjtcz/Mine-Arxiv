@@ -11,6 +11,7 @@
     <li><a href=#sketch>sketch</a></li>
     <li><a href=#generate>generate</a></li>
     <li><a href=#generation>generation</a></li>
+    <li><a href=#diffusion>diffusion</a></li>
   </ol>
 </details>
 
@@ -44,6 +45,15 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-12**|**Topological Floquet engineering using two frequencies in two dimensions**|Yixiao Wang et.al.|[2301.05229v1](http://arxiv.org/abs/2301.05229v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+
+## diffusion
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
+|**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
