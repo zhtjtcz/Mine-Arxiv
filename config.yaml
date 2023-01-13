@@ -21,8 +21,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "diffusion model": 
-        filters: ["diffusion model"]
+    "diffusion": 
+        filters: ["diffusion"]
     "sketch": 
         filters: ["sketch"]
     "3D reconstruction": 
