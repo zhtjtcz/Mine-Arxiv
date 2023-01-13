@@ -40,7 +40,7 @@ def load_config(config_file:str) -> dict:
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
         return keywords
-    with open(config_file,'r') as f:
+    with open(config_file, 'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
@@ -166,7 +166,7 @@ def update_paper_links(filename):
     '''
     weekly update paper links in json file 
     '''
-    with open(filename,"r") as f:
+    with open(filename, "r") as f:
         content = f.read()
         if not content:
             m = {}
