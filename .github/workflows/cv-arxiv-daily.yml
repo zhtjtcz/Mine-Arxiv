@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new Mine-Arxiv.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md docs/Mine-Arxiv.json docs/Mine-Arxiv-web.json docs/index.md docs/Mine-Arxiv-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
