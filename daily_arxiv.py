@@ -184,7 +184,7 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
+                    code_url = base_url + paper_id
                     r = requests.get(code_url).json()
                     repo_url = None
                     if "official" in r and r["official"]:
