@@ -111,12 +111,12 @@ def get_daily_papers(topic, query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+
+        if 'cs' not in primary_category:
+            continue
+
         if 'diffusion' in query:
             if 'diffusion model' not in paper_abstract:
-                logging.info('Not used Paper title is: ' + paper_title)
-                continue
-        elif 'generat' in query:
-            if 'generate' not in paper_title and 'generation' not in paper_title:
                 logging.info('Not used Paper title is: ' + paper_title)
                 continue
         elif query not in paper_abstract:
