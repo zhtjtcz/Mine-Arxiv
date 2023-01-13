@@ -10,7 +10,9 @@
   <ol>
     <li><a href=#diffusion>diffusion</a></li>
     <li><a href=#sketch>sketch</a></li>
+    <li><a href=#3D-reconstruction>3D reconstruction</a></li>
     <li><a href=#generate>generate</a></li>
+    <li><a href=#generation>generation</a></li>
   </ol>
 </details>
 
@@ -35,12 +37,42 @@
 
 <p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
+## 3D reconstruction
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-01-12**|**Edge Preserving Implicit Surface Representation of Point Clouds**|Xiaogang Wang et.al.|[2301.04860v1](http://arxiv.org/abs/2301.04860v1)|null|
+|**2023-01-11**|**Elevation Estimation-Driven Building 3D Reconstruction from Single-View Remote Sensing Imagery**|Yongqiang Mao et.al.|[2301.04581v1](http://arxiv.org/abs/2301.04581v1)|null|
+|**2023-01-11**|**First 3D reconstruction of a blast furnace using muography**|Amélie Cohu et.al.|[2301.04354v1](http://arxiv.org/abs/2301.04354v1)|null|
+|**2023-01-04**|**Towards a Pipeline for Real-Time Visualization of Faces for VR-based Telepresence and Live Broadcasting Utilizing Neural Rendering**|Philipp Ladwig et.al.|[2301.01490v1](http://arxiv.org/abs/2301.01490v1)|**[link](https://github.com/mirevi/face-synthesizer-jvrb)**|
+|**2023-01-03**|**BS3D: Building-scale 3D Reconstruction from RGB-D Images**|Janne Mustaniemi et.al.|[2301.01057v1](http://arxiv.org/abs/2301.01057v1)|null|
+|**2022-12-31**|**Ponder: Point Cloud Pre-training via Neural Rendering**|Di Huang et.al.|[2301.00157v1](http://arxiv.org/abs/2301.00157v1)|null|
+|**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
+|**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+
 ## generate
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
+|**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
+|**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
+|**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
+
+## generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
+|**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
+|**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
+|**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
+|**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230113>back to top</a>)</p>
 
