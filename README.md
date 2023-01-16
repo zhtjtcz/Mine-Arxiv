@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**|Evan Crothers et.al.|[2301.05402v1](http://arxiv.org/abs/2301.05402v1)|**[link](https://github.com/ecrows/in-bloom)**|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
@@ -56,6 +57,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**Non-Stochastic CDF Estimation Using Threshold Queries**|Princewill Okoroafor et.al.|[2301.05682v1](http://arxiv.org/abs/2301.05682v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
@@ -68,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**Non-Stochastic CDF Estimation Using Threshold Queries**|Princewill Okoroafor et.al.|[2301.05682v1](http://arxiv.org/abs/2301.05682v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
