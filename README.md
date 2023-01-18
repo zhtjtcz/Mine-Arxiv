@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|null|
 |**2023-01-13**|**In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**|Evan Crothers et.al.|[2301.05402v1](http://arxiv.org/abs/2301.05402v1)|**[link](https://github.com/ecrows/in-bloom)**|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
@@ -30,9 +31,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Vision Based Machine Learning Algorithms for Out-of-Distribution Generalisation**|Hamza Riaz et.al.|[2301.06975v1](http://arxiv.org/abs/2301.06975v1)|null|
+|**2023-01-17**|**Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**|Yuchen Wu et.al.|[2301.06685v1](http://arxiv.org/abs/2301.06685v1)|null|
+|**2023-01-16**|**A Distributed Palette Sparsification Theorem**|Maxime Flin et.al.|[2301.06457v1](http://arxiv.org/abs/2301.06457v1)|null|
+|**2023-01-14**|**Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation**|Aline Bessa et.al.|[2301.05811v1](http://arxiv.org/abs/2301.05811v1)|null|
 |**2023-01-06**|**Better Differentially Private Approximate Histograms and Heavy Hitters using the Misra-Gries Sketch**|Christian Janos Lebeda et.al.|[2301.02457v1](http://arxiv.org/abs/2301.02457v1)|null|
 |**2023-01-03**|**EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**|Enhao Zhang et.al.|[2301.00929v1](http://arxiv.org/abs/2301.00929v1)|**[link](https://github.com/uwdb/equi-vocal)**|
-|**2023-01-02**|**Algorithms for Massive Data -- Lecture Notes**|Nicola Prezza et.al.|[2301.00754v1](http://arxiv.org/abs/2301.00754v1)|null|
+|**2023-01-17**|**Algorithms for Massive Data -- Lecture Notes**|Nicola Prezza et.al.|[2301.00754v2](http://arxiv.org/abs/2301.00754v2)|null|
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
@@ -57,6 +62,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
+|**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|null|
+|**2023-01-17**|**Learning Customized Visual Models with Retrieval-Augmented Knowledge**|Haotian Liu et.al.|[2301.07094v1](http://arxiv.org/abs/2301.07094v1)|null|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|null|
+|**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|null|
+|**2023-01-17**|**MooseNet: A trainable metric for synthesized speech with plda backend**|Ondřej Plátek et.al.|[2301.07087v1](http://arxiv.org/abs/2301.07087v1)|null|
+|**2023-01-17**|**Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning**|Yingcong Li et.al.|[2301.07067v1](http://arxiv.org/abs/2301.07067v1)|null|
 |**2023-01-13**|**Non-Stochastic CDF Estimation Using Threshold Queries**|Princewill Okoroafor et.al.|[2301.05682v1](http://arxiv.org/abs/2301.05682v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
@@ -70,6 +82,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
+|**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|null|
+|**2023-01-17**|**Learning Customized Visual Models with Retrieval-Augmented Knowledge**|Haotian Liu et.al.|[2301.07094v1](http://arxiv.org/abs/2301.07094v1)|null|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|null|
+|**2023-01-17**|**Vision Learners Meet Web Image-Text Pairs**|Bingchen Zhao et.al.|[2301.07088v1](http://arxiv.org/abs/2301.07088v1)|null|
+|**2023-01-17**|**MooseNet: A trainable metric for synthesized speech with plda backend**|Ondřej Plátek et.al.|[2301.07087v1](http://arxiv.org/abs/2301.07087v1)|null|
+|**2023-01-17**|**Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning**|Yingcong Li et.al.|[2301.07067v1](http://arxiv.org/abs/2301.07067v1)|null|
 |**2023-01-13**|**Non-Stochastic CDF Estimation Using Threshold Queries**|Princewill Okoroafor et.al.|[2301.05682v1](http://arxiv.org/abs/2301.05682v1)|null|
 |**2023-01-12**|**See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**|Zhenfang Chen et.al.|[2301.05226v1](http://arxiv.org/abs/2301.05226v1)|null|
 |**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
