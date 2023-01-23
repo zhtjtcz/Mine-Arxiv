@@ -75,7 +75,7 @@
 |**2023-01-18**|**Learning 3D-aware Image Synthesis with Unknown Pose Distribution**|Zifan Shi et.al.|[2301.07702v1](http://arxiv.org/abs/2301.07702v1)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-18**|**Private Federated Submodel Learning via Private Set Union**|Zhusheng Wang et.al.|[2301.07686v1](http://arxiv.org/abs/2301.07686v1)|null|
-|**2023-01-18**|**SFQEDtoolkit: a high-performance library for the accurate modeling of strong-field QED processes in PIC and Monte Carlo codes**|Samuele Montefiori et.al.|[2301.07684v1](http://arxiv.org/abs/2301.07684v1)|null|
+|**2023-01-18**|**SFQEDtoolkit: a high-performance library for the accurate modeling of strong-field QED processes in PIC and Monte Carlo codes**|Samuele Montefiori et.al.|[2301.07684v1](http://arxiv.org/abs/2301.07684v1)|**[link](https://github.com/quantumplasma/sfqedtoolkit)**|
 |**2023-01-18**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525v1](http://arxiv.org/abs/2301.07525v1)|null|
 |**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|**[link](https://github.com/dennlinger/summaries)**|
@@ -105,7 +105,7 @@
 |**2023-01-18**|**Learning 3D-aware Image Synthesis with Unknown Pose Distribution**|Zifan Shi et.al.|[2301.07702v1](http://arxiv.org/abs/2301.07702v1)|null|
 |**2023-01-18**|**Prony-Based Super-Resolution Phase Retrieval of Sparse, Multivariate Signals**|Robert Beinert et.al.|[2301.07696v1](http://arxiv.org/abs/2301.07696v1)|null|
 |**2023-01-18**|**Private Federated Submodel Learning via Private Set Union**|Zhusheng Wang et.al.|[2301.07686v1](http://arxiv.org/abs/2301.07686v1)|null|
-|**2023-01-18**|**SFQEDtoolkit: a high-performance library for the accurate modeling of strong-field QED processes in PIC and Monte Carlo codes**|Samuele Montefiori et.al.|[2301.07684v1](http://arxiv.org/abs/2301.07684v1)|null|
+|**2023-01-18**|**SFQEDtoolkit: a high-performance library for the accurate modeling of strong-field QED processes in PIC and Monte Carlo codes**|Samuele Montefiori et.al.|[2301.07684v1](http://arxiv.org/abs/2301.07684v1)|**[link](https://github.com/quantumplasma/sfqedtoolkit)**|
 |**2023-01-18**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525v1](http://arxiv.org/abs/2301.07525v1)|null|
 |**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
 |**2023-01-17**|**On the State of German (Abstractive) Text Summarization**|Dennis Aumiller et.al.|[2301.07095v1](http://arxiv.org/abs/2301.07095v1)|**[link](https://github.com/dennlinger/summaries)**|
