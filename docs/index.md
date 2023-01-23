@@ -37,6 +37,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Improving Sketch Colorization using Adversarial Segmentation Consistency**|Samet Hicsonmez et.al.|[2301.08590v1](http://arxiv.org/abs/2301.08590v1)|**[link](https://github.com/giddyyupp/AdvSegLoss)**|
 |**2023-01-19**|**On Finite Blocklength Lossy Source Coding**|Lin Zhou et.al.|[2301.07871v1](http://arxiv.org/abs/2301.07871v1)|null|
 |**2023-01-17**|**Vision Based Machine Learning Algorithms for Out-of-Distribution Generalisation**|Hamza Riaz et.al.|[2301.06975v1](http://arxiv.org/abs/2301.06975v1)|null|
 |**2023-01-17**|**Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**|Yuchen Wu et.al.|[2301.06685v1](http://arxiv.org/abs/2301.06685v1)|null|
@@ -54,6 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|null|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 |**2023-01-19**|**Regularizing disparity estimation via multi task learning with structured light reconstruction**|Alistair Weld et.al.|[2301.08140v1](http://arxiv.org/abs/2301.08140v1)|null|
 |**2023-01-12**|**Edge Preserving Implicit Surface Representation of Point Clouds**|Xiaogang Wang et.al.|[2301.04860v1](http://arxiv.org/abs/2301.04860v1)|null|
@@ -71,6 +73,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
+|**2023-01-20**|**Massively Parallel Genetic Optimization through Asynchronous Propagation of Populations**|Oskar Taubert et.al.|[2301.08713v1](http://arxiv.org/abs/2301.08713v1)|**[link](https://github.com/helmholtz-ai-energy/propulate)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 |**2023-01-19**|**Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2301.08245v1](http://arxiv.org/abs/2301.08245v1)|null|
 |**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|null|
@@ -101,6 +105,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
+|**2023-01-20**|**Massively Parallel Genetic Optimization through Asynchronous Propagation of Populations**|Oskar Taubert et.al.|[2301.08713v1](http://arxiv.org/abs/2301.08713v1)|**[link](https://github.com/helmholtz-ai-energy/propulate)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 |**2023-01-19**|**Booster: a Benchmark for Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2301.08245v1](http://arxiv.org/abs/2301.08245v1)|null|
 |**2023-01-19**|**Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture**|Mahmoud Assran et.al.|[2301.08243v1](http://arxiv.org/abs/2301.08243v1)|null|
