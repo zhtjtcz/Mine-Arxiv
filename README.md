@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**LEGO-Net: Learning Regular Rearrangements of Objects in Rooms**|Qiuhong Anna Wei et.al.|[2301.09629v1](http://arxiv.org/abs/2301.09629v1)|null|
+|**2023-01-23**|**Evaluation of Light Collection from Highly Scattering Media using Wavelength-Shifting Fibers**|Andrew Wilhelm et.al.|[2301.09608v1](http://arxiv.org/abs/2301.09608v1)|null|
+|**2023-01-23**|**StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis**|Axel Sauer et.al.|[2301.09515v1](http://arxiv.org/abs/2301.09515v1)|**[link](https://github.com/autonomousvision/stylegan-t)**|
+|**2023-01-23**|**DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion**|Qitian Wu et.al.|[2301.09474v1](http://arxiv.org/abs/2301.09474v1)|null|
 |**2023-01-19**|**Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models**|Jun Yue et.al.|[2301.08072v1](http://arxiv.org/abs/2301.08072v1)|null|
 |**2023-01-18**|**Targeted Image Reconstruction by Sampling Pre-trained Diffusion Model**|Jiageng Zheng et.al.|[2301.07557v1](http://arxiv.org/abs/2301.07557v1)|null|
 |**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|**[link](https://github.com/gligen/GLIGEN)**|
@@ -51,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
 |**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|null|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 |**2023-01-19**|**Regularizing disparity estimation via multi task learning with structured light reconstruction**|Alistair Weld et.al.|[2301.08140v1](http://arxiv.org/abs/2301.08140v1)|null|
@@ -69,6 +74,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|null|
+|**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|null|
+|**2023-01-23**|**Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach**|Ethan Brewer et.al.|[2301.09620v1](http://arxiv.org/abs/2301.09620v1)|null|
+|**2023-01-23**|**Asymptotic Convergence and Performance of Multi-Agent Q-Learning Dynamics**|Aamal Abbas Hussain et.al.|[2301.09619v1](http://arxiv.org/abs/2301.09619v1)|null|
 |**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
 |**2023-01-20**|**Massively Parallel Genetic Optimization through Asynchronous Propagation of Populations**|Oskar Taubert et.al.|[2301.08713v1](http://arxiv.org/abs/2301.08713v1)|**[link](https://github.com/helmholtz-ai-energy/propulate)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
@@ -101,6 +110,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|null|
+|**2023-01-23**|**Feature construction using explanations of individual predictions**|Boštjan Vouk et.al.|[2301.09631v1](http://arxiv.org/abs/2301.09631v1)|null|
+|**2023-01-23**|**Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach**|Ethan Brewer et.al.|[2301.09620v1](http://arxiv.org/abs/2301.09620v1)|null|
+|**2023-01-23**|**Asymptotic Convergence and Performance of Multi-Agent Q-Learning Dynamics**|Aamal Abbas Hussain et.al.|[2301.09619v1](http://arxiv.org/abs/2301.09619v1)|null|
 |**2023-01-20**|**The stochastic digital human is now enrolling for in silico imaging trials -- Methods and tools for generating digital cohorts**|A Badano et.al.|[2301.08719v1](http://arxiv.org/abs/2301.08719v1)|null|
 |**2023-01-20**|**Massively Parallel Genetic Optimization through Asynchronous Propagation of Populations**|Oskar Taubert et.al.|[2301.08713v1](http://arxiv.org/abs/2301.08713v1)|**[link](https://github.com/helmholtz-ai-energy/propulate)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
