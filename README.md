@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
 |**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|null|
 |**2023-01-24**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v1](http://arxiv.org/abs/2301.10047v1)|null|
 |**2023-01-24**|**Membership Inference of Diffusion Models**|Hailong Hu et.al.|[2301.09956v1](http://arxiv.org/abs/2301.09956v1)|null|
@@ -40,6 +41,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
+|**2023-01-24**|**Capacity Analysis of Vector Symbolic Architectures**|Kenneth L. Clarkson et.al.|[2301.10352v1](http://arxiv.org/abs/2301.10352v1)|null|
 |**2023-01-20**|**Improving Sketch Colorization using Adversarial Segmentation Consistency**|Samet Hicsonmez et.al.|[2301.08590v1](http://arxiv.org/abs/2301.08590v1)|**[link](https://github.com/giddyyupp/AdvSegLoss)**|
 |**2023-01-19**|**On Finite Blocklength Lossy Source Coding**|Lin Zhou et.al.|[2301.07871v1](http://arxiv.org/abs/2301.07871v1)|null|
 |**2023-01-17**|**Vision Based Machine Learning Algorithms for Out-of-Distribution Generalisation**|Hamza Riaz et.al.|[2301.06975v1](http://arxiv.org/abs/2301.06975v1)|null|
@@ -58,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
 |**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|null|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
@@ -77,6 +81,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Fillers in Spoken Language Understanding: Computational and Psycholinguistic Perspectives**|Tanvi Dinkar et.al.|[2301.10761v1](http://arxiv.org/abs/2301.10761v1)|null|
+|**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
+|**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
+|**2023-01-25**|**Generating large-scale network analyses of scientific landscapes in seconds using Dimensions on Google BigQuery**|Michele Pasin et.al.|[2301.10736v1](http://arxiv.org/abs/2301.10736v1)|null|
+|**2023-01-25**|**The Synchronic Web**|Thien-Nam Dinh et.al.|[2301.10733v1](http://arxiv.org/abs/2301.10733v1)|null|
 |**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
 |**2023-01-24**|**Evolution of cooperation under a generalized death-birth process**|Chaoqian Wang et.al.|[2301.10205v1](http://arxiv.org/abs/2301.10205v1)|null|
 |**2023-01-24**|**A general epidemic model and its application to mask design considering different preferences towards masks**|Chaoqian Wang et.al.|[2301.10202v1](http://arxiv.org/abs/2301.10202v1)|null|
@@ -116,6 +125,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Fillers in Spoken Language Understanding: Computational and Psycholinguistic Perspectives**|Tanvi Dinkar et.al.|[2301.10761v1](http://arxiv.org/abs/2301.10761v1)|null|
+|**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
+|**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
+|**2023-01-25**|**Generating large-scale network analyses of scientific landscapes in seconds using Dimensions on Google BigQuery**|Michele Pasin et.al.|[2301.10736v1](http://arxiv.org/abs/2301.10736v1)|null|
+|**2023-01-25**|**The Synchronic Web**|Thien-Nam Dinh et.al.|[2301.10733v1](http://arxiv.org/abs/2301.10733v1)|null|
 |**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
 |**2023-01-24**|**Evolution of cooperation under a generalized death-birth process**|Chaoqian Wang et.al.|[2301.10205v1](http://arxiv.org/abs/2301.10205v1)|null|
 |**2023-01-24**|**A general epidemic model and its application to mask design considering different preferences towards masks**|Chaoqian Wang et.al.|[2301.10202v1](http://arxiv.org/abs/2301.10202v1)|null|
