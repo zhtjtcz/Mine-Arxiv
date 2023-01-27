@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
+|**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|null|
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
 |**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|null|
 |**2023-01-24**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v1](http://arxiv.org/abs/2301.10047v1)|null|
@@ -45,6 +47,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-01-25**|**Reflective Artificial Intelligence**|Peter R. Lewis et.al.|[2301.10823v1](http://arxiv.org/abs/2301.10823v1)|null|
 |**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
 |**2023-01-24**|**Capacity Analysis of Vector Symbolic Architectures**|Kenneth L. Clarkson et.al.|[2301.10352v1](http://arxiv.org/abs/2301.10352v1)|null|
 |**2023-01-20**|**Improving Sketch Colorization using Adversarial Segmentation Consistency**|Samet Hicsonmez et.al.|[2301.08590v1](http://arxiv.org/abs/2301.08590v1)|**[link](https://github.com/giddyyupp/AdvSegLoss)**|
@@ -85,6 +89,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**Conservative Safety Monitors of Stochastic Dynamical Systems**|Matthew Cleaveland et.al.|[2301.11330v1](http://arxiv.org/abs/2301.11330v1)|null|
+|**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
+|**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|null|
+|**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-01-26**|**Learning Good Features to Transfer Across Tasks and Domains**|Pierluigi Zama Ramirez et.al.|[2301.11310v1](http://arxiv.org/abs/2301.11310v1)|null|
+|**2023-01-26**|**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**|Pranjal Aggarwal et.al.|[2301.11309v1](http://arxiv.org/abs/2301.11309v1)|null|
+|**2023-01-26**|**Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series**|Abdul Fatir Ansari et.al.|[2301.11308v1](http://arxiv.org/abs/2301.11308v1)|null|
+|**2023-01-26**|**DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**|Eric Mitchell et.al.|[2301.11305v1](http://arxiv.org/abs/2301.11305v1)|null|
 |**2023-01-25**|**Fillers in Spoken Language Understanding: Computational and Psycholinguistic Perspectives**|Tanvi Dinkar et.al.|[2301.10761v1](http://arxiv.org/abs/2301.10761v1)|null|
 |**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
 |**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
@@ -129,6 +141,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**Conservative Safety Monitors of Stochastic Dynamical Systems**|Matthew Cleaveland et.al.|[2301.11330v1](http://arxiv.org/abs/2301.11330v1)|null|
+|**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
+|**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|null|
+|**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-01-26**|**Learning Good Features to Transfer Across Tasks and Domains**|Pierluigi Zama Ramirez et.al.|[2301.11310v1](http://arxiv.org/abs/2301.11310v1)|null|
+|**2023-01-26**|**SemSup-XC: Semantic Supervision for Zero and Few-shot Extreme Classification**|Pranjal Aggarwal et.al.|[2301.11309v1](http://arxiv.org/abs/2301.11309v1)|null|
+|**2023-01-26**|**Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series**|Abdul Fatir Ansari et.al.|[2301.11308v1](http://arxiv.org/abs/2301.11308v1)|null|
+|**2023-01-26**|**DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature**|Eric Mitchell et.al.|[2301.11305v1](http://arxiv.org/abs/2301.11305v1)|null|
 |**2023-01-25**|**Fillers in Spoken Language Understanding: Computational and Psycholinguistic Perspectives**|Tanvi Dinkar et.al.|[2301.10761v1](http://arxiv.org/abs/2301.10761v1)|null|
 |**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
 |**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
