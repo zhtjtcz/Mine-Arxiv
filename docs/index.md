@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**|Flavio Schneider et.al.|[2301.11757v1](http://arxiv.org/abs/2301.11757v1)|**[link](https://github.com/archinetai/audio-diffusion-pytorch)**|
+|**2023-01-27**|**Diffusion Models as Artists: Are we Closing the Gap between Humans and Machines?**|Victor Boutin et.al.|[2301.11722v1](http://arxiv.org/abs/2301.11722v1)|null|
 |**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
 |**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|null|
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
@@ -47,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**Synesthetic Dice: Sensors, Actuators, And Mappings**|Albrecht Kurze et.al.|[2301.11436v1](http://arxiv.org/abs/2301.11436v1)|null|
 |**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
 |**2023-01-25**|**Reflective Artificial Intelligence**|Peter R. Lewis et.al.|[2301.10823v1](http://arxiv.org/abs/2301.10823v1)|null|
 |**2023-01-25**|**Distilling Text into Circuits**|Vincent Wang-Mascianica et.al.|[2301.10595v1](http://arxiv.org/abs/2301.10595v1)|null|
@@ -69,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
 |**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|**[link](https://github.com/kevinczhou/3d-rapid)**|
@@ -89,6 +93,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**Incorporating Background Knowledge in Symbolic Regression using a Computer Algebra System**|Charles Fox et.al.|[2301.11919v1](http://arxiv.org/abs/2301.11919v1)|null|
+|**2023-01-27**|**OccRob: Efficient SMT-Based Occlusion Robustness Verification of Deep Neural Networks**|Xingwu Guo et.al.|[2301.11912v1](http://arxiv.org/abs/2301.11912v1)|null|
+|**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|null|
+|**2023-01-27**|**Tree-structured Policy Planning with Learned Behavior Models**|Yuxiao Chen et.al.|[2301.11902v1](http://arxiv.org/abs/2301.11902v1)|null|
 |**2023-01-26**|**Conservative Safety Monitors of Stochastic Dynamical Systems**|Matthew Cleaveland et.al.|[2301.11330v1](http://arxiv.org/abs/2301.11330v1)|null|
 |**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
 |**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|null|
@@ -141,6 +149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**Incorporating Background Knowledge in Symbolic Regression using a Computer Algebra System**|Charles Fox et.al.|[2301.11919v1](http://arxiv.org/abs/2301.11919v1)|null|
+|**2023-01-27**|**OccRob: Efficient SMT-Based Occlusion Robustness Verification of Deep Neural Networks**|Xingwu Guo et.al.|[2301.11912v1](http://arxiv.org/abs/2301.11912v1)|null|
+|**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|null|
+|**2023-01-27**|**Tree-structured Policy Planning with Learned Behavior Models**|Yuxiao Chen et.al.|[2301.11902v1](http://arxiv.org/abs/2301.11902v1)|null|
 |**2023-01-26**|**Conservative Safety Monitors of Stochastic Dynamical Systems**|Matthew Cleaveland et.al.|[2301.11330v1](http://arxiv.org/abs/2301.11330v1)|null|
 |**2023-01-26**|**MusicLM: Generating Music From Text**|Andrea Agostinelli et.al.|[2301.11325v1](http://arxiv.org/abs/2301.11325v1)|null|
 |**2023-01-26**|**Joint Training of Deep Ensembles Fails Due to Learner Collusion**|Alan Jeffares et.al.|[2301.11323v1](http://arxiv.org/abs/2301.11323v1)|null|
