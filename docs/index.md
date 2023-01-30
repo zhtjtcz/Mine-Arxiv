@@ -28,7 +28,7 @@ layout: default
 |**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|null|
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
 |**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|null|
-|**2023-01-24**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v1](http://arxiv.org/abs/2301.10047v1)|null|
+|**2023-01-24**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v1](http://arxiv.org/abs/2301.10047v1)|**[link](https://github.com/zf223669/DiffMotion.github.io)**|
 |**2023-01-24**|**Membership Inference of Diffusion Models**|Hailong Hu et.al.|[2301.09956v1](http://arxiv.org/abs/2301.09956v1)|null|
 |**2023-01-23**|**LEGO-Net: Learning Regular Rearrangements of Objects in Rooms**|Qiuhong Anna Wei et.al.|[2301.09629v1](http://arxiv.org/abs/2301.09629v1)|null|
 |**2023-01-23**|**Evaluation of Light Collection from Highly Scattering Media using Wavelength-Shifting Fibers**|Andrew Wilhelm et.al.|[2301.09608v1](http://arxiv.org/abs/2301.09608v1)|null|
