@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
+|**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
+|**2023-01-30**|**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**|Ming Tao et.al.|[2301.12959v1](http://arxiv.org/abs/2301.12959v1)|**[link](https://github.com/tobran/galip)**|
+|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v1](http://arxiv.org/abs/2301.12935v1)|null|
+|**2023-01-30**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v1](http://arxiv.org/abs/2301.12914v1)|null|
 |**2023-01-27**|**Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**|Flavio Schneider et.al.|[2301.11757v1](http://arxiv.org/abs/2301.11757v1)|**[link](https://github.com/archinetai/audio-diffusion-pytorch)**|
 |**2023-01-27**|**Diffusion Models as Artists: Are we Closing the Gap between Humans and Machines?**|Victor Boutin et.al.|[2301.11722v1](http://arxiv.org/abs/2301.11722v1)|null|
 |**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
@@ -45,6 +50,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|**[link](https://github.com/aws/random-cut-forest-by-aws)**|
+|**2023-01-29**|**BERT-based Authorship Attribution on the Romanian Dataset called ROST**|Sanda-Maria Avram et.al.|[2301.12500v1](http://arxiv.org/abs/2301.12500v1)|null|
 |**2023-01-26**|**Synesthetic Dice: Sensors, Actuators, And Mappings**|Albrecht Kurze et.al.|[2301.11436v1](http://arxiv.org/abs/2301.11436v1)|null|
 |**2023-01-26**|**Cut and Learn for Unsupervised Object Detection and Instance Segmentation**|Xudong Wang et.al.|[2301.11320v1](http://arxiv.org/abs/2301.11320v1)|**[link](https://github.com/facebookresearch/cutler)**|
 |**2023-01-25**|**Reflective Artificial Intelligence**|Peter R. Lewis et.al.|[2301.10823v1](http://arxiv.org/abs/2301.10823v1)|null|
@@ -89,6 +96,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|null|
+|**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|null|
+|**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190v1](http://arxiv.org/abs/2301.13190v1)|**[link](https://github.com/opennlplab/avsbench)**|
+|**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
+|**2023-01-30**|**Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees**|Shenghao Yang et.al.|[2301.13187v1](http://arxiv.org/abs/2301.13187v1)|null|
+|**2023-01-30**|**Optimal Decision Tree Policies for Markov Decision Processes**|Daniël Vos et.al.|[2301.13185v1](http://arxiv.org/abs/2301.13185v1)|null|
 |**2023-01-27**|**Incorporating Background Knowledge in Symbolic Regression using a Computer Algebra System**|Charles Fox et.al.|[2301.11919v1](http://arxiv.org/abs/2301.11919v1)|null|
 |**2023-01-27**|**OccRob: Efficient SMT-Based Occlusion Robustness Verification of Deep Neural Networks**|Xingwu Guo et.al.|[2301.11912v1](http://arxiv.org/abs/2301.11912v1)|null|
 |**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|null|
@@ -145,6 +158,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|null|
+|**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|null|
+|**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190v1](http://arxiv.org/abs/2301.13190v1)|**[link](https://github.com/opennlplab/avsbench)**|
+|**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
+|**2023-01-30**|**Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees**|Shenghao Yang et.al.|[2301.13187v1](http://arxiv.org/abs/2301.13187v1)|null|
+|**2023-01-30**|**Optimal Decision Tree Policies for Markov Decision Processes**|Daniël Vos et.al.|[2301.13185v1](http://arxiv.org/abs/2301.13185v1)|null|
 |**2023-01-27**|**Incorporating Background Knowledge in Symbolic Regression using a Computer Algebra System**|Charles Fox et.al.|[2301.11919v1](http://arxiv.org/abs/2301.11919v1)|null|
 |**2023-01-27**|**OccRob: Efficient SMT-Based Occlusion Robustness Verification of Deep Neural Networks**|Xingwu Guo et.al.|[2301.11912v1](http://arxiv.org/abs/2301.11912v1)|null|
 |**2023-01-27**|**Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees**|Johanna Vielhaben et.al.|[2301.11911v1](http://arxiv.org/abs/2301.11911v1)|null|
