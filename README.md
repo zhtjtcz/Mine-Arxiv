@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**|Hila Chefer et.al.|[2301.13826v1](http://arxiv.org/abs/2301.13826v1)|**[link](https://github.com/AttendAndExcite/Attend-and-Excite)**|
 |**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
 |**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
 |**2023-01-30**|**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**|Ming Tao et.al.|[2301.12959v1](http://arxiv.org/abs/2301.12959v1)|**[link](https://github.com/tobran/galip)**|
@@ -50,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**FLAME: A small language model for spreadsheet formulas**|Harshit Joshi et.al.|[2301.13779v1](http://arxiv.org/abs/2301.13779v1)|null|
 |**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|**[link](https://github.com/aws/random-cut-forest-by-aws)**|
 |**2023-01-29**|**BERT-based Authorship Attribution on the Romanian Dataset called ROST**|Sanda-Maria Avram et.al.|[2301.12500v1](http://arxiv.org/abs/2301.12500v1)|null|
 |**2023-01-26**|**Synesthetic Dice: Sensors, Actuators, And Mappings**|Albrecht Kurze et.al.|[2301.11436v1](http://arxiv.org/abs/2301.11436v1)|null|
@@ -75,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
@@ -96,6 +99,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
+|**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
+|**2023-01-31**|**Zero-Memory Graph Exploration with Unknown Inports**|Hans-Joachim Böckenhauer et.al.|[2301.13860v1](http://arxiv.org/abs/2301.13860v1)|null|
+|**2023-01-31**|**Interpreting Robustness Proofs of Deep Neural Networks**|Debangshu Banerjee et.al.|[2301.13845v1](http://arxiv.org/abs/2301.13845v1)|null|
+|**2023-01-31**|**Do Multi-Document Summarization Models Synthesize?**|Jay DeYoung et.al.|[2301.13844v1](http://arxiv.org/abs/2301.13844v1)|null|
+|**2023-01-31**|**RIS-Assisted Interference Mitigation for Uplink NOMA**|Azadeh Tabeshnezhad et.al.|[2301.13841v1](http://arxiv.org/abs/2301.13841v1)|null|
 |**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|null|
 |**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|**[link](https://github.com/google-research/scenic)**|
 |**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190v1](http://arxiv.org/abs/2301.13190v1)|**[link](https://github.com/opennlplab/avsbench)**|
@@ -158,6 +167,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
+|**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
+|**2023-01-31**|**Zero-Memory Graph Exploration with Unknown Inports**|Hans-Joachim Böckenhauer et.al.|[2301.13860v1](http://arxiv.org/abs/2301.13860v1)|null|
+|**2023-01-31**|**Interpreting Robustness Proofs of Deep Neural Networks**|Debangshu Banerjee et.al.|[2301.13845v1](http://arxiv.org/abs/2301.13845v1)|null|
+|**2023-01-31**|**Do Multi-Document Summarization Models Synthesize?**|Jay DeYoung et.al.|[2301.13844v1](http://arxiv.org/abs/2301.13844v1)|null|
+|**2023-01-31**|**RIS-Assisted Interference Mitigation for Uplink NOMA**|Azadeh Tabeshnezhad et.al.|[2301.13841v1](http://arxiv.org/abs/2301.13841v1)|null|
 |**2023-01-30**|**Looped Transformers as Programmable Computers**|Angeliki Giannou et.al.|[2301.13196v1](http://arxiv.org/abs/2301.13196v1)|null|
 |**2023-01-30**|**Adaptive Computation with Elastic Input Sequence**|Fuzhao Xue et.al.|[2301.13195v1](http://arxiv.org/abs/2301.13195v1)|**[link](https://github.com/google-research/scenic)**|
 |**2023-01-30**|**Audio-Visual Segmentation with Semantics**|Jinxing Zhou et.al.|[2301.13190v1](http://arxiv.org/abs/2301.13190v1)|**[link](https://github.com/opennlplab/avsbench)**|
