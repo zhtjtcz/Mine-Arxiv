@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**|Yilun Xu et.al.|[2302.00670v1](http://arxiv.org/abs/2302.00670v1)|**[link](https://github.com/newbeeer/stf)**|
 |**2023-01-31**|**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**|Hila Chefer et.al.|[2301.13826v1](http://arxiv.org/abs/2301.13826v1)|**[link](https://github.com/AttendAndExcite/Attend-and-Excite)**|
 |**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
 |**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
@@ -51,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee**|Zhao Song et.al.|[2302.00248v1](http://arxiv.org/abs/2302.00248v1)|null|
 |**2023-01-31**|**FLAME: A small language model for spreadsheet formulas**|Harshit Joshi et.al.|[2301.13779v1](http://arxiv.org/abs/2301.13779v1)|null|
 |**2023-01-30**|**Streaming Anomaly Detection**|Siddharth Bhatia et.al.|[2301.13199v1](http://arxiv.org/abs/2301.13199v1)|**[link](https://github.com/aws/random-cut-forest-by-aws)**|
 |**2023-01-29**|**BERT-based Authorship Attribution on the Romanian Dataset called ROST**|Sanda-Maria Avram et.al.|[2301.12500v1](http://arxiv.org/abs/2301.12500v1)|null|
@@ -99,6 +101,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**|Alon Albalak et.al.|[2302.00674v1](http://arxiv.org/abs/2302.00674v1)|**[link](https://github.com/alon-albalak/flad)**|
+|**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
+|**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
+|**2023-02-01**|**Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**|Yilun Xu et.al.|[2302.00670v1](http://arxiv.org/abs/2302.00670v1)|**[link](https://github.com/newbeeer/stf)**|
+|**2023-02-01**|**Does Vision Accelerate Hierarchical Generalization of Neural Language Learners?**|Tatsuki Kuribayashi et.al.|[2302.00667v1](http://arxiv.org/abs/2302.00667v1)|null|
+|**2023-02-01**|**Extrinsic Calibration of 2D mm-Wavelength Radar Pairs Using Ego-Velocity Estimates**|Qilong Cheng et.al.|[2302.00660v1](http://arxiv.org/abs/2302.00660v1)|null|
+|**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
 |**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
 |**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
 |**2023-01-31**|**Zero-Memory Graph Exploration with Unknown Inports**|Hans-Joachim Böckenhauer et.al.|[2301.13860v1](http://arxiv.org/abs/2301.13860v1)|null|
@@ -167,6 +176,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**|Alon Albalak et.al.|[2302.00674v1](http://arxiv.org/abs/2302.00674v1)|**[link](https://github.com/alon-albalak/flad)**|
+|**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
+|**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
+|**2023-02-01**|**Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**|Yilun Xu et.al.|[2302.00670v1](http://arxiv.org/abs/2302.00670v1)|**[link](https://github.com/newbeeer/stf)**|
+|**2023-02-01**|**Does Vision Accelerate Hierarchical Generalization of Neural Language Learners?**|Tatsuki Kuribayashi et.al.|[2302.00667v1](http://arxiv.org/abs/2302.00667v1)|null|
+|**2023-02-01**|**Extrinsic Calibration of 2D mm-Wavelength Radar Pairs Using Ego-Velocity Estimates**|Qilong Cheng et.al.|[2302.00660v1](http://arxiv.org/abs/2302.00660v1)|null|
+|**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
 |**2023-01-31**|**Reverse engineering adversarial attacks with fingerprints from adversarial examples**|David Aaron Nicholson et.al.|[2301.13869v1](http://arxiv.org/abs/2301.13869v1)|null|
 |**2023-01-31**|**PADL: Language-Directed Physics-Based Character Control**|Jordan Juravsky et.al.|[2301.13868v1](http://arxiv.org/abs/2301.13868v1)|**[link](https://github.com/nv-tlabs/padl)**|
 |**2023-01-31**|**Zero-Memory Graph Exploration with Unknown Inports**|Hans-Joachim Böckenhauer et.al.|[2301.13860v1](http://arxiv.org/abs/2301.13860v1)|null|
