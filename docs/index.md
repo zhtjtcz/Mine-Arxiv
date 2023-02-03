@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
+|**2023-02-02**|**Are Diffusion Models Vulnerable to Membership Inference Attacks?**|Jinhao Duan et.al.|[2302.01316v1](http://arxiv.org/abs/2302.01316v1)|null|
 |**2023-02-01**|**Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**|Yilun Xu et.al.|[2302.00670v1](http://arxiv.org/abs/2302.00670v1)|**[link](https://github.com/newbeeer/stf)**|
 |**2023-01-31**|**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**|Hila Chefer et.al.|[2301.13826v1](http://arxiv.org/abs/2301.13826v1)|**[link](https://github.com/AttendAndExcite/Attend-and-Excite)**|
 |**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
@@ -86,7 +88,7 @@ layout: default
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
-|**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
+|**2023-02-02**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v2](http://arxiv.org/abs/2301.09060v2)|null|
 |**2023-01-19**|**Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**|Kevin C. Zhou et.al.|[2301.08351v1](http://arxiv.org/abs/2301.08351v1)|**[link](https://github.com/kevinczhou/3d-rapid)**|
 |**2023-01-19**|**Multiview Compressive Coding for 3D Reconstruction**|Chao-Yuan Wu et.al.|[2301.08247v1](http://arxiv.org/abs/2301.08247v1)|**[link](https://github.com/facebookresearch/mcc)**|
 |**2023-01-19**|**Regularizing disparity estimation via multi task learning with structured light reconstruction**|Alistair Weld et.al.|[2301.08140v1](http://arxiv.org/abs/2301.08140v1)|null|
@@ -105,6 +107,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng et.al.|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
+|**2023-02-02**|**Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**|Frederik Warburg et.al.|[2302.01332v1](http://arxiv.org/abs/2302.01332v1)|**[link](https://github.com/frederikwarburg/bayesian-metric-learning)**|
+|**2023-02-02**|**SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections**|Zhaoxi Chen et.al.|[2302.01330v1](http://arxiv.org/abs/2302.01330v1)|null|
+|**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
+|**2023-02-02**|**$IC^3$ : Image Captioning by Committee Consensus**|David M. Chan et.al.|[2302.01328v1](http://arxiv.org/abs/2302.01328v1)|**[link](https://github.com/davidmchan/caption-by-committee)**|
+|**2023-02-02**|**Randomized Greedy Learning for Non-monotone Stochastic Submodular Maximization Under Full-bandit Feedback**|Fares Fourati et.al.|[2302.01324v1](http://arxiv.org/abs/2302.01324v1)|null|
+|**2023-02-02**|**Signatures for strong-field QED physics in the quantum limit of beamstrahlung**|W. L. Zhang et.al.|[2302.01321v1](http://arxiv.org/abs/2302.01321v1)|null|
 |**2023-02-01**|**Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**|Alon Albalak et.al.|[2302.00674v1](http://arxiv.org/abs/2302.00674v1)|**[link](https://github.com/alon-albalak/flad)**|
 |**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
@@ -180,6 +189,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation**|Yupeng Zheng et.al.|[2302.01334v1](http://arxiv.org/abs/2302.01334v1)|**[link](https://github.com/ucaszyp/steps)**|
+|**2023-02-02**|**Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**|Frederik Warburg et.al.|[2302.01332v1](http://arxiv.org/abs/2302.01332v1)|**[link](https://github.com/frederikwarburg/bayesian-metric-learning)**|
+|**2023-02-02**|**SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections**|Zhaoxi Chen et.al.|[2302.01330v1](http://arxiv.org/abs/2302.01330v1)|null|
+|**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
+|**2023-02-02**|**$IC^3$ : Image Captioning by Committee Consensus**|David M. Chan et.al.|[2302.01328v1](http://arxiv.org/abs/2302.01328v1)|**[link](https://github.com/davidmchan/caption-by-committee)**|
+|**2023-02-02**|**Randomized Greedy Learning for Non-monotone Stochastic Submodular Maximization Under Full-bandit Feedback**|Fares Fourati et.al.|[2302.01324v1](http://arxiv.org/abs/2302.01324v1)|null|
+|**2023-02-02**|**Signatures for strong-field QED physics in the quantum limit of beamstrahlung**|W. L. Zhang et.al.|[2302.01321v1](http://arxiv.org/abs/2302.01321v1)|null|
 |**2023-02-01**|**Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data**|Alon Albalak et.al.|[2302.00674v1](http://arxiv.org/abs/2302.00674v1)|**[link](https://github.com/alon-albalak/flad)**|
 |**2023-02-01**|**'Generative CI' through Collective Response Systems**|Aviv Ovadya et.al.|[2302.00672v1](http://arxiv.org/abs/2302.00672v1)|null|
 |**2023-02-01**|**Efficient Multi-Task Reinforcement Learning via Selective Behavior Sharing**|Grace Zhang et.al.|[2302.00671v1](http://arxiv.org/abs/2302.00671v1)|null|
