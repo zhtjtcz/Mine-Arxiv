@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
+|**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
+|**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
+|**2023-02-07**|**Graph Generation with Destination-Driven Diffusion Mixture**|Jaehyeong Jo et.al.|[2302.03596v1](http://arxiv.org/abs/2302.03596v1)|null|
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser et.al.|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
 |**2023-02-03**|**AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners**|Zhixuan Liang et.al.|[2302.01877v1](http://arxiv.org/abs/2302.01877v1)|null|
@@ -64,6 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-06**|**Sketching Robot Programs On the Fly**|David Porfirio et.al.|[2302.03088v1](http://arxiv.org/abs/2302.03088v1)|null|
 |**2023-02-05**|**Leaving Reality to Imagination: Robust Classification via Generated Datasets**|Hritik Bansal et.al.|[2302.02503v1](http://arxiv.org/abs/2302.02503v1)|**[link](https://github.com/hritikbansal/generative-robustness)**|
 |**2023-02-04**|**An Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation**|Pinghui Wang et.al.|[2302.02158v1](http://arxiv.org/abs/2302.02158v1)|null|
 |**2023-02-04**|**Sketch-Flip-Merge: Mergeable Sketches for Private Distinct Counting**|Jonathan Hehir et.al.|[2302.02056v1](http://arxiv.org/abs/2302.02056v1)|null|
@@ -94,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang et.al.|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
 |**2023-01-25**|**Local Feature Extraction from Salient Regions by Feature Map Transformation**|Yerim Jung et.al.|[2301.10413v1](http://arxiv.org/abs/2301.10413v1)|null|
@@ -116,6 +122,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
+|**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
+|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
+|**2023-02-07**|**Proportionality in Approval-Based Participatory Budgeting**|Markus Brill et.al.|[2302.03672v1](http://arxiv.org/abs/2302.03672v1)|null|
+|**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
+|**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
+|**2023-02-07**|**SDYN-GANs: Adversarial Learning Methods for Multistep Generative Models for General Order Stochastic Dynamics**|Panos Stinis et.al.|[2302.03663v1](http://arxiv.org/abs/2302.03663v1)|null|
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-06**|**Geometry of contact: contact planning for multi-legged robots via spin models duality**|Baxi Chong et.al.|[2302.03019v1](http://arxiv.org/abs/2302.03019v1)|null|
@@ -208,6 +221,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
+|**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
+|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
+|**2023-02-07**|**Proportionality in Approval-Based Participatory Budgeting**|Markus Brill et.al.|[2302.03672v1](http://arxiv.org/abs/2302.03672v1)|null|
+|**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
+|**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
+|**2023-02-07**|**SDYN-GANs: Adversarial Learning Methods for Multistep Generative Models for General Order Stochastic Dynamics**|Panos Stinis et.al.|[2302.03663v1](http://arxiv.org/abs/2302.03663v1)|null|
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-06**|**Geometry of contact: contact planning for multi-legged robots via spin models duality**|Baxi Chong et.al.|[2302.03019v1](http://arxiv.org/abs/2302.03019v1)|null|
