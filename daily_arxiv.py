@@ -115,10 +115,6 @@ def get_daily_papers(topic, query="slam", max_results=2):
         if 'cs' not in primary_category:
             continue
 
-        if 'diffusion' in query:
-            if 'diffusion model' not in paper_abstract:
-                logging.info('Not used Paper title is: ' + paper_title)
-                continue
         # elif query not in paper_abstract:
         #     logging.info('Not used Paper title is: ' + paper_title)
         #     continue
