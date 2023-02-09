@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
+|**2023-02-08**|**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**|Shawn Shan et.al.|[2302.04222v1](http://arxiv.org/abs/2302.04222v1)|null|
+|**2023-02-08**|**Policy Evaluation in Decentralized POMDPs with Belief Sharing**|Mert Kayaalp et.al.|[2302.04151v1](http://arxiv.org/abs/2302.04151v1)|**[link](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)**|
+|**2023-02-08**|**Dimensional lattice Boltzmann method for transport phenomena simulation without conversion to lattice units**|Ivan Talão Martins et.al.|[2302.04120v1](http://arxiv.org/abs/2302.04120v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
 |**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
@@ -118,6 +122,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
+|**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
+|**2023-02-08**|**Federated Minimax Optimization with Client Heterogeneity**|Pranay Sharma et.al.|[2302.04249v1](http://arxiv.org/abs/2302.04249v1)|null|
+|**2023-02-08**|**Shortcut Detection with Variational Autoencoders**|Nicolas M. Müller et.al.|[2302.04246v1](http://arxiv.org/abs/2302.04246v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
 |**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
@@ -217,6 +225,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
+|**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
+|**2023-02-08**|**Federated Minimax Optimization with Client Heterogeneity**|Pranay Sharma et.al.|[2302.04249v1](http://arxiv.org/abs/2302.04249v1)|null|
+|**2023-02-08**|**Shortcut Detection with Variational Autoencoders**|Nicolas M. Müller et.al.|[2302.04246v1](http://arxiv.org/abs/2302.04246v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
 |**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
