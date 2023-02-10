@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models**|Wenliang Zhao et.al.|[2302.04867v1](http://arxiv.org/abs/2302.04867v1)|**[link](https://github.com/wl-zhao/unipc)**|
+|**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
+|**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|null|
+|**2023-02-09**|**Better Diffusion Models Further Improve Adversarial Training**|Zekai Wang et.al.|[2302.04638v1](http://arxiv.org/abs/2302.04638v1)|**[link](https://github.com/wzekai99/dm-improves-at)**|
+|**2023-02-09**|**Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**|Chumeng Liang et.al.|[2302.04578v1](http://arxiv.org/abs/2302.04578v1)|null|
 |**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
 |**2023-02-08**|**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**|Shawn Shan et.al.|[2302.04222v1](http://arxiv.org/abs/2302.04222v1)|null|
 |**2023-02-08**|**Policy Evaluation in Decentralized POMDPs with Belief Sharing**|Mert Kayaalp et.al.|[2302.04151v1](http://arxiv.org/abs/2302.04151v1)|**[link](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)**|
@@ -72,6 +77,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**Projection-free Online Exp-concave Optimization**|Dan Garber et.al.|[2302.04859v1](http://arxiv.org/abs/2302.04859v1)|null|
+|**2023-02-09**|**Locally consistent decomposition of strings with applications to edit distance sketching**|Sudatta Bhattacharya et.al.|[2302.04475v1](http://arxiv.org/abs/2302.04475v1)|null|
 |**2023-02-06**|**Sketching Robot Programs On the Fly**|David Porfirio et.al.|[2302.03088v1](http://arxiv.org/abs/2302.03088v1)|null|
 |**2023-02-05**|**Leaving Reality to Imagination: Robust Classification via Generated Datasets**|Hritik Bansal et.al.|[2302.02503v1](http://arxiv.org/abs/2302.02503v1)|**[link](https://github.com/hritikbansal/generative-robustness)**|
 |**2023-02-04**|**An Effective and Differentially Private Protocol for Secure Distributed Cardinality Estimation**|Pinghui Wang et.al.|[2302.02158v1](http://arxiv.org/abs/2302.02158v1)|null|
@@ -103,6 +110,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang et.al.|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
+|**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng et.al.|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|null|
 |**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang et.al.|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
 |**2023-01-30**|**Mono-STAR: Mono-camera Scene-level Tracking and Reconstruction**|Haonan Chang et.al.|[2301.13244v1](http://arxiv.org/abs/2301.13244v1)|**[link](https://github.com/changhaonan/mono-star-demo)**|
 |**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
@@ -126,6 +135,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
+|**2023-02-09**|**Polynomial Neural Fields for Subband Decomposition and Manipulation**|Guandao Yang et.al.|[2302.04862v1](http://arxiv.org/abs/2302.04862v1)|**[link](https://github.com/stevenygd/pnf)**|
+|**2023-02-09**|**Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning**|Zhuolin Yang et.al.|[2302.04858v1](http://arxiv.org/abs/2302.04858v1)|null|
+|**2023-02-09**|**One-shot Visual Imitation via Attributed Waypoints and Demonstration Augmentation**|Matthew Chang et.al.|[2302.04856v1](http://arxiv.org/abs/2302.04856v1)|null|
+|**2023-02-09**|**SparseProp: Efficient Sparse Backpropagation for Faster Training of Neural Networks**|Mahdi Nikdan et.al.|[2302.04852v1](http://arxiv.org/abs/2302.04852v1)|null|
+|**2023-02-09**|**Robot Synesthesia: A Sound and Emotion Guided AI Painter**|Vihaan Misra et.al.|[2302.04850v1](http://arxiv.org/abs/2302.04850v1)|null|
+|**2023-02-09**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843v1](http://arxiv.org/abs/2302.04843v1)|null|
+|**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|null|
 |**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
 |**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
 |**2023-02-08**|**Federated Minimax Optimization with Client Heterogeneity**|Pranay Sharma et.al.|[2302.04249v1](http://arxiv.org/abs/2302.04249v1)|null|
@@ -229,6 +246,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
+|**2023-02-09**|**Polynomial Neural Fields for Subband Decomposition and Manipulation**|Guandao Yang et.al.|[2302.04862v1](http://arxiv.org/abs/2302.04862v1)|**[link](https://github.com/stevenygd/pnf)**|
+|**2023-02-09**|**Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning**|Zhuolin Yang et.al.|[2302.04858v1](http://arxiv.org/abs/2302.04858v1)|null|
+|**2023-02-09**|**One-shot Visual Imitation via Attributed Waypoints and Demonstration Augmentation**|Matthew Chang et.al.|[2302.04856v1](http://arxiv.org/abs/2302.04856v1)|null|
+|**2023-02-09**|**SparseProp: Efficient Sparse Backpropagation for Faster Training of Neural Networks**|Mahdi Nikdan et.al.|[2302.04852v1](http://arxiv.org/abs/2302.04852v1)|null|
+|**2023-02-09**|**Robot Synesthesia: A Sound and Emotion Guided AI Painter**|Vihaan Misra et.al.|[2302.04850v1](http://arxiv.org/abs/2302.04850v1)|null|
+|**2023-02-09**|**Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**|Stevo Racković et.al.|[2302.04843v1](http://arxiv.org/abs/2302.04843v1)|null|
+|**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|null|
 |**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
 |**2023-02-08**|**Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration**|Chentian Jiang et.al.|[2302.04250v1](http://arxiv.org/abs/2302.04250v1)|null|
 |**2023-02-08**|**Federated Minimax Optimization with Client Heterogeneity**|Pranay Sharma et.al.|[2302.04249v1](http://arxiv.org/abs/2302.04249v1)|null|
