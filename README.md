@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
+|**2023-02-13**|**Preconditioned Score-based Generative Models**|Li Zhang et.al.|[2302.06504v1](http://arxiv.org/abs/2302.06504v1)|**[link](https://github.com/fudan-zvg/pds)**|
+|**2023-02-13**|**Technical Note: PDE-constrained Optimization Formulation for Tumor Growth Model Calibration**|Baoshan Liang et.al.|[2302.06445v1](http://arxiv.org/abs/2302.06445v1)|null|
+|**2023-02-13**|**ContrasInver: Voxel-wise Contrastive Semi-supervised Learning for Seismic Inversion**|Yimin Dou et.al.|[2302.06441v1](http://arxiv.org/abs/2302.06441v1)|null|
+|**2023-02-13**|**Interplay between advective, diffusive, and active barriers in Rayleigh-Bénard flow**|Nikolas Aksamit et.al.|[2302.06319v1](http://arxiv.org/abs/2302.06319v1)|null|
 |**2023-02-10**|**Example-Based Sampling with Diffusion Models**|Bastien Doignies et.al.|[2302.05116v1](http://arxiv.org/abs/2302.05116v1)|null|
 |**2023-02-09**|**UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models**|Wenliang Zhao et.al.|[2302.04867v1](http://arxiv.org/abs/2302.04867v1)|**[link](https://github.com/wl-zhao/unipc)**|
 |**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
@@ -74,6 +79,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**SkCoder: A Sketch-based Approach for Automatic Code Generation**|Jia Li et.al.|[2302.06144v1](http://arxiv.org/abs/2302.06144v1)|null|
+|**2023-02-13**|**Learning to Scale Temperature in Masked Self-Attention for Image Inpainting**|Xiang Zhou et.al.|[2302.06130v1](http://arxiv.org/abs/2302.06130v1)|null|
+|**2023-02-11**|**An Evaluation Algorithm for Datalog with Equality**|Martin E. Bidlingmaier et.al.|[2302.05792v1](http://arxiv.org/abs/2302.05792v1)|null|
+|**2023-02-11**|**Sketch Less Face Image Retrieval: A New Challenge**|Dawei Dai et.al.|[2302.05576v1](http://arxiv.org/abs/2302.05576v1)|**[link](https://github.com/ddw2aigroup2cqupt/slfir)**|
+|**2023-02-10**|**MaskSketch: Unpaired Structure-guided Masked Image Generation**|Dina Bashkirova et.al.|[2302.05496v1](http://arxiv.org/abs/2302.05496v1)|null|
 |**2023-02-10**|**Count-min sketch with variable number of hash functions: an experimental study**|Éric Fusy et.al.|[2302.05245v1](http://arxiv.org/abs/2302.05245v1)|null|
 |**2023-02-10**|**Fast Gumbel-Max Sketch and its Applications**|Yuanming Zhang et.al.|[2302.05176v1](http://arxiv.org/abs/2302.05176v1)|null|
 |**2023-02-09**|**Projection-free Online Exp-concave Optimization**|Dan Garber et.al.|[2302.04859v1](http://arxiv.org/abs/2302.04859v1)|null|
@@ -109,6 +119,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao et.al.|[2302.06091v1](http://arxiv.org/abs/2302.06091v1)|null|
+|**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang et.al.|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
 |**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng et.al.|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|**[link](https://github.com/hkust-aerial-robotics/predrecon)**|
 |**2023-02-07**|**S4R: Self-Supervised Semantic Scene Reconstruction from RGB-D Scans**|Junwen Huang et.al.|[2302.03640v1](http://arxiv.org/abs/2302.03640v1)|null|
@@ -134,6 +146,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
+|**2023-02-13**|**Generative Adversarial Equilibrium Solvers**|Denizalp Goktas et.al.|[2302.06607v1](http://arxiv.org/abs/2302.06607v1)|null|
+|**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|null|
+|**2023-02-13**|**FilFL: Accelerating Federated Learning via Client Filtering**|Fares Fourati et.al.|[2302.06599v1](http://arxiv.org/abs/2302.06599v1)|null|
+|**2023-02-13**|**The Impact of AI on Developer Productivity: Evidence from GitHub Copilot**|Sida Peng et.al.|[2302.06590v1](http://arxiv.org/abs/2302.06590v1)|null|
+|**2023-02-13**|**Improving Out-of-Distribution Generalization of Neural Rerankers with Contextualized Late Interaction**|Xinyu Zhang et.al.|[2302.06589v1](http://arxiv.org/abs/2302.06589v1)|null|
+|**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
+|**2023-02-13**|**AbLit: A Resource for Analyzing and Generating Abridged Versions of English Literature**|Melissa Roemmele et.al.|[2302.06579v1](http://arxiv.org/abs/2302.06579v1)|**[link](https://github.com/roemmele/ablit)**|
 |**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|null|
 |**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
 |**2023-02-09**|**Polynomial Neural Fields for Subband Decomposition and Manipulation**|Guandao Yang et.al.|[2302.04862v1](http://arxiv.org/abs/2302.04862v1)|**[link](https://github.com/stevenygd/pnf)**|
@@ -246,6 +266,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
+|**2023-02-13**|**Generative Adversarial Equilibrium Solvers**|Denizalp Goktas et.al.|[2302.06607v1](http://arxiv.org/abs/2302.06607v1)|null|
+|**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|null|
+|**2023-02-13**|**FilFL: Accelerating Federated Learning via Client Filtering**|Fares Fourati et.al.|[2302.06599v1](http://arxiv.org/abs/2302.06599v1)|null|
+|**2023-02-13**|**The Impact of AI on Developer Productivity: Evidence from GitHub Copilot**|Sida Peng et.al.|[2302.06590v1](http://arxiv.org/abs/2302.06590v1)|null|
+|**2023-02-13**|**Improving Out-of-Distribution Generalization of Neural Rerankers with Contextualized Late Interaction**|Xinyu Zhang et.al.|[2302.06589v1](http://arxiv.org/abs/2302.06589v1)|null|
+|**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
+|**2023-02-13**|**AbLit: A Resource for Analyzing and Generating Abridged Versions of English Literature**|Melissa Roemmele et.al.|[2302.06579v1](http://arxiv.org/abs/2302.06579v1)|**[link](https://github.com/roemmele/ablit)**|
 |**2023-02-10**|**Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features**|Annie S. Chen et.al.|[2302.05441v1](http://arxiv.org/abs/2302.05441v1)|null|
 |**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
 |**2023-02-09**|**Polynomial Neural Fields for Subband Decomposition and Manipulation**|Guandao Yang et.al.|[2302.04862v1](http://arxiv.org/abs/2302.04862v1)|**[link](https://github.com/stevenygd/pnf)**|
