@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions**|Raghav Singhal et.al.|[2302.07261v1](http://arxiv.org/abs/2302.07261v1)|null|
+|**2023-02-14**|**Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data**|Minshuo Chen et.al.|[2302.07194v1](http://arxiv.org/abs/2302.07194v1)|null|
+|**2023-02-14**|**Universal Guidance for Diffusion Models**|Arpit Bansal et.al.|[2302.07121v1](http://arxiv.org/abs/2302.07121v1)|**[link](https://github.com/arpitbansal297/universal-guided-diffusion)**|
+|**2023-02-14**|**Differential privacy diffusion auction of homogeneous items**|Fengjuan Jia et.al.|[2302.07072v1](http://arxiv.org/abs/2302.07072v1)|null|
+|**2023-02-14**|**Direct numerical simulations of the Taylor-Green Vortex interacting with a hydrogen diffusion flame: Reynolds number and non-unity Lewis number effects**|Yifan Xu et.al.|[2302.07006v1](http://arxiv.org/abs/2302.07006v1)|null|
 |**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
 |**2023-02-13**|**Preconditioned Score-based Generative Models**|Li Zhang et.al.|[2302.06504v1](http://arxiv.org/abs/2302.06504v1)|**[link](https://github.com/fudan-zvg/pds)**|
 |**2023-02-13**|**Technical Note: PDE-constrained Optimization Formulation for Tumor Growth Model Calibration**|Baoshan Liang et.al.|[2302.06445v1](http://arxiv.org/abs/2302.06445v1)|null|
@@ -83,6 +88,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model**|Yichen Peng et.al.|[2302.06908v1](http://arxiv.org/abs/2302.06908v1)|null|
+|**2023-02-14**|**Text-Guided Scene Sketch-to-Photo Synthesis**|AprilPyone MaungMaung et.al.|[2302.06883v1](http://arxiv.org/abs/2302.06883v1)|null|
+|**2023-02-14**|**Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation**|Yasheng Sun et.al.|[2302.06857v1](http://arxiv.org/abs/2302.06857v1)|null|
 |**2023-02-13**|**SkCoder: A Sketch-based Approach for Automatic Code Generation**|Jia Li et.al.|[2302.06144v1](http://arxiv.org/abs/2302.06144v1)|null|
 |**2023-02-13**|**Learning to Scale Temperature in Masked Self-Attention for Image Inpainting**|Xiang Zhou et.al.|[2302.06130v1](http://arxiv.org/abs/2302.06130v1)|null|
 |**2023-02-11**|**An Evaluation Algorithm for Datalog with Equality**|Martin E. Bidlingmaier et.al.|[2302.05792v1](http://arxiv.org/abs/2302.05792v1)|null|
@@ -123,7 +131,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-13**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao et.al.|[2302.06091v1](http://arxiv.org/abs/2302.06091v1)|null|
+|**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793v1](http://arxiv.org/abs/2302.06793v1)|null|
+|**2023-02-14**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao et.al.|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-09**|**3D reconstruction of spherical images: A review of techniques, applications, and prospects**|San Jiang et.al.|[2302.04495v1](http://arxiv.org/abs/2302.04495v1)|null|
 |**2023-02-09**|**PredRecon: A Prediction-boosted Planning Framework for Fast and High-quality Autonomous Aerial Reconstruction**|Chen Feng et.al.|[2302.04488v1](http://arxiv.org/abs/2302.04488v1)|**[link](https://github.com/hkust-aerial-robotics/predrecon)**|
@@ -150,6 +159,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions**|Raghav Singhal et.al.|[2302.07261v1](http://arxiv.org/abs/2302.07261v1)|null|
+|**2023-02-14**|**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**|Sheng Wang et.al.|[2302.07257v1](http://arxiv.org/abs/2302.07257v1)|null|
+|**2023-02-14**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|**[link](https://github.com/bhoov/energy-transformer-jax)**|
+|**2023-02-14**|**Generation Probabilities Are Not Enough: Exploring the Effectiveness of Uncertainty Highlighting in AI-Powered Code Completions**|Helena Vasconcelos et.al.|[2302.07248v1](http://arxiv.org/abs/2302.07248v1)|null|
+|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
+|**2023-02-14**|**Parker Solar Probe Observations of High Plasma Beta Solar Wind from Streamer Belt**|Jia Huang et.al.|[2302.07230v1](http://arxiv.org/abs/2302.07230v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-13**|**Generative Adversarial Equilibrium Solvers**|Denizalp Goktas et.al.|[2302.06607v1](http://arxiv.org/abs/2302.06607v1)|null|
 |**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|null|
@@ -270,6 +285,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions**|Raghav Singhal et.al.|[2302.07261v1](http://arxiv.org/abs/2302.07261v1)|null|
+|**2023-02-14**|**ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models**|Sheng Wang et.al.|[2302.07257v1](http://arxiv.org/abs/2302.07257v1)|null|
+|**2023-02-14**|**Energy Transformer**|Benjamin Hoover et.al.|[2302.07253v1](http://arxiv.org/abs/2302.07253v1)|**[link](https://github.com/bhoov/energy-transformer-jax)**|
+|**2023-02-14**|**Generation Probabilities Are Not Enough: Exploring the Effectiveness of Uncertainty Highlighting in AI-Powered Code Completions**|Helena Vasconcelos et.al.|[2302.07248v1](http://arxiv.org/abs/2302.07248v1)|null|
+|**2023-02-14**|**A Deep Probabilistic Spatiotemporal Framework for Dynamic Graph Representation Learning with Application to Brain Disorder Identification**|Junn Yong Loo et.al.|[2302.07243v1](http://arxiv.org/abs/2302.07243v1)|null|
+|**2023-02-14**|**Parker Solar Probe Observations of High Plasma Beta Solar Wind from Streamer Belt**|Jia Huang et.al.|[2302.07230v1](http://arxiv.org/abs/2302.07230v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-13**|**Generative Adversarial Equilibrium Solvers**|Denizalp Goktas et.al.|[2302.06607v1](http://arxiv.org/abs/2302.06607v1)|null|
 |**2023-02-13**|**Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation**|Yuanhao Wang et.al.|[2302.06606v1](http://arxiv.org/abs/2302.06606v1)|null|
