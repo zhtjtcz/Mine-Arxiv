@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
+|**2023-02-16**|**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models**|Chong Mou et.al.|[2302.08453v1](http://arxiv.org/abs/2302.08453v1)|**[link](https://github.com/tencentarc/t2i-adapter)**|
+|**2023-02-16**|**Explicit Diffusion of Gaussian Mixture Model Based Image Priors**|Martin Zach et.al.|[2302.08411v1](http://arxiv.org/abs/2302.08411v1)|null|
+|**2023-02-16**|**Boundary Guided Mixing Trajectory for Semantic Control with Diffusion Models**|Ye Zhu et.al.|[2302.08357v1](http://arxiv.org/abs/2302.08357v1)|null|
 |**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
 |**2023-02-15**|**Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**|Derui Zhu et.al.|[2302.07801v1](http://arxiv.org/abs/2302.07801v1)|null|
@@ -163,6 +167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
+|**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
+|**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
 |**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|null|
 |**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|null|
 |**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
@@ -295,6 +302,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
+|**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
+|**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
 |**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|null|
 |**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|null|
 |**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
