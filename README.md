@@ -24,7 +24,7 @@
 |**2023-02-16**|**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models**|Chong Mou et.al.|[2302.08453v1](http://arxiv.org/abs/2302.08453v1)|**[link](https://github.com/tencentarc/t2i-adapter)**|
 |**2023-02-16**|**Explicit Diffusion of Gaussian Mixture Model Based Image Priors**|Martin Zach et.al.|[2302.08411v1](http://arxiv.org/abs/2302.08411v1)|null|
 |**2023-02-16**|**Boundary Guided Mixing Trajectory for Semantic Control with Diffusion Models**|Ye Zhu et.al.|[2302.08357v1](http://arxiv.org/abs/2302.08357v1)|null|
-|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
+|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|**[link](https://github.com/madrylab/dataset-interfaces)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
 |**2023-02-15**|**Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**|Derui Zhu et.al.|[2302.07801v1](http://arxiv.org/abs/2302.07801v1)|null|
 |**2023-02-15**|**Video Probabilistic Diffusion Models in Projected Latent Space**|Sihyun Yu et.al.|[2302.07685v1](http://arxiv.org/abs/2302.07685v1)|null|
@@ -166,9 +166,9 @@
 |**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
 |**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
 |**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
-|**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|null|
+|**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|**[link](https://github.com/hubiodatalab/druggen)**|
 |**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|null|
-|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
+|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|**[link](https://github.com/madrylab/dataset-interfaces)**|
 |**2023-02-15**|**Big Little Transformer Decoder**|Sehoon Kim et.al.|[2302.07863v1](http://arxiv.org/abs/2302.07863v1)|null|
 |**2023-02-15**|**One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2**|Trevine Oorloff et.al.|[2302.07848v1](http://arxiv.org/abs/2302.07848v1)|null|
 |**2023-02-15**|**NL2CMD: An Updated Workflow for Natural Language to Bash Commands Translation**|Quchen Fu et.al.|[2302.07845v1](http://arxiv.org/abs/2302.07845v1)|null|
@@ -201,7 +201,7 @@
 |**2023-02-08**|**Shortcut Detection with Variational Autoencoders**|Nicolas M. Müller et.al.|[2302.04246v1](http://arxiv.org/abs/2302.04246v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
-|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
+|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|**[link](https://github.com/SALT-NLP/GEP_data)**|
 |**2023-02-07**|**Proportionality in Approval-Based Participatory Budgeting**|Markus Brill et.al.|[2302.03672v1](http://arxiv.org/abs/2302.03672v1)|null|
 |**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
 |**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
@@ -259,7 +259,7 @@
 |**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
 |**2023-01-25**|**Generating large-scale network analyses of scientific landscapes in seconds using Dimensions on Google BigQuery**|Michele Pasin et.al.|[2301.10736v1](http://arxiv.org/abs/2301.10736v1)|null|
 |**2023-01-25**|**The Synchronic Web**|Thien-Nam Dinh et.al.|[2301.10733v1](http://arxiv.org/abs/2301.10733v1)|null|
-|**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
+|**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|**[link](https://github.com/jwkirchenbauer/lm-watermarking)**|
 |**2023-01-24**|**Evolution of cooperation under a generalized death-birth process**|Chaoqian Wang et.al.|[2301.10205v1](http://arxiv.org/abs/2301.10205v1)|null|
 |**2023-01-24**|**A general epidemic model and its application to mask design considering different preferences towards masks**|Chaoqian Wang et.al.|[2301.10202v1](http://arxiv.org/abs/2301.10202v1)|null|
 |**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|null|
@@ -301,9 +301,9 @@
 |**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
 |**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
 |**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
-|**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|null|
+|**2023-02-15**|**Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks**|Atabey Ünlü et.al.|[2302.07868v1](http://arxiv.org/abs/2302.07868v1)|**[link](https://github.com/hubiodatalab/druggen)**|
 |**2023-02-15**|**Learning Performance-Improving Code Edits**|Aman Madaan et.al.|[2302.07867v1](http://arxiv.org/abs/2302.07867v1)|null|
-|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|null|
+|**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|**[link](https://github.com/madrylab/dataset-interfaces)**|
 |**2023-02-15**|**Big Little Transformer Decoder**|Sehoon Kim et.al.|[2302.07863v1](http://arxiv.org/abs/2302.07863v1)|null|
 |**2023-02-15**|**One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2**|Trevine Oorloff et.al.|[2302.07848v1](http://arxiv.org/abs/2302.07848v1)|null|
 |**2023-02-15**|**NL2CMD: An Updated Workflow for Natural Language to Bash Commands Translation**|Quchen Fu et.al.|[2302.07845v1](http://arxiv.org/abs/2302.07845v1)|null|
@@ -336,7 +336,7 @@
 |**2023-02-08**|**Shortcut Detection with Variational Autoencoders**|Nicolas M. Müller et.al.|[2302.04246v1](http://arxiv.org/abs/2302.04246v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Linear Partial Monitoring for Sequential Decision-Making: Algorithms, Regret Bounds and Applications**|Johannes Kirschner et.al.|[2302.03683v1](http://arxiv.org/abs/2302.03683v1)|null|
-|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|null|
+|**2023-02-07**|**Auditing Gender Presentation Differences in Text-to-Image Models**|Yanzhe Zhang et.al.|[2302.03675v1](http://arxiv.org/abs/2302.03675v1)|**[link](https://github.com/SALT-NLP/GEP_data)**|
 |**2023-02-07**|**Proportionality in Approval-Based Participatory Budgeting**|Markus Brill et.al.|[2302.03672v1](http://arxiv.org/abs/2302.03672v1)|null|
 |**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
 |**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
@@ -394,7 +394,7 @@
 |**2023-01-25**|**Room-Temperature Sputtered Ultralow-loss Silicon Nitride for Hybrid Photonic Integration**|Shuangyou Zhang et.al.|[2301.10758v1](http://arxiv.org/abs/2301.10758v1)|null|
 |**2023-01-25**|**Generating large-scale network analyses of scientific landscapes in seconds using Dimensions on Google BigQuery**|Michele Pasin et.al.|[2301.10736v1](http://arxiv.org/abs/2301.10736v1)|null|
 |**2023-01-25**|**The Synchronic Web**|Thien-Nam Dinh et.al.|[2301.10733v1](http://arxiv.org/abs/2301.10733v1)|null|
-|**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|null|
+|**2023-01-24**|**A Watermark for Large Language Models**|John Kirchenbauer et.al.|[2301.10226v1](http://arxiv.org/abs/2301.10226v1)|**[link](https://github.com/jwkirchenbauer/lm-watermarking)**|
 |**2023-01-24**|**Evolution of cooperation under a generalized death-birth process**|Chaoqian Wang et.al.|[2301.10205v1](http://arxiv.org/abs/2301.10205v1)|null|
 |**2023-01-24**|**A general epidemic model and its application to mask design considering different preferences towards masks**|Chaoqian Wang et.al.|[2301.10202v1](http://arxiv.org/abs/2301.10202v1)|null|
 |**2023-01-23**|**InfiniCity: Infinite-Scale City Synthesis**|Chieh Hubert Lin et.al.|[2301.09637v1](http://arxiv.org/abs/2301.09637v1)|null|
