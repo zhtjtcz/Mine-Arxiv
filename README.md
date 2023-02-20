@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
+|**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
+|**2023-02-17**|**LDFA: Latent Diffusion Face Anonymization for Self-driving Applications**|Marvin Klemp et.al.|[2302.08931v1](http://arxiv.org/abs/2302.08931v1)|null|
+|**2023-02-17**|**Multi-unit Auction over a Social Network**|Yuan Fang et.al.|[2302.08924v1](http://arxiv.org/abs/2302.08924v1)|null|
+|**2023-02-17**|**Unraveling the Variations of the Society of England and Wales through Diffusion Maps Analysis on Census 2011**|Gezhi Xiu et.al.|[2302.08701v1](http://arxiv.org/abs/2302.08701v1)|null|
 |**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
 |**2023-02-16**|**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models**|Chong Mou et.al.|[2302.08453v1](http://arxiv.org/abs/2302.08453v1)|**[link](https://github.com/tencentarc/t2i-adapter)**|
 |**2023-02-16**|**Explicit Diffusion of Gaussian Mixture Model Based Image Priors**|Martin Zach et.al.|[2302.08411v1](http://arxiv.org/abs/2302.08411v1)|null|
@@ -163,6 +168,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
+|**2023-02-17**|**Geometric description of clustering in directed networks**|Antoine Allard et.al.|[2302.09055v1](http://arxiv.org/abs/2302.09055v1)|null|
+|**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
+|**2023-02-17**|**From User Perceptions to Technical Improvement: Enabling People Who Stuter to Beter Use Speech Recognition**|Colin Lea et.al.|[2302.09044v1](http://arxiv.org/abs/2302.09044v1)|null|
+|**2023-02-17**|**Privately Customizing Prefinetuning to Better Match User Data in Federated Learning**|Charlie Hou et.al.|[2302.09042v1](http://arxiv.org/abs/2302.09042v1)|null|
 |**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
 |**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
 |**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
@@ -298,6 +308,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
+|**2023-02-17**|**Geometric description of clustering in directed networks**|Antoine Allard et.al.|[2302.09055v1](http://arxiv.org/abs/2302.09055v1)|null|
+|**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
+|**2023-02-17**|**From User Perceptions to Technical Improvement: Enabling People Who Stuter to Beter Use Speech Recognition**|Colin Lea et.al.|[2302.09044v1](http://arxiv.org/abs/2302.09044v1)|null|
+|**2023-02-17**|**Privately Customizing Prefinetuning to Better Match User Data in Federated Learning**|Charlie Hou et.al.|[2302.09042v1](http://arxiv.org/abs/2302.09042v1)|null|
 |**2023-02-16**|**Text-driven Visual Synthesis with Latent Diffusion Prior**|Ting-Hsuan Liao et.al.|[2302.08510v1](http://arxiv.org/abs/2302.08510v1)|null|
 |**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
 |**2023-02-16**|**The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation**|Georgy Noarov et.al.|[2302.08507v1](http://arxiv.org/abs/2302.08507v1)|null|
