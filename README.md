@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
+|**2023-02-20**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[2302.10167v1](http://arxiv.org/abs/2302.10167v1)|**[link](https://github.com/cross-domain-compositing/cross-domain-compositing)**|
+|**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
+|**2023-02-20**|**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**|Jiasheng Ye et.al.|[2302.10025v1](http://arxiv.org/abs/2302.10025v1)|null|
 |**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
 |**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
 |**2023-02-17**|**LDFA: Latent Diffusion Face Anonymization for Self-driving Applications**|Marvin Klemp et.al.|[2302.08931v1](http://arxiv.org/abs/2302.08931v1)|null|
@@ -97,6 +101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Ontology-aware Network for Zero-shot Sketch-based Image Retrieval**|Haoxiang Zhang et.al.|[2302.10040v1](http://arxiv.org/abs/2302.10040v1)|null|
+|**2023-02-20**|**Composer: Creative and Controllable Image Synthesis with Composable Conditions**|Lianghua Huang et.al.|[2302.09778v1](http://arxiv.org/abs/2302.09778v1)|null|
+|**2023-02-16**|**Rejecting Cognitivism: Computational Phenomenology for Deep Learning**|Pierre Beckmann et.al.|[2302.09071v1](http://arxiv.org/abs/2302.09071v1)|null|
 |**2023-02-14**|**DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model**|Yichen Peng et.al.|[2302.06908v1](http://arxiv.org/abs/2302.06908v1)|null|
 |**2023-02-14**|**Text-Guided Scene Sketch-to-Photo Synthesis**|AprilPyone MaungMaung et.al.|[2302.06883v1](http://arxiv.org/abs/2302.06883v1)|null|
 |**2023-02-14**|**Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation**|Yasheng Sun et.al.|[2302.06857v1](http://arxiv.org/abs/2302.06857v1)|null|
@@ -140,6 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**UAVStereo: A Multiple Resolution Dataset for Stereo Matching in UAV Scenarios**|Zhang Xiaoyi et.al.|[2302.10082v1](http://arxiv.org/abs/2302.10082v1)|null|
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793v1](http://arxiv.org/abs/2302.06793v1)|null|
 |**2023-02-14**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao et.al.|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
@@ -168,6 +176,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
+|**2023-02-20**|**Identity-Based Attribute Prototypes Distinguish Communities on Twitter**|Thomas Magelinski et.al.|[2302.10172v1](http://arxiv.org/abs/2302.10172v1)|null|
+|**2023-02-20**|**Compressed Error HARQ: Feedback Communication on Noise-Asymmetric Channels**|Sravan Kumar Ankireddy et.al.|[2302.10170v1](http://arxiv.org/abs/2302.10170v1)|null|
+|**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v1](http://arxiv.org/abs/2302.10166v1)|null|
+|**2023-02-20**|**Sparse PCA Beyond Covariance Thresholding**|Gleb Novikov et.al.|[2302.10158v1](http://arxiv.org/abs/2302.10158v1)|null|
 |**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
 |**2023-02-17**|**Geometric description of clustering in directed networks**|Antoine Allard et.al.|[2302.09055v1](http://arxiv.org/abs/2302.09055v1)|null|
 |**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
@@ -308,6 +321,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
+|**2023-02-20**|**Identity-Based Attribute Prototypes Distinguish Communities on Twitter**|Thomas Magelinski et.al.|[2302.10172v1](http://arxiv.org/abs/2302.10172v1)|null|
+|**2023-02-20**|**Compressed Error HARQ: Feedback Communication on Noise-Asymmetric Channels**|Sravan Kumar Ankireddy et.al.|[2302.10170v1](http://arxiv.org/abs/2302.10170v1)|null|
+|**2023-02-20**|**Learning Deep Semantics for Test Completion**|Pengyu Nie et.al.|[2302.10166v1](http://arxiv.org/abs/2302.10166v1)|null|
+|**2023-02-20**|**Sparse PCA Beyond Covariance Thresholding**|Gleb Novikov et.al.|[2302.10158v1](http://arxiv.org/abs/2302.10158v1)|null|
 |**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
 |**2023-02-17**|**Geometric description of clustering in directed networks**|Antoine Allard et.al.|[2302.09055v1](http://arxiv.org/abs/2302.09055v1)|null|
 |**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
