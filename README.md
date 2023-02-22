@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-21**|**Provable Copyright Protection for Generative Models**|Nikhil Vyas et.al.|[2302.10870v1](http://arxiv.org/abs/2302.10870v1)|null|
+|**2023-02-21**|**Learning 3D Photography Videos via Self-supervised Diffusion on Single Images**|Xiaodong Wang et.al.|[2302.10781v1](http://arxiv.org/abs/2302.10781v1)|null|
+|**2023-02-21**|**On Calibrating Diffusion Probabilistic Models**|Tianyu Pang et.al.|[2302.10688v1](http://arxiv.org/abs/2302.10688v1)|**[link](https://github.com/thudzj/calibrated-dpms)**|
+|**2023-02-21**|**$PC^2$ : Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
+|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v1](http://arxiv.org/abs/2302.10663v1)|null|
+|**2023-02-21**|**Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels**|Zebin You et.al.|[2302.10586v1](http://arxiv.org/abs/2302.10586v1)|null|
 |**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
 |**2023-02-20**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[2302.10167v1](http://arxiv.org/abs/2302.10167v1)|**[link](https://github.com/cross-domain-compositing/cross-domain-compositing)**|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
@@ -147,6 +153,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-21**|**$PC^2$ : Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v1](http://arxiv.org/abs/2302.10668v1)|null|
+|**2023-02-21**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v1](http://arxiv.org/abs/2302.10663v1)|null|
 |**2023-02-20**|**UAVStereo: A Multiple Resolution Dataset for Stereo Matching in UAV Scenarios**|Zhang Xiaoyi et.al.|[2302.10082v1](http://arxiv.org/abs/2302.10082v1)|null|
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793v1](http://arxiv.org/abs/2302.06793v1)|null|
 |**2023-02-14**|**Boosted ab initio Cryo-EM 3D Reconstruction with ACE-EM**|Lin Yao et.al.|[2302.06091v2](http://arxiv.org/abs/2302.06091v2)|null|
@@ -176,6 +184,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-21**|**Some Fundamental Aspects about Lipschitz Continuity of Neural Network Functions**|Grigory Khromov et.al.|[2302.10886v1](http://arxiv.org/abs/2302.10886v1)|null|
+|**2023-02-21**|**Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction**|Pei Xu et.al.|[2302.10873v1](http://arxiv.org/abs/2302.10873v1)|null|
+|**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|null|
+|**2023-02-21**|**Provable Copyright Protection for Generative Models**|Nikhil Vyas et.al.|[2302.10870v1](http://arxiv.org/abs/2302.10870v1)|null|
+|**2023-02-21**|**A Unifying Perspective on Multi-Calibration: Unleashing Game Dynamics for Multi-Objective Learning**|Nika Haghtalab et.al.|[2302.10863v1](http://arxiv.org/abs/2302.10863v1)|null|
 |**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
 |**2023-02-20**|**Identity-Based Attribute Prototypes Distinguish Communities on Twitter**|Thomas Magelinski et.al.|[2302.10172v1](http://arxiv.org/abs/2302.10172v1)|null|
 |**2023-02-20**|**Compressed Error HARQ: Feedback Communication on Noise-Asymmetric Channels**|Sravan Kumar Ankireddy et.al.|[2302.10170v1](http://arxiv.org/abs/2302.10170v1)|null|
@@ -321,6 +334,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-21**|**Some Fundamental Aspects about Lipschitz Continuity of Neural Network Functions**|Grigory Khromov et.al.|[2302.10886v1](http://arxiv.org/abs/2302.10886v1)|null|
+|**2023-02-21**|**Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction**|Pei Xu et.al.|[2302.10873v1](http://arxiv.org/abs/2302.10873v1)|null|
+|**2023-02-21**|**Efficient CTC Regularization via Coarse Labels for End-to-End Speech Translation**|Biao Zhang et.al.|[2302.10871v1](http://arxiv.org/abs/2302.10871v1)|null|
+|**2023-02-21**|**Provable Copyright Protection for Generative Models**|Nikhil Vyas et.al.|[2302.10870v1](http://arxiv.org/abs/2302.10870v1)|null|
+|**2023-02-21**|**A Unifying Perspective on Multi-Calibration: Unleashing Game Dynamics for Multi-Objective Learning**|Nika Haghtalab et.al.|[2302.10863v1](http://arxiv.org/abs/2302.10863v1)|null|
 |**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
 |**2023-02-20**|**Identity-Based Attribute Prototypes Distinguish Communities on Twitter**|Thomas Magelinski et.al.|[2302.10172v1](http://arxiv.org/abs/2302.10172v1)|null|
 |**2023-02-20**|**Compressed Error HARQ: Feedback Communication on Noise-Asymmetric Channels**|Sravan Kumar Ankireddy et.al.|[2302.10170v1](http://arxiv.org/abs/2302.10170v1)|null|
