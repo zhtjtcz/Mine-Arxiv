@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**|Cusuh Ham et.al.|[2302.12764v1](http://arxiv.org/abs/2302.12764v1)|null|
+|**2023-02-24**|**Physical interactions promote Turing patterns**|Lucas Menou et.al.|[2302.12521v1](http://arxiv.org/abs/2302.12521v1)|null|
+|**2023-02-24**|**Flow instability and momentum exchange in separation control by a synthetic jet**|Yoshiaki Abe et.al.|[2302.12496v1](http://arxiv.org/abs/2302.12496v1)|null|
+|**2023-02-24**|**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models**|Yong-Hyun Park et.al.|[2302.12469v1](http://arxiv.org/abs/2302.12469v1)|null|
 |**2023-02-23**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v1](http://arxiv.org/abs/2302.12244v1)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-23**|**Designing an Encoder for Fast Personalization of Text-to-Image Models**|Rinon Gal et.al.|[2302.12228v1](http://arxiv.org/abs/2302.12228v1)|null|
@@ -121,8 +125,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**|Cusuh Ham et.al.|[2302.12764v1](http://arxiv.org/abs/2302.12764v1)|null|
 |**2023-02-23**|**Using Colors and Sketches to Count Subgraphs in a Streaming Graph**|Shirin Handjani et.al.|[2302.12210v1](http://arxiv.org/abs/2302.12210v1)|null|
-|**2023-02-23**|**A Scalable Space-efficient In-database Interpretability Framework for Embedding-based Semantic SQL Queries**|Prabhakar Kudva et.al.|[2302.12178v1](http://arxiv.org/abs/2302.12178v1)|null|
+|**2023-02-24**|**A Scalable Space-efficient In-database Interpretability Framework for Embedding-based Semantic SQL Queries**|Prabhakar Kudva et.al.|[2302.12178v2](http://arxiv.org/abs/2302.12178v2)|null|
 |**2023-02-22**|**A Reference Architecture for Observability and Compliance of Cloud Native Applications**|William Pourmajidi et.al.|[2302.11617v1](http://arxiv.org/abs/2302.11617v1)|null|
 |**2023-02-20**|**Ontology-aware Network for Zero-shot Sketch-based Image Retrieval**|Haoxiang Zhang et.al.|[2302.10040v1](http://arxiv.org/abs/2302.10040v1)|null|
 |**2023-02-22**|**Composer: Creative and Controllable Image Synthesis with Composable Conditions**|Lianghua Huang et.al.|[2302.09778v2](http://arxiv.org/abs/2302.09778v2)|**[link](https://github.com/damo-vilab/composer)**|
@@ -202,6 +207,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries**|Ahmed Imtiaz Humayun et.al.|[2302.12828v1](http://arxiv.org/abs/2302.12828v1)|null|
+|**2023-02-24**|**Generative Models of Huge Objects**|Lunjia Hu et.al.|[2302.12823v1](http://arxiv.org/abs/2302.12823v1)|null|
+|**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
+|**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
 |**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|**[link](https://github.com/yyzharry/subpopbench)**|
 |**2023-02-23**|**Boosting Adversarial Transferability using Dynamic Cues**|Muzammal Naseer et.al.|[2302.12252v1](http://arxiv.org/abs/2302.12252v1)|null|
 |**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|**[link](https://github.com/nvlabs/voxformer)**|
@@ -366,6 +376,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries**|Ahmed Imtiaz Humayun et.al.|[2302.12828v1](http://arxiv.org/abs/2302.12828v1)|null|
+|**2023-02-24**|**Generative Models of Huge Objects**|Lunjia Hu et.al.|[2302.12823v1](http://arxiv.org/abs/2302.12823v1)|null|
+|**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v1](http://arxiv.org/abs/2302.12814v1)|null|
+|**2023-02-24**|**Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback**|Baolin Peng et.al.|[2302.12813v1](http://arxiv.org/abs/2302.12813v1)|null|
 |**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|**[link](https://github.com/yyzharry/subpopbench)**|
 |**2023-02-23**|**Boosting Adversarial Transferability using Dynamic Cues**|Muzammal Naseer et.al.|[2302.12252v1](http://arxiv.org/abs/2302.12252v1)|null|
 |**2023-02-23**|**VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion**|Yiming Li et.al.|[2302.12251v1](http://arxiv.org/abs/2302.12251v1)|**[link](https://github.com/nvlabs/voxformer)**|
