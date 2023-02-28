@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Buoyancy-driven attraction of active droplets**|Yibo Chen et.al.|[2302.14008v1](http://arxiv.org/abs/2302.14008v1)|null|
+|**2023-02-27**|**Impact of reconstruction schemes on interpreting lattice Boltzmann results -- A study using the Taylor-Green vortex problem**|Jianping Meng et.al.|[2302.13910v1](http://arxiv.org/abs/2302.13910v1)|null|
+|**2023-02-27**|**Differentially Private Diffusion Models Generate Useful Synthetic Images**|Sahra Ghalebikesabi et.al.|[2302.13861v1](http://arxiv.org/abs/2302.13861v1)|null|
+|**2023-02-27**|**Denoising Diffusion Samplers**|Francisco Vargas et.al.|[2302.13834v1](http://arxiv.org/abs/2302.13834v1)|null|
 |**2023-02-24**|**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**|Cusuh Ham et.al.|[2302.12764v1](http://arxiv.org/abs/2302.12764v1)|null|
 |**2023-02-24**|**Physical interactions promote Turing patterns**|Lucas Menou et.al.|[2302.12521v1](http://arxiv.org/abs/2302.12521v1)|null|
 |**2023-02-24**|**Flow instability and momentum exchange in separation control by a synthetic jet**|Yoshiaki Abe et.al.|[2302.12496v1](http://arxiv.org/abs/2302.12496v1)|null|
@@ -125,6 +129,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)**|Jason Zhijingcheng Yu et.al.|[2302.13863v1](http://arxiv.org/abs/2302.13863v1)|null|
+|**2023-02-27**|**Evaluation of Automatically Constructed Word Meaning Explanations**|Marie Stará et.al.|[2302.13625v1](http://arxiv.org/abs/2302.13625v1)|null|
+|**2023-02-26**|**Scalable Weight Reparametrization for Efficient Transfer Learning**|Byeonggeun Kim et.al.|[2302.13435v1](http://arxiv.org/abs/2302.13435v1)|null|
 |**2023-02-24**|**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**|Cusuh Ham et.al.|[2302.12764v1](http://arxiv.org/abs/2302.12764v1)|null|
 |**2023-02-23**|**Using Colors and Sketches to Count Subgraphs in a Streaming Graph**|Shirin Handjani et.al.|[2302.12210v1](http://arxiv.org/abs/2302.12210v1)|null|
 |**2023-02-24**|**A Scalable Space-efficient In-database Interpretability Framework for Embedding-based Semantic SQL Queries**|Prabhakar Kudva et.al.|[2302.12178v2](http://arxiv.org/abs/2302.12178v2)|null|
@@ -175,6 +182,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction**|Zhenwei Zhu et.al.|[2302.13987v1](http://arxiv.org/abs/2302.13987v1)|null|
+|**2023-02-26**|**Perceiving Unseen 3D Objects by Poking the Objects**|Linghao Chen et.al.|[2302.13375v1](http://arxiv.org/abs/2302.13375v1)|null|
+|**2023-02-25**|**SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**|Jiawei Hou et.al.|[2302.12966v1](http://arxiv.org/abs/2302.12966v1)|null|
+|**2023-02-24**|**3D Surface Reconstruction in the Wild by Deforming Shape Priors from Synthetic Data**|Nicolai Häni et.al.|[2302.12883v1](http://arxiv.org/abs/2302.12883v1)|null|
 |**2023-02-23**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan et.al.|[2302.11301v2](http://arxiv.org/abs/2302.11301v2)|null|
 |**2023-02-23**|**$PC^2$ : Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction**|Luke Melas-Kyriazi et.al.|[2302.10668v2](http://arxiv.org/abs/2302.10668v2)|null|
 |**2023-02-23**|**RealFusion: 360° Reconstruction of Any Object from a Single Image**|Luke Melas-Kyriazi et.al.|[2302.10663v2](http://arxiv.org/abs/2302.10663v2)|null|
@@ -207,6 +218,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Internet Explorer: Targeted Representation Learning on the Open Web**|Alexander C. Li et.al.|[2302.14051v1](http://arxiv.org/abs/2302.14051v1)|**[link](https://github.com/internet-explorer-ssl/internet-explorer)**|
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Permutation Equivariant Neural Functionals**|Allan Zhou et.al.|[2302.14040v1](http://arxiv.org/abs/2302.14040v1)|null|
+|**2023-02-27**|**Measurement of Orbital Angular Momentum of Light using Stokes Parameters and Barnett's Formalism**|Anirban Debnath et.al.|[2302.14025v1](http://arxiv.org/abs/2302.14025v1)|null|
+|**2023-02-27**|**Diacritic Recognition Performance in Arabic ASR**|Hanan Aldarmaki et.al.|[2302.14022v1](http://arxiv.org/abs/2302.14022v1)|null|
+|**2023-02-27**|**Full Stack Optimization of Transformer Inference: a Survey**|Sehoon Kim et.al.|[2302.14017v1](http://arxiv.org/abs/2302.14017v1)|null|
 |**2023-02-24**|**SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries**|Ahmed Imtiaz Humayun et.al.|[2302.12828v1](http://arxiv.org/abs/2302.12828v1)|**[link](https://github.com/ahmedimtiazprio/splinecam)**|
 |**2023-02-24**|**Generative Models of Huge Objects**|Lunjia Hu et.al.|[2302.12823v1](http://arxiv.org/abs/2302.12823v1)|null|
 |**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
@@ -376,6 +393,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**Internet Explorer: Targeted Representation Learning on the Open Web**|Alexander C. Li et.al.|[2302.14051v1](http://arxiv.org/abs/2302.14051v1)|**[link](https://github.com/internet-explorer-ssl/internet-explorer)**|
+|**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
+|**2023-02-27**|**Permutation Equivariant Neural Functionals**|Allan Zhou et.al.|[2302.14040v1](http://arxiv.org/abs/2302.14040v1)|null|
+|**2023-02-27**|**Measurement of Orbital Angular Momentum of Light using Stokes Parameters and Barnett's Formalism**|Anirban Debnath et.al.|[2302.14025v1](http://arxiv.org/abs/2302.14025v1)|null|
+|**2023-02-27**|**Diacritic Recognition Performance in Arabic ASR**|Hanan Aldarmaki et.al.|[2302.14022v1](http://arxiv.org/abs/2302.14022v1)|null|
+|**2023-02-27**|**Full Stack Optimization of Transformer Inference: a Survey**|Sehoon Kim et.al.|[2302.14017v1](http://arxiv.org/abs/2302.14017v1)|null|
 |**2023-02-24**|**SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries**|Ahmed Imtiaz Humayun et.al.|[2302.12828v1](http://arxiv.org/abs/2302.12828v1)|**[link](https://github.com/ahmedimtiazprio/splinecam)**|
 |**2023-02-24**|**Generative Models of Huge Objects**|Lunjia Hu et.al.|[2302.12823v1](http://arxiv.org/abs/2302.12823v1)|null|
 |**2023-02-24**|**Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data**|KaShun Shum et.al.|[2302.12822v1](http://arxiv.org/abs/2302.12822v1)|null|
