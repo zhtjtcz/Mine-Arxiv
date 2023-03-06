@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Unleashing Text-to-Image Diffusion Models for Visual Perception**|Wenliang Zhao et.al.|[2303.02153v1](http://arxiv.org/abs/2303.02153v1)|**[link](https://github.com/wl-zhao/VPD)**|
+|**2023-03-03**|**Multi-Agent Adversarial Training Using Diffusion Learning**|Ying Cao et.al.|[2303.01936v1](http://arxiv.org/abs/2303.01936v1)|null|
+|**2023-03-03**|**CONTAIN: A Community-based Algorithm for Network Immunization**|Özgur Coban et.al.|[2303.01934v1](http://arxiv.org/abs/2303.01934v1)|**[link](https://github.com/ds4ai-upb/contain)**|
 |**2023-03-02**|**Consistency Models**|Yang Song et.al.|[2303.01469v1](http://arxiv.org/abs/2303.01469v1)|null|
 |**2023-03-02**|**Human Motion Diffusion as a Generative Prior**|Yonatan Shafir et.al.|[2303.01418v1](http://arxiv.org/abs/2303.01418v1)|**[link](https://github.com/priormdm/priormdm)**|
 |**2023-03-02**|**Why (and When) does Local SGD Generalize Better than SGD?**|Xinran Gu et.al.|[2303.01215v1](http://arxiv.org/abs/2303.01215v1)|**[link](https://github.com/hmgxr128/local-sgd)**|
@@ -140,6 +143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Graph-based Extreme Feature Selection for Multi-class Classification Tasks**|Shir Friedman et.al.|[2303.01792v1](http://arxiv.org/abs/2303.01792v1)|null|
 |**2023-03-02**|**Coresets for Clustering in Geometric Intersection Graphs**|Sayan Bandyapadhyay et.al.|[2303.01400v1](http://arxiv.org/abs/2303.01400v1)|null|
 |**2023-03-01**|**Sketch2Cloth: Sketch-based 3D Garment Generation with Unsigned Distance Fields**|Yi He et.al.|[2303.00167v1](http://arxiv.org/abs/2303.00167v1)|null|
 |**2023-02-26**|**Towards Human-Bot Collaborative Software Architecting with ChatGPT**|Aakash Ahmad et.al.|[2302.14600v1](http://arxiv.org/abs/2302.14600v1)|**[link](https://github.com/shamimaaktar1/chatgpt4sa)**|
@@ -197,6 +201,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
+|**2023-03-03**|**MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices**|Kejie Li et.al.|[2303.01932v1](http://arxiv.org/abs/2303.01932v1)|null|
 |**2023-03-01**|**Motion Compensation via Epipolar Consistency for In-Vivo X-Ray Microscopy**|Mareike Thies et.al.|[2303.00449v1](http://arxiv.org/abs/2303.00449v1)|null|
 |**2023-02-28**|**3D Coronary Vessel Reconstruction from Bi-Plane Angiography using Graph Convolutional Networks**|Kit Mills Bransby et.al.|[2302.14795v1](http://arxiv.org/abs/2302.14795v1)|null|
 |**2023-02-28**|**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**|Ji Hou et.al.|[2302.14746v1](http://arxiv.org/abs/2302.14746v1)|null|
@@ -236,6 +242,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Unleashing Text-to-Image Diffusion Models for Visual Perception**|Wenliang Zhao et.al.|[2303.02153v1](http://arxiv.org/abs/2303.02153v1)|**[link](https://github.com/wl-zhao/VPD)**|
+|**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|**[link](https://github.com/zrrskywalker/cafo)**|
+|**2023-03-03**|**Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!**|Shiwei Liu et.al.|[2303.02141v1](http://arxiv.org/abs/2303.02141v1)|**[link](https://github.com/vita-group/smc-bench)**|
+|**2023-03-03**|**Eventual Discounting Temporal Logic Counterfactual Experience Replay**|Cameron Voloshin et.al.|[2303.02135v1](http://arxiv.org/abs/2303.02135v1)|null|
 |**2023-03-02**|**Dropout Reduces Underfitting**|Zhuang Liu et.al.|[2303.01500v1](http://arxiv.org/abs/2303.01500v1)|**[link](https://github.com/facebookresearch/dropout)**|
 |**2023-03-02**|**Predicting Motion Plans for Articulating Everyday Objects**|Arjun Gupta et.al.|[2303.01484v1](http://arxiv.org/abs/2303.01484v1)|null|
 |**2023-03-02**|**Faster exact and approximation algorithms for packing and covering matroids via push-relabel**|Kent Quanrud et.al.|[2303.01478v1](http://arxiv.org/abs/2303.01478v1)|null|
@@ -420,6 +430,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Unleashing Text-to-Image Diffusion Models for Visual Perception**|Wenliang Zhao et.al.|[2303.02153v1](http://arxiv.org/abs/2303.02153v1)|**[link](https://github.com/wl-zhao/VPD)**|
+|**2023-03-03**|**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners**|Renrui Zhang et.al.|[2303.02151v1](http://arxiv.org/abs/2303.02151v1)|**[link](https://github.com/zrrskywalker/cafo)**|
+|**2023-03-03**|**Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!**|Shiwei Liu et.al.|[2303.02141v1](http://arxiv.org/abs/2303.02141v1)|**[link](https://github.com/vita-group/smc-bench)**|
+|**2023-03-03**|**Eventual Discounting Temporal Logic Counterfactual Experience Replay**|Cameron Voloshin et.al.|[2303.02135v1](http://arxiv.org/abs/2303.02135v1)|null|
 |**2023-03-02**|**Dropout Reduces Underfitting**|Zhuang Liu et.al.|[2303.01500v1](http://arxiv.org/abs/2303.01500v1)|**[link](https://github.com/facebookresearch/dropout)**|
 |**2023-03-02**|**Predicting Motion Plans for Articulating Everyday Objects**|Arjun Gupta et.al.|[2303.01484v1](http://arxiv.org/abs/2303.01484v1)|null|
 |**2023-03-02**|**Faster exact and approximation algorithms for packing and covering matroids via push-relabel**|Kent Quanrud et.al.|[2303.01478v1](http://arxiv.org/abs/2303.01478v1)|null|
