@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
+|**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
+|**2023-03-08**|**Video-P2P: Video Editing with Cross-attention Control**|Shaoteng Liu et.al.|[2303.04761v1](http://arxiv.org/abs/2303.04761v1)|null|
+|**2023-03-08**|**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**|Chenfei Wu et.al.|[2303.04671v1](http://arxiv.org/abs/2303.04671v1)|**[link](https://github.com/microsoft/visual-chatgpt)**|
+|**2023-03-08**|**Diffusing Gaussian Mixtures for Generating Categorical Data**|Florence Regol et.al.|[2303.04635v1](http://arxiv.org/abs/2303.04635v1)|null|
+|**2023-03-08**|**Connecting finite-time Lyapunov exponents with supersaturation and droplet dynamics in the bulk of a turbulent cloud**|Vladyslav Pushenko et.al.|[2303.04632v1](http://arxiv.org/abs/2303.04632v1)|null|
+|**2023-03-08**|**Maritime transportation and people mobility in the early diffusion of COVID-19 in Croatia**|Corentin Cot et.al.|[2303.04617v1](http://arxiv.org/abs/2303.04617v1)|null|
 |**2023-03-07**|**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**|Cheng Chi et.al.|[2303.04137v1](http://arxiv.org/abs/2303.04137v1)|null|
 |**2023-03-06**|**Restoration-Degradation Beyond Linear Diffusions: A Non-Asymptotic Analysis For DDIM-Type Samplers**|Sitan Chen et.al.|[2303.03384v1](http://arxiv.org/abs/2303.03384v1)|null|
 |**2023-03-06**|**StyO: Stylize Your Face in Only One-Shot**|Bonan Li et.al.|[2303.03231v1](http://arxiv.org/abs/2303.03231v1)|null|
@@ -150,6 +157,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Sketching with Spherical Designs for Noisy Data Fitting on Spheres**|Shao-Bo Lin et.al.|[2303.04550v1](http://arxiv.org/abs/2303.04550v1)|null|
+|**2023-03-08**|**Models of symbol emergence in communication: a conceptual review and a guide for avoiding local minima**|Julian Zubek et.al.|[2303.04544v1](http://arxiv.org/abs/2303.04544v1)|null|
 |**2023-03-07**|**Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**|Yonatan Dukler et.al.|[2303.04105v1](http://arxiv.org/abs/2303.04105v1)|null|
 |**2023-03-06**|**Data Portraits: Recording Foundation Model Training Data**|Marc Marone et.al.|[2303.03919v1](http://arxiv.org/abs/2303.03919v1)|null|
 |**2023-03-07**|**Sketch-based Medical Image Retrieval**|Kazuma Kobayashi et.al.|[2303.03633v1](http://arxiv.org/abs/2303.03633v1)|null|
@@ -213,6 +222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
+|**2023-03-08**|**Corner Detection Based on Multi-directional Gabor Filters with Multi-scales**|Huaqing Wang et.al.|[2303.04334v1](http://arxiv.org/abs/2303.04334v1)|null|
+|**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
 |**2023-03-06**|**System for 3D Acquisition and 3D Reconstruction using Structured Light for Sewer Line Inspection**|Johannes Künzel et.al.|[2303.02978v1](http://arxiv.org/abs/2303.02978v1)|null|
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
@@ -256,6 +268,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
+|**2023-03-08**|**Stabilized profunctors and stable species of structures**|Marcelo Fiore et.al.|[2303.04795v1](http://arxiv.org/abs/2303.04795v1)|null|
+|**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
+|**2023-03-08**|**SMaLL: A Software Framework for portable Machine Learning Libraries**|Upasana Sridhar et.al.|[2303.04769v1](http://arxiv.org/abs/2303.04769v1)|null|
 |**2023-03-07**|**Benign Overfitting for Two-layer ReLU Networks**|Yiwen Kou et.al.|[2303.04145v1](http://arxiv.org/abs/2303.04145v1)|null|
 |**2023-03-07**|**Toward Defining a Domain Complexity Measure Across Domains**|Katarina Doctor et.al.|[2303.04141v1](http://arxiv.org/abs/2303.04141v1)|null|
 |**2023-03-07**|**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**|Cheng Chi et.al.|[2303.04137v1](http://arxiv.org/abs/2303.04137v1)|null|
@@ -461,6 +477,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
+|**2023-03-08**|**Stabilized profunctors and stable species of structures**|Marcelo Fiore et.al.|[2303.04795v1](http://arxiv.org/abs/2303.04795v1)|null|
+|**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
+|**2023-03-08**|**SMaLL: A Software Framework for portable Machine Learning Libraries**|Upasana Sridhar et.al.|[2303.04769v1](http://arxiv.org/abs/2303.04769v1)|null|
 |**2023-03-07**|**Benign Overfitting for Two-layer ReLU Networks**|Yiwen Kou et.al.|[2303.04145v1](http://arxiv.org/abs/2303.04145v1)|null|
 |**2023-03-07**|**Toward Defining a Domain Complexity Measure Across Domains**|Katarina Doctor et.al.|[2303.04141v1](http://arxiv.org/abs/2303.04141v1)|null|
 |**2023-03-07**|**Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**|Cheng Chi et.al.|[2303.04137v1](http://arxiv.org/abs/2303.04137v1)|null|
