@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
+|**2023-03-09**|**Resolving quantitative MRI model degeneracy with machine learning via training data distribution design**|Michele Guerreri et.al.|[2303.05464v1](http://arxiv.org/abs/2303.05464v1)|null|
+|**2023-03-09**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371v1](http://arxiv.org/abs/2303.05371v1)|null|
+|**2023-03-09**|**TGDataset: a Collection of Over One Hundred Thousand Telegram Channels**|Massimo La Morgia et.al.|[2303.05345v1](http://arxiv.org/abs/2303.05345v1)|null|
+|**2023-03-09**|**Brain-Diffuser: Natural scene reconstruction from fMRI signals using generative latent diffusion**|Furkan Ozcelik et.al.|[2303.05334v1](http://arxiv.org/abs/2303.05334v1)|null|
 |**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
 |**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
 |**2023-03-08**|**Video-P2P: Video Editing with Cross-attention Control**|Shaoteng Liu et.al.|[2303.04761v1](http://arxiv.org/abs/2303.04761v1)|null|
@@ -224,7 +229,7 @@
 |**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
 |**2023-03-06**|**System for 3D Acquisition and 3D Reconstruction using Structured Light for Sewer Line Inspection**|Johannes Künzel et.al.|[2303.02978v1](http://arxiv.org/abs/2303.02978v1)|null|
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
-|**2023-03-03**|**MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices**|Kejie Li et.al.|[2303.01932v1](http://arxiv.org/abs/2303.01932v1)|**[link](https://github.com/ActiveVisionLab/MobileBrick)**|
+|**2023-03-09**|**MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices**|Kejie Li et.al.|[2303.01932v2](http://arxiv.org/abs/2303.01932v2)|**[link](https://github.com/ActiveVisionLab/MobileBrick)**|
 |**2023-03-01**|**Motion Compensation via Epipolar Consistency for In-Vivo X-Ray Microscopy**|Mareike Thies et.al.|[2303.00449v1](http://arxiv.org/abs/2303.00449v1)|null|
 |**2023-02-28**|**3D Coronary Vessel Reconstruction from Bi-Plane Angiography using Graph Convolutional Networks**|Kit Mills Bransby et.al.|[2302.14795v1](http://arxiv.org/abs/2302.14795v1)|null|
 |**2023-02-28**|**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**|Ji Hou et.al.|[2302.14746v1](http://arxiv.org/abs/2302.14746v1)|null|
@@ -264,6 +269,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
+|**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
+|**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
+|**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
+|**2023-03-09**|**Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision**|Tarun Kalluri et.al.|[2303.05503v1](http://arxiv.org/abs/2303.05503v1)|null|
+|**2023-03-09**|**PDSketch: Integrated Planning Domain Programming and Learning**|Jiayuan Mao et.al.|[2303.05501v1](http://arxiv.org/abs/2303.05501v1)|null|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-09**|**Learning Stationary Markov Processes with Contrastive Adjustment**|Ludvig Bergenstråhle et.al.|[2303.05497v1](http://arxiv.org/abs/2303.05497v1)|null|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
 |**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
 |**2023-03-08**|**Stabilized profunctors and stable species of structures**|Marcelo Fiore et.al.|[2303.04795v1](http://arxiv.org/abs/2303.04795v1)|null|
 |**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
@@ -473,6 +487,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
+|**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
+|**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
+|**2023-03-09**|**TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization**|Alan Jeffares et.al.|[2303.05506v1](http://arxiv.org/abs/2303.05506v1)|**[link](https://github.com/vanderschaarlab/tangos)**|
+|**2023-03-09**|**Open-world Instance Segmentation: Top-down Learning with Bottom-up Supervision**|Tarun Kalluri et.al.|[2303.05503v1](http://arxiv.org/abs/2303.05503v1)|null|
+|**2023-03-09**|**PDSketch: Integrated Planning Domain Programming and Learning**|Jiayuan Mao et.al.|[2303.05501v1](http://arxiv.org/abs/2303.05501v1)|null|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-09**|**Learning Stationary Markov Processes with Contrastive Adjustment**|Ludvig Bergenstråhle et.al.|[2303.05497v1](http://arxiv.org/abs/2303.05497v1)|null|
+|**2023-03-09**|**Sparse and Local Networks for Hypergraph Reasoning**|Guangxuan Xiao et.al.|[2303.05496v1](http://arxiv.org/abs/2303.05496v1)|null|
 |**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
 |**2023-03-08**|**Stabilized profunctors and stable species of structures**|Marcelo Fiore et.al.|[2303.04795v1](http://arxiv.org/abs/2303.04795v1)|null|
 |**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
