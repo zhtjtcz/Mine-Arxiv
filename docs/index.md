@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
+|**2023-03-10**|**Photon Diffusion in Microscale Solids**|Avijit Das et.al.|[2303.05776v1](http://arxiv.org/abs/2303.05776v1)|null|
+|**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|**[link](https://github.com/chenweixin107/trojdiff)**|
+|**2023-03-10**|**Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition**|Hyungjin Chung et.al.|[2303.05754v1](http://arxiv.org/abs/2303.05754v1)|null|
 |**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
 |**2023-03-09**|**Resolving quantitative MRI model degeneracy with machine learning via training data distribution design**|Michele Guerreri et.al.|[2303.05464v1](http://arxiv.org/abs/2303.05464v1)|null|
 |**2023-03-09**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371v1](http://arxiv.org/abs/2303.05371v1)|null|
@@ -162,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**|Shuai Yang et.al.|[2303.06146v1](http://arxiv.org/abs/2303.06146v1)|**[link](https://github.com/williamyang1991/styleganex)**|
 |**2023-03-08**|**Sketching with Spherical Designs for Noisy Data Fitting on Spheres**|Shao-Bo Lin et.al.|[2303.04550v1](http://arxiv.org/abs/2303.04550v1)|null|
 |**2023-03-08**|**Models of symbol emergence in communication: a conceptual review and a guide for avoiding local minima**|Julian Zubek et.al.|[2303.04544v1](http://arxiv.org/abs/2303.04544v1)|null|
 |**2023-03-07**|**Introspective Cross-Attention Probing for Lightweight Transfer of Pre-trained Models**|Yonatan Dukler et.al.|[2303.04105v1](http://arxiv.org/abs/2303.04105v1)|null|
@@ -227,6 +232,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction**|Zhengdi Yu et.al.|[2303.05938v1](http://arxiv.org/abs/2303.05938v1)|**[link](https://github.com/zhengdiyu/arbitrary-hands-3d-reconstruction)**|
+|**2023-03-10**|**Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction**|Mingfang Zhang et.al.|[2303.05937v1](http://arxiv.org/abs/2303.05937v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
 |**2023-03-08**|**Corner Detection Based on Multi-directional Gabor Filters with Multi-scales**|Huaqing Wang et.al.|[2303.04334v1](http://arxiv.org/abs/2303.04334v1)|null|
 |**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
@@ -273,6 +280,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
+|**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|null|
+|**2023-03-10**|**Imaging the crustal and upper mantle structure of the North Anatolian Fault: A Transmission Matrix Framework for Local Adaptive Focusing**|Rita Touma et.al.|[2303.06123v1](http://arxiv.org/abs/2303.06123v1)|null|
+|**2023-03-10**|**Ignorance is Bliss: Robust Control via Information Gating**|Manan Tomar et.al.|[2303.06121v1](http://arxiv.org/abs/2303.06121v1)|null|
+|**2023-03-11**|**Wave-function parametrization of a probability measure**|Leonardo Pedro et.al.|[2303.06069v1](http://arxiv.org/abs/2303.06069v1)|null|
 |**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
 |**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
 |**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
@@ -491,6 +503,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
+|**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|null|
+|**2023-03-10**|**Imaging the crustal and upper mantle structure of the North Anatolian Fault: A Transmission Matrix Framework for Local Adaptive Focusing**|Rita Touma et.al.|[2303.06123v1](http://arxiv.org/abs/2303.06123v1)|null|
+|**2023-03-10**|**Ignorance is Bliss: Robust Control via Information Gating**|Manan Tomar et.al.|[2303.06121v1](http://arxiv.org/abs/2303.06121v1)|null|
+|**2023-03-11**|**Wave-function parametrization of a probability measure**|Leonardo Pedro et.al.|[2303.06069v1](http://arxiv.org/abs/2303.06069v1)|null|
 |**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
 |**2023-03-09**|**Planning with Large Language Models for Code Generation**|Shun Zhang et.al.|[2303.05510v1](http://arxiv.org/abs/2303.05510v1)|null|
 |**2023-03-09**|**Cherry-Picking with Reinforcement Learning**|Yunchu Zhang et.al.|[2303.05508v1](http://arxiv.org/abs/2303.05508v1)|null|
