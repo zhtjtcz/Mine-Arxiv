@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Erasing Concepts from Diffusion Models**|Rohit Gandikota et.al.|[2303.07345v1](http://arxiv.org/abs/2303.07345v1)|**[link](https://github.com/rohitgandikota/erasing)**|
+|**2023-03-13**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v1](http://arxiv.org/abs/2303.07216v1)|null|
 |**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
 |**2023-03-10**|**Photon Diffusion in Microscale Solids**|Avijit Das et.al.|[2303.05776v1](http://arxiv.org/abs/2303.05776v1)|null|
 |**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|**[link](https://github.com/chenweixin107/trojdiff)**|
@@ -166,6 +168,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Can Workers Meaningfully Consent to Workplace Wellbeing Technologies?**|Shreya Chowdhary et.al.|[2303.07242v1](http://arxiv.org/abs/2303.07242v1)|null|
+|**2023-03-13**|**An Improved Sample Complexity for Rank-1 Matrix Sensing**|Yichuan Deng et.al.|[2303.06895v1](http://arxiv.org/abs/2303.06895v1)|null|
 |**2023-03-10**|**StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**|Shuai Yang et.al.|[2303.06146v1](http://arxiv.org/abs/2303.06146v1)|**[link](https://github.com/williamyang1991/styleganex)**|
 |**2023-03-08**|**Sketching with Spherical Designs for Noisy Data Fitting on Spheres**|Shao-Bo Lin et.al.|[2303.04550v1](http://arxiv.org/abs/2303.04550v1)|null|
 |**2023-03-08**|**Models of symbol emergence in communication: a conceptual review and a guide for avoiding local minima**|Julian Zubek et.al.|[2303.04544v1](http://arxiv.org/abs/2303.04544v1)|null|
@@ -232,6 +236,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-11**|**Normal-guided Garment UV Prediction for Human Re-texturing**|Yasamin Jafarian et.al.|[2303.06504v1](http://arxiv.org/abs/2303.06504v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|null|
 |**2023-03-10**|**ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction**|Zhengdi Yu et.al.|[2303.05938v1](http://arxiv.org/abs/2303.05938v1)|**[link](https://github.com/zhengdiyu/arbitrary-hands-3d-reconstruction)**|
 |**2023-03-10**|**Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction**|Mingfang Zhang et.al.|[2303.05937v1](http://arxiv.org/abs/2303.05937v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
@@ -280,6 +286,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
+|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|null|
+|**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
+|**2023-03-13**|**Collision Cross-entropy and EM Algorithm for Self-labeled Classification**|Zhongwen Zhang et.al.|[2303.07321v1](http://arxiv.org/abs/2303.07321v1)|null|
+|**2023-03-13**|**Linear regularized 13-moment equations with Onsager boundary conditions for general gas molecules**|Zhenning Cai et.al.|[2303.07314v1](http://arxiv.org/abs/2303.07314v1)|null|
+|**2023-03-13**|**An efficient phase-field model of shear fractures using deviatoric stress split**|Ehsan Haghighat et.al.|[2303.07309v1](http://arxiv.org/abs/2303.07309v1)|null|
 |**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
 |**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|null|
 |**2023-03-10**|**Imaging the crustal and upper mantle structure of the North Anatolian Fault: A Transmission Matrix Framework for Local Adaptive Focusing**|Rita Touma et.al.|[2303.06123v1](http://arxiv.org/abs/2303.06123v1)|null|
@@ -503,6 +515,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
+|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|null|
+|**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
+|**2023-03-13**|**Collision Cross-entropy and EM Algorithm for Self-labeled Classification**|Zhongwen Zhang et.al.|[2303.07321v1](http://arxiv.org/abs/2303.07321v1)|null|
+|**2023-03-13**|**Linear regularized 13-moment equations with Onsager boundary conditions for general gas molecules**|Zhenning Cai et.al.|[2303.07314v1](http://arxiv.org/abs/2303.07314v1)|null|
+|**2023-03-13**|**An efficient phase-field model of shear fractures using deviatoric stress split**|Ehsan Haghighat et.al.|[2303.07309v1](http://arxiv.org/abs/2303.07309v1)|null|
 |**2023-03-10**|**Multiple Hands Make Light Work: Enhancing Quality and Diversity using MAP-Elites with Multiple Parallel Evolution Strategies**|Manon Flageat et.al.|[2303.06137v1](http://arxiv.org/abs/2303.06137v1)|null|
 |**2023-03-10**|**Rewarding Chatbots for Real-World Engagement with Millions of Users**|Robert Irvine et.al.|[2303.06135v1](http://arxiv.org/abs/2303.06135v1)|null|
 |**2023-03-10**|**Imaging the crustal and upper mantle structure of the North Anatolian Fault: A Transmission Matrix Framework for Local Adaptive Focusing**|Rita Touma et.al.|[2303.06123v1](http://arxiv.org/abs/2303.06123v1)|null|
