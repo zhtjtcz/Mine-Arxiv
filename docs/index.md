@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
+|**2023-03-14**|**Editing Implicit Assumptions in Text-to-Image Diffusion Models**|Hadas Orgad et.al.|[2303.08084v1](http://arxiv.org/abs/2303.08084v1)|**[link](https://github.com/bahjat-kawar/time-diffusion)**|
+|**2023-03-14**|**Interpretable ODE-style Generative Diffusion Model via Force Field Construction**|Weiyang Jin et.al.|[2303.08063v1](http://arxiv.org/abs/2303.08063v1)|null|
+|**2023-03-14**|**Edit-A-Video: Single Video Editing with Object-Aware Consistency**|Chaehun Shin et.al.|[2303.07945v1](http://arxiv.org/abs/2303.07945v1)|null|
+|**2023-03-14**|**Controllable Mesh Generation Through Sparse Latent Point Diffusion Models**|Zhaoyang Lyu et.al.|[2303.07938v1](http://arxiv.org/abs/2303.07938v1)|null|
+|**2023-03-14**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v1](http://arxiv.org/abs/2303.07937v1)|null|
 |**2023-03-13**|**Erasing Concepts from Diffusion Models**|Rohit Gandikota et.al.|[2303.07345v1](http://arxiv.org/abs/2303.07345v1)|**[link](https://github.com/rohitgandikota/erasing)**|
 |**2023-03-14**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v2](http://arxiv.org/abs/2303.07216v2)|null|
 |**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
@@ -168,6 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Data-Free Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2303.07775v1](http://arxiv.org/abs/2303.07775v1)|null|
 |**2023-03-13**|**Can Workers Meaningfully Consent to Workplace Wellbeing Technologies?**|Shreya Chowdhary et.al.|[2303.07242v1](http://arxiv.org/abs/2303.07242v1)|null|
 |**2023-03-13**|**An Improved Sample Complexity for Rank-1 Matrix Sensing**|Yichuan Deng et.al.|[2303.06895v1](http://arxiv.org/abs/2303.06895v1)|null|
 |**2023-03-10**|**StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**|Shuai Yang et.al.|[2303.06146v1](http://arxiv.org/abs/2303.06146v1)|**[link](https://github.com/williamyang1991/styleganex)**|
@@ -236,6 +244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**FingerSLAM: Closed-loop Unknown Object Localization and Reconstruction from Visuo-tactile Feedback**|Jialiang Zhao et.al.|[2303.07997v1](http://arxiv.org/abs/2303.07997v1)|null|
 |**2023-03-11**|**Normal-guided Garment UV Prediction for Human Re-texturing**|Yasamin Jafarian et.al.|[2303.06504v1](http://arxiv.org/abs/2303.06504v1)|null|
 |**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
 |**2023-03-10**|**ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction**|Zhengdi Yu et.al.|[2303.05938v1](http://arxiv.org/abs/2303.05938v1)|**[link](https://github.com/zhengdiyu/arbitrary-hands-3d-reconstruction)**|
@@ -286,6 +295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-14**|**Manipulate by Seeing: Creating Manipulation Controllers**|Jianren Wang et.al.|[2303.08135v1](http://arxiv.org/abs/2303.08135v1)|null|
+|**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
+|**2023-03-14**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v1](http://arxiv.org/abs/2303.08131v1)|**[link](https://github.com/idea-research/openseed)**|
+|**2023-03-14**|**ViperGPT: Visual Inference via Python Execution for Reasoning**|Dídac Surís et.al.|[2303.08128v1](http://arxiv.org/abs/2303.08128v1)|null|
+|**2023-03-14**|**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**|Chenyang Lei et.al.|[2303.08120v1](http://arxiv.org/abs/2303.08120v1)|**[link](https://github.com/chenyanglei/all-in-one-deflicker)**|
+|**2023-03-14**|**Parameterised Approximation of the Fixation Probability of the Dominant Mutation in the Multi-Type Moran Process**|Leslie Ann Goldberg et.al.|[2303.08118v1](http://arxiv.org/abs/2303.08118v1)|null|
 |**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
 |**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
@@ -515,6 +532,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-14**|**Manipulate by Seeing: Creating Manipulation Controllers**|Jianren Wang et.al.|[2303.08135v1](http://arxiv.org/abs/2303.08135v1)|null|
+|**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
+|**2023-03-14**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v1](http://arxiv.org/abs/2303.08131v1)|**[link](https://github.com/idea-research/openseed)**|
+|**2023-03-14**|**ViperGPT: Visual Inference via Python Execution for Reasoning**|Dídac Surís et.al.|[2303.08128v1](http://arxiv.org/abs/2303.08128v1)|null|
+|**2023-03-14**|**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**|Chenyang Lei et.al.|[2303.08120v1](http://arxiv.org/abs/2303.08120v1)|**[link](https://github.com/chenyanglei/all-in-one-deflicker)**|
+|**2023-03-14**|**Parameterised Approximation of the Fixation Probability of the Dominant Mutation in the Multi-Type Moran Process**|Leslie Ann Goldberg et.al.|[2303.08118v1](http://arxiv.org/abs/2303.08118v1)|null|
 |**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
 |**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
