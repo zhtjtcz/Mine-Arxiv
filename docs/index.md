@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,7 +25,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-13**|**Erasing Concepts from Diffusion Models**|Rohit Gandikota et.al.|[2303.07345v1](http://arxiv.org/abs/2303.07345v1)|**[link](https://github.com/rohitgandikota/erasing)**|
-|**2023-03-13**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v1](http://arxiv.org/abs/2303.07216v1)|null|
+|**2023-03-14**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v2](http://arxiv.org/abs/2303.07216v2)|null|
 |**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
 |**2023-03-10**|**Photon Diffusion in Microscale Solids**|Avijit Das et.al.|[2303.05776v1](http://arxiv.org/abs/2303.05776v1)|null|
 |**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|**[link](https://github.com/chenweixin107/trojdiff)**|
@@ -162,7 +162,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## sketch
 
@@ -230,14 +230,14 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## 3D reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-11**|**Normal-guided Garment UV Prediction for Human Re-texturing**|Yasamin Jafarian et.al.|[2303.06504v1](http://arxiv.org/abs/2303.06504v1)|null|
-|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
 |**2023-03-10**|**ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction**|Zhengdi Yu et.al.|[2303.05938v1](http://arxiv.org/abs/2303.05938v1)|**[link](https://github.com/zhengdiyu/arbitrary-hands-3d-reconstruction)**|
 |**2023-03-10**|**Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction**|Mingfang Zhang et.al.|[2303.05937v1](http://arxiv.org/abs/2303.05937v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
@@ -280,14 +280,14 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## generate
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
-|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|null|
+|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
 |**2023-03-13**|**Collision Cross-entropy and EM Algorithm for Self-labeled Classification**|Zhongwen Zhang et.al.|[2303.07321v1](http://arxiv.org/abs/2303.07321v1)|null|
 |**2023-03-13**|**Linear regularized 13-moment equations with Onsager boundary conditions for general gas molecules**|Zhenning Cai et.al.|[2303.07314v1](http://arxiv.org/abs/2303.07314v1)|null|
@@ -509,14 +509,14 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-13**|**Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need**|Da-Wei Zhou et.al.|[2303.07338v1](http://arxiv.org/abs/2303.07338v1)|**[link](https://github.com/zhoudw-zdw/revisitingcil)**|
-|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|null|
+|**2023-03-13**|**Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR**|Feng Li et.al.|[2303.07335v1](http://arxiv.org/abs/2303.07335v1)|**[link](https://github.com/idea-research/lite-detr)**|
 |**2023-03-13**|**A Smoothing Algorithm for Minimum Sensing Path Plans in Gaussian Belief Space**|Ali Reza Pedram et.al.|[2303.07326v1](http://arxiv.org/abs/2303.07326v1)|null|
 |**2023-03-13**|**Collision Cross-entropy and EM Algorithm for Self-labeled Classification**|Zhongwen Zhang et.al.|[2303.07321v1](http://arxiv.org/abs/2303.07321v1)|null|
 |**2023-03-13**|**Linear regularized 13-moment equations with Onsager boundary conditions for general gas molecules**|Zhenning Cai et.al.|[2303.07314v1](http://arxiv.org/abs/2303.07314v1)|null|
@@ -738,7 +738,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
