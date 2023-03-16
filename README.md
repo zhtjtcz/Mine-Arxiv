@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,10 +23,10 @@
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
 |**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
 |**2023-03-14**|**Editing Implicit Assumptions in Text-to-Image Diffusion Models**|Hadas Orgad et.al.|[2303.08084v1](http://arxiv.org/abs/2303.08084v1)|**[link](https://github.com/bahjat-kawar/time-diffusion)**|
-|**2023-03-14**|**Interpretable ODE-style Generative Diffusion Model via Force Field Construction**|Weiyang Jin et.al.|[2303.08063v1](http://arxiv.org/abs/2303.08063v1)|null|
+|**2023-03-15**|**Interpretable ODE-style Generative Diffusion Model via Force Field Construction**|Weiyang Jin et.al.|[2303.08063v2](http://arxiv.org/abs/2303.08063v2)|null|
 |**2023-03-14**|**Edit-A-Video: Single Video Editing with Object-Aware Consistency**|Chaehun Shin et.al.|[2303.07945v1](http://arxiv.org/abs/2303.07945v1)|null|
-|**2023-03-14**|**Controllable Mesh Generation Through Sparse Latent Point Diffusion Models**|Zhaoyang Lyu et.al.|[2303.07938v1](http://arxiv.org/abs/2303.07938v1)|null|
-|**2023-03-14**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v1](http://arxiv.org/abs/2303.07937v1)|null|
+|**2023-03-15**|**Controllable Mesh Generation Through Sparse Latent Point Diffusion Models**|Zhaoyang Lyu et.al.|[2303.07938v2](http://arxiv.org/abs/2303.07938v2)|null|
+|**2023-03-15**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v2](http://arxiv.org/abs/2303.07937v2)|null|
 |**2023-03-13**|**Erasing Concepts from Diffusion Models**|Rohit Gandikota et.al.|[2303.07345v1](http://arxiv.org/abs/2303.07345v1)|**[link](https://github.com/rohitgandikota/erasing)**|
 |**2023-03-14**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v2](http://arxiv.org/abs/2303.07216v2)|null|
 |**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
@@ -165,7 +165,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## sketch
 
@@ -234,7 +234,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -285,7 +285,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## generate
 
@@ -293,9 +293,9 @@
 |---|---|---|---|---|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
-|**2023-03-14**|**Manipulate by Seeing: Creating Manipulation Controllers**|Jianren Wang et.al.|[2303.08135v1](http://arxiv.org/abs/2303.08135v1)|null|
+|**2023-03-15**|**Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations**|Jianren Wang et.al.|[2303.08135v2](http://arxiv.org/abs/2303.08135v2)|null|
 |**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
-|**2023-03-14**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v1](http://arxiv.org/abs/2303.08131v1)|**[link](https://github.com/idea-research/openseed)**|
+|**2023-03-15**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v2](http://arxiv.org/abs/2303.08131v2)|**[link](https://github.com/idea-research/openseed)**|
 |**2023-03-14**|**ViperGPT: Visual Inference via Python Execution for Reasoning**|Dídac Surís et.al.|[2303.08128v1](http://arxiv.org/abs/2303.08128v1)|null|
 |**2023-03-14**|**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**|Chenyang Lei et.al.|[2303.08120v1](http://arxiv.org/abs/2303.08120v1)|**[link](https://github.com/chenyanglei/all-in-one-deflicker)**|
 |**2023-03-14**|**Parameterised Approximation of the Fixation Probability of the Dominant Mutation in the Multi-Type Moran Process**|Leslie Ann Goldberg et.al.|[2303.08118v1](http://arxiv.org/abs/2303.08118v1)|null|
@@ -522,7 +522,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## generation
 
@@ -530,9 +530,9 @@
 |---|---|---|---|---|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
-|**2023-03-14**|**Manipulate by Seeing: Creating Manipulation Controllers**|Jianren Wang et.al.|[2303.08135v1](http://arxiv.org/abs/2303.08135v1)|null|
+|**2023-03-15**|**Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations**|Jianren Wang et.al.|[2303.08135v2](http://arxiv.org/abs/2303.08135v2)|null|
 |**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
-|**2023-03-14**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v1](http://arxiv.org/abs/2303.08131v1)|**[link](https://github.com/idea-research/openseed)**|
+|**2023-03-15**|**A Simple Framework for Open-Vocabulary Segmentation and Detection**|Hao Zhang et.al.|[2303.08131v2](http://arxiv.org/abs/2303.08131v2)|**[link](https://github.com/idea-research/openseed)**|
 |**2023-03-14**|**ViperGPT: Visual Inference via Python Execution for Reasoning**|Dídac Surís et.al.|[2303.08128v1](http://arxiv.org/abs/2303.08128v1)|null|
 |**2023-03-14**|**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**|Chenyang Lei et.al.|[2303.08120v1](http://arxiv.org/abs/2303.08120v1)|**[link](https://github.com/chenyanglei/all-in-one-deflicker)**|
 |**2023-03-14**|**Parameterised Approximation of the Fixation Probability of the Dominant Mutation in the Multi-Type Moran Process**|Leslie Ann Goldberg et.al.|[2303.08118v1](http://arxiv.org/abs/2303.08118v1)|null|
@@ -759,7 +759,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
