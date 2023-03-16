@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**|Michael S. Albergo et.al.|[2303.08797v1](http://arxiv.org/abs/2303.08797v1)|null|
+|**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767v1](http://arxiv.org/abs/2303.08767v1)|null|
+|**2023-03-15**|**Advanced Analysis of Radar Cross-Section Measurements in Reverberation Environment**|Corentin Charlo et.al.|[2303.08751v1](http://arxiv.org/abs/2303.08751v1)|null|
+|**2023-03-15**|**DiffusionAD: Denoising Diffusion for Anomaly Detection**|Hui Zhang et.al.|[2303.08730v1](http://arxiv.org/abs/2303.08730v1)|**[link](https://github.com/HuiZhang0812/DiffusionAD-Denoising-Diffusion-for-Anomaly-Detection)**|
+|**2023-03-15**|**ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution**|Shuyao Shang et.al.|[2303.08714v1](http://arxiv.org/abs/2303.08714v1)|null|
+|**2023-03-15**|**Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer**|Serin Yang et.al.|[2303.08622v1](http://arxiv.org/abs/2303.08622v1)|null|
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
 |**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
 |**2023-03-14**|**Editing Implicit Assumptions in Text-to-Image Diffusion Models**|Hadas Orgad et.al.|[2303.08084v1](http://arxiv.org/abs/2303.08084v1)|**[link](https://github.com/bahjat-kawar/time-diffusion)**|
@@ -171,6 +177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**|Aditay Tripathi et.al.|[2303.08784v1](http://arxiv.org/abs/2303.08784v1)|null|
+|**2023-03-15**|**RIS-Enabled Smart Wireless Environments: Deployment Scenarios, Network Architecture, Bandwidth and Area of Influence**|George C. Alexandropoulos et.al.|[2303.08505v1](http://arxiv.org/abs/2303.08505v1)|null|
 |**2023-03-14**|**Data-Free Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2303.07775v1](http://arxiv.org/abs/2303.07775v1)|null|
 |**2023-03-13**|**Can Workers Meaningfully Consent to Workplace Wellbeing Technologies?**|Shreya Chowdhary et.al.|[2303.07242v1](http://arxiv.org/abs/2303.07242v1)|null|
 |**2023-03-13**|**An Improved Sample Complexity for Rank-1 Matrix Sensing**|Yichuan Deng et.al.|[2303.06895v1](http://arxiv.org/abs/2303.06895v1)|null|
@@ -291,6 +299,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
+|**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
+|**2023-03-15**|**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**|Michael S. Albergo et.al.|[2303.08797v1](http://arxiv.org/abs/2303.08797v1)|null|
+|**2023-03-15**|**PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**|Garrett Thomas et.al.|[2303.08789v1](http://arxiv.org/abs/2303.08789v1)|null|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
 |**2023-03-15**|**Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations**|Jianren Wang et.al.|[2303.08135v2](http://arxiv.org/abs/2303.08135v2)|null|
@@ -528,6 +540,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
+|**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
+|**2023-03-15**|**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**|Michael S. Albergo et.al.|[2303.08797v1](http://arxiv.org/abs/2303.08797v1)|null|
+|**2023-03-15**|**PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining**|Garrett Thomas et.al.|[2303.08789v1](http://arxiv.org/abs/2303.08789v1)|null|
 |**2023-03-14**|**Diversity-Aware Meta Visual Prompting**|Qidong Huang et.al.|[2303.08138v1](http://arxiv.org/abs/2303.08138v1)|**[link](https://github.com/shikiw/dam-vp)**|
 |**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
 |**2023-03-15**|**Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations**|Jianren Wang et.al.|[2303.08135v2](http://arxiv.org/abs/2303.08135v2)|null|
