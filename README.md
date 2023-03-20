@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**A Recipe for Watermarking Diffusion Models**|Yunqing Zhao et.al.|[2303.10137v1](http://arxiv.org/abs/2303.10137v1)|**[link](https://github.com/yunqing-me/watermarkdm)**|
+|**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108v1](http://arxiv.org/abs/2303.10108v1)|null|
+|**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
+|**2023-03-17**|**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**|Can Qin et.al.|[2303.10056v1](http://arxiv.org/abs/2303.10056v1)|null|
+|**2023-03-17**|**On the momentum diffusion over multiphase surfaces with meshless methods**|Johannes C. Joubert et.al.|[2303.09978v1](http://arxiv.org/abs/2303.09978v1)|null|
+|**2023-03-17**|**Adversarial Counterfactual Visual Explanations**|Guillaume Jeanneret et.al.|[2303.09962v1](http://arxiv.org/abs/2303.09962v1)|null|
+|**2023-03-17**|**Discovering mesoscopic descriptions of collective movement with neural stochastic modelling**|Utkarsh Pratiush et.al.|[2303.09906v1](http://arxiv.org/abs/2303.09906v1)|**[link](https://github.com/utkarshp1161/neu_sde)**|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
 |**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
@@ -184,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**PersonalTailor: Personalizing 2D Pattern Design from 3D Garment Point Clouds**|Anran Qi et.al.|[2303.09695v1](http://arxiv.org/abs/2303.09695v1)|null|
 |**2023-03-15**|**Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**|Aditay Tripathi et.al.|[2303.08784v1](http://arxiv.org/abs/2303.08784v1)|null|
 |**2023-03-15**|**RIS-Enabled Smart Wireless Environments: Deployment Scenarios, Network Architecture, Bandwidth and Area of Influence**|George C. Alexandropoulos et.al.|[2303.08505v1](http://arxiv.org/abs/2303.08505v1)|null|
 |**2023-03-14**|**Data-Free Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2303.07775v1](http://arxiv.org/abs/2303.07775v1)|null|
@@ -306,6 +314,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
+|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
+|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
+|**2023-03-17**|**Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting**|Nicolai Dorka et.al.|[2303.10144v1](http://arxiv.org/abs/2303.10144v1)|**[link](https://github.com/nicolinho/dutd)**|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|**[link](https://github.com/weiyithu/surroundocc)**|
@@ -554,6 +566,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
+|**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
+|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
+|**2023-03-17**|**Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting**|Nicolai Dorka et.al.|[2303.10144v1](http://arxiv.org/abs/2303.10144v1)|**[link](https://github.com/nicolinho/dutd)**|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|**[link](https://github.com/weiyithu/surroundocc)**|
