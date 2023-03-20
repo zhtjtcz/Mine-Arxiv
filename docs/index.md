@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,11 +26,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**$P+$ : Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522v1](http://arxiv.org/abs/2303.09522v1)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472v1](http://arxiv.org/abs/2303.09472v1)|null|
 |**2023-03-16**|**Unwrapping NPT simulations to calculate diffusion coefficients**|Jakob Tómas Bullerjahn et.al.|[2303.09418v1](http://arxiv.org/abs/2303.09418v1)|null|
-|**2023-03-16**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v1](http://arxiv.org/abs/2303.09375v1)|null|
+|**2023-03-17**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v2](http://arxiv.org/abs/2303.09375v2)|null|
 |**2023-03-15**|**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**|Michael S. Albergo et.al.|[2303.08797v1](http://arxiv.org/abs/2303.08797v1)|null|
 |**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767v1](http://arxiv.org/abs/2303.08767v1)|null|
 |**2023-03-15**|**Advanced Analysis of Radar Cross-Section Measurements in Reverberation Environment**|Corentin Charlo et.al.|[2303.08751v1](http://arxiv.org/abs/2303.08751v1)|null|
@@ -182,7 +182,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## sketch
 
@@ -253,7 +253,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -304,7 +304,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## generate
 
@@ -315,7 +315,7 @@ layout: default
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|**[link](https://github.com/weiyithu/surroundocc)**|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|**[link](https://github.com/wgcban/metric-cd)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**Tackling Clutter in Radar Data -- Label Generation and Detection Using PointNet++**|Johannes Kopp et.al.|[2303.09530v1](http://arxiv.org/abs/2303.09530v1)|**[link](https://github.com/kopp-j/clutter-ds)**|
 |**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
 |**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
@@ -552,7 +552,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 ## generation
 
@@ -563,7 +563,7 @@ layout: default
 |**2023-03-16**|**SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving**|Yi Wei et.al.|[2303.09551v1](http://arxiv.org/abs/2303.09551v1)|**[link](https://github.com/weiyithu/surroundocc)**|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
 |**2023-03-16**|**Deep Metric Learning for Unsupervised Remote Sensing Change Detection**|Wele Gedara Chaminda Bandara et.al.|[2303.09536v1](http://arxiv.org/abs/2303.09536v1)|**[link](https://github.com/wgcban/metric-cd)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-17**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**Tackling Clutter in Radar Data -- Label Generation and Detection Using PointNet++**|Johannes Kopp et.al.|[2303.09530v1](http://arxiv.org/abs/2303.09530v1)|**[link](https://github.com/kopp-j/clutter-ds)**|
 |**2023-03-15**|**Borda Regret Minimization for Generalized Linear Dueling Bandits**|Yue Wu et.al.|[2303.08816v1](http://arxiv.org/abs/2303.08816v1)|null|
 |**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
@@ -800,7 +800,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
