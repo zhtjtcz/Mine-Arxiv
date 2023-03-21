@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306v1](http://arxiv.org/abs/2303.11306v1)|null|
+|**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305v1](http://arxiv.org/abs/2303.11305v1)|null|
+|**2023-03-20**|**AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models**|Yu Cao et.al.|[2303.11137v1](http://arxiv.org/abs/2303.11137v1)|null|
 |**2023-03-17**|**A Recipe for Watermarking Diffusion Models**|Yunqing Zhao et.al.|[2303.10137v1](http://arxiv.org/abs/2303.10137v1)|**[link](https://github.com/yunqing-me/watermarkdm)**|
 |**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108v1](http://arxiv.org/abs/2303.10108v1)|null|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
@@ -195,6 +199,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**|Subhadeep Koley et.al.|[2303.11162v1](http://arxiv.org/abs/2303.11162v1)|null|
+|**2023-03-20**|**On the Maximal Independent Sets of $k$ -mers with the Edit Distance**|Leran Ma et.al.|[2303.10926v1](http://arxiv.org/abs/2303.10926v1)|null|
+|**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
+|**2023-03-19**|**Trainable Projected Gradient Method for Robust Fine-tuning**|Junjiao Tian et.al.|[2303.10720v1](http://arxiv.org/abs/2303.10720v1)|null|
+|**2023-03-19**|**EduVis: Workshop on Visualization Education, Literacy, and Activities**|Mandy Keck et.al.|[2303.10708v1](http://arxiv.org/abs/2303.10708v1)|null|
+|**2023-03-19**|**SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations**|Pu Li et.al.|[2303.10613v1](http://arxiv.org/abs/2303.10613v1)|null|
 |**2023-03-17**|**PersonalTailor: Personalizing 2D Pattern Design from 3D Garment Point Clouds**|Anran Qi et.al.|[2303.09695v1](http://arxiv.org/abs/2303.09695v1)|null|
 |**2023-03-15**|**Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch**|Aditay Tripathi et.al.|[2303.08784v1](http://arxiv.org/abs/2303.08784v1)|null|
 |**2023-03-15**|**RIS-Enabled Smart Wireless Environments: Deployment Scenarios, Network Architecture, Bandwidth and Area of Influence**|George C. Alexandropoulos et.al.|[2303.08505v1](http://arxiv.org/abs/2303.08505v1)|null|
@@ -267,6 +277,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**DIME-Net: Neural Network-Based Dynamic Intrinsic Parameter Rectification for Cameras with Optical Image Stabilization System**|Shu-Hao Yeh et.al.|[2303.11307v1](http://arxiv.org/abs/2303.11307v1)|null|
+|**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840v1](http://arxiv.org/abs/2303.10840v1)|null|
 |**2023-03-14**|**FingerSLAM: Closed-loop Unknown Object Localization and Reconstruction from Visuo-tactile Feedback**|Jialiang Zhao et.al.|[2303.07997v1](http://arxiv.org/abs/2303.07997v1)|null|
 |**2023-03-11**|**Normal-guided Garment UV Prediction for Human Re-texturing**|Yasamin Jafarian et.al.|[2303.06504v1](http://arxiv.org/abs/2303.06504v1)|null|
 |**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
@@ -318,6 +331,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**EVA-02: A Visual Representation for Neon Genesis**|Yuxin Fang et.al.|[2303.11331v1](http://arxiv.org/abs/2303.11331v1)|**[link](https://github.com/baaivision/eva)**|
+|**2023-03-20**|**Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation**|Ziyang Chen et.al.|[2303.11329v1](http://arxiv.org/abs/2303.11329v1)|**[link](https://github.com/IFICL/SLfM)**|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**Open-vocabulary Panoptic Segmentation with Embedding Modulation**|Xi Chen et.al.|[2303.11324v1](http://arxiv.org/abs/2303.11324v1)|null|
+|**2023-03-20**|**ScribbleSeg: Scribble-based Interactive Image Segmentation**|Xi Chen et.al.|[2303.11320v1](http://arxiv.org/abs/2303.11320v1)|null|
+|**2023-03-20**|**Generative Semantic Segmentation**|Jiaqi Chen et.al.|[2303.11316v1](http://arxiv.org/abs/2303.11316v1)|**[link](https://github.com/fudan-zvg/gss)**|
+|**2023-03-20**|**waywiser: Ergonomic Methods for Assessing Spatial Models**|Michael J Mahoney et.al.|[2303.11312v1](http://arxiv.org/abs/2303.11312v1)|null|
 |**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
 |**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
@@ -570,6 +590,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**EVA-02: A Visual Representation for Neon Genesis**|Yuxin Fang et.al.|[2303.11331v1](http://arxiv.org/abs/2303.11331v1)|**[link](https://github.com/baaivision/eva)**|
+|**2023-03-20**|**Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation**|Ziyang Chen et.al.|[2303.11329v1](http://arxiv.org/abs/2303.11329v1)|**[link](https://github.com/IFICL/SLfM)**|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**Open-vocabulary Panoptic Segmentation with Embedding Modulation**|Xi Chen et.al.|[2303.11324v1](http://arxiv.org/abs/2303.11324v1)|null|
+|**2023-03-20**|**ScribbleSeg: Scribble-based Interactive Image Segmentation**|Xi Chen et.al.|[2303.11320v1](http://arxiv.org/abs/2303.11320v1)|null|
+|**2023-03-20**|**Generative Semantic Segmentation**|Jiaqi Chen et.al.|[2303.11316v1](http://arxiv.org/abs/2303.11316v1)|**[link](https://github.com/fudan-zvg/gss)**|
+|**2023-03-20**|**waywiser: Ergonomic Methods for Assessing Spatial Models**|Michael J Mahoney et.al.|[2303.11312v1](http://arxiv.org/abs/2303.11312v1)|null|
 |**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|null|
 |**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
