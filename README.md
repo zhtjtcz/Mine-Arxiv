@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Vox-E: Text-guided Voxel Editing of 3D Objects**|Etai Sella et.al.|[2303.12048v1](http://arxiv.org/abs/2303.12048v1)|null|
+|**2023-03-21**|**Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading**|Matthias Keicher et.al.|[2303.12031v1](http://arxiv.org/abs/2303.12031v1)|null|
+|**2023-03-21**|**Numerical simulation of self-oscillating catalytic reaction in a plug-flow reactor**|N. V. Peskov et.al.|[2303.12022v1](http://arxiv.org/abs/2303.12022v1)|null|
+|**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
+|**2023-03-21**|**CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**|Geonmo Gu et.al.|[2303.11916v1](http://arxiv.org/abs/2303.11916v1)|null|
+|**2023-03-21**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306v1](http://arxiv.org/abs/2303.11306v1)|null|
 |**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305v1](http://arxiv.org/abs/2303.11305v1)|null|
@@ -195,8 +201,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Roots and Requirements for Collaborative AI**|Mark Stefik et.al.|[2303.12040v1](http://arxiv.org/abs/2303.12040v1)|null|
+|**2023-03-20**|**Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings**|Ayan Kumar Bhunia et.al.|[2303.11502v1](http://arxiv.org/abs/2303.11502v1)|null|
+|**2023-03-20**|**Automatic Measures for Evaluating Generative Design Methods for Architects**|Eric Yeh et.al.|[2303.11483v1](http://arxiv.org/abs/2303.11483v1)|null|
 |**2023-03-20**|**Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**|Subhadeep Koley et.al.|[2303.11162v1](http://arxiv.org/abs/2303.11162v1)|null|
-|**2023-03-20**|**On the Maximal Independent Sets of $k$ -mers with the Edit Distance**|Leran Ma et.al.|[2303.10926v1](http://arxiv.org/abs/2303.10926v1)|null|
+|**2023-03-20**|**On the Maximal Independent Sets of $k$ -mers with the Edit Distance**|Leran Ma et.al.|[2303.10926v1](http://arxiv.org/abs/2303.10926v1)|**[link](https://github.com/shao-group/kmerspace)**|
 |**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
 |**2023-03-19**|**Trainable Projected Gradient Method for Robust Fine-tuning**|Junjiao Tian et.al.|[2303.10720v1](http://arxiv.org/abs/2303.10720v1)|null|
 |**2023-03-19**|**EduVis: Workshop on Visualization Education, Literacy, and Activities**|Mandy Keck et.al.|[2303.10708v1](http://arxiv.org/abs/2303.10708v1)|null|
@@ -273,6 +282,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Real-time volumetric rendering of dynamic humans**|Ignacio Rocco et.al.|[2303.11898v1](http://arxiv.org/abs/2303.11898v1)|null|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**DIME-Net: Neural Network-Based Dynamic Intrinsic Parameter Rectification for Cameras with Optical Image Stabilization System**|Shu-Hao Yeh et.al.|[2303.11307v1](http://arxiv.org/abs/2303.11307v1)|null|
 |**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840v1](http://arxiv.org/abs/2303.10840v1)|null|
@@ -327,6 +337,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078v1](http://arxiv.org/abs/2303.12078v1)|null|
+|**2023-03-21**|**CC3D: Layout-Conditioned Generation of Compositional 3D Scenes**|Sherwin Bahmani et.al.|[2303.12074v1](http://arxiv.org/abs/2303.12074v1)|null|
+|**2023-03-21**|**ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals**|Xishun Wang et.al.|[2303.12071v1](http://arxiv.org/abs/2303.12071v1)|null|
+|**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
 |**2023-03-20**|**EVA-02: A Visual Representation for Neon Genesis**|Yuxin Fang et.al.|[2303.11331v1](http://arxiv.org/abs/2303.11331v1)|**[link](https://github.com/baaivision/eva)**|
 |**2023-03-20**|**Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation**|Ziyang Chen et.al.|[2303.11329v1](http://arxiv.org/abs/2303.11329v1)|**[link](https://github.com/IFICL/SLfM)**|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
@@ -586,6 +601,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078v1](http://arxiv.org/abs/2303.12078v1)|null|
+|**2023-03-21**|**CC3D: Layout-Conditioned Generation of Compositional 3D Scenes**|Sherwin Bahmani et.al.|[2303.12074v1](http://arxiv.org/abs/2303.12074v1)|null|
+|**2023-03-21**|**ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals**|Xishun Wang et.al.|[2303.12071v1](http://arxiv.org/abs/2303.12071v1)|null|
+|**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
 |**2023-03-20**|**EVA-02: A Visual Representation for Neon Genesis**|Yuxin Fang et.al.|[2303.11331v1](http://arxiv.org/abs/2303.11331v1)|**[link](https://github.com/baaivision/eva)**|
 |**2023-03-20**|**Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation**|Ziyang Chen et.al.|[2303.11329v1](http://arxiv.org/abs/2303.11329v1)|**[link](https://github.com/IFICL/SLfM)**|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
