@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
+|**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
+|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
+|**2023-03-22**|**Effect of gamma radiation on electrical properties of diffusive memristor devices**|D. P. Pattnaik et.al.|[2303.12762v1](http://arxiv.org/abs/2303.12762v1)|null|
+|**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688v1](http://arxiv.org/abs/2303.12688v1)|null|
+|**2023-03-22**|**Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis**|Hadrien Reynaud et.al.|[2303.12644v1](http://arxiv.org/abs/2303.12644v1)|null|
+|**2023-03-22**|**A Perceptual Quality Assessment Exploration for AIGC Images**|Zicheng Zhang et.al.|[2303.12618v1](http://arxiv.org/abs/2303.12618v1)|null|
 |**2023-03-21**|**Vox-E: Text-guided Voxel Editing of 3D Objects**|Etai Sella et.al.|[2303.12048v1](http://arxiv.org/abs/2303.12048v1)|null|
 |**2023-03-21**|**Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading**|Matthias Keicher et.al.|[2303.12031v1](http://arxiv.org/abs/2303.12031v1)|null|
 |**2023-03-21**|**Numerical simulation of self-oscillating catalytic reaction in a plug-flow reactor**|N. V. Peskov et.al.|[2303.12022v1](http://arxiv.org/abs/2303.12022v1)|null|
@@ -205,6 +212,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Evaluation of Sketch-Based and Semantic-Based Modalities for Mockup Generation**|Tommaso Calò et.al.|[2303.12709v1](http://arxiv.org/abs/2303.12709v1)|null|
+|**2023-03-22**|**An Extended Study of Human-like Behavior under Adversarial Training**|Paul Gavrikov et.al.|[2303.12669v1](http://arxiv.org/abs/2303.12669v1)|null|
+|**2023-03-22**|**RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset**|Zhongjin Luo et.al.|[2303.12564v1](http://arxiv.org/abs/2303.12564v1)|null|
 |**2023-03-21**|**Roots and Requirements for Collaborative AI**|Mark Stefik et.al.|[2303.12040v1](http://arxiv.org/abs/2303.12040v1)|null|
 |**2023-03-20**|**Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings**|Ayan Kumar Bhunia et.al.|[2303.11502v1](http://arxiv.org/abs/2303.11502v1)|null|
 |**2023-03-20**|**Automatic Measures for Evaluating Generative Design Methods for Architects**|Eric Yeh et.al.|[2303.11483v1](http://arxiv.org/abs/2303.11483v1)|null|
@@ -341,6 +351,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
+|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v1](http://arxiv.org/abs/2303.12787v1)|null|
+|**2023-03-22**|**Localization-based OFDM framework for RIS-aided systems**|Fabio Saggese et.al.|[2303.12763v1](http://arxiv.org/abs/2303.12763v1)|null|
+|**2023-03-22**|**MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset**|Chen Feng et.al.|[2303.12756v1](http://arxiv.org/abs/2303.12756v1)|**[link](https://github.com/MrChenFeng/MaskCon_CVPR2023)**|
+|**2023-03-22**|**Invariants for time-dependent Hamiltonian systems**|Jürgen Struckmeier et.al.|[2303.12746v1](http://arxiv.org/abs/2303.12746v1)|null|
+|**2023-03-22**|**Comment on the elastica section in Thorne and Blandford "Modern Classical Physics", the shape of things, and the aspect ratio of reality**|J. A. Hanna et.al.|[2303.12729v1](http://arxiv.org/abs/2303.12729v1)|null|
 |**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078v1](http://arxiv.org/abs/2303.12078v1)|null|
 |**2023-03-21**|**CC3D: Layout-Conditioned Generation of Compositional 3D Scenes**|Sherwin Bahmani et.al.|[2303.12074v1](http://arxiv.org/abs/2303.12074v1)|null|
@@ -605,6 +621,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
+|**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v1](http://arxiv.org/abs/2303.12787v1)|null|
+|**2023-03-22**|**Localization-based OFDM framework for RIS-aided systems**|Fabio Saggese et.al.|[2303.12763v1](http://arxiv.org/abs/2303.12763v1)|null|
+|**2023-03-22**|**MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset**|Chen Feng et.al.|[2303.12756v1](http://arxiv.org/abs/2303.12756v1)|**[link](https://github.com/MrChenFeng/MaskCon_CVPR2023)**|
+|**2023-03-22**|**Invariants for time-dependent Hamiltonian systems**|Jürgen Struckmeier et.al.|[2303.12746v1](http://arxiv.org/abs/2303.12746v1)|null|
+|**2023-03-22**|**Comment on the elastica section in Thorne and Blandford "Modern Classical Physics", the shape of things, and the aspect ratio of reality**|J. A. Hanna et.al.|[2303.12729v1](http://arxiv.org/abs/2303.12729v1)|null|
 |**2023-03-21**|**Natural Language-Assisted Sign Language Recognition**|Ronglai Zuo et.al.|[2303.12080v1](http://arxiv.org/abs/2303.12080v1)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2023-03-21**|**Two-shot Video Object Segmentation**|Kun Yan et.al.|[2303.12078v1](http://arxiv.org/abs/2303.12078v1)|null|
 |**2023-03-21**|**CC3D: Layout-Conditioned Generation of Compositional 3D Scenes**|Sherwin Bahmani et.al.|[2303.12074v1](http://arxiv.org/abs/2303.12074v1)|null|
