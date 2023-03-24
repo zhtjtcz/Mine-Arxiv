@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Ablating Concepts in Text-to-Image Diffusion Models**|Nupur Kumari et.al.|[2303.13516v1](http://arxiv.org/abs/2303.13516v1)|**[link](https://github.com/nupurkmr9/concept-ablation)**|
+|**2023-03-23**|**ReVersion: Diffusion-Based Relation Inversion from Images**|Ziqi Huang et.al.|[2303.13495v1](http://arxiv.org/abs/2303.13495v1)|**[link](https://github.com/ziqihuangg/reversion)**|
+|**2023-03-23**|**Scaling laws of two-dimensional incompressible turbulent transport**|D. I. Palade et.al.|[2303.13457v1](http://arxiv.org/abs/2303.13457v1)|null|
+|**2023-03-23**|**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**|Levon Khachatryan et.al.|[2303.13439v1](http://arxiv.org/abs/2303.13439v1)|**[link](https://github.com/picsart-ai-research/text2video-zero)**|
+|**2023-03-23**|**Medical diffusion on a budget: textual inversion for medical image generation**|Bram de Wilde et.al.|[2303.13430v1](http://arxiv.org/abs/2303.13430v1)|null|
+|**2023-03-23**|**DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video**|Ce Zheng et.al.|[2303.13397v1](http://arxiv.org/abs/2303.13397v1)|null|
+|**2023-03-23**|**Audio Diffusion Model for Speech Synthesis: A Survey on Text To Speech and Speech Enhancement in Generative AI**|Chenshuang Zhang et.al.|[2303.13336v1](http://arxiv.org/abs/2303.13336v1)|null|
+|**2023-03-23**|**Decentralized Adversarial Training over Graphs**|Ying Cao et.al.|[2303.13326v1](http://arxiv.org/abs/2303.13326v1)|null|
+|**2023-03-23**|**Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based Stochastic Image Generation**|Matthew Tivnan et.al.|[2303.13285v1](http://arxiv.org/abs/2303.13285v1)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
@@ -212,6 +221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not**|Aneeshan Sain et.al.|[2303.13440v1](http://arxiv.org/abs/2303.13440v1)|null|
+|**2023-03-23**|**Defining Quality Requirements for a Trustworthy AI Wildflower Monitoring Platform**|Petra Heck et.al.|[2303.13151v1](http://arxiv.org/abs/2303.13151v1)|null|
 |**2023-03-22**|**Evaluation of Sketch-Based and Semantic-Based Modalities for Mockup Generation**|Tommaso Calò et.al.|[2303.12709v1](http://arxiv.org/abs/2303.12709v1)|null|
 |**2023-03-22**|**An Extended Study of Human-like Behavior under Adversarial Training**|Paul Gavrikov et.al.|[2303.12669v1](http://arxiv.org/abs/2303.12669v1)|null|
 |**2023-03-22**|**RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset**|Zhongjin Luo et.al.|[2303.12564v1](http://arxiv.org/abs/2303.12564v1)|null|
@@ -351,6 +362,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Ablating Concepts in Text-to-Image Diffusion Models**|Nupur Kumari et.al.|[2303.13516v1](http://arxiv.org/abs/2303.13516v1)|**[link](https://github.com/nupurkmr9/concept-ablation)**|
+|**2023-03-23**|**Persistent Nature: A Generative Model of Unbounded 3D Worlds**|Lucy Chai et.al.|[2303.13515v1](http://arxiv.org/abs/2303.13515v1)|null|
+|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|null|
+|**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
+|**2023-03-23**|**Chordal Averaging on Flag Manifolds and Its Applications**|Nathan Mankovich et.al.|[2303.13501v1](http://arxiv.org/abs/2303.13501v1)|null|
+|**2023-03-23**|**A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias**|Puja Trivedi et.al.|[2303.13500v1](http://arxiv.org/abs/2303.13500v1)|null|
+|**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
 |**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v1](http://arxiv.org/abs/2303.12787v1)|null|
 |**2023-03-22**|**Localization-based OFDM framework for RIS-aided systems**|Fabio Saggese et.al.|[2303.12763v1](http://arxiv.org/abs/2303.12763v1)|null|
@@ -621,6 +639,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Ablating Concepts in Text-to-Image Diffusion Models**|Nupur Kumari et.al.|[2303.13516v1](http://arxiv.org/abs/2303.13516v1)|**[link](https://github.com/nupurkmr9/concept-ablation)**|
+|**2023-03-23**|**Persistent Nature: A Generative Model of Unbounded 3D Worlds**|Lucy Chai et.al.|[2303.13515v1](http://arxiv.org/abs/2303.13515v1)|null|
+|**2023-03-23**|**DreamBooth3D: Subject-Driven Text-to-3D Generation**|Amit Raj et.al.|[2303.13508v1](http://arxiv.org/abs/2303.13508v1)|null|
+|**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
+|**2023-03-23**|**Chordal Averaging on Flag Manifolds and Its Applications**|Nathan Mankovich et.al.|[2303.13501v1](http://arxiv.org/abs/2303.13501v1)|null|
+|**2023-03-23**|**A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias**|Puja Trivedi et.al.|[2303.13500v1](http://arxiv.org/abs/2303.13500v1)|null|
+|**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|null|
 |**2023-03-22**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2303.12787v1](http://arxiv.org/abs/2303.12787v1)|null|
 |**2023-03-22**|**Localization-based OFDM framework for RIS-aided systems**|Fabio Saggese et.al.|[2303.12763v1](http://arxiv.org/abs/2303.12763v1)|null|
