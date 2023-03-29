@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
+|**2023-03-28**|**Diffusion Maps for Group-Invariant Manifolds**|Paulina Hoyos et.al.|[2303.16169v1](http://arxiv.org/abs/2303.16169v1)|null|
+|**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
 |**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435v1](http://arxiv.org/abs/2303.15435v1)|null|
 |**2023-03-27**|**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**|Thanh Van Le et.al.|[2303.15433v1](http://arxiv.org/abs/2303.15433v1)|**[link](https://github.com/vinairesearch/anti-dreambooth)**|
 |**2023-03-27**|**Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation**|Susung Hong et.al.|[2303.15413v1](http://arxiv.org/abs/2303.15413v1)|null|
@@ -228,6 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
 |**2023-03-27**|**What Can Human Sketches Do for Object Detection?**|Pinaki Nath Chowdhury et.al.|[2303.15149v1](http://arxiv.org/abs/2303.15149v1)|null|
 |**2023-03-25**|**Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style**|Fengyin Lin et.al.|[2303.14348v1](http://arxiv.org/abs/2303.14348v1)|**[link](https://github.com/buptlinfy/zse-sbir)**|
 |**2023-03-24**|**Feature Space Sketching for Logistic Regression**|Gregory Dexter et.al.|[2303.14284v1](http://arxiv.org/abs/2303.14284v1)|null|
@@ -383,6 +388,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
+|**2023-03-28**|**Planning with Sequence Models through Iterative Energy Minimization**|Hongyi Chen et.al.|[2303.16189v1](http://arxiv.org/abs/2303.16189v1)|null|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
+|**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178v1](http://arxiv.org/abs/2303.16178v1)|null|
 |**2023-03-27**|**IRFL: Image Recognition of Figurative Language**|Ron Yosef et.al.|[2303.15445v1](http://arxiv.org/abs/2303.15445v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|null|
 |**2023-03-27**|**FaceLit: Neural 3D Relightable Faces**|Anurag Ranjan et.al.|[2303.15437v1](http://arxiv.org/abs/2303.15437v1)|null|
@@ -673,6 +684,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
+|**2023-03-28**|**Planning with Sequence Models through Iterative Energy Minimization**|Hongyi Chen et.al.|[2303.16189v1](http://arxiv.org/abs/2303.16189v1)|null|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
+|**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178v1](http://arxiv.org/abs/2303.16178v1)|null|
 |**2023-03-27**|**IRFL: Image Recognition of Figurative Language**|Ron Yosef et.al.|[2303.15445v1](http://arxiv.org/abs/2303.15445v1)|null|
 |**2023-03-27**|**Zero-shot Model Diagnosis**|Jinqi Luo et.al.|[2303.15441v1](http://arxiv.org/abs/2303.15441v1)|null|
 |**2023-03-27**|**FaceLit: Neural 3D Relightable Faces**|Anurag Ranjan et.al.|[2303.15437v1](http://arxiv.org/abs/2303.15437v1)|null|
