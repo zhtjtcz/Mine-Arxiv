@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
+|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v1](http://arxiv.org/abs/2303.16765v1)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
+|**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611v1](http://arxiv.org/abs/2303.16611v1)|**[link](https://github.com/zoukaifeng/4dfm)**|
+|**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576v1](http://arxiv.org/abs/2303.16576v1)|null|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
 |**2023-03-28**|**Diffusion Maps for Group-Invariant Manifolds**|Paulina Hoyos et.al.|[2303.16169v1](http://arxiv.org/abs/2303.16169v1)|null|
@@ -236,6 +240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769v1](http://arxiv.org/abs/2303.16769v1)|null|
 |**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
 |**2023-03-27**|**What Can Human Sketches Do for Object Detection?**|Pinaki Nath Chowdhury et.al.|[2303.15149v1](http://arxiv.org/abs/2303.15149v1)|null|
 |**2023-03-25**|**Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style**|Fengyin Lin et.al.|[2303.14348v1](http://arxiv.org/abs/2303.14348v1)|**[link](https://github.com/buptlinfy/zse-sbir)**|
@@ -328,6 +333,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**AirLine: Efficient Learnable Line Detection with Local Edge Voting**|Xiao Lin et.al.|[2303.16500v1](http://arxiv.org/abs/2303.16500v1)|null|
+|**2023-03-29**|**Multi-View Azimuth Stereo via Tangent Space Consistency**|Xu Cao et.al.|[2303.16447v1](http://arxiv.org/abs/2303.16447v1)|**[link](https://github.com/xucao-42/mvas)**|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060v1](http://arxiv.org/abs/2303.15060v1)|null|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
@@ -392,6 +399,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**AutoAD: Movie Description in Context**|Tengda Han et.al.|[2303.16899v1](http://arxiv.org/abs/2303.16899v1)|**[link](https://github.com/Soldelli/MAD)**|
+|**2023-03-29**|**Bagging by Learning to Singulate Layers Using Interactive Perception**|Lawrence Yunliang Chen et.al.|[2303.16898v1](http://arxiv.org/abs/2303.16898v1)|null|
+|**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
+|**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
+|**2023-03-29**|**Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations**|Vibashan VS et.al.|[2303.16891v1](http://arxiv.org/abs/2303.16891v1)|null|
+|**2023-03-29**|**DPF: Learning Dense Prediction Fields with Weak Supervision**|Xiaoxue Chen et.al.|[2303.16890v1](http://arxiv.org/abs/2303.16890v1)|**[link](https://github.com/cxx226/dpf)**|
+|**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
+|**2023-03-29**|**End-to-End $n$ -ary Relation Extraction for Combination Drug Therapies**|Yuhang Jiang et.al.|[2303.16886v1](http://arxiv.org/abs/2303.16886v1)|**[link](https://github.com/bionlproc/end-to-end-combdrugext)**|
+|**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|null|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
@@ -688,6 +704,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**AutoAD: Movie Description in Context**|Tengda Han et.al.|[2303.16899v1](http://arxiv.org/abs/2303.16899v1)|**[link](https://github.com/Soldelli/MAD)**|
+|**2023-03-29**|**Bagging by Learning to Singulate Layers Using Interactive Perception**|Lawrence Yunliang Chen et.al.|[2303.16898v1](http://arxiv.org/abs/2303.16898v1)|null|
+|**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
+|**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
+|**2023-03-29**|**Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations**|Vibashan VS et.al.|[2303.16891v1](http://arxiv.org/abs/2303.16891v1)|null|
+|**2023-03-29**|**DPF: Learning Dense Prediction Fields with Weak Supervision**|Xiaoxue Chen et.al.|[2303.16890v1](http://arxiv.org/abs/2303.16890v1)|**[link](https://github.com/cxx226/dpf)**|
+|**2023-03-29**|**Towards Understanding the Effect of Pretraining Label Granularity**|Guan Zhe Hong et.al.|[2303.16887v1](http://arxiv.org/abs/2303.16887v1)|null|
+|**2023-03-29**|**End-to-End $n$ -ary Relation Extraction for Combination Drug Therapies**|Yuhang Jiang et.al.|[2303.16886v1](http://arxiv.org/abs/2303.16886v1)|**[link](https://github.com/bionlproc/end-to-end-combdrugext)**|
+|**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|null|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-03-28**|**BC-IRL: Learning Generalizable Reward Functions from Demonstrations**|Andrew Szot et.al.|[2303.16194v1](http://arxiv.org/abs/2303.16194v1)|null|
