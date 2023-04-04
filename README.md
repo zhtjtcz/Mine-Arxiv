@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182v1](http://arxiv.org/abs/2304.01182v1)|null|
+|**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116v1](http://arxiv.org/abs/2304.01116v1)|null|
+|**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053v1](http://arxiv.org/abs/2304.01053v1)|null|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
 |**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242v1](http://arxiv.org/abs/2303.18242v1)|**[link](https://github.com/samb-t/infty-diff)**|
 |**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080v1](http://arxiv.org/abs/2303.18080v1)|null|
@@ -247,6 +251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|null|
+|**2023-03-31**|**Almost Linear Constant-Factor Sketching for $\ell_1$ and Logistic Regression**|Alexander Munteanu et.al.|[2304.00051v1](http://arxiv.org/abs/2304.00051v1)|null|
 |**2023-03-30**|**If At First You Don't Succeed: Test Time Re-ranking for Zero-shot, Cross-domain Retrieval**|Finlay G. C. Hudson et.al.|[2303.17703v1](http://arxiv.org/abs/2303.17703v1)|null|
 |**2023-03-30**|**Methods and advancement of content-based fashion image retrieval: A Review**|Amin Muhammad Shoib et.al.|[2303.17371v1](http://arxiv.org/abs/2303.17371v1)|null|
 |**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769v1](http://arxiv.org/abs/2303.16769v1)|null|
@@ -342,6 +348,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**One-Shot View Planning for Fast and Complete Unknown Object Reconstruction**|Sicong Pan et.al.|[2304.00910v1](http://arxiv.org/abs/2304.00910v1)|null|
+|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|null|
 |**2023-04-03**|**Three-dimensional coherent diffraction snapshot imaging using extreme ultraviolet radiation from a free electron laser**|Danny Fainozzi et.al.|[2303.18166v2](http://arxiv.org/abs/2303.18166v2)|null|
 |**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-29**|**AirLine: Efficient Learnable Line Detection with Local Edge Voting**|Xiao Lin et.al.|[2303.16500v1](http://arxiv.org/abs/2303.16500v1)|**[link](https://github.com/sair-lab/airline)**|
@@ -410,6 +418,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Video Instance Segmentation in an Open-World**|Omkar Thawakar et.al.|[2304.01200v1](http://arxiv.org/abs/2304.01200v1)|**[link](https://github.com/omkarthawakar/owvisformer)**|
+|**2023-04-03**|**Zero-Shot Semantic Segmentation with Decoupled One-Pass Network**|Cong Han et.al.|[2304.01198v1](http://arxiv.org/abs/2304.01198v1)|null|
+|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
+|**2023-04-03**|**Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**|Canwen Xu et.al.|[2304.01196v1](http://arxiv.org/abs/2304.01196v1)|**[link](https://github.com/project-baize/baize)**|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
+|**2023-04-03**|**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**|Yue Ma et.al.|[2304.01186v1](http://arxiv.org/abs/2304.01186v1)|**[link](https://github.com/mayuelala/followyourpose)**|
+|**2023-04-03**|**Whistler Wave Observations by \textit{Parker Solar Probe} During Encounter $1$ : Counter-Propagating Whistlers Collocated with Magnetic Field Inhomogeneities and their Application to Electric Field Measurement Calibration**|S. Karbashewski et.al.|[2304.01185v1](http://arxiv.org/abs/2304.01185v1)|null|
 |**2023-03-31**|**Towards Flexible Multi-modal Document Models**|Naoto Inoue et.al.|[2303.18248v1](http://arxiv.org/abs/2303.18248v1)|null|
 |**2023-03-31**|**Speeding up Madgraph5 aMC@NLO through CPU vectorization and GPU offloading: towards a first alpha release**|Andrea Valassi et.al.|[2303.18244v1](http://arxiv.org/abs/2303.18244v1)|null|
 |**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242v1](http://arxiv.org/abs/2303.18242v1)|**[link](https://github.com/samb-t/infty-diff)**|
@@ -730,6 +745,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Video Instance Segmentation in an Open-World**|Omkar Thawakar et.al.|[2304.01200v1](http://arxiv.org/abs/2304.01200v1)|**[link](https://github.com/omkarthawakar/owvisformer)**|
+|**2023-04-03**|**Zero-Shot Semantic Segmentation with Decoupled One-Pass Network**|Cong Han et.al.|[2304.01198v1](http://arxiv.org/abs/2304.01198v1)|null|
+|**2023-04-03**|**Bringing Telepresence to Every Desk**|Shengze Wang et.al.|[2304.01197v1](http://arxiv.org/abs/2304.01197v1)|null|
+|**2023-04-03**|**Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data**|Canwen Xu et.al.|[2304.01196v1](http://arxiv.org/abs/2304.01196v1)|**[link](https://github.com/project-baize/baize)**|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
+|**2023-04-03**|**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos**|Yue Ma et.al.|[2304.01186v1](http://arxiv.org/abs/2304.01186v1)|**[link](https://github.com/mayuelala/followyourpose)**|
+|**2023-04-03**|**Whistler Wave Observations by \textit{Parker Solar Probe} During Encounter $1$ : Counter-Propagating Whistlers Collocated with Magnetic Field Inhomogeneities and their Application to Electric Field Measurement Calibration**|S. Karbashewski et.al.|[2304.01185v1](http://arxiv.org/abs/2304.01185v1)|null|
 |**2023-03-31**|**Towards Flexible Multi-modal Document Models**|Naoto Inoue et.al.|[2303.18248v1](http://arxiv.org/abs/2303.18248v1)|null|
 |**2023-03-31**|**Speeding up Madgraph5 aMC@NLO through CPU vectorization and GPU offloading: towards a first alpha release**|Andrea Valassi et.al.|[2303.18244v1](http://arxiv.org/abs/2303.18244v1)|null|
 |**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242v1](http://arxiv.org/abs/2303.18242v1)|**[link](https://github.com/samb-t/infty-diff)**|
