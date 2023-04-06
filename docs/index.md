@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
+|**2023-04-05**|**An atlas of the heterogeneous viscoelastic brain with local power-law attenuation synthesised using Prony-series**|Oisin Morrison et.al.|[2304.02610v1](http://arxiv.org/abs/2304.02610v1)|null|
+|**2023-04-05**|**Generative Novel View Synthesis with 3D-Aware Diffusion Models**|Eric R. Chan et.al.|[2304.02602v1](http://arxiv.org/abs/2304.02602v1)|null|
+|**2023-04-05**|**Diffusion across a concentration step: Strongly nonmonotonic evolution into thermodynamic equilibrium**|Hans R. Moser et.al.|[2304.02557v1](http://arxiv.org/abs/2304.02557v1)|null|
 |**2023-04-04**|**viz2viz: Prompt-driven stylized visualization generation using a diffusion model**|Jiaqi Wu et.al.|[2304.01919v1](http://arxiv.org/abs/2304.01919v1)|null|
 |**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900v1](http://arxiv.org/abs/2304.01900v1)|null|
 |**2023-04-04**|**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**|Davis Rempe et.al.|[2304.01893v1](http://arxiv.org/abs/2304.01893v1)|null|
@@ -260,6 +265,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks**|Zejiang Shen et.al.|[2304.02623v1](http://arxiv.org/abs/2304.02623v1)|null|
+|**2023-04-05**|**Optimal Sketching Bounds for Sparse Linear Regression**|Tung Mai et.al.|[2304.02261v1](http://arxiv.org/abs/2304.02261v1)|null|
+|**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214v1](http://arxiv.org/abs/2304.02214v1)|null|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|null|
 |**2023-03-31**|**Almost Linear Constant-Factor Sketching for $\ell_1$ and Logistic Regression**|Alexander Munteanu et.al.|[2304.00051v1](http://arxiv.org/abs/2304.00051v1)|**[link](https://github.com/tim907/oblivious_sketching_varreglogreg)**|
 |**2023-03-30**|**If At First You Don't Succeed: Test Time Re-ranking for Zero-shot, Cross-domain Retrieval**|Finlay G. C. Hudson et.al.|[2303.17703v1](http://arxiv.org/abs/2303.17703v1)|null|
@@ -430,6 +439,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
+|**2023-04-05**|**ENTL: Embodied Navigation Trajectory Learner**|Klemen Kotar et.al.|[2304.02639v1](http://arxiv.org/abs/2304.02639v1)|null|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
+|**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
+|**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
+|**2023-04-05**|**High-fidelity Pseudo-labels for Boosting Weakly-Supervised Segmentation**|Arvi Jonnarth et.al.|[2304.02621v1](http://arxiv.org/abs/2304.02621v1)|null|
 |**2023-04-04**|**Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT**|Yinlin Deng et.al.|[2304.02014v1](http://arxiv.org/abs/2304.02014v1)|null|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
@@ -764,6 +779,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
+|**2023-04-05**|**ENTL: Embodied Navigation Trajectory Learner**|Klemen Kotar et.al.|[2304.02639v1](http://arxiv.org/abs/2304.02639v1)|null|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
+|**2023-04-05**|**HNeRV: A Hybrid Neural Representation for Videos**|Hao Chen et.al.|[2304.02633v1](http://arxiv.org/abs/2304.02633v1)|**[link](https://github.com/haochen-rye/hnerv)**|
+|**2023-04-05**|**Towards Explainable AI Writing Assistants for Non-native English Speakers**|Yewon Kim et.al.|[2304.02625v1](http://arxiv.org/abs/2304.02625v1)|null|
+|**2023-04-05**|**High-fidelity Pseudo-labels for Boosting Weakly-Supervised Segmentation**|Arvi Jonnarth et.al.|[2304.02621v1](http://arxiv.org/abs/2304.02621v1)|null|
 |**2023-04-04**|**Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT**|Yinlin Deng et.al.|[2304.02014v1](http://arxiv.org/abs/2304.02014v1)|null|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-04-04**|**EGC: Image Generation and Classification via a Single Energy-Based Model**|Qiushan Guo et.al.|[2304.02012v1](http://arxiv.org/abs/2304.02012v1)|**[link](https://github.com/guoqiushan/egc)**|
