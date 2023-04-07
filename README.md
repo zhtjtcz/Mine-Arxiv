@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
+|**2023-04-06**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246v1](http://arxiv.org/abs/2304.03246v1)|null|
+|**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199v1](http://arxiv.org/abs/2304.03199v1)|null|
+|**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174v1](http://arxiv.org/abs/2304.03174v1)|null|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
 |**2023-04-05**|**An atlas of the heterogeneous viscoelastic brain with local power-law attenuation synthesised using Prony-series**|Oisin Morrison et.al.|[2304.02610v1](http://arxiv.org/abs/2304.02610v1)|null|
@@ -261,6 +265,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174v1](http://arxiv.org/abs/2304.03174v1)|null|
+|**2023-04-06**|**LSketch: A Label-Enabled Graph Stream Sketch Toward Time-Sensitive Queries**|Yiling Zeng et.al.|[2304.02897v1](http://arxiv.org/abs/2304.02897v1)|null|
+|**2023-04-05**|**Tracing and Visualizing Human-ML/AI Collaborative Processes through Artifacts of Data Work**|Jennifer Rogers and et.al.|[2304.02699v1](http://arxiv.org/abs/2304.02699v1)|null|
 |**2023-04-05**|**Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks**|Zejiang Shen et.al.|[2304.02623v1](http://arxiv.org/abs/2304.02623v1)|null|
 |**2023-04-05**|**Optimal Sketching Bounds for Sparse Linear Regression**|Tung Mai et.al.|[2304.02261v1](http://arxiv.org/abs/2304.02261v1)|null|
 |**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214v1](http://arxiv.org/abs/2304.02214v1)|null|
@@ -362,6 +369,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**|Zian Wang et.al.|[2304.03266v1](http://arxiv.org/abs/2304.03266v1)|null|
+|**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini et.al.|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|null|
+|**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
+|**2023-04-05**|**Real-Time Dense 3D Mapping of Underwater Environments**|Weihan Wang et.al.|[2304.02704v1](http://arxiv.org/abs/2304.02704v1)|null|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**End-to-End Latency Optimization of Multi-view 3D Reconstruction for Disaster Response**|Xiaojie Zhang et.al.|[2304.01488v1](http://arxiv.org/abs/2304.01488v1)|null|
 |**2023-04-04**|**FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction**|Noah Stier et.al.|[2304.01480v1](http://arxiv.org/abs/2304.01480v1)|null|
@@ -435,6 +446,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**How Do US Congress Members Advertise Climate Change: An Analysis Of Ads Run On Meta's Platforms**|Laurenz Aisenpreis et.al.|[2304.03278v1](http://arxiv.org/abs/2304.03278v1)|null|
+|**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|null|
+|**2023-04-06**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275v1](http://arxiv.org/abs/2304.03275v1)|null|
+|**2023-04-06**|**Towards self-driving laboratories in chemistry and materials sciences: The central role of DFT in the era of AI**|Bing Huang et.al.|[2304.03272v1](http://arxiv.org/abs/2304.03272v1)|null|
+|**2023-04-06**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265v1](http://arxiv.org/abs/2304.03265v1)|null|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
 |**2023-04-05**|**ENTL: Embodied Navigation Trajectory Learner**|Klemen Kotar et.al.|[2304.02639v1](http://arxiv.org/abs/2304.02639v1)|null|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
@@ -775,6 +793,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**How Do US Congress Members Advertise Climate Change: An Analysis Of Ads Run On Meta's Platforms**|Laurenz Aisenpreis et.al.|[2304.03278v1](http://arxiv.org/abs/2304.03278v1)|null|
+|**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|null|
+|**2023-04-06**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275v1](http://arxiv.org/abs/2304.03275v1)|null|
+|**2023-04-06**|**Towards self-driving laboratories in chemistry and materials sciences: The central role of DFT in the era of AI**|Bing Huang et.al.|[2304.03272v1](http://arxiv.org/abs/2304.03272v1)|null|
+|**2023-04-06**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265v1](http://arxiv.org/abs/2304.03265v1)|null|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
 |**2023-04-05**|**ENTL: Embodied Navigation Trajectory Learner**|Klemen Kotar et.al.|[2304.02639v1](http://arxiv.org/abs/2304.02639v1)|null|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
