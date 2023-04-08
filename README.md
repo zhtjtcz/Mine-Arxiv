@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
 |**2023-04-06**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246v1](http://arxiv.org/abs/2304.03246v1)|null|
-|**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199v1](http://arxiv.org/abs/2304.03199v1)|null|
+|**2023-04-06**|**Face Animation with an Attribute-Guided Diffusion Model**|Bohan Zeng et.al.|[2304.03199v1](http://arxiv.org/abs/2304.03199v1)|**[link](https://github.com/zengbohan0217/fadm)**|
 |**2023-04-06**|**SketchFFusion: Sketch-guided image editing with diffusion model**|Weihang Mao et.al.|[2304.03174v1](http://arxiv.org/abs/2304.03174v1)|null|
 |**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
 |**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
@@ -270,7 +270,7 @@
 |**2023-04-05**|**Tracing and Visualizing Human-ML/AI Collaborative Processes through Artifacts of Data Work**|Jennifer Rogers and et.al.|[2304.02699v1](http://arxiv.org/abs/2304.02699v1)|null|
 |**2023-04-05**|**Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks**|Zejiang Shen et.al.|[2304.02623v1](http://arxiv.org/abs/2304.02623v1)|null|
 |**2023-04-05**|**Optimal Sketching Bounds for Sparse Linear Regression**|Tung Mai et.al.|[2304.02261v1](http://arxiv.org/abs/2304.02261v1)|null|
-|**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214v1](http://arxiv.org/abs/2304.02214v1)|null|
+|**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214v1](http://arxiv.org/abs/2304.02214v1)|**[link](https://github.com/abin333/logonet)**|
 |**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|null|
 |**2023-03-31**|**Almost Linear Constant-Factor Sketching for $\ell_1$ and Logistic Regression**|Alexander Munteanu et.al.|[2304.00051v1](http://arxiv.org/abs/2304.00051v1)|**[link](https://github.com/tim907/oblivious_sketching_varreglogreg)**|
@@ -372,7 +372,7 @@
 |**2023-04-06**|**Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**|Zian Wang et.al.|[2304.03266v1](http://arxiv.org/abs/2304.03266v1)|null|
 |**2023-04-06**|**DeLiRa: Self-Supervised Depth, Light, and Radiance Fields**|Vitor Guizilini et.al.|[2304.02797v1](http://arxiv.org/abs/2304.02797v1)|null|
 |**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
-|**2023-04-05**|**Real-Time Dense 3D Mapping of Underwater Environments**|Weihan Wang et.al.|[2304.02704v1](http://arxiv.org/abs/2304.02704v1)|null|
+|**2023-04-05**|**Real-Time Dense 3D Mapping of Underwater Environments**|Weihan Wang et.al.|[2304.02704v1](http://arxiv.org/abs/2304.02704v1)|**[link](https://github.com/kbatsos/real-time-stereo)**|
 |**2023-04-04**|**USTC FLICAR: A Multisensor Fusion Dataset of LiDAR-Inertial-Camera for Heavy-duty Autonomous Aerial Work Robots**|Ziming Wang et.al.|[2304.01986v1](http://arxiv.org/abs/2304.01986v1)|null|
 |**2023-04-04**|**End-to-End Latency Optimization of Multi-view 3D Reconstruction for Disaster Response**|Xiaojie Zhang et.al.|[2304.01488v1](http://arxiv.org/abs/2304.01488v1)|null|
 |**2023-04-04**|**FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction**|Noah Stier et.al.|[2304.01480v1](http://arxiv.org/abs/2304.01480v1)|null|
