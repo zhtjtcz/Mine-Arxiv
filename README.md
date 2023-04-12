@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364v1](http://arxiv.org/abs/2304.05364v1)|null|
+|**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198v1](http://arxiv.org/abs/2304.05198v1)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745v1](http://arxiv.org/abs/2304.04745v1)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
 |**2023-04-10**|**Sequential Recommendation with Diffusion Models**|Hanwen Du et.al.|[2304.04541v1](http://arxiv.org/abs/2304.04541v1)|null|
@@ -378,6 +381,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|**[link](https://github.com/daniilidis-group/EvAC3D)**|
+|**2023-04-10**|**Neural Lens Modeling**|Wenqi Xian et.al.|[2304.04848v1](http://arxiv.org/abs/2304.04848v1)|null|
 |**2023-04-10**|**Evaluate Geometry of Radiance Field with Low-frequency Color Prior**|Qihang Fang et.al.|[2304.04351v1](http://arxiv.org/abs/2304.04351v1)|**[link](https://github.com/qihanggh/imrc)**|
 |**2023-04-11**|**Analysis of Sampling Strategies for Implicit 3D Reconstruction**|Q. Liu et.al.|[2304.03999v2](http://arxiv.org/abs/2304.03999v2)|null|
 |**2023-04-08**|**3D GANs and Latent Space: A comprehensive survey**|Satya Pratheek Tata et.al.|[2304.03932v1](http://arxiv.org/abs/2304.03932v1)|null|
@@ -460,6 +465,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Human-AI Co-Creation Approach to Find Forever Chemicals Replacements**|Juliana Jansen Ferreira et.al.|[2304.05389v1](http://arxiv.org/abs/2304.05389v1)|null|
+|**2023-04-11**|**MOST: Multiple Object localization with Self-supervised Transformers for object discovery**|Sai Saketh Rambhatla et.al.|[2304.05387v1](http://arxiv.org/abs/2304.05387v1)|null|
+|**2023-04-11**|**Bloom filters for molecules**|Jorge Medina et.al.|[2304.05386v1](http://arxiv.org/abs/2304.05386v1)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745v1](http://arxiv.org/abs/2304.04745v1)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
 |**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
@@ -815,6 +824,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Human-AI Co-Creation Approach to Find Forever Chemicals Replacements**|Juliana Jansen Ferreira et.al.|[2304.05389v1](http://arxiv.org/abs/2304.05389v1)|null|
+|**2023-04-11**|**MOST: Multiple Object localization with Self-supervised Transformers for object discovery**|Sai Saketh Rambhatla et.al.|[2304.05387v1](http://arxiv.org/abs/2304.05387v1)|null|
+|**2023-04-11**|**Bloom filters for molecules**|Jorge Medina et.al.|[2304.05386v1](http://arxiv.org/abs/2304.05386v1)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745v1](http://arxiv.org/abs/2304.04745v1)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
 |**2023-04-10**|**On the Possibilities of AI-Generated Text Detection**|Souradip Chakraborty et.al.|[2304.04736v1](http://arxiv.org/abs/2304.04736v1)|null|
