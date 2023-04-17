@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**A Comparative Study on Generative Models for High Resolution Solar Observation Imaging**|Mehdi Cherti et.al.|[2304.07169v1](http://arxiv.org/abs/2304.07169v1)|null|
+|**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132v1](http://arxiv.org/abs/2304.07132v1)|null|
+|**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090v1](http://arxiv.org/abs/2304.07090v1)|null|
+|**2023-04-14**|**Memory Efficient Diffusion Probabilistic Models via Patch-based Generation**|Shinei Arakawa et.al.|[2304.07087v1](http://arxiv.org/abs/2304.07087v1)|null|
+|**2023-04-14**|**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**|Minchul Kim et.al.|[2304.07060v1](http://arxiv.org/abs/2304.07060v1)|**[link](https://github.com/mk-minchul/dcface)**|
+|**2023-04-14**|**A Diffusion model for POI recommendation**|Yifang Qin et.al.|[2304.07041v1](http://arxiv.org/abs/2304.07041v1)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**|Zheng Ding et.al.|[2304.06711v1](http://arxiv.org/abs/2304.06711v1)|null|
@@ -285,6 +291,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice**|Andrea Gadotti et.al.|[2304.07134v1](http://arxiv.org/abs/2304.07134v1)|null|
+|**2023-04-14**|**On deterministic, constant memory triangular searches on the integer lattice**|J. Alfredo Cruz-Carlon et.al.|[2304.07033v1](http://arxiv.org/abs/2304.07033v1)|null|
 |**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700v1](http://arxiv.org/abs/2304.06700v1)|null|
 |**2023-04-13**|**On streaming approximation algorithms for constraint satisfaction problems**|Noah G. Singer et.al.|[2304.06664v1](http://arxiv.org/abs/2304.06664v1)|null|
 |**2023-04-13**|**Solving Tensor Low Cycle Rank Approximation**|Yichuan Deng et.al.|[2304.06594v1](http://arxiv.org/abs/2304.06594v1)|null|
@@ -484,6 +492,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
+|**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
+|**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
+|**2023-04-14**|**Beyond Planarity: A Spring-Based Approach**|Simon van Wageningen et.al.|[2304.07274v1](http://arxiv.org/abs/2304.07274v1)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
@@ -858,6 +870,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
+|**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
+|**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
+|**2023-04-14**|**Beyond Planarity: A Spring-Based Approach**|Simon van Wageningen et.al.|[2304.07274v1](http://arxiv.org/abs/2304.07274v1)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
