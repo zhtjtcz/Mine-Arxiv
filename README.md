@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466v1](http://arxiv.org/abs/2304.08466v1)|null|
+|**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465v1](http://arxiv.org/abs/2304.08465v1)|**[link](https://github.com/tencentarc/masactrl)**|
+|**2023-04-17**|**OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li et.al.|[2304.08408v1](http://arxiv.org/abs/2304.08408v1)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291v1](http://arxiv.org/abs/2304.08291v1)|**[link](https://github.com/algolzw/image-restoration-sde)**|
+|**2023-04-17**|**Solving stiff ordinary differential equations using physics informed neural networks (PINNs): simple recipes to improve training of vanilla-PINNs**|Hubert Baty et.al.|[2304.08289v1](http://arxiv.org/abs/2304.08289v1)|null|
 |**2023-04-14**|**A Comparative Study on Generative Models for High Resolution Solar Observation Imaging**|Mehdi Cherti et.al.|[2304.07169v1](http://arxiv.org/abs/2304.07169v1)|**[link](https://github.com/slampai/generative-models-for-highres-solar-images)**|
 |**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132v1](http://arxiv.org/abs/2304.07132v1)|null|
 |**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090v1](http://arxiv.org/abs/2304.07090v1)|null|
@@ -291,6 +298,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Learning Geometry-aware Representations by Sketching**|Hyundo Lee et.al.|[2304.08204v1](http://arxiv.org/abs/2304.08204v1)|null|
+|**2023-04-15**|**Learned Interpolation for Better Streaming Quantile Approximation with Worst-Case Guarantees**|Nicholas Schiefer et.al.|[2304.07652v1](http://arxiv.org/abs/2304.07652v1)|null|
+|**2023-04-15**|**Remembering Ludwig Dmitrievich Faddeev, our lifelong partner in mathematical physics**|Daniel Sternheimer et.al.|[2304.07577v1](http://arxiv.org/abs/2304.07577v1)|null|
 |**2023-04-14**|**Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice**|Andrea Gadotti et.al.|[2304.07134v1](http://arxiv.org/abs/2304.07134v1)|null|
 |**2023-04-14**|**On deterministic, constant memory triangular searches on the integer lattice**|J. Alfredo Cruz-Carlon et.al.|[2304.07033v1](http://arxiv.org/abs/2304.07033v1)|null|
 |**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700v1](http://arxiv.org/abs/2304.06700v1)|null|
@@ -405,6 +415,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|null|
+|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-12**|**Dynamic Voxel Grid Optimization for High-Fidelity RGB-D Supervised Surface Reconstruction**|Xiangyu Xu et.al.|[2304.06178v1](http://arxiv.org/abs/2304.06178v1)|null|
@@ -492,6 +504,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
+|**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|null|
+|**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
+|**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
+|**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu et.al.|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
@@ -870,6 +888,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
+|**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|null|
+|**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
+|**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
+|**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu et.al.|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
