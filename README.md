@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-14**|**A Comparative Study on Generative Models for High Resolution Solar Observation Imaging**|Mehdi Cherti et.al.|[2304.07169v1](http://arxiv.org/abs/2304.07169v1)|null|
+|**2023-04-14**|**A Comparative Study on Generative Models for High Resolution Solar Observation Imaging**|Mehdi Cherti et.al.|[2304.07169v1](http://arxiv.org/abs/2304.07169v1)|**[link](https://github.com/slampai/generative-models-for-highres-solar-images)**|
 |**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132v1](http://arxiv.org/abs/2304.07132v1)|null|
 |**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090v1](http://arxiv.org/abs/2304.07090v1)|null|
 |**2023-04-14**|**Memory Efficient Diffusion Probabilistic Models via Patch-based Generation**|Shinei Arakawa et.al.|[2304.07087v1](http://arxiv.org/abs/2304.07087v1)|null|
@@ -285,7 +285,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## sketch
 
@@ -399,7 +399,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -486,7 +486,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## generate
 
@@ -495,7 +495,7 @@
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
-|**2023-04-14**|**Beyond Planarity: A Spring-Based Approach**|Simon van Wageningen et.al.|[2304.07274v1](http://arxiv.org/abs/2304.07274v1)|null|
+|**2023-04-17**|**Identifying Cluttering Edges in Near-Planar Graphs**|Simon van Wageningen et.al.|[2304.07274v2](http://arxiv.org/abs/2304.07274v2)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
@@ -864,7 +864,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## generation
 
@@ -873,7 +873,7 @@
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
-|**2023-04-14**|**Beyond Planarity: A Spring-Based Approach**|Simon van Wageningen et.al.|[2304.07274v1](http://arxiv.org/abs/2304.07274v1)|null|
+|**2023-04-17**|**Identifying Cluttering Edges in Near-Planar Graphs**|Simon van Wageningen et.al.|[2304.07274v2](http://arxiv.org/abs/2304.07274v2)|null|
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
@@ -1242,7 +1242,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
