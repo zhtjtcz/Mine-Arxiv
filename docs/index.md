@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Monte-Carlo method for incompressible fluid flows past obstacles**|Vladislav Cherepanov et.al.|[2304.09152v1](http://arxiv.org/abs/2304.09152v1)|null|
+|**2023-04-18**|**On the seed population of solar energetic particles in the inner heliosphere**|Nicolas Wijsen et.al.|[2304.09098v1](http://arxiv.org/abs/2304.09098v1)|null|
+|**2023-04-18**|**Construction of coarse-grained molecular dynamics with many-body non-Markovian memory**|Liyao Lyu et.al.|[2304.09044v1](http://arxiv.org/abs/2304.09044v1)|null|
+|**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024v1](http://arxiv.org/abs/2304.09024v1)|**[link](https://github.com/dlr-mi/atme)**|
+|**2023-04-18**|**UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer**|Soon Yau Cheong et.al.|[2304.08870v1](http://arxiv.org/abs/2304.08870v1)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
 |**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
 |**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466v1](http://arxiv.org/abs/2304.08466v1)|null|
@@ -302,6 +307,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**GUILGET: GUI Layout GEneration with Transformer**|Andrey Sobolevsky et.al.|[2304.09012v1](http://arxiv.org/abs/2304.09012v1)|null|
+|**2023-04-18**|**Coefficient Synthesis for Threshold Automata**|A. R. Balasubramanian et.al.|[2304.08917v1](http://arxiv.org/abs/2304.08917v1)|null|
+|**2023-04-18**|**Online fair division with arbitrary entitlements**|Kushagra Chatterjee et.al.|[2304.08864v1](http://arxiv.org/abs/2304.08864v1)|null|
 |**2023-04-17**|**Learning Geometry-aware Representations by Sketching**|Hyundo Lee et.al.|[2304.08204v1](http://arxiv.org/abs/2304.08204v1)|null|
 |**2023-04-15**|**Learned Interpolation for Better Streaming Quantile Approximation with Worst-Case Guarantees**|Nicholas Schiefer et.al.|[2304.07652v1](http://arxiv.org/abs/2304.07652v1)|null|
 |**2023-04-15**|**Remembering Ludwig Dmitrievich Faddeev, our lifelong partner in mathematical physics**|Daniel Sternheimer et.al.|[2304.07577v1](http://arxiv.org/abs/2304.07577v1)|null|
@@ -419,6 +427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|null|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
@@ -508,6 +517,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Optimal PAC Bounds Without Uniform Convergence**|Ishaq Aden-Ali et.al.|[2304.09167v1](http://arxiv.org/abs/2304.09167v1)|null|
+|**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
 |**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
 |**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|null|
 |**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
@@ -892,6 +903,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Optimal PAC Bounds Without Uniform Convergence**|Ishaq Aden-Ali et.al.|[2304.09167v1](http://arxiv.org/abs/2304.09167v1)|null|
+|**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
 |**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
 |**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487v1](http://arxiv.org/abs/2304.08487v1)|null|
 |**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
