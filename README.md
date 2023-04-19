@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
-|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
 |**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466v1](http://arxiv.org/abs/2304.08466v1)|null|
 |**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465v1](http://arxiv.org/abs/2304.08465v1)|**[link](https://github.com/tencentarc/masactrl)**|
 |**2023-04-17**|**OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li et.al.|[2304.08408v1](http://arxiv.org/abs/2304.08408v1)|null|
@@ -292,7 +292,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## sketch
 
@@ -409,7 +409,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -417,7 +417,7 @@
 |---|---|---|---|---|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|null|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
-|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
+|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-12**|**Dynamic Voxel Grid Optimization for High-Fidelity RGB-D Supervised Surface Reconstruction**|Xiangyu Xu et.al.|[2304.06178v1](http://arxiv.org/abs/2304.06178v1)|null|
 |**2023-04-11**|**EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls**|Ziyun Wang et.al.|[2304.05296v1](http://arxiv.org/abs/2304.05296v1)|**[link](https://github.com/daniilidis-group/EvAC3D)**|
@@ -498,7 +498,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## generate
 
@@ -509,7 +509,7 @@
 |**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
 |**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu et.al.|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
-|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
@@ -882,7 +882,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## generation
 
@@ -893,7 +893,7 @@
 |**2023-04-17**|**Visual Instruction Tuning**|Haotian Liu et.al.|[2304.08485v1](http://arxiv.org/abs/2304.08485v1)|null|
 |**2023-04-17**|**Text2Performer: Text-Driven Human Video Generation**|Yuming Jiang et.al.|[2304.08483v1](http://arxiv.org/abs/2304.08483v1)|**[link](https://github.com/yumingj/text2performer)**|
 |**2023-04-17**|**Towards Robust Prompts on Vision-Language Models**|Jindong Gu et.al.|[2304.08479v1](http://arxiv.org/abs/2304.08479v1)|null|
-|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
 |**2023-04-14**|**Cross-Entropy Loss Functions: Theoretical Analysis and Applications**|Anqi Mao et.al.|[2304.07288v1](http://arxiv.org/abs/2304.07288v1)|null|
 |**2023-04-14**|**Solving Unique Games over Globally Hypercontractive Graphs**|Mitali Bafna et.al.|[2304.07284v1](http://arxiv.org/abs/2304.07284v1)|null|
 |**2023-04-14**|**Synthetically Generating Human-like Data for Sequential Decision Making Tasks via Reward-Shaped Imitation Learning**|Bryan Brandt et.al.|[2304.07280v1](http://arxiv.org/abs/2304.07280v1)|null|
@@ -1266,7 +1266,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
