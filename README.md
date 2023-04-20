@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Irregular dependence on Stokes number and non-ergodic transport of heavy inertial particles in steady laminar flows**|Anu V. S. Nath et.al.|[2304.09804v1](http://arxiv.org/abs/2304.09804v1)|null|
+|**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787v1](http://arxiv.org/abs/2304.09787v1)|null|
+|**2023-04-19**|**Signatures of heterogeneity in the statistical structure of target state aligned ensembles**|Nicolas Lenner et.al.|[2304.09719v1](http://arxiv.org/abs/2304.09719v1)|null|
 |**2023-04-18**|**Monte-Carlo method for incompressible fluid flows past obstacles**|Vladislav Cherepanov et.al.|[2304.09152v1](http://arxiv.org/abs/2304.09152v1)|null|
 |**2023-04-18**|**On the seed population of solar energetic particles in the inner heliosphere**|Nicolas Wijsen et.al.|[2304.09098v1](http://arxiv.org/abs/2304.09098v1)|null|
 |**2023-04-18**|**Construction of coarse-grained molecular dynamics with many-body non-Markovian memory**|Liyao Lyu et.al.|[2304.09044v1](http://arxiv.org/abs/2304.09044v1)|null|
@@ -303,7 +306,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-18**|**GUILGET: GUI Layout GEneration with Transformer**|Andrey Sobolevsky et.al.|[2304.09012v1](http://arxiv.org/abs/2304.09012v1)|null|
+|**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626v1](http://arxiv.org/abs/2304.09626v1)|null|
+|**2023-04-19**|**Sensitivity estimation for differentially private query processing**|Meifan Zhang et.al.|[2304.09546v1](http://arxiv.org/abs/2304.09546v1)|null|
+|**2023-04-19**|**A Protocol for Cast-as-Intended Verifiability with a Second Device**|Johannes Müller et.al.|[2304.09456v1](http://arxiv.org/abs/2304.09456v1)|null|
+|**2023-04-18**|**Optimal Eigenvalue Approximation via Sketching**|William Swartworth et.al.|[2304.09281v1](http://arxiv.org/abs/2304.09281v1)|null|
+|**2023-04-18**|**GUILGET: GUI Layout GEneration with Transformer**|Andrey Sobolevsky et.al.|[2304.09012v1](http://arxiv.org/abs/2304.09012v1)|**[link](https://github.com/dysoxor/guilget)**|
 |**2023-04-18**|**Coefficient Synthesis for Threshold Automata**|A. R. Balasubramanian et.al.|[2304.08917v1](http://arxiv.org/abs/2304.08917v1)|null|
 |**2023-04-18**|**Online fair division with arbitrary entitlements**|Kushagra Chatterjee et.al.|[2304.08864v1](http://arxiv.org/abs/2304.08864v1)|null|
 |**2023-04-17**|**Learning Geometry-aware Representations by Sketching**|Hyundo Lee et.al.|[2304.08204v1](http://arxiv.org/abs/2304.08204v1)|null|
@@ -423,8 +430,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Single-View View Synthesis with Self-Rectified Pseudo-Stereo**|Zhou Yang et.al.|[2304.09527v1](http://arxiv.org/abs/2304.09527v1)|null|
+|**2023-04-19**|**3 Dimensional Dense Reconstruction: A Review of Algorithms and Dataset**|Yangming Li et.al.|[2304.09371v1](http://arxiv.org/abs/2304.09371v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
-|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|null|
+|**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
@@ -513,6 +522,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
+|**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853v1](http://arxiv.org/abs/2304.09853v1)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
+|**2023-04-19**|**Evaluating Verifiability in Generative Search Engines**|Nelson F. Liu et.al.|[2304.09848v1](http://arxiv.org/abs/2304.09848v1)|**[link](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)**|
+|**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|**[link](https://github.com/lupantech/chameleon-llm)**|
+|**2023-04-19**|**Points of non-linearity of functions generated by random neural networks**|David Holmes et.al.|[2304.09837v1](http://arxiv.org/abs/2304.09837v1)|null|
 |**2023-04-18**|**Optimal PAC Bounds Without Uniform Convergence**|Ishaq Aden-Ali et.al.|[2304.09167v1](http://arxiv.org/abs/2304.09167v1)|null|
 |**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
 |**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
@@ -899,6 +913,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**LipsFormer: Introducing Lipschitz Continuity to Vision Transformers**|Xianbiao Qi et.al.|[2304.09856v1](http://arxiv.org/abs/2304.09856v1)|**[link](https://github.com/idea-research/lipsformer)**|
+|**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853v1](http://arxiv.org/abs/2304.09853v1)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
+|**2023-04-19**|**Evaluating Verifiability in Generative Search Engines**|Nelson F. Liu et.al.|[2304.09848v1](http://arxiv.org/abs/2304.09848v1)|**[link](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)**|
+|**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842v1](http://arxiv.org/abs/2304.09842v1)|**[link](https://github.com/lupantech/chameleon-llm)**|
+|**2023-04-19**|**Points of non-linearity of functions generated by random neural networks**|David Holmes et.al.|[2304.09837v1](http://arxiv.org/abs/2304.09837v1)|null|
 |**2023-04-18**|**Optimal PAC Bounds Without Uniform Convergence**|Ishaq Aden-Ali et.al.|[2304.09167v1](http://arxiv.org/abs/2304.09167v1)|null|
 |**2023-04-18**|**Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task**|Zihao Wu et.al.|[2304.09138v1](http://arxiv.org/abs/2304.09138v1)|null|
 |**2023-04-17**|**Conditional Generation of Audio from Video via Foley Analogies**|Yuexi Du et.al.|[2304.08490v1](http://arxiv.org/abs/2304.08490v1)|**[link](https://github.com/XYPB/CondFoleyGen)**|
