@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**The Score-Difference Flow for Implicit Generative Modeling**|Romann M. Weber et.al.|[2304.12906v1](http://arxiv.org/abs/2304.12906v1)|null|
+|**2023-04-25**|**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**|Jussi Leinonen et.al.|[2304.12891v1](http://arxiv.org/abs/2304.12891v1)|null|
+|**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824v1](http://arxiv.org/abs/2304.12824v1)|null|
+|**2023-04-25**|**A Binary Annular Phase Mask to Regulate Spherical Aberration and Allow Super-Localization in Single-Particle Tracking over Extended Depth-of-Focus**|Quentin Gresil et.al.|[2304.12774v1](http://arxiv.org/abs/2304.12774v1)|null|
+|**2023-04-25**|**Effect of trap states, ion migration and interfaces on carrier transport in single crystal, polycrystalline and thick film devices of halide perovskites CH $_3$NH$_3$PbX$_3$ (X= I, Br, Cl)**|Mohd Warish et.al.|[2304.12701v1](http://arxiv.org/abs/2304.12701v1)|null|
 |**2023-04-24**|**Analyzing the neutron and $γ$ -ray emission properties of an americium-beryllium tagged neutron source**|Hiroshi Ito et.al.|[2304.12153v1](http://arxiv.org/abs/2304.12153v1)|null|
 |**2023-04-24**|**Efficient Halftoning via Deep Reinforcement Learning**|Haitian Jiang et.al.|[2304.12152v1](http://arxiv.org/abs/2304.12152v1)|null|
 |**2023-04-24**|**Variational Diffusion Auto-encoder: Deep Latent Variable Model with Unconditional Diffusion Prior**|Georgios Batzolis et.al.|[2304.12141v1](http://arxiv.org/abs/2304.12141v1)|null|
@@ -324,6 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506v1](http://arxiv.org/abs/2304.12506v1)|null|
 |**2023-04-23**|**SketchXAI: A First Look at Explainability for Human Sketches**|Zhiyu Qu et.al.|[2304.11744v1](http://arxiv.org/abs/2304.11744v1)|null|
 |**2023-04-22**|**(Vector) Space is Not the Final Frontier: Product Search as Program Synthesis**|Jacopo Tagliabue et.al.|[2304.11473v1](http://arxiv.org/abs/2304.11473v1)|null|
 |**2023-04-21**|**The centaur programmer -- How Kasparov's Advanced Chess spans over to the software development of the future**|Pedro Alves et.al.|[2304.11172v1](http://arxiv.org/abs/2304.11172v1)|null|
@@ -451,6 +457,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata et.al.|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
+|**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
+|**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu et.al.|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
 |**2023-04-24**|**gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction**|Zerui Chen et.al.|[2304.11970v1](http://arxiv.org/abs/2304.11970v1)|null|
 |**2023-04-24**|**Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting**|Ruichen Zheng et.al.|[2304.11900v1](http://arxiv.org/abs/2304.11900v1)|null|
 |**2023-04-24**|**NoiseTrans: Point Cloud Denoising with Transformers**|Guangzhe Hou et.al.|[2304.11812v1](http://arxiv.org/abs/2304.11812v1)|null|
@@ -551,6 +560,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
+|**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024v1](http://arxiv.org/abs/2304.13024v1)|null|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|null|
+|**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019v1](http://arxiv.org/abs/2304.13019v1)|null|
+|**2023-04-25**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012v1](http://arxiv.org/abs/2304.13012v1)|null|
+|**2023-04-25**|**The Potential of Visual ChatGPT For Remote Sensing**|Lucas Prado Osco et.al.|[2304.13009v1](http://arxiv.org/abs/2304.13009v1)|null|
+|**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|**[link](https://github.com/oriyor/reasoning-on-cots)**|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**Synthpop++: A Hybrid Framework for Generating A Country-scale Synthetic Population**|Bhavesh Neekhra et.al.|[2304.12284v1](http://arxiv.org/abs/2304.12284v1)|**[link](https://github.com/k00lk0der1/synthpoppp)**|
 |**2023-04-21**|**Deep-Learning-based Fast and Accurate 3D CT Deformable Image Registration in Lung Cancer**|Yuzhen Ding et.al.|[2304.11135v1](http://arxiv.org/abs/2304.11135v1)|null|
@@ -952,6 +968,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
+|**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024v1](http://arxiv.org/abs/2304.13024v1)|null|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|null|
+|**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019v1](http://arxiv.org/abs/2304.13019v1)|null|
+|**2023-04-25**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012v1](http://arxiv.org/abs/2304.13012v1)|null|
+|**2023-04-25**|**The Potential of Visual ChatGPT For Remote Sensing**|Lucas Prado Osco et.al.|[2304.13009v1](http://arxiv.org/abs/2304.13009v1)|null|
+|**2023-04-25**|**Answering Questions by Meta-Reasoning over Multiple Chains of Thought**|Ori Yoran et.al.|[2304.13007v1](http://arxiv.org/abs/2304.13007v1)|**[link](https://github.com/oriyor/reasoning-on-cots)**|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**Synthpop++: A Hybrid Framework for Generating A Country-scale Synthetic Population**|Bhavesh Neekhra et.al.|[2304.12284v1](http://arxiv.org/abs/2304.12284v1)|**[link](https://github.com/k00lk0der1/synthpoppp)**|
 |**2023-04-21**|**Deep-Learning-based Fast and Accurate 3D CT Deformable Image Registration in Lung Cancer**|Yuzhen Ding et.al.|[2304.11135v1](http://arxiv.org/abs/2304.11135v1)|null|
