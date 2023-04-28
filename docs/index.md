@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
+|**2023-04-27**|**Functional Diffusion Maps**|María Barroso et.al.|[2304.14378v1](http://arxiv.org/abs/2304.14378v1)|null|
+|**2023-04-27**|**LDPC Decoders Prefer More Reliable Parity Bits: Unequal Data Protection Over BSC**|Beyza Dabak et.al.|[2304.14278v1](http://arxiv.org/abs/2304.14278v1)|null|
+|**2023-04-27**|**DataComp: In search of the next generation of multimodal datasets**|Samir Yitzhak Gadre et.al.|[2304.14108v1](http://arxiv.org/abs/2304.14108v1)|**[link](https://github.com/mlfoundations/datacomp)**|
 |**2023-04-26**|**Heuristic Barycenter Modeling of Fully Absorbing Receivers in Diffusive Molecular Communication Channels**|Fardad Vakilipoor et.al.|[2304.13640v1](http://arxiv.org/abs/2304.13640v1)|null|
 |**2023-04-26**|**Identifying the structure patterns to govern the performance of localization in regulating innovation diffusion**|Leyang Xue et.al.|[2304.13608v1](http://arxiv.org/abs/2304.13608v1)|null|
 |**2023-04-26**|**Bifractality of fractal scale-free networks**|Jun Yamamoto et.al.|[2304.13438v1](http://arxiv.org/abs/2304.13438v1)|null|
@@ -462,6 +468,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
 |**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata et.al.|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu et.al.|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
@@ -565,6 +573,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
+|**2023-04-27**|**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**|Minghao Wu et.al.|[2304.14402v1](http://arxiv.org/abs/2304.14402v1)|**[link](https://github.com/mbzuai-nlp/lamini-lm)**|
+|**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
+|**2023-04-27**|**IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers**|Ronghuan Wu et.al.|[2304.14400v1](http://arxiv.org/abs/2304.14400v1)|null|
+|**2023-04-27**|**We're Afraid Language Models Aren't Modeling Ambiguity**|Alisa Liu et.al.|[2304.14399v1](http://arxiv.org/abs/2304.14399v1)|**[link](https://github.com/alisawuffles/ambient)**|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
+|**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
 |**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
@@ -979,6 +996,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
+|**2023-04-27**|**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**|Minghao Wu et.al.|[2304.14402v1](http://arxiv.org/abs/2304.14402v1)|**[link](https://github.com/mbzuai-nlp/lamini-lm)**|
+|**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
+|**2023-04-27**|**IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers**|Ronghuan Wu et.al.|[2304.14400v1](http://arxiv.org/abs/2304.14400v1)|null|
+|**2023-04-27**|**We're Afraid Language Models Aren't Modeling Ambiguity**|Alisa Liu et.al.|[2304.14399v1](http://arxiv.org/abs/2304.14399v1)|**[link](https://github.com/alisawuffles/ambient)**|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
+|**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
+|**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
 |**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
