@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -327,13 +327,13 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## sketch
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-25**|**Bridging graph data models: RDF, RDF-star, and property graphs as directed acyclic graphs**|Ewout Gelling et.al.|[2304.13097v1](http://arxiv.org/abs/2304.13097v1)|null|
+|**2023-04-25**|**Bridging graph data models: RDF, RDF-star, and property graphs as directed acyclic graphs**|Ewout Gelling et.al.|[2304.13097v1](http://arxiv.org/abs/2304.13097v1)|**[link](https://github.com/ewoutgelling/bridging-data-models)**|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506v1](http://arxiv.org/abs/2304.12506v1)|null|
 |**2023-04-23**|**SketchXAI: A First Look at Explainability for Human Sketches**|Zhiyu Qu et.al.|[2304.11744v1](http://arxiv.org/abs/2304.11744v1)|null|
 |**2023-04-22**|**(Vector) Space is Not the Final Frontier: Product Search as Program Synthesis**|Jacopo Tagliabue et.al.|[2304.11473v1](http://arxiv.org/abs/2304.11473v1)|null|
@@ -456,7 +456,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -559,7 +559,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|null|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## generate
 
@@ -567,7 +567,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
-|**2023-04-26**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v1](http://arxiv.org/abs/2304.13712v1)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
@@ -973,7 +973,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 ## generation
 
@@ -981,7 +981,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
-|**2023-04-26**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v1](http://arxiv.org/abs/2304.13712v1)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
@@ -1387,7 +1387,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
