@@ -158,7 +158,7 @@
 |**2023-03-21**|**Semantic Latent Space Regression of Diffusion Autoencoders for Vertebral Fracture Grading**|Matthias Keicher et.al.|[2303.12031v1](http://arxiv.org/abs/2303.12031v1)|null|
 |**2023-03-21**|**Numerical simulation of self-oscillating catalytic reaction in a plug-flow reactor**|N. V. Peskov et.al.|[2303.12022v1](http://arxiv.org/abs/2303.12022v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
-|**2023-03-21**|**CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**|Geonmo Gu et.al.|[2303.11916v1](http://arxiv.org/abs/2303.11916v1)|null|
+|**2023-03-21**|**CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**|Geonmo Gu et.al.|[2303.11916v1](http://arxiv.org/abs/2303.11916v1)|**[link](https://github.com/navervision/compodiff)**|
 |**2023-03-21**|**Projections of Model Spaces for Latent Graph Inference**|Haitz Sáez de Ocáriz Borde et.al.|[2303.11754v1](http://arxiv.org/abs/2303.11754v1)|null|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306v1](http://arxiv.org/abs/2303.11306v1)|null|
@@ -580,7 +580,7 @@
 |**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
-|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|**[link](https://github.com/mooler0410/llmspracticalguide)**|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
@@ -646,7 +646,7 @@
 |**2023-04-07**|**Perspectives on AI Architectures and Co-design for Earth System Predictability**|Maruti K. Mudunuru et.al.|[2304.03748v1](http://arxiv.org/abs/2304.03748v1)|null|
 |**2023-04-07**|**Assessing Perceived Fairness from Machine Learning Developer's Perspective**|Anoop Mishra et.al.|[2304.03745v1](http://arxiv.org/abs/2304.03745v1)|null|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
-|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|**[link](https://github.com/aypan17/machiavelli)**|
 |**2023-04-06**|**How Do US Congress Members Advertise Climate Change: An Analysis Of Ads Run On Meta's Platforms**|Laurenz Aisenpreis et.al.|[2304.03278v1](http://arxiv.org/abs/2304.03278v1)|null|
 |**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|**[link](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)**|
 |**2023-04-06**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275v1](http://arxiv.org/abs/2304.03275v1)|null|
@@ -742,7 +742,7 @@
 |**2023-03-20**|**waywiser: Ergonomic Methods for Assessing Spatial Models**|Michael J Mahoney et.al.|[2303.11312v1](http://arxiv.org/abs/2303.11312v1)|**[link](https://github.com/ropensci/waywiser)**|
 |**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
-|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
+|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|**[link](https://github.com/robot-learning-freiburg/CoDEPS)**|
 |**2023-03-17**|**Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting**|Nicolai Dorka et.al.|[2303.10144v1](http://arxiv.org/abs/2303.10144v1)|**[link](https://github.com/nicolinho/dutd)**|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|**[link](https://github.com/tiankaihang/min-snr-diffusion-training)**|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
@@ -1003,7 +1003,7 @@
 |**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394v1](http://arxiv.org/abs/2304.14394v1)|**[link](https://github.com/microsoft/videox)**|
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
-|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|null|
+|**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|**[link](https://github.com/mooler0410/llmspracticalguide)**|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
@@ -1069,7 +1069,7 @@
 |**2023-04-07**|**Perspectives on AI Architectures and Co-design for Earth System Predictability**|Maruti K. Mudunuru et.al.|[2304.03748v1](http://arxiv.org/abs/2304.03748v1)|null|
 |**2023-04-07**|**Assessing Perceived Fairness from Machine Learning Developer's Perspective**|Anoop Mishra et.al.|[2304.03745v1](http://arxiv.org/abs/2304.03745v1)|null|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
-|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|null|
+|**2023-04-06**|**Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark**|Alexander Pan et.al.|[2304.03279v1](http://arxiv.org/abs/2304.03279v1)|**[link](https://github.com/aypan17/machiavelli)**|
 |**2023-04-06**|**How Do US Congress Members Advertise Climate Change: An Analysis Of Ads Run On Meta's Platforms**|Laurenz Aisenpreis et.al.|[2304.03278v1](http://arxiv.org/abs/2304.03278v1)|null|
 |**2023-04-06**|**Instruction Tuning with GPT-4**|Baolin Peng et.al.|[2304.03277v1](http://arxiv.org/abs/2304.03277v1)|**[link](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)**|
 |**2023-04-06**|**That's What I Said: Fully-Controllable Talking Face Generation**|Youngjoon Jang et.al.|[2304.03275v1](http://arxiv.org/abs/2304.03275v1)|null|
@@ -1165,7 +1165,7 @@
 |**2023-03-20**|**waywiser: Ergonomic Methods for Assessing Spatial Models**|Michael J Mahoney et.al.|[2303.11312v1](http://arxiv.org/abs/2303.11312v1)|**[link](https://github.com/ropensci/waywiser)**|
 |**2023-03-17**|**Data-centric Artificial Intelligence: A Survey**|Daochen Zha et.al.|[2303.10158v1](http://arxiv.org/abs/2303.10158v1)|**[link](https://github.com/daochenzha/data-centric-ai)**|
 |**2023-03-17**|**CoVIO: Online Continual Learning for Visual-Inertial Odometry**|Niclas Vödisch et.al.|[2303.10149v1](http://arxiv.org/abs/2303.10149v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
-|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|null|
+|**2023-03-17**|**CoDEPS: Online Continual Learning for Depth Estimation and Panoptic Segmentation**|Niclas Vödisch et.al.|[2303.10147v1](http://arxiv.org/abs/2303.10147v1)|**[link](https://github.com/robot-learning-freiburg/CoDEPS)**|
 |**2023-03-17**|**Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting**|Nicolai Dorka et.al.|[2303.10144v1](http://arxiv.org/abs/2303.10144v1)|**[link](https://github.com/nicolinho/dutd)**|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|**[link](https://github.com/tiankaihang/min-snr-diffusion-training)**|
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
