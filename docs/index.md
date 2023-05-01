@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**Scaling regimes in rapidly rotating thermal convection at extreme Rayleigh numbers**|Jiaxing Song et.al.|[2304.14854v1](http://arxiv.org/abs/2304.14854v1)|null|
+|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632v1](http://arxiv.org/abs/2304.14632v1)|null|
+|**2023-04-28**|**MUDiff: Unified Diffusion for Complete Molecule Generation**|Chenqing Hua et.al.|[2304.14621v1](http://arxiv.org/abs/2304.14621v1)|null|
+|**2023-04-28**|**Robust Gaussian Process Regression method for efficient reaction pathway optimization: application to surface processes**|Wei Fang et.al.|[2304.14596v1](http://arxiv.org/abs/2304.14596v1)|null|
+|**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573v1](http://arxiv.org/abs/2304.14573v1)|null|
+|**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530v1](http://arxiv.org/abs/2304.14530v1)|null|
 |**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
 |**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
 |**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
@@ -468,6 +474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-23**|**UHRNet: A Deep Learning-Based Method for Accurate 3D Reconstruction from a Single Fringe-Pattern**|Yixiao Wang et.al.|[2304.14503v1](http://arxiv.org/abs/2304.14503v1)|null|
 |**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
 |**2023-04-25**|**Shape-Net: Room Layout Estimation from Panoramic Images Robust to Occlusion using Knowledge Distillation with 3D Shapes as Additional Inputs**|Mizuki Tabata et.al.|[2304.12624v1](http://arxiv.org/abs/2304.12624v1)|null|
@@ -573,6 +580,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
+|**2023-04-28**|**ChatGPT -- a Blessing or a Curse for Undergraduate Computer Science Students and Instructors?**|Ishika Joshi et.al.|[2304.14993v1](http://arxiv.org/abs/2304.14993v1)|null|
+|**2023-04-28**|**Robust Stackelberg Equilibria**|Jiarui Gan et.al.|[2304.14990v1](http://arxiv.org/abs/2304.14990v1)|null|
+|**2023-04-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagna et.al.|[2304.14986v1](http://arxiv.org/abs/2304.14986v1)|null|
+|**2023-04-28**|**Optimal majority rules and quantitative Condorcet properties of setwise Kemeny voting schemes**|Xuan Kien Phung et.al.|[2304.14980v1](http://arxiv.org/abs/2304.14980v1)|null|
+|**2023-04-28**|**MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks**|Lei Zhang et.al.|[2304.14979v1](http://arxiv.org/abs/2304.14979v1)|null|
 |**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
 |**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
 |**2023-04-27**|**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**|Minghao Wu et.al.|[2304.14402v1](http://arxiv.org/abs/2304.14402v1)|**[link](https://github.com/mbzuai-nlp/lamini-lm)**|
@@ -996,6 +1010,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
+|**2023-04-28**|**ChatGPT -- a Blessing or a Curse for Undergraduate Computer Science Students and Instructors?**|Ishika Joshi et.al.|[2304.14993v1](http://arxiv.org/abs/2304.14993v1)|null|
+|**2023-04-28**|**Robust Stackelberg Equilibria**|Jiarui Gan et.al.|[2304.14990v1](http://arxiv.org/abs/2304.14990v1)|null|
+|**2023-04-28**|**Interpreting Vision and Language Generative Models with Semantic Visual Priors**|Michele Cafagna et.al.|[2304.14986v1](http://arxiv.org/abs/2304.14986v1)|null|
+|**2023-04-28**|**Optimal majority rules and quantitative Condorcet properties of setwise Kemeny voting schemes**|Xuan Kien Phung et.al.|[2304.14980v1](http://arxiv.org/abs/2304.14980v1)|null|
+|**2023-04-28**|**MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks**|Lei Zhang et.al.|[2304.14979v1](http://arxiv.org/abs/2304.14979v1)|null|
 |**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407v1](http://arxiv.org/abs/2304.14407v1)|null|
 |**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
 |**2023-04-27**|**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**|Minghao Wu et.al.|[2304.14402v1](http://arxiv.org/abs/2304.14402v1)|**[link](https://github.com/mbzuai-nlp/lamini-lm)**|
