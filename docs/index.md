@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Fractional and tempered fractional models for Reynolds-averaged Navier-Stokes equations**|Pavan Pranjivan Mehta et.al.|[2305.00770v1](http://arxiv.org/abs/2305.00770v1)|null|
+|**2023-05-01**|**Diffusion Models for Time Series Applications: A Survey**|Lequan Lin et.al.|[2305.00624v1](http://arxiv.org/abs/2305.00624v1)|null|
+|**2023-04-30**|**Class-Balancing Diffusion Models**|Yiming Qin et.al.|[2305.00562v1](http://arxiv.org/abs/2305.00562v1)|null|
+|**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510v1](http://arxiv.org/abs/2305.00510v1)|null|
 |**2023-04-28**|**Scaling regimes in rapidly rotating thermal convection at extreme Rayleigh numbers**|Jiaxing Song et.al.|[2304.14854v1](http://arxiv.org/abs/2304.14854v1)|null|
 |**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632v1](http://arxiv.org/abs/2304.14632v1)|null|
 |**2023-04-28**|**MUDiff: Unified Diffusion for Complete Molecule Generation**|Chenqing Hua et.al.|[2304.14621v1](http://arxiv.org/abs/2304.14621v1)|null|
@@ -474,6 +478,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435v1](http://arxiv.org/abs/2305.00435v1)|null|
+|**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan et.al.|[2305.00282v1](http://arxiv.org/abs/2305.00282v1)|null|
 |**2023-04-23**|**UHRNet: A Deep Learning-Based Method for Accurate 3D Reconstruction from a Single Fringe-Pattern**|Yixiao Wang et.al.|[2304.14503v1](http://arxiv.org/abs/2304.14503v1)|null|
 |**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396v1](http://arxiv.org/abs/2304.14396v1)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
@@ -580,6 +586,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**ArK: Augmented Reality with Knowledge Interactive Emergent Ability**|Qiuyuan Huang et.al.|[2305.00970v1](http://arxiv.org/abs/2305.00970v1)|null|
+|**2023-05-01**|**PMDG: Privacy for Multi-Perspective Process Mining through Data Generalization**|Ryan Hildebrant et.al.|[2305.00960v1](http://arxiv.org/abs/2305.00960v1)|null|
+|**2023-05-01**|**Non-Binary LDPC Code Design for Energy-Time Entanglement Quantum Key Distribution**|Debarnab Mitra et.al.|[2305.00956v1](http://arxiv.org/abs/2305.00956v1)|null|
+|**2023-05-01**|**Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation**|Patrick Fernandes et.al.|[2305.00955v1](http://arxiv.org/abs/2305.00955v1)|null|
 |**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
 |**2023-04-28**|**ChatGPT -- a Blessing or a Curse for Undergraduate Computer Science Students and Instructors?**|Ishika Joshi et.al.|[2304.14993v1](http://arxiv.org/abs/2304.14993v1)|null|
@@ -1010,6 +1020,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**ArK: Augmented Reality with Knowledge Interactive Emergent Ability**|Qiuyuan Huang et.al.|[2305.00970v1](http://arxiv.org/abs/2305.00970v1)|null|
+|**2023-05-01**|**PMDG: Privacy for Multi-Perspective Process Mining through Data Generalization**|Ryan Hildebrant et.al.|[2305.00960v1](http://arxiv.org/abs/2305.00960v1)|null|
+|**2023-05-01**|**Non-Binary LDPC Code Design for Energy-Time Entanglement Quantum Key Distribution**|Debarnab Mitra et.al.|[2305.00956v1](http://arxiv.org/abs/2305.00956v1)|null|
+|**2023-05-01**|**Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation**|Patrick Fernandes et.al.|[2305.00955v1](http://arxiv.org/abs/2305.00955v1)|null|
 |**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-04-28**|**Empirical Analysis of the Strengths and Weaknesses of PEFT Techniques for LLMs**|George Pu et.al.|[2304.14999v1](http://arxiv.org/abs/2304.14999v1)|null|
 |**2023-04-28**|**ChatGPT -- a Blessing or a Curse for Undergraduate Computer Science Students and Instructors?**|Ishika Joshi et.al.|[2304.14993v1](http://arxiv.org/abs/2304.14993v1)|null|
