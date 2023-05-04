@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Nonlocal gravity wave turbulence in presence of condensate**|A. O. Korotkevich et.al.|[2305.01930v1](http://arxiv.org/abs/2305.01930v1)|null|
+|**2023-05-03**|**DiffFacto Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921v1](http://arxiv.org/abs/2305.01921v1)|null|
+|**2023-05-03**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877v1](http://arxiv.org/abs/2305.01877v1)|null|
+|**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855v1](http://arxiv.org/abs/2305.01855v1)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822v1](http://arxiv.org/abs/2305.01822v1)|null|
+|**2023-05-02**|**Multimodal Procedural Planning via Dual Text-Image Prompting**|Yujie Lu et.al.|[2305.01795v1](http://arxiv.org/abs/2305.01795v1)|**[link](https://github.com/yujielu10/mpp)**|
+|**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735v1](http://arxiv.org/abs/2305.01735v1)|null|
 |**2023-05-02**|**ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation**|Zehao Zhu et.al.|[2305.01618v1](http://arxiv.org/abs/2305.01618v1)|null|
 |**2023-05-02**|**Adopting AI: How Familiarity Breeds Both Trust and Contempt**|Michael C. Horowitz et.al.|[2305.01405v1](http://arxiv.org/abs/2305.01405v1)|null|
 |**2023-05-02**|**Long-Term Rhythmic Video Soundtracker**|Jiashuo Yu et.al.|[2305.01319v1](http://arxiv.org/abs/2305.01319v1)|null|
@@ -596,6 +603,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|null|
+|**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320v1](http://arxiv.org/abs/2305.02320v1)|null|
+|**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317v1](http://arxiv.org/abs/2305.02317v1)|null|
+|**2023-05-03**|**AG3D: Learning to Generate 3D Avatars from 2D Image Collections**|Zijian Dong et.al.|[2305.02312v1](http://arxiv.org/abs/2305.02312v1)|null|
+|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
+|**2023-05-03**|**Calibrated Explanations: with Uncertainty Information and Counterfactuals**|Helena Lofstrom et.al.|[2305.02305v1](http://arxiv.org/abs/2305.02305v1)|null|
 |**2023-05-02**|**Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection**|Ruoshi Liu et.al.|[2305.01652v1](http://arxiv.org/abs/2305.01652v1)|null|
 |**2023-05-02**|**Generalizing Dataset Distillation via Deep Generative Prior**|George Cazenavette et.al.|[2305.01649v1](http://arxiv.org/abs/2305.01649v1)|**[link](https://github.com/georgecazenavette/glad)**|
 |**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
@@ -1036,6 +1049,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|null|
+|**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320v1](http://arxiv.org/abs/2305.02320v1)|null|
+|**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317v1](http://arxiv.org/abs/2305.02317v1)|null|
+|**2023-05-03**|**AG3D: Learning to Generate 3D Avatars from 2D Image Collections**|Zijian Dong et.al.|[2305.02312v1](http://arxiv.org/abs/2305.02312v1)|null|
+|**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
+|**2023-05-03**|**Calibrated Explanations: with Uncertainty Information and Counterfactuals**|Helena Lofstrom et.al.|[2305.02305v1](http://arxiv.org/abs/2305.02305v1)|null|
 |**2023-05-02**|**Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection**|Ruoshi Liu et.al.|[2305.01652v1](http://arxiv.org/abs/2305.01652v1)|null|
 |**2023-05-02**|**Generalizing Dataset Distillation via Deep Generative Prior**|George Cazenavette et.al.|[2305.01649v1](http://arxiv.org/abs/2305.01649v1)|**[link](https://github.com/georgecazenavette/glad)**|
 |**2023-05-02**|**Sequence Modeling with Multiresolution Convolutional Memory**|Jiaxin Shi et.al.|[2305.01638v1](http://arxiv.org/abs/2305.01638v1)|null|
