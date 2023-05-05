@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**On Vertically-Drifted First Arrival Position Distribution in Diffusion Channels**|Yen-Chi Lee et.al.|[2305.02706v1](http://arxiv.org/abs/2305.02706v1)|null|
 |**2023-05-03**|**Nonlocal gravity wave turbulence in presence of condensate**|A. O. Korotkevich et.al.|[2305.01930v1](http://arxiv.org/abs/2305.01930v1)|null|
 |**2023-05-04**|**DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921v2](http://arxiv.org/abs/2305.01921v2)|null|
 |**2023-05-04**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877v2](http://arxiv.org/abs/2305.01877v2)|null|
@@ -358,9 +360,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-02**|**A Survey of Methods for Converting Unstructured Data to CSG Models**|Pierre-Alain Fayolle et.al.|[2305.01220v1](http://arxiv.org/abs/2305.01220v1)|null|
 |**2023-05-01**|**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**|Joanne Truong et.al.|[2305.01098v1](http://arxiv.org/abs/2305.01098v1)|null|
-|**2023-05-01**|**Design and Evaluation of a Bioinspired Tendon-Driven 3D-Printed Robotic Eye with Active Vision Capabilities**|Hamid Osooli et.al.|[2305.01076v1](http://arxiv.org/abs/2305.01076v1)|null|
+|**2023-05-01**|**Design and Evaluation of a Bioinspired Tendon-Driven 3D-Printed Robotic Eye with Active Vision Capabilities**|Hamid Osooli et.al.|[2305.01076v1](http://arxiv.org/abs/2305.01076v1)|**[link](https://github.com/hamidosooli/robotic_eye)**|
 |**2023-05-01**|**semantic neural model approach for face recognition from sketch**|Chandana Navuluri et.al.|[2305.01058v1](http://arxiv.org/abs/2305.01058v1)|null|
 |**2023-04-25**|**Bridging graph data models: RDF, RDF-star, and property graphs as directed acyclic graphs**|Ewout Gelling et.al.|[2304.13097v1](http://arxiv.org/abs/2304.13097v1)|**[link](https://github.com/ewoutgelling/bridging-data-models)**|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506v1](http://arxiv.org/abs/2304.12506v1)|null|
@@ -491,6 +494,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**UrbanBIS: a Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation**|Guoqing Yang et.al.|[2305.02627v1](http://arxiv.org/abs/2305.02627v1)|null|
+|**2023-05-03**|**Biological Hotspot Mapping in Coral Reefs with Robotic Visual Surveys**|Daniel Yang et.al.|[2305.02330v1](http://arxiv.org/abs/2305.02330v1)|null|
 |**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435v1](http://arxiv.org/abs/2305.00435v1)|null|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan et.al.|[2305.00282v1](http://arxiv.org/abs/2305.00282v1)|null|
 |**2023-04-23**|**UHRNet: A Deep Learning-Based Method for Accurate 3D Reconstruction from a Single Fringe-Pattern**|Yixiao Wang et.al.|[2304.14503v1](http://arxiv.org/abs/2304.14503v1)|null|
@@ -599,6 +604,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
+|**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
+|**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047v1](http://arxiv.org/abs/2305.03047v1)|null|
+|**2023-05-04**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v1](http://arxiv.org/abs/2305.03045v1)|null|
+|**2023-05-04**|**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization**|Connor Z. Lin et.al.|[2305.03043v1](http://arxiv.org/abs/2305.03043v1)|null|
+|**2023-05-04**|**Are VAEs Bad at Reconstructing Molecular Graphs?**|Hagen Muenkler et.al.|[2305.03041v1](http://arxiv.org/abs/2305.03041v1)|null|
+|**2023-05-04**|**TUVF: Learning Generalizable Texture UV Radiance Fields**|An-Chieh Cheng et.al.|[2305.03040v1](http://arxiv.org/abs/2305.03040v1)|null|
 |**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|null|
 |**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320v1](http://arxiv.org/abs/2305.02320v1)|**[link](https://github.com/arian-askari/chatgpt-retrievalqa)**|
 |**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317v1](http://arxiv.org/abs/2305.02317v1)|null|
@@ -1045,6 +1059,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
+|**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
+|**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
+|**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
+|**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047v1](http://arxiv.org/abs/2305.03047v1)|null|
+|**2023-05-04**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v1](http://arxiv.org/abs/2305.03045v1)|null|
+|**2023-05-04**|**Single-Shot Implicit Morphable Faces with Consistent Texture Parameterization**|Connor Z. Lin et.al.|[2305.03043v1](http://arxiv.org/abs/2305.03043v1)|null|
+|**2023-05-04**|**Are VAEs Bad at Reconstructing Molecular Graphs?**|Hagen Muenkler et.al.|[2305.03041v1](http://arxiv.org/abs/2305.03041v1)|null|
+|**2023-05-04**|**TUVF: Learning Generalizable Texture UV Radiance Fields**|An-Chieh Cheng et.al.|[2305.03040v1](http://arxiv.org/abs/2305.03040v1)|null|
 |**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321v1](http://arxiv.org/abs/2305.02321v1)|null|
 |**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320v1](http://arxiv.org/abs/2305.02320v1)|**[link](https://github.com/arian-askari/chatgpt-retrievalqa)**|
 |**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317v1](http://arxiv.org/abs/2305.02317v1)|null|
