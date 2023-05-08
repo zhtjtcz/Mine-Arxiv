@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Reflection of a Diffuser in a Liquid Interface**|C. Silva et.al.|[2305.03682v1](http://arxiv.org/abs/2305.03682v1)|null|
+|**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614v1](http://arxiv.org/abs/2305.03614v1)|null|
+|**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|null|
 |**2023-05-04**|**Personalize Segment Anything Model with One Shot**|Renrui Zhang et.al.|[2305.03048v1](http://arxiv.org/abs/2305.03048v1)|**[link](https://github.com/zrrskywalker/personalize-sam)**|
 |**2023-05-05**|**Capacity Bounds for Vertically-Drifted First Arrival Position Channels under a Second-Moment Constraint**|Yun-Feng Lo et.al.|[2305.02706v2](http://arxiv.org/abs/2305.02706v2)|null|
 |**2023-05-03**|**Nonlocal gravity wave turbulence in presence of condensate**|A. O. Korotkevich et.al.|[2305.01930v1](http://arxiv.org/abs/2305.01930v1)|null|
@@ -360,6 +363,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Towards Feminist Intersectional XAI: From Explainability to Response-Ability**|Goda Klumbyte et.al.|[2305.03375v1](http://arxiv.org/abs/2305.03375v1)|null|
+|**2023-05-04**|**Program Synthesis for Robot Learning from Demonstrations**|Noah Patton et.al.|[2305.03129v1](http://arxiv.org/abs/2305.03129v1)|null|
+|**2023-05-04**|**HAISTA-NET: Human Assisted Instance Segmentation Through Attention**|Muhammed Korkmaz et.al.|[2305.03105v1](http://arxiv.org/abs/2305.03105v1)|null|
 |**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-02**|**A Survey of Methods for Converting Unstructured Data to CSG Models**|Pierre-Alain Fayolle et.al.|[2305.01220v1](http://arxiv.org/abs/2305.01220v1)|null|
 |**2023-05-01**|**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**|Joanne Truong et.al.|[2305.01098v1](http://arxiv.org/abs/2305.01098v1)|null|
@@ -604,6 +610,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**On the Benefits of Semi-Supervised Test Case Generation for Cyber-Physical Systems**|Xiao Ling et.al.|[2305.03714v1](http://arxiv.org/abs/2305.03714v1)|null|
+|**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713v1](http://arxiv.org/abs/2305.03713v1)|null|
+|**2023-05-05**|**On the characterization of the convective heat flux in turbulent Rayleigh-Bénard convection**|Bérengère Podvin et.al.|[2305.03708v1](http://arxiv.org/abs/2305.03708v1)|null|
+|**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|null|
+|**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|null|
+|**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
 |**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
 |**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
@@ -1059,6 +1072,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**On the Benefits of Semi-Supervised Test Case Generation for Cyber-Physical Systems**|Xiao Ling et.al.|[2305.03714v1](http://arxiv.org/abs/2305.03714v1)|null|
+|**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713v1](http://arxiv.org/abs/2305.03713v1)|null|
+|**2023-05-05**|**On the characterization of the convective heat flux in turbulent Rayleigh-Bénard convection**|Bérengère Podvin et.al.|[2305.03708v1](http://arxiv.org/abs/2305.03708v1)|null|
+|**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|null|
+|**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|null|
+|**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
 |**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
 |**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
