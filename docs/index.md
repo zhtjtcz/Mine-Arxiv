@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919v1](http://arxiv.org/abs/2305.04919v1)|null|
+|**2023-05-08**|**CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation**|Erik Buhmann et.al.|[2305.04847v1](http://arxiv.org/abs/2305.04847v1)|null|
+|**2023-05-08**|**A Drop of Ink may Make a Million Think: The Spread of False Information in Large Language Models**|Ning Bian et.al.|[2305.04812v1](http://arxiv.org/abs/2305.04812v1)|null|
+|**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745v1](http://arxiv.org/abs/2305.04745v1)|null|
+|**2023-05-08**|**A Closest Point Method for Surface PDEs with Interior Boundary Conditions for Geometry Processing**|Nathan King et.al.|[2305.04711v1](http://arxiv.org/abs/2305.04711v1)|null|
+|**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651v1](http://arxiv.org/abs/2305.04651v1)|null|
 |**2023-05-05**|**Reflection of a Diffuser in a Liquid Interface**|C. Silva et.al.|[2305.03682v1](http://arxiv.org/abs/2305.03682v1)|null|
 |**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614v1](http://arxiv.org/abs/2305.03614v1)|null|
 |**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|null|
@@ -367,6 +373,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Behavioural Types for Local-First Software**|Roland Kuhn et.al.|[2305.04848v1](http://arxiv.org/abs/2305.04848v1)|null|
+|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461v1](http://arxiv.org/abs/2305.04461v1)|null|
+|**2023-05-08**|**Oblivious algorithms for the Max- $k$ AND Problem**|Noah G. Singer et.al.|[2305.04438v1](http://arxiv.org/abs/2305.04438v1)|null|
 |**2023-05-05**|**Towards Feminist Intersectional XAI: From Explainability to Response-Ability**|Goda Klumbyte et.al.|[2305.03375v1](http://arxiv.org/abs/2305.03375v1)|null|
 |**2023-05-04**|**Program Synthesis for Robot Learning from Demonstrations**|Noah Patton et.al.|[2305.03129v1](http://arxiv.org/abs/2305.03129v1)|null|
 |**2023-05-04**|**HAISTA-NET: Human Assisted Instance Segmentation Through Attention**|Muhammed Korkmaz et.al.|[2305.03105v1](http://arxiv.org/abs/2305.03105v1)|null|
@@ -504,6 +513,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-05-04**|**UrbanBIS: a Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation**|Guoqing Yang et.al.|[2305.02627v1](http://arxiv.org/abs/2305.02627v1)|null|
 |**2023-05-03**|**Biological Hotspot Mapping in Coral Reefs with Robotic Visual Surveys**|Daniel Yang et.al.|[2305.02330v1](http://arxiv.org/abs/2305.02330v1)|**[link](https://github.com/warplab/megafishdetector)**|
 |**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435v1](http://arxiv.org/abs/2305.00435v1)|null|
@@ -614,6 +624,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|null|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919v1](http://arxiv.org/abs/2305.04919v1)|null|
+|**2023-05-08**|**What Do Patients Say About Their Disease Symptoms? Deep Multilabel Text Classification With Human-in-the-Loop Curation for Automatic Labeling of Patient Self Reports of Problems**|Lakshmi Arbatti et.al.|[2305.04905v1](http://arxiv.org/abs/2305.04905v1)|null|
+|**2023-05-08**|**Robust Positivity Problems for low-order Linear Recurrence Sequences**|Mihir Vahanwala et.al.|[2305.04870v1](http://arxiv.org/abs/2305.04870v1)|null|
 |**2023-05-05**|**On the Benefits of Semi-Supervised Test Case Generation for Cyber-Physical Systems**|Xiao Ling et.al.|[2305.03714v1](http://arxiv.org/abs/2305.03714v1)|null|
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713v1](http://arxiv.org/abs/2305.03713v1)|null|
 |**2023-05-08**|**On the characterization of the convective heat flux in turbulent Rayleigh-Bénard convection**|Bérengère Podvin et.al.|[2305.03708v2](http://arxiv.org/abs/2305.03708v2)|null|
@@ -1076,6 +1090,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|null|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919v1](http://arxiv.org/abs/2305.04919v1)|null|
+|**2023-05-08**|**What Do Patients Say About Their Disease Symptoms? Deep Multilabel Text Classification With Human-in-the-Loop Curation for Automatic Labeling of Patient Self Reports of Problems**|Lakshmi Arbatti et.al.|[2305.04905v1](http://arxiv.org/abs/2305.04905v1)|null|
+|**2023-05-08**|**Robust Positivity Problems for low-order Linear Recurrence Sequences**|Mihir Vahanwala et.al.|[2305.04870v1](http://arxiv.org/abs/2305.04870v1)|null|
 |**2023-05-05**|**On the Benefits of Semi-Supervised Test Case Generation for Cyber-Physical Systems**|Xiao Ling et.al.|[2305.03714v1](http://arxiv.org/abs/2305.03714v1)|null|
 |**2023-05-05**|**Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**|Ekta Prashnani et.al.|[2305.03713v1](http://arxiv.org/abs/2305.03713v1)|null|
 |**2023-05-08**|**On the characterization of the convective heat flux in turbulent Rayleigh-Bénard convection**|Bérengère Podvin et.al.|[2305.03708v2](http://arxiv.org/abs/2305.03708v2)|null|
