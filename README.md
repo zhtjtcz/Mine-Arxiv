@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125v1](http://arxiv.org/abs/2305.06125v1)|null|
+|**2023-05-10**|**Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**|Foivos Paraperas Papantoniou et.al.|[2305.06077v1](http://arxiv.org/abs/2305.06077v1)|null|
+|**2023-05-10**|**iEdit: Localised Text-guided Image Editing with Weak Supervision**|Rumeysa Bodur et.al.|[2305.05947v1](http://arxiv.org/abs/2305.05947v1)|null|
 |**2023-05-09**|**Large Language Models Humanize Technology**|Pratyush Kumar et.al.|[2305.05576v1](http://arxiv.org/abs/2305.05576v1)|null|
 |**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464v1](http://arxiv.org/abs/2305.05464v1)|**[link](https://github.com/haha-lisa/style-a-video)**|
 |**2023-05-10**|**Large Language Models Need Holistically Thought in Medical Conversational QA**|Yixuan Weng et.al.|[2305.05410v2](http://arxiv.org/abs/2305.05410v2)|**[link](https://github.com/wengsyx/hot)**|
@@ -373,6 +376,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Searching Mobile App Screens via Text + Doodle**|Soumik Mohian et.al.|[2305.06165v1](http://arxiv.org/abs/2305.06165v1)|**[link](https://github.com/doodleui/wnd)**|
+|**2023-05-10**|**Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models**|Rohan Dhesikan et.al.|[2305.05845v1](http://arxiv.org/abs/2305.05845v1)|null|
 |**2023-05-09**|**Adapt and Align to Improve Zero-Shot Sketch-Based Image Retrieval**|Shiyin Dong et.al.|[2305.05144v1](http://arxiv.org/abs/2305.05144v1)|null|
 |**2023-05-08**|**Behavioural Types for Local-First Software**|Roland Kuhn et.al.|[2305.04848v1](http://arxiv.org/abs/2305.04848v1)|null|
 |**2023-05-09**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461v2](http://arxiv.org/abs/2305.04461v2)|null|
@@ -514,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-05-04**|**UrbanBIS: a Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation**|Guoqing Yang et.al.|[2305.02627v1](http://arxiv.org/abs/2305.02627v1)|null|
 |**2023-05-03**|**Biological Hotspot Mapping in Coral Reefs with Robotic Visual Surveys**|Daniel Yang et.al.|[2305.02330v1](http://arxiv.org/abs/2305.02330v1)|**[link](https://github.com/warplab/megafishdetector)**|
@@ -625,6 +631,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|
+|**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
+|**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344v1](http://arxiv.org/abs/2305.06344v1)|null|
+|**2023-05-10**|**Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs**|Roei Herzig et.al.|[2305.06343v1](http://arxiv.org/abs/2305.06343v1)|null|
+|**2023-05-10**|**Generalized Stratified Sampling for Efficient Reliability Assessment of Structures Against Natural Hazards**|Srinivasan Arunachalam et.al.|[2305.06338v1](http://arxiv.org/abs/2305.06338v1)|null|
+|**2023-05-10**|**K-UniMorph: Korean Universal Morphology and its Feature Schema**|Eunkyul Leah Jo et.al.|[2305.06335v1](http://arxiv.org/abs/2305.06335v1)|**[link](https://github.com/jungyeul/k-unimorph)**|
+|**2023-05-10**|**Direct-Laser-Written Polymer Nanowire Waveguides for Broadband Single Photon Collection from Epitaxial Quantum Dots into a Gaussian-like Mode**|Edgar Perez et.al.|[2305.06333v1](http://arxiv.org/abs/2305.06333v1)|null|
 |**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666v1](http://arxiv.org/abs/2305.05666v1)|null|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
 |**2023-05-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v2](http://arxiv.org/abs/2305.05662v2)|**[link](https://github.com/opengvlab/internchat)**|
@@ -1097,6 +1110,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|
+|**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
+|**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344v1](http://arxiv.org/abs/2305.06344v1)|null|
+|**2023-05-10**|**Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs**|Roei Herzig et.al.|[2305.06343v1](http://arxiv.org/abs/2305.06343v1)|null|
+|**2023-05-10**|**Generalized Stratified Sampling for Efficient Reliability Assessment of Structures Against Natural Hazards**|Srinivasan Arunachalam et.al.|[2305.06338v1](http://arxiv.org/abs/2305.06338v1)|null|
+|**2023-05-10**|**K-UniMorph: Korean Universal Morphology and its Feature Schema**|Eunkyul Leah Jo et.al.|[2305.06335v1](http://arxiv.org/abs/2305.06335v1)|**[link](https://github.com/jungyeul/k-unimorph)**|
+|**2023-05-10**|**Direct-Laser-Written Polymer Nanowire Waveguides for Broadband Single Photon Collection from Epitaxial Quantum Dots into a Gaussian-like Mode**|Edgar Perez et.al.|[2305.06333v1](http://arxiv.org/abs/2305.06333v1)|null|
 |**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666v1](http://arxiv.org/abs/2305.05666v1)|null|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
 |**2023-05-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v2](http://arxiv.org/abs/2305.05662v2)|**[link](https://github.com/opengvlab/internchat)**|
