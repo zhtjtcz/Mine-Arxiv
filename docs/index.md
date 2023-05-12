@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
+|**2023-05-11**|**A method for automated regression test in scientific computing libraries: illustration with SPHinXsys**|Bo Zhang et.al.|[2305.06970v1](http://arxiv.org/abs/2305.06970v1)|null|
+|**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908v1](http://arxiv.org/abs/2305.06908v1)|null|
+|**2023-05-11**|**Null-text Guidance in Diffusion Models is Secretly a Cartoon-style Creator**|Jing Zhao et.al.|[2305.06710v1](http://arxiv.org/abs/2305.06710v1)|null|
 |**2023-05-11**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|null|
 |**2023-05-10**|**Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**|Foivos Paraperas Papantoniou et.al.|[2305.06077v1](http://arxiv.org/abs/2305.06077v1)|null|
 |**2023-05-10**|**iEdit: Localised Text-guided Image Editing with Weak Supervision**|Rumeysa Bodur et.al.|[2305.05947v1](http://arxiv.org/abs/2305.05947v1)|null|
@@ -380,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Enabling Programming Thinking in Large Language Models Toward Code Generation**|Jia Li et.al.|[2305.06599v1](http://arxiv.org/abs/2305.06599v1)|null|
 |**2023-05-08**|**Searching Mobile App Screens via Text + Doodle**|Soumik Mohian et.al.|[2305.06165v1](http://arxiv.org/abs/2305.06165v1)|**[link](https://github.com/doodleui/wnd)**|
 |**2023-05-10**|**Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models**|Rohan Dhesikan et.al.|[2305.05845v1](http://arxiv.org/abs/2305.05845v1)|null|
 |**2023-05-09**|**Adapt and Align to Improve Zero-Shot Sketch-Based Image Retrieval**|Shiyin Dong et.al.|[2305.05144v1](http://arxiv.org/abs/2305.05144v1)|null|
@@ -523,6 +528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Towards a Better Understanding of the Computer Vision Research Community in Africa**|Abdul-Hakeem Omotayo et.al.|[2305.06773v1](http://arxiv.org/abs/2305.06773v1)|null|
 |**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-05-04**|**UrbanBIS: a Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation**|Guoqing Yang et.al.|[2305.02627v1](http://arxiv.org/abs/2305.02627v1)|null|
@@ -635,6 +641,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
+|**2023-05-11**|**Simple Token-Level Confidence Improves Caption Correctness**|Suzanne Petryk et.al.|[2305.07021v1](http://arxiv.org/abs/2305.07021v1)|null|
+|**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
+|**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
+|**2023-05-11**|**Occam's razor for AI: Coarse-graining Hammett Inspired Product Ansatz in Chemical Space**|Marco Bragato et.al.|[2305.07010v1](http://arxiv.org/abs/2305.07010v1)|null|
+|**2023-05-11**|**Fair Price Discrimination**|Siddhartha Banerjee et.al.|[2305.07006v1](http://arxiv.org/abs/2305.07006v1)|null|
+|**2023-05-11**|**Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation**|Francois Meyer et.al.|[2305.07005v1](http://arxiv.org/abs/2305.07005v1)|**[link](https://github.com/francois-meyer/ssmt)**|
+|**2023-05-11**|**Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting**|Haoyang Huang et.al.|[2305.07004v1](http://arxiv.org/abs/2305.07004v1)|null|
+|**2023-05-11**|**Real-time Manipulation of Liquid Droplets using Photo-responsive Surfactant**|Xichen Liang et.al.|[2305.07002v1](http://arxiv.org/abs/2305.07002v1)|null|
 |**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|
 |**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
 |**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344v1](http://arxiv.org/abs/2305.06344v1)|null|
@@ -1114,6 +1129,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
+|**2023-05-11**|**Simple Token-Level Confidence Improves Caption Correctness**|Suzanne Petryk et.al.|[2305.07021v1](http://arxiv.org/abs/2305.07021v1)|null|
+|**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
+|**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
+|**2023-05-11**|**Occam's razor for AI: Coarse-graining Hammett Inspired Product Ansatz in Chemical Space**|Marco Bragato et.al.|[2305.07010v1](http://arxiv.org/abs/2305.07010v1)|null|
+|**2023-05-11**|**Fair Price Discrimination**|Siddhartha Banerjee et.al.|[2305.07006v1](http://arxiv.org/abs/2305.07006v1)|null|
+|**2023-05-11**|**Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation**|Francois Meyer et.al.|[2305.07005v1](http://arxiv.org/abs/2305.07005v1)|**[link](https://github.com/francois-meyer/ssmt)**|
+|**2023-05-11**|**Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting**|Haoyang Huang et.al.|[2305.07004v1](http://arxiv.org/abs/2305.07004v1)|null|
+|**2023-05-11**|**Real-time Manipulation of Liquid Droplets using Photo-responsive Surfactant**|Xichen Liang et.al.|[2305.07002v1](http://arxiv.org/abs/2305.07002v1)|null|
 |**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352v1](http://arxiv.org/abs/2305.06352v1)|null|
 |**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349v1](http://arxiv.org/abs/2305.06349v1)|null|
 |**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344v1](http://arxiv.org/abs/2305.06344v1)|null|
