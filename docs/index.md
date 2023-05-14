@@ -25,7 +25,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
-|**2023-05-11**|**A method for automated regression test in scientific computing libraries: illustration with SPHinXsys**|Bo Zhang et.al.|[2305.06970v1](http://arxiv.org/abs/2305.06970v1)|null|
+|**2023-05-11**|**A method for automated regression test in scientific computing libraries: illustration with SPHinXsys**|Bo Zhang et.al.|[2305.06970v1](http://arxiv.org/abs/2305.06970v1)|**[link](https://github.com/Xiangyu-Hu/SPHinXsys)**|
 |**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908v1](http://arxiv.org/abs/2305.06908v1)|null|
 |**2023-05-11**|**Null-text Guidance in Diffusion Models is Secretly a Cartoon-style Creator**|Jing Zhao et.al.|[2305.06710v1](http://arxiv.org/abs/2305.06710v1)|null|
 |**2023-05-11**|**Evaluating Twitter's Algorithmic Amplification of Low-Trust Content: An Observational Study**|Giulio Corsi et.al.|[2305.06125v2](http://arxiv.org/abs/2305.06125v2)|null|
