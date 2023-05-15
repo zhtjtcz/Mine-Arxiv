@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Sound waves, diffusive transport, and wall slip in nanoconfined compressible fluids**|Hannes Holey et.al.|[2305.07501v1](http://arxiv.org/abs/2305.07501v1)|null|
+|**2023-05-12**|**On a Voter Model with Context-Dependent Opinion Adoption**|Luca Becchetti et.al.|[2305.07377v1](http://arxiv.org/abs/2305.07377v1)|null|
+|**2023-05-12**|**Experimental optimization of lensless digital holographic microscopy with rotating diffuser-based coherent noise reduction**|Piotr Arcab et.al.|[2305.07373v1](http://arxiv.org/abs/2305.07373v1)|null|
+|**2023-05-12**|**Penguin huddling: a continuum model**|Samuel J. Harris et.al.|[2305.07324v1](http://arxiv.org/abs/2305.07324v1)|null|
+|**2023-05-12**|**Phosphorus-Controlled Nanoepitaxy in the Asymmetric Growth of GaAs-InP Core-Shell Bent Nanowires**|Spencer McDermott et.al.|[2305.07252v1](http://arxiv.org/abs/2305.07252v1)|null|
+|**2023-05-12**|**Optimal calibration of optical tweezers with arbitrary integration time and sampling frequencies -- A general framework**|Laura Pérez-Garcéa et.al.|[2305.07245v1](http://arxiv.org/abs/2305.07245v1)|null|
+|**2023-05-11**|**Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations**|Fatima Ezahra Chrit et.al.|[2305.07148v1](http://arxiv.org/abs/2305.07148v1)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-11**|**A method for automated regression test in scientific computing libraries: illustration with SPHinXsys**|Bo Zhang et.al.|[2305.06970v1](http://arxiv.org/abs/2305.06970v1)|**[link](https://github.com/Xiangyu-Hu/SPHinXsys)**|
 |**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908v1](http://arxiv.org/abs/2305.06908v1)|null|
@@ -641,6 +648,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
+|**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
+|**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
+|**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|null|
 |**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
 |**2023-05-11**|**Simple Token-Level Confidence Improves Caption Correctness**|Suzanne Petryk et.al.|[2305.07021v1](http://arxiv.org/abs/2305.07021v1)|null|
 |**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
@@ -1129,6 +1140,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
+|**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
+|**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
+|**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|null|
 |**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
 |**2023-05-11**|**Simple Token-Level Confidence Improves Caption Correctness**|Suzanne Petryk et.al.|[2305.07021v1](http://arxiv.org/abs/2305.07021v1)|null|
 |**2023-05-11**|**A General-Purpose Multilingual Document Encoder**|Onur Galoğlu et.al.|[2305.07016v1](http://arxiv.org/abs/2305.07016v1)|**[link](https://github.com/ogaloglu/pre-training-multilingual-document-encoders)**|
