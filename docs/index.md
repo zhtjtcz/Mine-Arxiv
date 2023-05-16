@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
+|**2023-05-15**|**The role of magnetic helicity when it is absent on average**|Axel Brandenburg et.al.|[2305.08769v1](http://arxiv.org/abs/2305.08769v1)|null|
+|**2023-05-15**|**Diffusion-weighted SPECIAL improves the detection of J-coupled metabolites at ultra-high magnetic field**|Jessie Mosso et.al.|[2305.08708v1](http://arxiv.org/abs/2305.08708v1)|null|
+|**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694v1](http://arxiv.org/abs/2305.08694v1)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
 |**2023-05-12**|**Sound waves, diffusive transport, and wall slip in nanoconfined compressible fluids**|Hannes Holey et.al.|[2305.07501v1](http://arxiv.org/abs/2305.07501v1)|null|
 |**2023-05-12**|**On a Voter Model with Context-Dependent Opinion Adoption**|Luca Becchetti et.al.|[2305.07377v1](http://arxiv.org/abs/2305.07377v1)|null|
 |**2023-05-12**|**Experimental optimization of lensless digital holographic microscopy with rotating diffuser-based coherent noise reduction**|Piotr Arcab et.al.|[2305.07373v1](http://arxiv.org/abs/2305.07373v1)|null|
@@ -391,6 +396,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Validity Constraints for Data Analysis Workflows**|Florian Schintke et.al.|[2305.08409v1](http://arxiv.org/abs/2305.08409v1)|null|
+|**2023-05-15**|**Fast and Efficient Matching Algorithm with Deadline Instances**|Zhao Song et.al.|[2305.08353v1](http://arxiv.org/abs/2305.08353v1)|null|
+|**2023-05-15**|**Approximation and Progressive Display of Multiverse Analyses**|Yang Liu et.al.|[2305.08323v1](http://arxiv.org/abs/2305.08323v1)|null|
 |**2023-05-11**|**Enabling Programming Thinking in Large Language Models Toward Code Generation**|Jia Li et.al.|[2305.06599v1](http://arxiv.org/abs/2305.06599v1)|null|
 |**2023-05-12**|**Searching Mobile App Screens via Text + Doodle**|Soumik Mohian et.al.|[2305.06165v2](http://arxiv.org/abs/2305.06165v2)|**[link](https://github.com/doodleui/wnd)**|
 |**2023-05-10**|**Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models**|Rohan Dhesikan et.al.|[2305.05845v1](http://arxiv.org/abs/2305.05845v1)|null|
@@ -535,6 +543,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang et.al.|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
 |**2023-05-11**|**Towards a Better Understanding of the Computer Vision Research Community in Africa**|Abdul-Hakeem Omotayo et.al.|[2305.06773v1](http://arxiv.org/abs/2305.06773v1)|null|
 |**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
@@ -648,6 +657,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
+|**2023-05-15**|**CQE: A Comprehensive Quantity Extractor**|Satya Almasian et.al.|[2305.08853v1](http://arxiv.org/abs/2305.08853v1)|**[link](https://github.com/vivkaz/cqe)**|
+|**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
+|**2023-05-15**|**Privacy Auditing with One (1) Training Run**|Thomas Steinke et.al.|[2305.08846v1](http://arxiv.org/abs/2305.08846v1)|null|
+|**2023-05-15**|**Large Language Models are Zero-Shot Rankers for Recommender Systems**|Yupeng Hou et.al.|[2305.08845v1](http://arxiv.org/abs/2305.08845v1)|**[link](https://github.com/rucaibox/llmrank)**|
+|**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844v1](http://arxiv.org/abs/2305.08844v1)|**[link](https://github.com/feyzaakyurek/rl4f)**|
+|**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
+|**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
 |**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
 |**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
@@ -1140,6 +1158,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
+|**2023-05-15**|**CQE: A Comprehensive Quantity Extractor**|Satya Almasian et.al.|[2305.08853v1](http://arxiv.org/abs/2305.08853v1)|**[link](https://github.com/vivkaz/cqe)**|
+|**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
+|**2023-05-15**|**Privacy Auditing with One (1) Training Run**|Thomas Steinke et.al.|[2305.08846v1](http://arxiv.org/abs/2305.08846v1)|null|
+|**2023-05-15**|**Large Language Models are Zero-Shot Rankers for Recommender Systems**|Yupeng Hou et.al.|[2305.08845v1](http://arxiv.org/abs/2305.08845v1)|**[link](https://github.com/rucaibox/llmrank)**|
+|**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844v1](http://arxiv.org/abs/2305.08844v1)|**[link](https://github.com/feyzaakyurek/rl4f)**|
+|**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
+|**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
 |**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
 |**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
