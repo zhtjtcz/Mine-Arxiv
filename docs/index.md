@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
+|**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388v1](http://arxiv.org/abs/2305.10388v1)|null|
+|**2023-05-17**|**A phase field model for droplets suspended in viscous liquids under the influence of electric fields**|Yuzhe Qin et.al.|[2305.10296v1](http://arxiv.org/abs/2305.10296v1)|null|
+|**2023-05-17**|**Provably Correct Physics-Informed Neural Networks**|Francisco Eiras et.al.|[2305.10157v1](http://arxiv.org/abs/2305.10157v1)|null|
+|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v1](http://arxiv.org/abs/2305.10135v1)|null|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**FitMe: Deep Photorealistic 3D Morphable Model Avatars**|Alexandros Lattas et.al.|[2305.09641v1](http://arxiv.org/abs/2305.09641v1)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
@@ -403,6 +408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
 |**2023-05-15**|**Scalable and Robust Tensor Ring Decomposition for Large-scale Data**|Yicong He et.al.|[2305.09044v1](http://arxiv.org/abs/2305.09044v1)|null|
 |**2023-05-15**|**Validity Constraints for Data Analysis Workflows**|Florian Schintke et.al.|[2305.08409v1](http://arxiv.org/abs/2305.08409v1)|null|
 |**2023-05-15**|**Fast and Efficient Matching Algorithm with Deadline Instances**|Zhao Song et.al.|[2305.08353v1](http://arxiv.org/abs/2305.08353v1)|null|
@@ -551,6 +557,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Colonoscopy Coverage Revisited: Identifying Scanning Gaps in Real-Time**|G. Leifman et.al.|[2305.10026v1](http://arxiv.org/abs/2305.10026v1)|null|
 |**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang et.al.|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
 |**2023-05-11**|**Towards a Better Understanding of the Computer Vision Research Community in Africa**|Abdul-Hakeem Omotayo et.al.|[2305.06773v1](http://arxiv.org/abs/2305.06773v1)|null|
 |**2023-05-10**|**Scan2LoD3: Reconstructing semantic 3D building models at LoD3 using ray casting and Bayesian networks**|Olaf Wysocki et.al.|[2305.06314v1](http://arxiv.org/abs/2305.06314v1)|null|
@@ -665,6 +672,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
+|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
+|**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
+|**2023-05-17**|**Scratch Copilot Evaluation: Assessing AI-Assisted Creative Coding for Families**|Stefania Druga et.al.|[2305.10417v1](http://arxiv.org/abs/2305.10417v1)|null|
+|**2023-05-17**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v1](http://arxiv.org/abs/2305.10415v1)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
+|**2023-05-17**|**AI Friends: A Design Framework for AI-Powered Creative Programming for Youth**|Stefania Druga et.al.|[2305.10412v1](http://arxiv.org/abs/2305.10412v1)|null|
+|**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
 |**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
@@ -1173,6 +1187,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
+|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
+|**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
+|**2023-05-17**|**Scratch Copilot Evaluation: Assessing AI-Assisted Creative Coding for Families**|Stefania Druga et.al.|[2305.10417v1](http://arxiv.org/abs/2305.10417v1)|null|
+|**2023-05-17**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v1](http://arxiv.org/abs/2305.10415v1)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
+|**2023-05-17**|**AI Friends: A Design Framework for AI-Powered Creative Programming for Youth**|Stefania Druga et.al.|[2305.10412v1](http://arxiv.org/abs/2305.10412v1)|null|
+|**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
 |**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
