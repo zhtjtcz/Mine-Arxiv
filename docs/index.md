@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|null|
+|**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089v1](http://arxiv.org/abs/2305.11089v1)|**[link](https://github.com/lanl/blackout-diffusion)**|
+|**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080v1](http://arxiv.org/abs/2305.11080v1)|null|
+|**2023-05-18**|**Unsupervised Pansharpening via Low-rank Diffusion Model**|Xiangyu Rui et.al.|[2305.10925v1](http://arxiv.org/abs/2305.10925v1)|**[link](https://github.com/xyrui/plrdiff)**|
+|**2023-05-18**|**Structural Pruning for Diffusion Models**|Gongfan Fang et.al.|[2305.10924v1](http://arxiv.org/abs/2305.10924v1)|**[link](https://github.com/vainf/diff-pruning)**|
+|**2023-05-18**|**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**|Wenjing Wang et.al.|[2305.10874v1](http://arxiv.org/abs/2305.10874v1)|null|
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388v1](http://arxiv.org/abs/2305.10388v1)|null|
 |**2023-05-17**|**A phase field model for droplets suspended in viscous liquids under the influence of electric fields**|Yuzhe Qin et.al.|[2305.10296v1](http://arxiv.org/abs/2305.10296v1)|null|
@@ -557,6 +563,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Progressive Learning of 3D Reconstruction Network from 2D GAN Data**|Aysegul Dundar et.al.|[2305.11102v1](http://arxiv.org/abs/2305.11102v1)|null|
+|**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**Colonoscopy Coverage Revisited: Identifying Scanning Gaps in Real-Time**|G. Leifman et.al.|[2305.10026v1](http://arxiv.org/abs/2305.10026v1)|null|
 |**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang et.al.|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
 |**2023-05-11**|**Towards a Better Understanding of the Computer Vision Research Community in Africa**|Abdul-Hakeem Omotayo et.al.|[2305.06773v1](http://arxiv.org/abs/2305.06773v1)|null|
@@ -672,6 +680,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
+|**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173v1](http://arxiv.org/abs/2305.11173v1)|**[link](https://github.com/facebookresearch/vlpart)**|
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|null|
+|**2023-05-18**|**TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models**|Zorik Gekhman et.al.|[2305.11171v1](http://arxiv.org/abs/2305.11171v1)|**[link](https://github.com/google-research/google-research/tree/master/true_teacher)**|
+|**2023-05-18**|**Efficient Prompting via Dynamic In-Context Learning**|Wangchunshu Zhou et.al.|[2305.11170v1](http://arxiv.org/abs/2305.11170v1)|null|
+|**2023-05-18**|**Evidence of Meaning in Language Models Trained on Programs**|Charles Jin et.al.|[2305.11169v1](http://arxiv.org/abs/2305.11169v1)|null|
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
 |**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
@@ -1187,6 +1202,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
+|**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173v1](http://arxiv.org/abs/2305.11173v1)|**[link](https://github.com/facebookresearch/vlpart)**|
+|**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|null|
+|**2023-05-18**|**TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models**|Zorik Gekhman et.al.|[2305.11171v1](http://arxiv.org/abs/2305.11171v1)|**[link](https://github.com/google-research/google-research/tree/master/true_teacher)**|
+|**2023-05-18**|**Efficient Prompting via Dynamic In-Context Learning**|Wangchunshu Zhou et.al.|[2305.11170v1](http://arxiv.org/abs/2305.11170v1)|null|
+|**2023-05-18**|**Evidence of Meaning in Language Models Trained on Programs**|Charles Jin et.al.|[2305.11169v1](http://arxiv.org/abs/2305.11169v1)|null|
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420v1](http://arxiv.org/abs/2305.10420v1)|null|
 |**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418v1](http://arxiv.org/abs/2305.10418v1)|null|
