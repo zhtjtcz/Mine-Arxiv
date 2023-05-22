@@ -37,7 +37,7 @@ layout: default
 |**2023-05-18**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v2](http://arxiv.org/abs/2305.10135v2)|null|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**FitMe: Deep Photorealistic 3D Morphable Model Avatars**|Alexandros Lattas et.al.|[2305.09641v1](http://arxiv.org/abs/2305.09641v1)|null|
-|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
+|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|**[link](https://github.com/microsoft/ProphetNet)**|
 |**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489v1](http://arxiv.org/abs/2305.09489v1)|**[link](https://github.com/plassma/symbolic-music-discrete-diffusion)**|
 |**2023-05-17**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v2](http://arxiv.org/abs/2305.09447v2)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401v1](http://arxiv.org/abs/2305.09401v1)|null|
@@ -195,13 +195,13 @@ layout: default
 |**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599v1](http://arxiv.org/abs/2303.17599v1)|**[link](https://github.com/baaivision/vid2vid-zero)**|
 |**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
 |**2023-03-30**|**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**|Eric Zhang et.al.|[2303.17591v1](http://arxiv.org/abs/2303.17591v1)|**[link](https://github.com/shi-labs/forget-me-not)**|
-|**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji et.al.|[2303.17559v1](http://arxiv.org/abs/2303.17559v1)|null|
+|**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji et.al.|[2303.17559v1](http://arxiv.org/abs/2303.17559v1)|**[link](https://github.com/jiyuanfeng/ddp)**|
 |**2023-03-30**|**DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**|Chenpng Du et.al.|[2303.17550v1](http://arxiv.org/abs/2303.17550v1)|null|
 |**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546v1](http://arxiv.org/abs/2303.17546v1)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
 |**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
 |**2023-03-30**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v2](http://arxiv.org/abs/2303.16765v2)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
 |**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611v1](http://arxiv.org/abs/2303.16611v1)|**[link](https://github.com/zoukaifeng/4dfm)**|
-|**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576v1](http://arxiv.org/abs/2303.16576v1)|null|
+|**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576v1](http://arxiv.org/abs/2303.16576v1)|**[link](https://github.com/koninik/wordstylist)**|
 |**2023-03-29**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
 |**2023-03-28**|**Diffusion Maps for Group-Invariant Manifolds**|Paulina Hoyos et.al.|[2303.16169v1](http://arxiv.org/abs/2303.16169v1)|null|
@@ -336,7 +336,7 @@ layout: default
 |**2023-02-20**|**Towards Universal Fake Image Detectors that Generalize Across Generative Models**|Utkarsh Ojha et.al.|[2302.10174v1](http://arxiv.org/abs/2302.10174v1)|null|
 |**2023-02-20**|**Cross-domain Compositing with Pretrained Diffusion Models**|Roy Hachnochi et.al.|[2302.10167v1](http://arxiv.org/abs/2302.10167v1)|**[link](https://github.com/cross-domain-compositing/cross-domain-compositing)**|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
-|**2023-02-20**|**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**|Jiasheng Ye et.al.|[2302.10025v1](http://arxiv.org/abs/2302.10025v1)|null|
+|**2023-02-20**|**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**|Jiasheng Ye et.al.|[2302.10025v1](http://arxiv.org/abs/2302.10025v1)|**[link](https://github.com/yegcjs/dinoiser)**|
 |**2023-02-17**|**Consistent Diffusion Models: Mitigating Sampling Drift by Learning to be Consistent**|Giannis Daras et.al.|[2302.09057v1](http://arxiv.org/abs/2302.09057v1)|**[link](https://github.com/giannisdaras/cdm)**|
 |**2023-02-17**|**MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation**|Clement Vignac et.al.|[2302.09048v1](http://arxiv.org/abs/2302.09048v1)|**[link](https://github.com/cvignac/midi)**|
 |**2023-02-17**|**LDFA: Latent Diffusion Face Anonymization for Self-driving Applications**|Marvin Klemp et.al.|[2302.08931v1](http://arxiv.org/abs/2302.08931v1)|null|
@@ -710,7 +710,7 @@ layout: default
 |**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844v1](http://arxiv.org/abs/2305.08844v1)|**[link](https://github.com/feyzaakyurek/rl4f)**|
 |**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
 |**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
-|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
+|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|**[link](https://github.com/um2ii/text2cohort)**|
 |**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
 |**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|null|
@@ -746,7 +746,7 @@ layout: default
 |**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|**[link](https://github.com/yunxinli/lingcloud)**|
 |**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|null|
 |**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
-|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|**[link](https://github.com/arijitray1993/COLA)**|
 |**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
 |**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
@@ -1232,7 +1232,7 @@ layout: default
 |**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844v1](http://arxiv.org/abs/2305.08844v1)|**[link](https://github.com/feyzaakyurek/rl4f)**|
 |**2023-05-15**|**Straightening Out the Straight-Through Estimator: Overcoming Optimization Challenges in Vector Quantized Networks**|Minyoung Huh et.al.|[2305.08842v1](http://arxiv.org/abs/2305.08842v1)|null|
 |**2023-05-15**|**Attacking Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2305.08840v1](http://arxiv.org/abs/2305.08840v1)|null|
-|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|null|
+|**2023-05-12**|**Text2Cohort: Democratizing the NCI Imaging Data Commons with Natural Language Cohort Discovery**|Pranav Kulkarni et.al.|[2305.07637v1](http://arxiv.org/abs/2305.07637v1)|**[link](https://github.com/um2ii/text2cohort)**|
 |**2023-05-12**|**Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code**|Ilham Variansyah et.al.|[2305.07636v1](http://arxiv.org/abs/2305.07636v1)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633v1](http://arxiv.org/abs/2305.07633v1)|null|
 |**2023-05-12**|**Design, Development, and Evaluation of an Interactive Personalized Social Robot to Monitor and Coach Post-Stroke Rehabilitation Exercises**|Min Hun Lee et.al.|[2305.07632v1](http://arxiv.org/abs/2305.07632v1)|null|
@@ -1268,7 +1268,7 @@ layout: default
 |**2023-05-05**|**LMEye: An Interactive Perception Network for Large Language Models**|Yunxin Li et.al.|[2305.03701v1](http://arxiv.org/abs/2305.03701v1)|**[link](https://github.com/yunxinli/lingcloud)**|
 |**2023-05-05**|**Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements**|Jiacheng Liu et.al.|[2305.03695v1](http://arxiv.org/abs/2305.03695v1)|null|
 |**2023-05-05**|**Mining bias-target Alignment from Voronoi Cells**|Rémi Nahon et.al.|[2305.03691v1](http://arxiv.org/abs/2305.03691v1)|**[link](https://github.com/renahon/mining_bias_target_alignment_from_voronoi_cells)**|
-|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|**[link](https://github.com/arijitray1993/COLA)**|
 |**2023-05-04**|**ZipIt! Merging Models from Different Tasks without Training**|George Stoica et.al.|[2305.03053v1](http://arxiv.org/abs/2305.03053v1)|**[link](https://github.com/gstoica27/zipit)**|
 |**2023-05-04**|**Controllable Visual-Tactile Synthesis**|Ruihan Gao et.al.|[2305.03051v1](http://arxiv.org/abs/2305.03051v1)|**[link](https://github.com/ruihangao/visual-tactile-synthesis)**|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
