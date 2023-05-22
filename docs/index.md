@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Any-to-Any Generation via Composable Diffusion**|Zineng Tang et.al.|[2305.11846v1](http://arxiv.org/abs/2305.11846v1)|null|
+|**2023-05-19**|**The probability flow ODE is provably fast**|Sitan Chen et.al.|[2305.11798v1](http://arxiv.org/abs/2305.11798v1)|null|
+|**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675v1](http://arxiv.org/abs/2305.11675v1)|null|
+|**2023-05-19**|**Few-shot 3D Shape Generation**|Jingyuan Zhu et.al.|[2305.11664v1](http://arxiv.org/abs/2305.11664v1)|null|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
+|**2023-05-19**|**Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots**|Jinyi Hu et.al.|[2305.11540v1](http://arxiv.org/abs/2305.11540v1)|null|
+|**2023-05-19**|**Late-Constraint Diffusion Guidance for Controllable Image Synthesis**|Chang Liu et.al.|[2305.11520v1](http://arxiv.org/abs/2305.11520v1)|null|
+|**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517v1](http://arxiv.org/abs/2305.11517v1)|null|
 |**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|null|
 |**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089v1](http://arxiv.org/abs/2305.11089v1)|**[link](https://github.com/lanl/blackout-diffusion)**|
 |**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080v1](http://arxiv.org/abs/2305.11080v1)|null|
@@ -414,6 +424,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**MaGIC: Multi-modality Guided Image Completion**|Yongsheng Yu et.al.|[2305.11818v1](http://arxiv.org/abs/2305.11818v1)|null|
+|**2023-05-19**|**MIDI-Draw: Sketching to Control Melody Generation**|Tashi Namgyal et.al.|[2305.11605v1](http://arxiv.org/abs/2305.11605v1)|null|
 |**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
 |**2023-05-15**|**Scalable and Robust Tensor Ring Decomposition for Large-scale Data**|Yicong He et.al.|[2305.09044v1](http://arxiv.org/abs/2305.09044v1)|null|
 |**2023-05-15**|**Validity Constraints for Data Analysis Workflows**|Florian Schintke et.al.|[2305.08409v1](http://arxiv.org/abs/2305.08409v1)|null|
@@ -563,6 +575,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
+|**2023-05-19**|**RGB-D And Thermal Sensor Fusion: A Systematic Literature Review**|Martin Brenner et.al.|[2305.11427v1](http://arxiv.org/abs/2305.11427v1)|null|
 |**2023-05-18**|**Progressive Learning of 3D Reconstruction Network from 2D GAN Data**|Aysegul Dundar et.al.|[2305.11102v1](http://arxiv.org/abs/2305.11102v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**Colonoscopy Coverage Revisited: Identifying Scanning Gaps in Real-Time**|G. Leifman et.al.|[2305.10026v1](http://arxiv.org/abs/2305.10026v1)|null|
@@ -680,6 +695,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
+|**2023-05-19**|**Video Killed the HD-Map: Predicting Driving Behavior Directly From Drone Images**|Yunpeng Liu et.al.|[2305.11856v1](http://arxiv.org/abs/2305.11856v1)|null|
+|**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|null|
+|**2023-05-19**|**Poincare and Einstein on Mass-Energy Equivalence: A Modern Perspective on their 1900 and 1905 Papers**|Patrick Moylan et.al.|[2305.11852v1](http://arxiv.org/abs/2305.11852v1)|null|
+|**2023-05-19**|**Any-to-Any Generation via Composable Diffusion**|Zineng Tang et.al.|[2305.11846v1](http://arxiv.org/abs/2305.11846v1)|null|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173v1](http://arxiv.org/abs/2305.11173v1)|**[link](https://github.com/facebookresearch/vlpart)**|
@@ -1202,6 +1223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
+|**2023-05-19**|**Video Killed the HD-Map: Predicting Driving Behavior Directly From Drone Images**|Yunpeng Liu et.al.|[2305.11856v1](http://arxiv.org/abs/2305.11856v1)|null|
+|**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854v1](http://arxiv.org/abs/2305.11854v1)|null|
+|**2023-05-19**|**Poincare and Einstein on Mass-Energy Equivalence: A Modern Perspective on their 1900 and 1905 Papers**|Patrick Moylan et.al.|[2305.11852v1](http://arxiv.org/abs/2305.11852v1)|null|
+|**2023-05-19**|**Any-to-Any Generation via Composable Diffusion**|Zineng Tang et.al.|[2305.11846v1](http://arxiv.org/abs/2305.11846v1)|null|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**|Wenhai Wang et.al.|[2305.11175v1](http://arxiv.org/abs/2305.11175v1)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173v1](http://arxiv.org/abs/2305.11173v1)|**[link](https://github.com/facebookresearch/vlpart)**|
