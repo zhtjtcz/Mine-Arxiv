@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|null|
 |**2023-05-22**|**DiffusionNER: Boundary Diffusion for Named Entity Recognition**|Yongliang Shen et.al.|[2305.13298v1](http://arxiv.org/abs/2305.13298v1)|**[link](https://github.com/tricktreat/diffusionner)**|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
 |**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122v1](http://arxiv.org/abs/2305.13122v1)|**[link](https://github.com/bellmantimehut/dipo)**|
@@ -425,7 +425,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 ## sketch
 
@@ -576,7 +576,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -697,7 +697,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 ## generate
 
@@ -711,7 +711,7 @@ layout: default
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Growth of ultrawide-bandgap BN/diamond heterostructures by pulsed laser deposition**|Abhijit Biswas et.al.|[2305.13306v1](http://arxiv.org/abs/2305.13306v1)|null|
 |**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|null|
 |**2023-05-22**|**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**|Chenglei Si et.al.|[2305.13299v1](http://arxiv.org/abs/2305.13299v1)|**[link](https://github.com/noviscl/ambigprompt)**|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
@@ -1235,7 +1235,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 ## generation
 
@@ -1249,7 +1249,7 @@ layout: default
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Growth of ultrawide-bandgap BN/diamond heterostructures by pulsed laser deposition**|Abhijit Biswas et.al.|[2305.13306v1](http://arxiv.org/abs/2305.13306v1)|null|
 |**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
-|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|null|
+|**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|null|
 |**2023-05-22**|**Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations**|Chenglei Si et.al.|[2305.13299v1](http://arxiv.org/abs/2305.13299v1)|**[link](https://github.com/noviscl/ambigprompt)**|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
@@ -1773,7 +1773,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
