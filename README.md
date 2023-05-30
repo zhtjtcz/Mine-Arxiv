@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295v1](http://arxiv.org/abs/2305.18295v1)|null|
+|**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292v1](http://arxiv.org/abs/2305.18292v1)|null|
+|**2023-05-29**|**Photoswap: Personalized Subject Swapping in Images**|Jing Gu et.al.|[2305.18286v1](http://arxiv.org/abs/2305.18286v1)|null|
+|**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti et.al.|[2305.18274v1](http://arxiv.org/abs/2305.18274v1)|null|
+|**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264v1](http://arxiv.org/abs/2305.18264v1)|**[link](https://github.com/g-u-n/gen-l-video)**|
+|**2023-05-29**|**GlyphControl: Glyph Conditional Control for Visual Text Generation**|Yukang Yang et.al.|[2305.18259v1](http://arxiv.org/abs/2305.18259v1)|null|
 |**2023-05-26**|**Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model**|David Soong et.al.|[2305.17116v1](http://arxiv.org/abs/2305.17116v1)|null|
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
 |**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|null|
@@ -455,6 +461,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v1](http://arxiv.org/abs/2305.18247v1)|**[link](https://github.com/videocrafter/talecrafter)**|
+|**2023-05-27**|**Pruning at Initialization -- A Sketching Perspective**|Noga Bar et.al.|[2305.17559v1](http://arxiv.org/abs/2305.17559v1)|null|
+|**2023-05-27**|**On the Noise Sensitivity of the Randomized SVD**|Elad Romanov et.al.|[2305.17435v1](http://arxiv.org/abs/2305.17435v1)|null|
+|**2023-05-26**|**BIG-C: a Multimodal Multi-Purpose Dataset for Bemba**|Claytone Sikasote et.al.|[2305.17202v1](http://arxiv.org/abs/2305.17202v1)|**[link](https://github.com/csikasote/bigc)**|
 |**2023-05-26**|**CARAMEL: A Succinct Read-Only Lookup Table via Compressed Static Functions**|Benjamin Coleman et.al.|[2305.16545v1](http://arxiv.org/abs/2305.16545v1)|null|
 |**2023-05-25**|**SketchOGD: Memory-Efficient Continual Learning**|Benjamin Wright et.al.|[2305.16424v1](http://arxiv.org/abs/2305.16424v1)|**[link](https://github.com/azizanlab/sketchogd)**|
 |**2023-05-24**|**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**|Sungnyun Kim et.al.|[2305.15194v1](http://arxiv.org/abs/2305.15194v1)|**[link](https://github.com/sungnyun/diffblender)**|
@@ -610,6 +620,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
+|**2023-05-26**|**VoxDet: Voxel Learning for Novel Instance Detection**|Bowen Li et.al.|[2305.17220v1](http://arxiv.org/abs/2305.17220v1)|null|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
 |**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
 |**2023-05-25**|**Robust Category-Level 3D Pose Estimation from Synthetic Data**|Jiahao Yang et.al.|[2305.16124v1](http://arxiv.org/abs/2305.16124v1)|null|
@@ -736,6 +748,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295v1](http://arxiv.org/abs/2305.18295v1)|null|
+|**2023-05-29**|**Transformer Language Models Handle Word Frequency in Prediction Head**|Goro Kobayashi et.al.|[2305.18294v1](http://arxiv.org/abs/2305.18294v1)|null|
+|**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290v1](http://arxiv.org/abs/2305.18290v1)|null|
+|**2023-05-29**|**LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**|M. Jehanzeb Mirza et.al.|[2305.18287v1](http://arxiv.org/abs/2305.18287v1)|null|
+|**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
+|**2023-05-29**|**Contextual Object Detection with Multimodal Large Language Models**|Yuhang Zang et.al.|[2305.18279v1](http://arxiv.org/abs/2305.18279v1)|**[link](https://github.com/yuhangzang/contextdet)**|
 |**2023-05-26**|**NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**|Xinyue Wei et.al.|[2305.17134v1](http://arxiv.org/abs/2305.17134v1)|null|
 |**2023-05-26**|**RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation**|Gabriele Sarti et.al.|[2305.17131v1](http://arxiv.org/abs/2305.17131v1)|null|
 |**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
@@ -1304,6 +1322,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295v1](http://arxiv.org/abs/2305.18295v1)|null|
+|**2023-05-29**|**Transformer Language Models Handle Word Frequency in Prediction Head**|Goro Kobayashi et.al.|[2305.18294v1](http://arxiv.org/abs/2305.18294v1)|null|
+|**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290v1](http://arxiv.org/abs/2305.18290v1)|null|
+|**2023-05-29**|**LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections**|M. Jehanzeb Mirza et.al.|[2305.18287v1](http://arxiv.org/abs/2305.18287v1)|null|
+|**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
+|**2023-05-29**|**Contextual Object Detection with Multimodal Large Language Models**|Yuhang Zang et.al.|[2305.18279v1](http://arxiv.org/abs/2305.18279v1)|**[link](https://github.com/yuhangzang/contextdet)**|
 |**2023-05-26**|**NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**|Xinyue Wei et.al.|[2305.17134v1](http://arxiv.org/abs/2305.17134v1)|null|
 |**2023-05-26**|**RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation**|Gabriele Sarti et.al.|[2305.17131v1](http://arxiv.org/abs/2305.17131v1)|null|
 |**2023-05-26**|**Characterizing and Measuring Linguistic Dataset Drift**|Tyler A. Chang et.al.|[2305.17127v1](http://arxiv.org/abs/2305.17127v1)|null|
