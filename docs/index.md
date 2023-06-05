@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
+|**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721v1](http://arxiv.org/abs/2306.01721v1)|**[link](https://github.com/opengvlab/ddps)**|
+|**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657v1](http://arxiv.org/abs/2306.01657v1)|null|
+|**2023-06-02**|**Influence Maximization with Fairness at Scale (Extended Version)**|Yuting Feng et.al.|[2306.01587v1](http://arxiv.org/abs/2306.01587v1)|null|
+|**2023-06-02**|**PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models**|Jiacheng Chen et.al.|[2306.01461v1](http://arxiv.org/abs/2306.01461v1)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v2](http://arxiv.org/abs/2306.00986v2)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|null|
@@ -658,6 +663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|null|
 |**2023-06-01**|**BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image**|Tao Chu et.al.|[2306.00965v1](http://arxiv.org/abs/2306.00965v1)|**[link](https://github.com/chtsy/buol)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
@@ -789,6 +795,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
+|**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
+|**2023-06-02**|**Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans**|Stefania Raimondo et.al.|[2306.01729v1](http://arxiv.org/abs/2306.01729v1)|null|
+|**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721v1](http://arxiv.org/abs/2306.01721v1)|**[link](https://github.com/opengvlab/ddps)**|
+|**2023-06-02**|**Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation**|Jianling Wang et.al.|[2306.01720v1](http://arxiv.org/abs/2306.01720v1)|null|
+|**2023-06-02**|**Discreteness of asymptotic tensor ranks**|Jop Briët et.al.|[2306.01718v1](http://arxiv.org/abs/2306.01718v1)|null|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v2](http://arxiv.org/abs/2306.00986v2)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
@@ -1382,6 +1395,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
+|**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
+|**2023-06-02**|**Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans**|Stefania Raimondo et.al.|[2306.01729v1](http://arxiv.org/abs/2306.01729v1)|null|
+|**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721v1](http://arxiv.org/abs/2306.01721v1)|**[link](https://github.com/opengvlab/ddps)**|
+|**2023-06-02**|**Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation**|Jianling Wang et.al.|[2306.01720v1](http://arxiv.org/abs/2306.01720v1)|null|
+|**2023-06-02**|**Discreteness of asymptotic tensor ranks**|Jop Briët et.al.|[2306.01718v1](http://arxiv.org/abs/2306.01718v1)|null|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v2](http://arxiv.org/abs/2306.00986v2)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
