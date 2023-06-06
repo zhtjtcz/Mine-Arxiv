@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
+|**2023-06-05**|**Influence of the finite transverse size of the accelerating region on the relativistic feedback**|Alexander Sedelnikov et.al.|[2306.03059v1](http://arxiv.org/abs/2306.03059v1)|null|
+|**2023-06-05**|**HeadSculpt: Crafting 3D Head Avatars with Text**|Xiao Han et.al.|[2306.03038v1](http://arxiv.org/abs/2306.03038v1)|null|
+|**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022v1](http://arxiv.org/abs/2306.03022v1)|null|
+|**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957v1](http://arxiv.org/abs/2306.02957v1)|null|
+|**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949v1](http://arxiv.org/abs/2306.02949v1)|null|
+|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903v1](http://arxiv.org/abs/2306.02903v1)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721v1](http://arxiv.org/abs/2306.01721v1)|**[link](https://github.com/opengvlab/ddps)**|
 |**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657v1](http://arxiv.org/abs/2306.01657v1)|null|
@@ -491,6 +499,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Explicit Construction of q-ary 2-deletion Correcting Codes with Low Redundancy**|Shu Liu et.al.|[2306.02868v1](http://arxiv.org/abs/2306.02868v1)|null|
+|**2023-06-03**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018v1](http://arxiv.org/abs/2306.02018v1)|null|
 |**2023-06-01**|**Cross Modal Data Discovery over Structured and Unstructured Data Lakes**|Mohamed Y. Eltabakh et.al.|[2306.00932v1](http://arxiv.org/abs/2306.00932v1)|**[link](https://github.com/qcri/cmdl)**|
 |**2023-06-01**|**Towards Interactive Image Inpainting via Sketch Refinement**|Chang Liu et.al.|[2306.00407v1](http://arxiv.org/abs/2306.00407v1)|**[link](https://github.com/alonzoleeeooo/sketchrefiner)**|
 |**2023-06-01**|**Faster Robust Tensor Power Method for Arbitrary Order**|Yichuan Deng et.al.|[2306.00406v1](http://arxiv.org/abs/2306.00406v1)|null|
@@ -659,6 +669,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
+|**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin et.al.|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
+|**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou et.al.|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
 |**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|null|
 |**2023-06-01**|**BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image**|Tao Chu et.al.|[2306.00965v1](http://arxiv.org/abs/2306.00965v1)|**[link](https://github.com/chtsy/buol)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
@@ -791,6 +804,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
+|**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
+|**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081v1](http://arxiv.org/abs/2306.03081v1)|**[link](https://github.com/probcomp/llamppl)**|
+|**2023-06-05**|**A General Perspective on Objectives of Reinforcement Learning**|Long Yang et.al.|[2306.03074v1](http://arxiv.org/abs/2306.03074v1)|null|
+|**2023-06-05**|**Explore to Generalize in Zero-Shot RL**|Ev Zisselman et.al.|[2306.03072v1](http://arxiv.org/abs/2306.03072v1)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
@@ -1391,6 +1412,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
+|**2023-06-05**|**InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**|Lichang Chen et.al.|[2306.03082v1](http://arxiv.org/abs/2306.03082v1)|**[link](https://github.com/lichang-chen/instructzero)**|
+|**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081v1](http://arxiv.org/abs/2306.03081v1)|**[link](https://github.com/probcomp/llamppl)**|
+|**2023-06-05**|**A General Perspective on Objectives of Reinforcement Learning**|Long Yang et.al.|[2306.03074v1](http://arxiv.org/abs/2306.03074v1)|null|
+|**2023-06-05**|**Explore to Generalize in Zero-Shot RL**|Ev Zisselman et.al.|[2306.03072v1](http://arxiv.org/abs/2306.03072v1)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735v1](http://arxiv.org/abs/2306.01735v1)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
