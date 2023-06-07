@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang et.al.|[2306.03881v1](http://arxiv.org/abs/2306.03881v1)|null|
+|**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878v1](http://arxiv.org/abs/2306.03878v1)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
+|**2023-06-06**|**Newly Formed Cities: an AI Curation**|Dario Negueruela del Castillo et.al.|[2306.03753v1](http://arxiv.org/abs/2306.03753v1)|null|
+|**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727v1](http://arxiv.org/abs/2306.03727v1)|null|
+|**2023-06-06**|**Diffusional exchange versus microscopic kurtosis from CTI: two conflicting interpretations of the same data**|Arthur Chakwizira et.al.|[2306.03661v1](http://arxiv.org/abs/2306.03661v1)|null|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
 |**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083v1](http://arxiv.org/abs/2306.03083v1)|null|
 |**2023-06-05**|**Influence of the finite transverse size of the accelerating region on the relativistic feedback**|Alexander Sedelnikov et.al.|[2306.03059v1](http://arxiv.org/abs/2306.03059v1)|null|
@@ -503,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Tracking Evolving labels using Cone based Oracles**|Aditya Acharya et.al.|[2306.03306v1](http://arxiv.org/abs/2306.03306v1)|null|
 |**2023-06-05**|**Explicit Construction of q-ary 2-deletion Correcting Codes with Low Redundancy**|Shu Liu et.al.|[2306.02868v1](http://arxiv.org/abs/2306.02868v1)|null|
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018v2](http://arxiv.org/abs/2306.02018v2)|null|
 |**2023-06-01**|**Cross Modal Data Discovery over Structured and Unstructured Data Lakes**|Mohamed Y. Eltabakh et.al.|[2306.00932v1](http://arxiv.org/abs/2306.00932v1)|**[link](https://github.com/qcri/cmdl)**|
@@ -676,7 +682,7 @@ layout: default
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
 |**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin et.al.|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
 |**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou et.al.|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
-|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|null|
+|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|**[link](https://github.com/weizhe-chen/attentive_kernels)**|
 |**2023-06-01**|**BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image**|Tao Chu et.al.|[2306.00965v1](http://arxiv.org/abs/2306.00965v1)|**[link](https://github.com/chtsy/buol)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
@@ -808,6 +814,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v1](http://arxiv.org/abs/2306.03901v1)|null|
+|**2023-06-06**|**Model Spider: Learning to Rank Pre-Trained Models Efficiently**|Yi-Kai Zhang et.al.|[2306.03900v1](http://arxiv.org/abs/2306.03900v1)|null|
+|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|null|
 |**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
 |**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
@@ -1416,6 +1425,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**|Chenxu Hu et.al.|[2306.03901v1](http://arxiv.org/abs/2306.03901v1)|null|
+|**2023-06-06**|**Model Spider: Learning to Rank Pre-Trained Models Efficiently**|Yi-Kai Zhang et.al.|[2306.03900v1](http://arxiv.org/abs/2306.03900v1)|null|
+|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|null|
 |**2023-06-05**|**Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**|Rose E. Wang et.al.|[2306.03090v1](http://arxiv.org/abs/2306.03090v1)|**[link](https://github.com/rosewang2008/zero-shot-teacher-feedback)**|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089v1](http://arxiv.org/abs/2306.03089v1)|null|
 |**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088v1](http://arxiv.org/abs/2306.03088v1)|null|
