@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619v1](http://arxiv.org/abs/2306.04619v1)|null|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v1](http://arxiv.org/abs/2306.04607v1)|null|
+|**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v2](http://arxiv.org/abs/2306.04607v2)|null|
 |**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542v1](http://arxiv.org/abs/2306.04542v1)|null|
 |**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445v1](http://arxiv.org/abs/2306.04445v1)|null|
 |**2023-06-07**|**Synthesizing realistic sand assemblies with denoising diffusion in latent space**|Nikolaos N. Vlassis et.al.|[2306.04411v1](http://arxiv.org/abs/2306.04411v1)|null|
@@ -505,7 +505,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## sketch
 
@@ -676,7 +676,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -685,7 +685,7 @@
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
 |**2023-06-05**|**Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures with Uncalibrated Stereo Data**|Nikolay Patakin et.al.|[2306.02878v1](http://arxiv.org/abs/2306.02878v1)|null|
 |**2023-06-05**|**Computational 3D topographic microscopy from terabytes of data per sample**|Kevin C. Zhou et.al.|[2306.02634v1](http://arxiv.org/abs/2306.02634v1)|null|
-|**2023-06-02**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v1](http://arxiv.org/abs/2306.01263v1)|**[link](https://github.com/weizhe-chen/attentive_kernels)**|
+|**2023-06-08**|**Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes**|Weizhe Chen et.al.|[2306.01263v2](http://arxiv.org/abs/2306.01263v2)|**[link](https://github.com/weizhe-chen/attentive_kernels)**|
 |**2023-06-01**|**BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image**|Tao Chu et.al.|[2306.00965v1](http://arxiv.org/abs/2306.00965v1)|**[link](https://github.com/chtsy/buol)**|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
@@ -811,7 +811,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## generate
 
@@ -1428,7 +1428,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## generation
 
@@ -2045,7 +2045,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
