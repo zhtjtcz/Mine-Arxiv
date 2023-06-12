@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Bridging Scales: a Hybrid Model to Simulate Vascular Tumor Growth and Treatment Response**|Tobias Duswald et.al.|[2306.05994v1](http://arxiv.org/abs/2306.05994v1)|null|
+|**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957v1](http://arxiv.org/abs/2306.05957v1)|**[link](https://github.com/taldatech/ddlp)**|
+|**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720v1](http://arxiv.org/abs/2306.05720v1)|null|
+|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708v1](http://arxiv.org/abs/2306.05708v1)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668v1](http://arxiv.org/abs/2306.05668v1)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427v1](http://arxiv.org/abs/2306.05427v1)|null|
 |**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423v1](http://arxiv.org/abs/2306.05423v1)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421v1](http://arxiv.org/abs/2306.05421v1)|null|
@@ -521,6 +526,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
+|**2023-06-09**|**Sketch2Stress: Sketching with Structural Stress Awareness**|Deng Yu et.al.|[2306.05911v1](http://arxiv.org/abs/2306.05911v1)|null|
+|**2023-06-09**|**Sketch Beautification: Learning Part Beautification and Structure Refinement for Sketches of Man-made Objects**|Deng Yu et.al.|[2306.05832v1](http://arxiv.org/abs/2306.05832v1)|null|
 |**2023-06-05**|**Tracking Evolving labels using Cone based Oracles**|Aditya Acharya et.al.|[2306.03306v1](http://arxiv.org/abs/2306.03306v1)|null|
 |**2023-06-09**|**Explicit Construction of q-ary 2-deletion Correcting Codes with Low Redundancy**|Shu Liu et.al.|[2306.02868v2](http://arxiv.org/abs/2306.02868v2)|null|
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018v2](http://arxiv.org/abs/2306.02018v2)|null|
@@ -692,6 +700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova et.al.|[2306.05872v1](http://arxiv.org/abs/2306.05872v1)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|null|
 |**2023-06-07**|**BU-CVKit: Extendable Computer Vision Framework for Species Independent Tracking and Analysis**|Mahir Patel et.al.|[2306.04736v1](http://arxiv.org/abs/2306.04736v1)|null|
@@ -831,6 +840,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
+|**2023-06-09**|**Computational Flash Photography through Intrinsics**|Sepideh Sarajian Maralan et.al.|[2306.06089v1](http://arxiv.org/abs/2306.06089v1)|null|
+|**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
+|**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087v1](http://arxiv.org/abs/2306.06087v1)|null|
+|**2023-06-09**|**Developing Speech Processing Pipelines for Police Accountability**|Anjalie Field et.al.|[2306.06086v1](http://arxiv.org/abs/2306.06086v1)|null|
 |**2023-06-08**|**Background Prompting for Improved Object Depth**|Manel Baradad et.al.|[2306.05428v1](http://arxiv.org/abs/2306.05428v1)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427v1](http://arxiv.org/abs/2306.05427v1)|null|
 |**2023-06-08**|**SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking**|Chris Cundy et.al.|[2306.05426v1](http://arxiv.org/abs/2306.05426v1)|null|
@@ -1457,6 +1472,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
+|**2023-06-09**|**Computational Flash Photography through Intrinsics**|Sepideh Sarajian Maralan et.al.|[2306.06089v1](http://arxiv.org/abs/2306.06089v1)|null|
+|**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
+|**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087v1](http://arxiv.org/abs/2306.06087v1)|null|
+|**2023-06-09**|**Developing Speech Processing Pipelines for Police Accountability**|Anjalie Field et.al.|[2306.06086v1](http://arxiv.org/abs/2306.06086v1)|null|
 |**2023-06-08**|**Background Prompting for Improved Object Depth**|Manel Baradad et.al.|[2306.05428v1](http://arxiv.org/abs/2306.05428v1)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427v1](http://arxiv.org/abs/2306.05427v1)|null|
 |**2023-06-08**|**SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking**|Chris Cundy et.al.|[2306.05426v1](http://arxiv.org/abs/2306.05426v1)|null|
