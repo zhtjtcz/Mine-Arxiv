@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
+|**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
+|**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180v1](http://arxiv.org/abs/2306.07180v1)|null|
+|**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154v1](http://arxiv.org/abs/2306.07154v1)|null|
+|**2023-06-12**|**Latent Dynamical Implicit Diffusion Processes**|Mohammad R. Rezaei et.al.|[2306.07077v1](http://arxiv.org/abs/2306.07077v1)|null|
 |**2023-06-09**|**Bridging Scales: a Hybrid Model to Simulate Vascular Tumor Growth and Treatment Response**|Tobias Duswald et.al.|[2306.05994v1](http://arxiv.org/abs/2306.05994v1)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957v1](http://arxiv.org/abs/2306.05957v1)|**[link](https://github.com/taldatech/ddlp)**|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720v1](http://arxiv.org/abs/2306.05720v1)|null|
@@ -526,6 +531,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches**|S. Rasoulzadeh et.al.|[2306.07220v1](http://arxiv.org/abs/2306.07220v1)|null|
+|**2023-06-11**|**Learning the Positions in CountSketch**|Yi Li et.al.|[2306.06611v1](http://arxiv.org/abs/2306.06611v1)|null|
 |**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
 |**2023-06-09**|**Sketch2Stress: Sketching with Structural Stress Awareness**|Deng Yu et.al.|[2306.05911v1](http://arxiv.org/abs/2306.05911v1)|null|
 |**2023-06-09**|**Sketch Beautification: Learning Part Beautification and Structure Refinement for Sketches of Man-made Objects**|Deng Yu et.al.|[2306.05832v1](http://arxiv.org/abs/2306.05832v1)|null|
@@ -700,6 +707,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo et.al.|[2306.07274v1](http://arxiv.org/abs/2306.07274v1)|null|
+|**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
+|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-12**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova et.al.|[2306.05872v2](http://arxiv.org/abs/2306.05872v2)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|null|
@@ -840,6 +850,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
+|**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
+|**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277v1](http://arxiv.org/abs/2306.07277v1)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-06-12**|**On the Collocated Form with Input Decoupling of Lagrangian Systems**|Pietro Pustina et.al.|[2306.07258v1](http://arxiv.org/abs/2306.07258v1)|null|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
 |**2023-06-09**|**Computational Flash Photography through Intrinsics**|Sepideh Sarajian Maralan et.al.|[2306.06089v1](http://arxiv.org/abs/2306.06089v1)|null|
@@ -1472,6 +1488,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
+|**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
+|**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277v1](http://arxiv.org/abs/2306.07277v1)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-06-12**|**On the Collocated Form with Input Decoupling of Lagrangian Systems**|Pietro Pustina et.al.|[2306.07258v1](http://arxiv.org/abs/2306.07258v1)|null|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
 |**2023-06-09**|**Computational Flash Photography through Intrinsics**|Sepideh Sarajian Maralan et.al.|[2306.06089v1](http://arxiv.org/abs/2306.06089v1)|null|
