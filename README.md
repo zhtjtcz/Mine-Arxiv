@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954v1](http://arxiv.org/abs/2306.07954v1)|null|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881v1](http://arxiv.org/abs/2306.07881v1)|null|
+|**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721v1](http://arxiv.org/abs/2306.07721v1)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180v1](http://arxiv.org/abs/2306.07180v1)|null|
@@ -527,6 +530,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**AniFaceDrawing: Anime Portrait Exploration during Your Sketching**|Zhengyu Huang et.al.|[2306.07476v1](http://arxiv.org/abs/2306.07476v1)|null|
 |**2023-06-12**|**Strokes2Surface: Recovering Curve Networks From 4D Architectural Design Sketches**|S. Rasoulzadeh et.al.|[2306.07220v1](http://arxiv.org/abs/2306.07220v1)|null|
 |**2023-06-11**|**Learning the Positions in CountSketch**|Yi Li et.al.|[2306.06611v1](http://arxiv.org/abs/2306.06611v1)|null|
 |**2023-06-09**|**SENS: Sketch-based Implicit Neural Shape Modeling**|Alexandre Binninger et.al.|[2306.06088v1](http://arxiv.org/abs/2306.06088v1)|null|
@@ -703,6 +707,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881v1](http://arxiv.org/abs/2306.07881v1)|null|
 |**2023-06-12**|**Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**|Bongjin Koo et.al.|[2306.07274v1](http://arxiv.org/abs/2306.07274v1)|null|
 |**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
 |**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
@@ -846,6 +851,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**|Omkar Thawkar et.al.|[2306.07971v1](http://arxiv.org/abs/2306.07971v1)|**[link](https://github.com/mbzuai-oryx/xraygpt)**|
+|**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969v1](http://arxiv.org/abs/2306.07969v1)|null|
+|**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967v1](http://arxiv.org/abs/2306.07967v1)|**[link](https://github.com/arnav0400/vit-slim)**|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954v1](http://arxiv.org/abs/2306.07954v1)|null|
 |**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
@@ -1484,6 +1493,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models**|Omkar Thawkar et.al.|[2306.07971v1](http://arxiv.org/abs/2306.07971v1)|**[link](https://github.com/mbzuai-oryx/xraygpt)**|
+|**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969v1](http://arxiv.org/abs/2306.07969v1)|null|
+|**2023-06-13**|**One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning**|Arnav Chavan et.al.|[2306.07967v1](http://arxiv.org/abs/2306.07967v1)|**[link](https://github.com/arnav0400/vit-slim)**|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954v1](http://arxiv.org/abs/2306.07954v1)|null|
 |**2023-06-12**|**Waffling around for Performance: Visual Classification with Random Words and Broad Concepts**|Karsten Roth et.al.|[2306.07282v1](http://arxiv.org/abs/2306.07282v1)|**[link](https://github.com/explainableml/waffleclip)**|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|null|
