@@ -713,7 +713,7 @@
 |**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-12**|**Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction**|Vanessa Sklyarova et.al.|[2306.05872v2](http://arxiv.org/abs/2306.05872v2)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
-|**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|**[link](https://github.com/tanqianq/enhance-nerf)**|
+|**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|null|
 |**2023-06-07**|**BU-CVKit: Extendable Computer Vision Framework for Species Independent Tracking and Analysis**|Mahir Patel et.al.|[2306.04736v1](http://arxiv.org/abs/2306.04736v1)|null|
 |**2023-06-09**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699v2](http://arxiv.org/abs/2306.04699v2)|null|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
