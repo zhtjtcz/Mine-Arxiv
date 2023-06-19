@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
+|**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949v1](http://arxiv.org/abs/2306.09949v1)|null|
+|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942v1](http://arxiv.org/abs/2306.09942v1)|null|
+|**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935v1](http://arxiv.org/abs/2306.09935v1)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v1](http://arxiv.org/abs/2306.09869v1)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864v1](http://arxiv.org/abs/2306.09864v1)|null|
 |**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337v1](http://arxiv.org/abs/2306.09337v1)|null|
 |**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330v1](http://arxiv.org/abs/2306.09330v1)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316v1](http://arxiv.org/abs/2306.09316v1)|null|
@@ -536,6 +542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Private Federated Frequency Estimation: Adapting to the Hardness of the Instance**|Jingfeng Wu et.al.|[2306.09396v1](http://arxiv.org/abs/2306.09396v1)|null|
 |**2023-06-15**|**Conditional Human Sketch Synthesis with Explicit Abstraction Control**|Dar-Yen Chen et.al.|[2306.09274v1](http://arxiv.org/abs/2306.09274v1)|null|
 |**2023-06-15**|**Behaviorally Typed State Machines in TypeScript for Heterogeneous Swarms**|Roland Kuhn et.al.|[2306.09068v1](http://arxiv.org/abs/2306.09068v1)|**[link](https://github.com/actyx/machines)**|
 |**2023-06-15**|**Interleaving Pre-Trained Language Models and Large Language Models for Zero-Shot NL2SQL Generation**|Zihui Gu et.al.|[2306.08891v1](http://arxiv.org/abs/2306.08891v1)|**[link](https://github.com/ruc-datalab/zeronl2sql)**|
@@ -867,6 +874,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Just One Byte (per gradient): A Note on Low-Bandwidth Decentralized Language Model Finetuning Using Shared Randomness**|Eric Zelikman et.al.|[2306.10015v1](http://arxiv.org/abs/2306.10015v1)|null|
+|**2023-06-16**|**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**|Fahad Shamshad et.al.|[2306.10008v1](http://arxiv.org/abs/2306.10008v1)|**[link](https://github.com/fahadshamshad/clip2protect)**|
+|**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003v1](http://arxiv.org/abs/2306.10003v1)|null|
+|**2023-06-16**|**SLACK: Stable Learning of Augmentations with Cold-start and KL regularization**|Juliette Marrie et.al.|[2306.09998v1](http://arxiv.org/abs/2306.09998v1)|null|
+|**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995v1](http://arxiv.org/abs/2306.09995v1)|null|
 |**2023-06-16**|**Rosetta Neurons: Mining the Common Units in a Model Zoo**|Amil Dravid et.al.|[2306.09346v2](http://arxiv.org/abs/2306.09346v2)|null|
 |**2023-06-15**|**Evaluating Data Attribution for Text-to-Image Models**|Sheng-Yu Wang et.al.|[2306.09345v1](http://arxiv.org/abs/2306.09345v1)|null|
 |**2023-06-15**|**DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data**|Stephanie Fu et.al.|[2306.09344v1](http://arxiv.org/abs/2306.09344v1)|**[link](https://github.com/ssundaram21/dreamsim)**|
@@ -1518,6 +1530,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Just One Byte (per gradient): A Note on Low-Bandwidth Decentralized Language Model Finetuning Using Shared Randomness**|Eric Zelikman et.al.|[2306.10015v1](http://arxiv.org/abs/2306.10015v1)|null|
+|**2023-06-16**|**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**|Fahad Shamshad et.al.|[2306.10008v1](http://arxiv.org/abs/2306.10008v1)|**[link](https://github.com/fahadshamshad/clip2protect)**|
+|**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003v1](http://arxiv.org/abs/2306.10003v1)|null|
+|**2023-06-16**|**SLACK: Stable Learning of Augmentations with Cold-start and KL regularization**|Juliette Marrie et.al.|[2306.09998v1](http://arxiv.org/abs/2306.09998v1)|null|
+|**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995v1](http://arxiv.org/abs/2306.09995v1)|null|
 |**2023-06-16**|**Rosetta Neurons: Mining the Common Units in a Model Zoo**|Amil Dravid et.al.|[2306.09346v2](http://arxiv.org/abs/2306.09346v2)|null|
 |**2023-06-15**|**Evaluating Data Attribution for Text-to-Image Models**|Sheng-Yu Wang et.al.|[2306.09345v1](http://arxiv.org/abs/2306.09345v1)|null|
 |**2023-06-15**|**DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data**|Stephanie Fu et.al.|[2306.09344v1](http://arxiv.org/abs/2306.09344v1)|**[link](https://github.com/ssundaram21/dreamsim)**|
