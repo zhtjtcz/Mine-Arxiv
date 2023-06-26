@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -546,7 +546,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## sketch
 
@@ -554,7 +554,7 @@
 |---|---|---|---|---|
 |**2023-06-21**|**PrivSketch: A Private Sketch-based Frequency Estimation Protocol for Data Streams**|Ying Li et.al.|[2306.12144v1](http://arxiv.org/abs/2306.12144v1)|null|
 |**2023-06-20**|**Computing a human-like reaction time metric from stable recurrent vision models**|Lore Goetschalckx et.al.|[2306.11582v1](http://arxiv.org/abs/2306.11582v1)|null|
-|**2023-06-19**|**3D VR Sketch Guided 3D Shape Prototyping and Exploration**|Ling Luo et.al.|[2306.10830v1](http://arxiv.org/abs/2306.10830v1)|null|
+|**2023-06-23**|**3D VR Sketch Guided 3D Shape Prototyping and Exploration**|Ling Luo et.al.|[2306.10830v2](http://arxiv.org/abs/2306.10830v2)|null|
 |**2023-06-19**|**Shape Guided Gradient Voting for Domain Generalization**|Jiaqi Xu et.al.|[2306.10809v1](http://arxiv.org/abs/2306.10809v1)|null|
 |**2023-06-15**|**Private Federated Frequency Estimation: Adapting to the Hardness of the Instance**|Jingfeng Wu et.al.|[2306.09396v1](http://arxiv.org/abs/2306.09396v1)|null|
 |**2023-06-15**|**Conditional Human Sketch Synthesis with Explicit Abstraction Control**|Dar-Yen Chen et.al.|[2306.09274v1](http://arxiv.org/abs/2306.09274v1)|null|
@@ -734,7 +734,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -883,7 +883,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## generate
 
@@ -1551,7 +1551,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## generation
 
@@ -2219,7 +2219,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
