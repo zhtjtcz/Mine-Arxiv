@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891v1](http://arxiv.org/abs/2306.14891v1)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
+|**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878v1](http://arxiv.org/abs/2306.14878v1)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
+|**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846v1](http://arxiv.org/abs/2306.14846v1)|null|
+|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770v1](http://arxiv.org/abs/2306.14770v1)|null|
 |**2023-06-23**|**Fast Macroscopic Forcing Method**|Spencer H. Bryngelson et.al.|[2306.13625v1](http://arxiv.org/abs/2306.13625v1)|**[link](https://github.com/comp-physics/fast-mfm)**|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455v1](http://arxiv.org/abs/2306.13455v1)|null|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078v1](http://arxiv.org/abs/2306.13078v1)|null|
@@ -554,6 +558,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Towards Optimal Effective Resistance Estimation**|Rajat Vadiraj Dwaraknath et.al.|[2306.14820v1](http://arxiv.org/abs/2306.14820v1)|null|
+|**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685v1](http://arxiv.org/abs/2306.14685v1)|null|
+|**2023-06-25**|**ALBUS: a Probabilistic Monitoring Algorithm to Counter Burst-Flood Attacks**|Simon Scherrer et.al.|[2306.14328v1](http://arxiv.org/abs/2306.14328v1)|null|
+|**2023-06-24**|**Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles**|Paul Tarau et.al.|[2306.14077v1](http://arxiv.org/abs/2306.14077v1)|**[link](https://github.com/ptarau/recursors)**|
 |**2023-06-21**|**PrivSketch: A Private Sketch-based Frequency Estimation Protocol for Data Streams**|Ying Li et.al.|[2306.12144v1](http://arxiv.org/abs/2306.12144v1)|null|
 |**2023-06-20**|**Computing a human-like reaction time metric from stable recurrent vision models**|Lore Goetschalckx et.al.|[2306.11582v1](http://arxiv.org/abs/2306.11582v1)|null|
 |**2023-06-23**|**3D VR Sketch Guided 3D Shape Prototyping and Exploration**|Ling Luo et.al.|[2306.10830v2](http://arxiv.org/abs/2306.10830v2)|null|
@@ -892,6 +900,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
+|**2023-06-26**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v1](http://arxiv.org/abs/2306.14898v1)|null|
+|**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
+|**2023-06-26**|**Value of Information in Games with Multiple Strategic Information Providers**|Raj Kiriti Velicheti et.al.|[2306.14886v1](http://arxiv.org/abs/2306.14886v1)|null|
+|**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878v1](http://arxiv.org/abs/2306.14878v1)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
+|**2023-06-26**|**Geometry-Aware Approaches for Balancing Performance and Theoretical Guarantees in Linear Bandits**|Yuwei Luo et.al.|[2306.14872v1](http://arxiv.org/abs/2306.14872v1)|null|
+|**2023-06-26**|**Composing Parameter-Efficient Modules with Arithmetic Operations**|Jinghan Zhang et.al.|[2306.14870v1](http://arxiv.org/abs/2306.14870v1)|**[link](https://github.com/sjtu-lit/pem_composition)**|
 |**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|null|
 |**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630v1](http://arxiv.org/abs/2306.13630v1)|null|
 |**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091v1](http://arxiv.org/abs/2306.13091v1)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
@@ -1562,6 +1577,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
+|**2023-06-26**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v1](http://arxiv.org/abs/2306.14898v1)|null|
+|**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
+|**2023-06-26**|**Value of Information in Games with Multiple Strategic Information Providers**|Raj Kiriti Velicheti et.al.|[2306.14886v1](http://arxiv.org/abs/2306.14886v1)|null|
+|**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878v1](http://arxiv.org/abs/2306.14878v1)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
+|**2023-06-26**|**Geometry-Aware Approaches for Balancing Performance and Theoretical Guarantees in Linear Bandits**|Yuwei Luo et.al.|[2306.14872v1](http://arxiv.org/abs/2306.14872v1)|null|
+|**2023-06-26**|**Composing Parameter-Efficient Modules with Arithmetic Operations**|Jinghan Zhang et.al.|[2306.14870v1](http://arxiv.org/abs/2306.14870v1)|**[link](https://github.com/sjtu-lit/pem_composition)**|
 |**2023-06-23**|**GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models**|Rishabh Agarwal et.al.|[2306.13649v1](http://arxiv.org/abs/2306.13649v1)|null|
 |**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630v1](http://arxiv.org/abs/2306.13630v1)|null|
 |**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091v1](http://arxiv.org/abs/2306.13091v1)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
