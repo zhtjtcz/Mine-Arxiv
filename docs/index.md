@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v1](http://arxiv.org/abs/2306.15667v1)|null|
+|**2023-06-27**|**Stabilizing ultrathin Silver (Ag) films on different substrates**|Allamula Ashok et.al.|[2306.15575v1](http://arxiv.org/abs/2306.15575v1)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512v1](http://arxiv.org/abs/2306.15512v1)|null|
+|**2023-06-27**|**Miniaturized gas-solid fluidized beds**|Fernando David Cúñez Benalcázar et.al.|[2306.15463v1](http://arxiv.org/abs/2306.15463v1)|null|
+|**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
 |**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891v1](http://arxiv.org/abs/2306.14891v1)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
 |**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878v1](http://arxiv.org/abs/2306.14878v1)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
 |**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846v1](http://arxiv.org/abs/2306.14846v1)|null|
@@ -904,6 +909,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v1](http://arxiv.org/abs/2306.15667v1)|null|
+|**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|null|
+|**2023-06-27**|**Optimal Area-Sensitive Bounds for Polytope Approximation**|Sunil Arya et.al.|[2306.15648v1](http://arxiv.org/abs/2306.15648v1)|null|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-27**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v2](http://arxiv.org/abs/2306.14898v2)|null|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
@@ -1581,6 +1590,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v1](http://arxiv.org/abs/2306.15667v1)|null|
+|**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|null|
+|**2023-06-27**|**Optimal Area-Sensitive Bounds for Polytope Approximation**|Sunil Arya et.al.|[2306.15648v1](http://arxiv.org/abs/2306.15648v1)|null|
 |**2023-06-26**|**FunQA: Towards Surprising Video Comprehension**|Binzhu Xie et.al.|[2306.14899v1](http://arxiv.org/abs/2306.14899v1)|**[link](https://github.com/jingkang50/funqa)**|
 |**2023-06-27**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898v2](http://arxiv.org/abs/2306.14898v2)|null|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892v1](http://arxiv.org/abs/2306.14892v1)|null|
