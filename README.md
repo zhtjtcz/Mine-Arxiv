@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329v1](http://arxiv.org/abs/2306.16329v1)|null|
+|**2023-06-28**|**UnitSpeech: Speaker-adaptive Speech Synthesis with Untranscribed Data**|Heeseung Kim et.al.|[2306.16083v1](http://arxiv.org/abs/2306.16083v1)|**[link](https://github.com/gmltmd789/UnitSpeech)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-27**|**Stabilizing ultrathin Silver (Ag) films on different substrates**|Allamula Ashok et.al.|[2306.15575v1](http://arxiv.org/abs/2306.15575v1)|null|
 |**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512v1](http://arxiv.org/abs/2306.15512v1)|null|
@@ -563,6 +565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Cartesian institutions with evidence: Data and system modelling with diagrammatic constraints and generalized sketches**|Zinovy Diskin et.al.|[2306.16284v1](http://arxiv.org/abs/2306.16284v1)|null|
 |**2023-06-26**|**Towards Optimal Effective Resistance Estimation**|Rajat Vadiraj Dwaraknath et.al.|[2306.14820v1](http://arxiv.org/abs/2306.14820v1)|null|
 |**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685v1](http://arxiv.org/abs/2306.14685v1)|null|
 |**2023-06-25**|**ALBUS: a Probabilistic Monitoring Algorithm to Counter Burst-Flood Attacks**|Simon Scherrer et.al.|[2306.14328v1](http://arxiv.org/abs/2306.14328v1)|null|
@@ -905,6 +908,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
+|**2023-06-28**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409v1](http://arxiv.org/abs/2306.16409v1)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|null|
@@ -1586,6 +1591,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413v1](http://arxiv.org/abs/2306.16413v1)|**[link](https://github.com/pliang279/MultiBench)**|
+|**2023-06-28**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409v1](http://arxiv.org/abs/2306.16409v1)|null|
 |**2023-06-27**|**Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties**|Hsiao-Yu Tung et.al.|[2306.15668v1](http://arxiv.org/abs/2306.15668v1)|null|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667v2](http://arxiv.org/abs/2306.15667v2)|null|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656v1](http://arxiv.org/abs/2306.15656v1)|null|
