@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717v1](http://arxiv.org/abs/2306.17717v1)|null|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141v1](http://arxiv.org/abs/2306.17141v1)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140v1](http://arxiv.org/abs/2306.17140v1)|null|
@@ -915,6 +917,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
+|**2023-06-30**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v1](http://arxiv.org/abs/2306.17842v1)|null|
+|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v1](http://arxiv.org/abs/2306.17840v1)|null|
+|**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829v1](http://arxiv.org/abs/2306.17829v1)|null|
+|**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|null|
 |**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|null|
 |**2023-06-30**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v2](http://arxiv.org/abs/2306.17156v2)|null|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
@@ -1601,6 +1609,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
+|**2023-06-30**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v1](http://arxiv.org/abs/2306.17842v1)|null|
+|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v1](http://arxiv.org/abs/2306.17840v1)|null|
+|**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829v1](http://arxiv.org/abs/2306.17829v1)|null|
+|**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|null|
 |**2023-06-29**|**An Efficient General-Purpose Modular Vision Model via Multi-Task Heterogeneous Training**|Zitian Chen et.al.|[2306.17165v1](http://arxiv.org/abs/2306.17165v1)|null|
 |**2023-06-30**|**Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors**|Tung Phung et.al.|[2306.17156v2](http://arxiv.org/abs/2306.17156v2)|null|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
