@@ -41,7 +41,7 @@ layout: default
 |**2023-07-03**|**A phase field-based framework for electro-chemo-mechanical fracture: crack-contained electrolytes, chemical reactions and stabilisation**|T. Hageman et.al.|[2307.01105v1](http://arxiv.org/abs/2307.01105v1)|null|
 |**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097v1](http://arxiv.org/abs/2307.01097v1)|null|
 |**2023-07-03**|**TomatoDIFF: On-plant Tomato Segmentation with Denoising Diffusion Models**|Marija Ivanovska et.al.|[2307.01064v1](http://arxiv.org/abs/2307.01064v1)|**[link](https://github.com/mivanovska/tomatodiff)**|
-|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|**[link](https://github.com/guochengqian/magic123)**|
 |**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717v1](http://arxiv.org/abs/2306.17717v1)|null|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141v1](http://arxiv.org/abs/2306.17141v1)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
@@ -161,7 +161,7 @@ layout: default
 |**2023-05-29**|**GlyphControl: Glyph Conditional Control for Visual Text Generation**|Yukang Yang et.al.|[2305.18259v1](http://arxiv.org/abs/2305.18259v1)|**[link](https://github.com/aigtext/glyphcontrol-release)**|
 |**2023-05-26**|**Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model**|David Soong et.al.|[2305.17116v1](http://arxiv.org/abs/2305.17116v1)|null|
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
-|**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|null|
+|**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|**[link](https://github.com/polymaths-lab/reaction-diffusion-flagella)**|
 |**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965v1](http://arxiv.org/abs/2305.16965v1)|**[link](https://github.com/gongyeliu/ssd)**|
 |**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944v1](http://arxiv.org/abs/2305.16944v1)|**[link](https://github.com/rucaibox/live)**|
 |**2023-05-26**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models**|Sohyun An et.al.|[2305.16943v1](http://arxiv.org/abs/2305.16943v1)|null|
@@ -188,7 +188,7 @@ layout: default
 |**2023-05-23**|**Lightweight Channel Codes for ISI Mitigation in Molecular Communication between Bionanosensors**|Dongliang Jing et.al.|[2305.14001v1](http://arxiv.org/abs/2305.14001v1)|null|
 |**2023-05-23**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000v1](http://arxiv.org/abs/2305.14000v1)|**[link](https://github.com/kkhuang81/nigcn)**|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
-|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|**[link](https://github.com/explainableml/imageselect)**|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v2](http://arxiv.org/abs/2305.13301v2)|null|
 |**2023-05-22**|**DiffusionNER: Boundary Diffusion for Named Entity Recognition**|Yongliang Shen et.al.|[2305.13298v1](http://arxiv.org/abs/2305.13298v1)|**[link](https://github.com/tricktreat/diffusionner)**|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
@@ -634,7 +634,7 @@ layout: default
 |**2023-05-29**|**ANPL: Compiling Natural Programs with Interactive Decomposition**|Di Huang et.al.|[2305.18498v1](http://arxiv.org/abs/2305.18498v1)|null|
 |**2023-05-30**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v2](http://arxiv.org/abs/2305.18247v2)|**[link](https://github.com/videocrafter/talecrafter)**|
 |**2023-05-27**|**Pruning at Initialization -- A Sketching Perspective**|Noga Bar et.al.|[2305.17559v1](http://arxiv.org/abs/2305.17559v1)|null|
-|**2023-05-27**|**On the Noise Sensitivity of the Randomized SVD**|Elad Romanov et.al.|[2305.17435v1](http://arxiv.org/abs/2305.17435v1)|null|
+|**2023-05-27**|**On the Noise Sensitivity of the Randomized SVD**|Elad Romanov et.al.|[2305.17435v1](http://arxiv.org/abs/2305.17435v1)|**[link](https://github.com/eladromanov/randomized-svd-code)**|
 |**2023-05-26**|**BIG-C: a Multimodal Multi-Purpose Dataset for Bemba**|Claytone Sikasote et.al.|[2305.17202v1](http://arxiv.org/abs/2305.17202v1)|**[link](https://github.com/csikasote/bigc)**|
 |**2023-05-26**|**CARAMEL: A Succinct Read-Only Lookup Table via Compressed Static Functions**|Benjamin Coleman et.al.|[2305.16545v1](http://arxiv.org/abs/2305.16545v1)|null|
 |**2023-05-25**|**SketchOGD: Memory-Efficient Continual Learning**|Benjamin Wright et.al.|[2305.16424v1](http://arxiv.org/abs/2305.16424v1)|**[link](https://github.com/azizanlab/sketchogd)**|
@@ -884,7 +884,7 @@ layout: default
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
 |**2023-03-25**|**PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters**|Shuhong Chen et.al.|[2303.14587v1](http://arxiv.org/abs/2303.14587v1)|**[link](https://github.com/shuhongchen/panic3d-anime-reconstruction)**|
 |**2023-03-25**|**LPFF: A Portrait Dataset for Face Generators Across Large Poses**|Yiqian Wu et.al.|[2303.14407v1](http://arxiv.org/abs/2303.14407v1)|null|
-|**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen et.al.|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|null|
+|**2023-03-24**|**BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects**|Bowen Wen et.al.|[2303.14158v1](http://arxiv.org/abs/2303.14158v1)|**[link](https://github.com/NVlabs/BundleSDF)**|
 |**2023-03-24**|**Deformable Model Driven Neural Rendering for High-fidelity 3D Reconstruction of Human Heads Under Low-View Settings**|Baixin Xu et.al.|[2303.13855v1](http://arxiv.org/abs/2303.13855v1)|**[link](https://github.com/xubaixinxbx/high-fidelity-3d-reconstruction-of-human-heads)**|
 |**2023-03-24**|**Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container**|Jinguang Tong et.al.|[2303.13805v1](http://arxiv.org/abs/2303.13805v1)|**[link](https://github.com/hirotong/reneus)**|
 |**2023-03-23**|**SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates**|Mikaela Angelina Uy et.al.|[2303.13582v1](http://arxiv.org/abs/2303.13582v1)|null|
@@ -965,8 +965,8 @@ layout: default
 |**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187v1](http://arxiv.org/abs/2307.01187v1)|null|
 |**2023-07-03**|**Continuously Red-Shift and Blue-Shift Wavelength-Tuneable, Narrowband, High Harmonics in the EUV - X-ray Regime for Resonance Imaging and Spectroscopies**|Dimitar Popmintchev et.al.|[2307.01182v1](http://arxiv.org/abs/2307.01182v1)|null|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
-|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
-|**2023-07-03**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v2](http://arxiv.org/abs/2306.17842v2)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|**[link](https://github.com/guochengqian/magic123)**|
+|**2023-07-03**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v2](http://arxiv.org/abs/2306.17842v2)|**[link](https://github.com/google-research/magvit)**|
 |**2023-07-03**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v2](http://arxiv.org/abs/2306.17840v2)|null|
 |**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829v1](http://arxiv.org/abs/2306.17829v1)|null|
 |**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|null|
@@ -1039,7 +1039,7 @@ layout: default
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421v1](http://arxiv.org/abs/2306.05421v1)|null|
 |**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|**[link](https://github.com/google-research/spherical-cnn)**|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
-|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|null|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|**[link](https://github.com/allenbai01/transformers-as-statisticians)**|
 |**2023-06-07**|**GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation**|Shuai Yang et.al.|[2306.04636v1](http://arxiv.org/abs/2306.04636v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
 |**2023-06-07**|**On the Reliability of Watermarks for Large Language Models**|John Kirchenbauer et.al.|[2306.04634v1](http://arxiv.org/abs/2306.04634v1)|**[link](https://github.com/jwkirchenbauer/lm-watermarking)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
@@ -1122,7 +1122,7 @@ layout: default
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|**[link](https://github.com/aim-uofa/matcher)**|
 |**2023-05-22**|**Evaluating Factual Consistency of Texts with Semantic Role Labeling**|Jing Fan et.al.|[2305.13309v1](http://arxiv.org/abs/2305.13309v1)|**[link](https://github.com/heyjing/srlscore)**|
-|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|**[link](https://github.com/explainableml/imageselect)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Growth of ultrawide-bandgap BN/diamond heterostructures by pulsed laser deposition**|Abhijit Biswas et.al.|[2305.13306v1](http://arxiv.org/abs/2305.13306v1)|null|
 |**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
@@ -1250,7 +1250,7 @@ layout: default
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
 |**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024v1](http://arxiv.org/abs/2304.13024v1)|null|
-|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|null|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|**[link](https://github.com/inf-imagine/sentry)**|
 |**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019v1](http://arxiv.org/abs/2304.13019v1)|null|
 |**2023-04-25**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012v1](http://arxiv.org/abs/2304.13012v1)|null|
 |**2023-04-25**|**The Potential of Visual ChatGPT For Remote Sensing**|Lucas Prado Osco et.al.|[2304.13009v1](http://arxiv.org/abs/2304.13009v1)|null|
@@ -1678,8 +1678,8 @@ layout: default
 |**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187v1](http://arxiv.org/abs/2307.01187v1)|null|
 |**2023-07-03**|**Continuously Red-Shift and Blue-Shift Wavelength-Tuneable, Narrowband, High Harmonics in the EUV - X-ray Regime for Resonance Imaging and Spectroscopies**|Dimitar Popmintchev et.al.|[2307.01182v1](http://arxiv.org/abs/2307.01182v1)|null|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848v1](http://arxiv.org/abs/2306.17848v1)|null|
-|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|null|
-|**2023-07-03**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v2](http://arxiv.org/abs/2306.17842v2)|null|
+|**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v1](http://arxiv.org/abs/2306.17843v1)|**[link](https://github.com/guochengqian/magic123)**|
+|**2023-07-03**|**SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs**|Lijun Yu et.al.|[2306.17842v2](http://arxiv.org/abs/2306.17842v2)|**[link](https://github.com/google-research/magvit)**|
 |**2023-07-03**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840v2](http://arxiv.org/abs/2306.17840v2)|null|
 |**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829v1](http://arxiv.org/abs/2306.17829v1)|null|
 |**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828v1](http://arxiv.org/abs/2306.17828v1)|null|
@@ -1752,7 +1752,7 @@ layout: default
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421v1](http://arxiv.org/abs/2306.05421v1)|null|
 |**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|**[link](https://github.com/google-research/spherical-cnn)**|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418v1](http://arxiv.org/abs/2306.05418v1)|null|
-|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|null|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637v1](http://arxiv.org/abs/2306.04637v1)|**[link](https://github.com/allenbai01/transformers-as-statisticians)**|
 |**2023-06-07**|**GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation**|Shuai Yang et.al.|[2306.04636v1](http://arxiv.org/abs/2306.04636v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
 |**2023-06-07**|**On the Reliability of Watermarks for Large Language Models**|John Kirchenbauer et.al.|[2306.04634v1](http://arxiv.org/abs/2306.04634v1)|**[link](https://github.com/jwkirchenbauer/lm-watermarking)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
@@ -1835,7 +1835,7 @@ layout: default
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311v1](http://arxiv.org/abs/2305.13311v1)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching**|Yang Liu et.al.|[2305.13310v1](http://arxiv.org/abs/2305.13310v1)|**[link](https://github.com/aim-uofa/matcher)**|
 |**2023-05-22**|**Evaluating Factual Consistency of Texts with Semantic Role Labeling**|Jing Fan et.al.|[2305.13309v1](http://arxiv.org/abs/2305.13309v1)|**[link](https://github.com/heyjing/srlscore)**|
-|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|**[link](https://github.com/explainableml/imageselect)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Growth of ultrawide-bandgap BN/diamond heterostructures by pulsed laser deposition**|Abhijit Biswas et.al.|[2305.13306v1](http://arxiv.org/abs/2305.13306v1)|null|
 |**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304v1](http://arxiv.org/abs/2305.13304v1)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
@@ -1963,7 +1963,7 @@ layout: default
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
 |**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024v1](http://arxiv.org/abs/2304.13024v1)|null|
-|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|null|
+|**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023v1](http://arxiv.org/abs/2304.13023v1)|**[link](https://github.com/inf-imagine/sentry)**|
 |**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019v1](http://arxiv.org/abs/2304.13019v1)|null|
 |**2023-04-25**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012v1](http://arxiv.org/abs/2304.13012v1)|null|
 |**2023-04-25**|**The Potential of Visual ChatGPT For Remote Sensing**|Lucas Prado Osco et.al.|[2304.13009v1](http://arxiv.org/abs/2304.13009v1)|null|
