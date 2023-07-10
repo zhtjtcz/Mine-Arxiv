@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Three-dimensional Vorticity Effects on Extinction Behavior of Laminar Flamelets**|Wes Hellwig et.al.|[2307.03695v1](http://arxiv.org/abs/2307.03695v1)|null|
+|**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672v1](http://arxiv.org/abs/2307.03672v1)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v2](http://arxiv.org/abs/2307.03177v2)|null|
 |**2023-07-06**|**How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models**|Zhenting Wang et.al.|[2307.03108v1](http://arxiv.org/abs/2307.03108v1)|null|
 |**2023-07-06**|**Origin-Destination Travel Time Oracle for Map-based Services**|Yan Lin et.al.|[2307.03048v1](http://arxiv.org/abs/2307.03048v1)|null|
@@ -791,6 +793,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
 |**2023-07-04**|**User-Friendly Safety Monitoring System for Manufacturing Cobots**|Ye-Ji Mun et.al.|[2307.01886v1](http://arxiv.org/abs/2307.01886v1)|null|
 |**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928v1](http://arxiv.org/abs/2306.16928v1)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643v1](http://arxiv.org/abs/2306.13643v1)|**[link](https://github.com/cvg/lightglue)**|
@@ -943,6 +947,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
+|**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744v1](http://arxiv.org/abs/2307.03744v1)|null|
+|**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738v1](http://arxiv.org/abs/2307.03738v1)|null|
 |**2023-07-06**|**Simulating Nelsonian Quantum Field Theory**|Andrea Carosso et.al.|[2307.03188v1](http://arxiv.org/abs/2307.03188v1)|null|
 |**2023-07-06**|**Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong General Audio Event Taggers**|Yuan Gong et.al.|[2307.03183v1](http://arxiv.org/abs/2307.03183v1)|**[link](https://github.com/YuanGongND/whisper-at)**|
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181v1](http://arxiv.org/abs/2307.03181v1)|null|
@@ -1656,6 +1663,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
+|**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744v1](http://arxiv.org/abs/2307.03744v1)|null|
+|**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738v1](http://arxiv.org/abs/2307.03738v1)|null|
 |**2023-07-06**|**Simulating Nelsonian Quantum Field Theory**|Andrea Carosso et.al.|[2307.03188v1](http://arxiv.org/abs/2307.03188v1)|null|
 |**2023-07-06**|**Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong General Audio Event Taggers**|Yuan Gong et.al.|[2307.03183v1](http://arxiv.org/abs/2307.03183v1)|**[link](https://github.com/YuanGongND/whisper-at)**|
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181v1](http://arxiv.org/abs/2307.03181v1)|null|
