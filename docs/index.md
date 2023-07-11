@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751v1](http://arxiv.org/abs/2307.04751v1)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
+|**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726v1](http://arxiv.org/abs/2307.04726v1)|null|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725v1](http://arxiv.org/abs/2307.04725v1)|null|
+|**2023-07-10**|**Machine learning potentials with Iterative Boltzmann Inversion: training to experiment**|Sakib Matin et.al.|[2307.04712v1](http://arxiv.org/abs/2307.04712v1)|null|
+|**2023-07-10**|**Encapsulation Structure and Dynamics in Hypergraphs**|Timothy LaRock et.al.|[2307.04613v1](http://arxiv.org/abs/2307.04613v1)|null|
 |**2023-07-07**|**Three-dimensional Vorticity Effects on Extinction Behavior of Laminar Flamelets**|Wes Hellwig et.al.|[2307.03695v1](http://arxiv.org/abs/2307.03695v1)|null|
 |**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672v1](http://arxiv.org/abs/2307.03672v1)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177v2](http://arxiv.org/abs/2307.03177v2)|null|
@@ -596,6 +602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation**|Aditya Sanghi et.al.|[2307.03869v1](http://arxiv.org/abs/2307.03869v1)|null|
 |**2023-07-06**|**Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence**|Hang Zou et.al.|[2307.02757v1](http://arxiv.org/abs/2307.02757v1)|null|
 |**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944v1](http://arxiv.org/abs/2307.01944v1)|null|
 |**2023-07-03**|**Digital Twin-Empowered Communications: A New Frontier of Wireless Networks**|Lina Bariah et.al.|[2307.00973v1](http://arxiv.org/abs/2307.00973v1)|null|
@@ -793,6 +800,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004v1](http://arxiv.org/abs/2307.04004v1)|null|
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
 |**2023-07-04**|**User-Friendly Safety Monitoring System for Manufacturing Cobots**|Ye-Ji Mun et.al.|[2307.01886v1](http://arxiv.org/abs/2307.01886v1)|null|
@@ -947,6 +955,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Semantic-SAM: Segment and Recognize Anything at Any Granularity**|Feng Li et.al.|[2307.04767v1](http://arxiv.org/abs/2307.04767v1)|**[link](https://github.com/ux-decoder/semantic-sam)**|
+|**2023-07-10**|**Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**|Sagnik Majumder et.al.|[2307.04760v1](http://arxiv.org/abs/2307.04760v1)|null|
+|**2023-07-10**|**Information decomposition to identify relevant variation in complex systems with machine learning**|Kieran A. Murphy et.al.|[2307.04755v1](http://arxiv.org/abs/2307.04755v1)|null|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751v1](http://arxiv.org/abs/2307.04751v1)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
 |**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
 |**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744v1](http://arxiv.org/abs/2307.03744v1)|null|
 |**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738v1](http://arxiv.org/abs/2307.03738v1)|null|
@@ -1663,6 +1676,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Semantic-SAM: Segment and Recognize Anything at Any Granularity**|Feng Li et.al.|[2307.04767v1](http://arxiv.org/abs/2307.04767v1)|**[link](https://github.com/ux-decoder/semantic-sam)**|
+|**2023-07-10**|**Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos**|Sagnik Majumder et.al.|[2307.04760v1](http://arxiv.org/abs/2307.04760v1)|null|
+|**2023-07-10**|**Information decomposition to identify relevant variation in complex systems with machine learning**|Kieran A. Murphy et.al.|[2307.04755v1](http://arxiv.org/abs/2307.04755v1)|null|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751v1](http://arxiv.org/abs/2307.04751v1)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
 |**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749v1](http://arxiv.org/abs/2307.03749v1)|null|
 |**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744v1](http://arxiv.org/abs/2307.03744v1)|null|
 |**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738v1](http://arxiv.org/abs/2307.03738v1)|null|
