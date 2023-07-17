@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
+|**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
+|**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344v1](http://arxiv.org/abs/2307.07344v1)|null|
+|**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
+|**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|null|
+|**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146v1](http://arxiv.org/abs/2307.07146v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272v1](http://arxiv.org/abs/2307.06272v1)|null|
 |**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244v1](http://arxiv.org/abs/2307.06244v1)|null|
@@ -968,6 +974,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
+|**2023-07-14**|**A Poisson Decomposition for Information and the Information-Event Diagram**|Cheuk Ting Li et.al.|[2307.07506v1](http://arxiv.org/abs/2307.07506v1)|null|
+|**2023-07-14**|**Exhaustive Generation of Linear Orthogonal Cellular Automata**|Enrico Formenti et.al.|[2307.07505v1](http://arxiv.org/abs/2307.07505v1)|null|
+|**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
+|**2023-07-14**|**BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2307.07493v1](http://arxiv.org/abs/2307.07493v1)|null|
+|**2023-07-14**|**PseudoCal: A Source-Free Approach to Unsupervised Uncertainty Calibration in Domain Adaptation**|Dapeng Hu et.al.|[2307.07489v1](http://arxiv.org/abs/2307.07489v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-13**|**Self-regulating Prompts: Foundational Model Adaptation without Forgetting**|Muhammad Uzair Khattak et.al.|[2307.06948v1](http://arxiv.org/abs/2307.06948v1)|**[link](https://github.com/muzairkhattak/promptsrc)**|
 |**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|null|
@@ -1702,6 +1714,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
+|**2023-07-14**|**A Poisson Decomposition for Information and the Information-Event Diagram**|Cheuk Ting Li et.al.|[2307.07506v1](http://arxiv.org/abs/2307.07506v1)|null|
+|**2023-07-14**|**Exhaustive Generation of Linear Orthogonal Cellular Automata**|Enrico Formenti et.al.|[2307.07505v1](http://arxiv.org/abs/2307.07505v1)|null|
+|**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
+|**2023-07-14**|**BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems**|Mingfei Cheng et.al.|[2307.07493v1](http://arxiv.org/abs/2307.07493v1)|null|
+|**2023-07-14**|**PseudoCal: A Source-Free Approach to Unsupervised Uncertainty Calibration in Domain Adaptation**|Dapeng Hu et.al.|[2307.07489v1](http://arxiv.org/abs/2307.07489v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-13**|**Self-regulating Prompts: Foundational Model Adaptation without Forgetting**|Muhammad Uzair Khattak et.al.|[2307.06948v1](http://arxiv.org/abs/2307.06948v1)|**[link](https://github.com/muzairkhattak/promptsrc)**|
 |**2023-07-13**|**In-context Autoencoder for Context Compression in a Large Language Model**|Tao Ge et.al.|[2307.06945v1](http://arxiv.org/abs/2307.06945v1)|null|
