@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693v1](http://arxiv.org/abs/2307.08693v1)|null|
+|**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597v1](http://arxiv.org/abs/2307.08597v1)|null|
+|**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585v1](http://arxiv.org/abs/2307.08585v1)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529v1](http://arxiv.org/abs/2307.08529v1)|null|
+|**2023-07-17**|**How far does turbulence spread?**|Alexandros Alexakis et.al.|[2307.08469v1](http://arxiv.org/abs/2307.08469v1)|null|
+|**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448v1](http://arxiv.org/abs/2307.08448v1)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
+|**2023-07-17**|**An Indefensible Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424v1](http://arxiv.org/abs/2307.08424v1)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
 |**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
 |**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344v1](http://arxiv.org/abs/2307.07344v1)|null|
@@ -615,6 +624,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Multi-Domain Learning with Modulation Adapters**|Ekaterina Iakovleva et.al.|[2307.08528v1](http://arxiv.org/abs/2307.08528v1)|null|
+|**2023-07-16**|**InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks**|Yanna Lin et.al.|[2307.07922v1](http://arxiv.org/abs/2307.07922v1)|null|
 |**2023-07-13**|**Connectivity Labeling for Multiple Vertex Failures**|Merav Parter et.al.|[2307.06276v2](http://arxiv.org/abs/2307.06276v2)|null|
 |**2023-07-10**|**Some Preliminary Steps Towards Metaverse Logic**|Antonio L. Furtado et.al.|[2307.05574v1](http://arxiv.org/abs/2307.05574v1)|null|
 |**2023-07-11**|**A "Game of Like" : Online Social Network Sharing As Strategic Interaction**|Emmanuel J. Genot et.al.|[2307.05063v1](http://arxiv.org/abs/2307.05063v1)|null|
@@ -974,6 +985,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
+|**2023-07-17**|**AlpaGasus: Training A Better Alpaca with Fewer Data**|Lichang Chen et.al.|[2307.08701v1](http://arxiv.org/abs/2307.08701v1)|null|
+|**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
+|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691v1](http://arxiv.org/abs/2307.08691v1)|**[link](https://github.com/dao-ailab/flash-attention)**|
+|**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689v1](http://arxiv.org/abs/2307.08689v1)|**[link](https://github.com/princeton-nlp/Collie)**|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
 |**2023-07-14**|**A Poisson Decomposition for Information and the Information-Event Diagram**|Cheuk Ting Li et.al.|[2307.07506v1](http://arxiv.org/abs/2307.07506v1)|null|
 |**2023-07-14**|**Exhaustive Generation of Linear Orthogonal Cellular Automata**|Enrico Formenti et.al.|[2307.07505v1](http://arxiv.org/abs/2307.07505v1)|null|
@@ -1714,6 +1732,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
+|**2023-07-17**|**AlpaGasus: Training A Better Alpaca with Fewer Data**|Lichang Chen et.al.|[2307.08701v1](http://arxiv.org/abs/2307.08701v1)|null|
+|**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
+|**2023-07-17**|**Pair then Relation: Pair-Net for Panoptic Scene Graph Generation**|Jinghao Wang et.al.|[2307.08699v1](http://arxiv.org/abs/2307.08699v1)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691v1](http://arxiv.org/abs/2307.08691v1)|**[link](https://github.com/dao-ailab/flash-attention)**|
+|**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689v1](http://arxiv.org/abs/2307.08689v1)|**[link](https://github.com/princeton-nlp/Collie)**|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511v1](http://arxiv.org/abs/2307.07511v1)|null|
 |**2023-07-14**|**A Poisson Decomposition for Information and the Information-Event Diagram**|Cheuk Ting Li et.al.|[2307.07506v1](http://arxiv.org/abs/2307.07506v1)|null|
 |**2023-07-14**|**Exhaustive Generation of Linear Orthogonal Cellular Automata**|Enrico Formenti et.al.|[2307.07505v1](http://arxiv.org/abs/2307.07505v1)|null|
