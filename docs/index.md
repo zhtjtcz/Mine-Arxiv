@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693v1](http://arxiv.org/abs/2307.08693v1)|null|
@@ -828,6 +830,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
+|**2023-07-16**|**Enforcing Topological Interaction between Implicit Surfaces via Uniform Sampling**|Hieu Le et.al.|[2307.08716v1](http://arxiv.org/abs/2307.08716v1)|null|
 |**2023-07-13**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani et.al.|[2307.05832v2](http://arxiv.org/abs/2307.05832v2)|null|
 |**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange et.al.|[2307.05409v1](http://arxiv.org/abs/2307.05409v1)|null|
 |**2023-07-08**|**MAP-NBV: Multi-agent Prediction-guided Next-Best-View Planning for Active 3D Object Reconstruction**|Harnaik Dhami et.al.|[2307.04004v1](http://arxiv.org/abs/2307.04004v1)|null|
@@ -985,6 +989,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
+|**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466v1](http://arxiv.org/abs/2307.09466v1)|null|
+|**2023-07-18**|**Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla**|Tom Lieberum et.al.|[2307.09458v1](http://arxiv.org/abs/2307.09458v1)|null|
+|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v1](http://arxiv.org/abs/2307.09456v1)|null|
+|**2023-07-18**|**Solving Knapsack with Small Items via L0-Proximity**|Ce Jin et.al.|[2307.09454v1](http://arxiv.org/abs/2307.09454v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**AlpaGasus: Training A Better Alpaca with Fewer Data**|Lichang Chen et.al.|[2307.08701v1](http://arxiv.org/abs/2307.08701v1)|null|
 |**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
@@ -1732,6 +1743,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
+|**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466v1](http://arxiv.org/abs/2307.09466v1)|null|
+|**2023-07-18**|**Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla**|Tom Lieberum et.al.|[2307.09458v1](http://arxiv.org/abs/2307.09458v1)|null|
+|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v1](http://arxiv.org/abs/2307.09456v1)|null|
+|**2023-07-18**|**Solving Knapsack with Small Items via L0-Proximity**|Ce Jin et.al.|[2307.09454v1](http://arxiv.org/abs/2307.09454v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**AlpaGasus: Training A Better Alpaca with Fewer Data**|Lichang Chen et.al.|[2307.08701v1](http://arxiv.org/abs/2307.08701v1)|null|
 |**2023-07-17**|**Fast model inference and training on-board of Satellites**|Vít Růžička et.al.|[2307.08700v1](http://arxiv.org/abs/2307.08700v1)|**[link](https://github.com/previtus/ravaen-unibap-dorbit)**|
