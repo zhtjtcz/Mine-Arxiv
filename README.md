@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159v1](http://arxiv.org/abs/2307.10159v1)|**[link](https://github.com/sd-fabric/fabric)**|
+|**2023-07-19**|**XSkill: Cross Embodiment Skill Discovery**|Mengda Xu et.al.|[2307.09955v1](http://arxiv.org/abs/2307.09955v1)|null|
+|**2023-07-19**|**Visual Representation for Patterned Proliferation of Social Media Addiction: Quantitative Model and Network Analysis**|Dibyajyoti Mallick et.al.|[2307.09902v1](http://arxiv.org/abs/2307.09902v1)|null|
+|**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861v1](http://arxiv.org/abs/2307.09861v1)|**[link](https://github.com/majitao-xd/bsdm-had)**|
+|**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822v1](http://arxiv.org/abs/2307.09822v1)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
@@ -826,6 +831,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555v1](http://arxiv.org/abs/2307.09555v1)|null|
 |**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
 |**2023-07-16**|**Enforcing Topological Interaction between Implicit Surfaces via Uniform Sampling**|Hieu Le et.al.|[2307.08716v1](http://arxiv.org/abs/2307.08716v1)|null|
 |**2023-07-13**|**Bag of Views: An Appearance-based Approach to Next-Best-View Planning for 3D Reconstruction**|Sara Hatami Gazani et.al.|[2307.05832v2](http://arxiv.org/abs/2307.05832v2)|null|
@@ -985,6 +991,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166v1](http://arxiv.org/abs/2307.10166v1)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160v1](http://arxiv.org/abs/2307.10160v1)|null|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159v1](http://arxiv.org/abs/2307.10159v1)|**[link](https://github.com/sd-fabric/fabric)**|
+|**2023-07-19**|**Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures**|Kejia Chen et.al.|[2307.10153v1](http://arxiv.org/abs/2307.10153v1)|null|
 |**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
@@ -1739,6 +1750,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166v1](http://arxiv.org/abs/2307.10166v1)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163v1](http://arxiv.org/abs/2307.10163v1)|null|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160v1](http://arxiv.org/abs/2307.10160v1)|null|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159v1](http://arxiv.org/abs/2307.10159v1)|**[link](https://github.com/sd-fabric/fabric)**|
+|**2023-07-19**|**Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures**|Kejia Chen et.al.|[2307.10153v1](http://arxiv.org/abs/2307.10153v1)|null|
 |**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483v1](http://arxiv.org/abs/2307.09483v1)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning**|Liang Zhao et.al.|[2307.09474v1](http://arxiv.org/abs/2307.09474v1)|null|
