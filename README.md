@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654v1](http://arxiv.org/abs/2307.11654v1)|null|
+|**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594v1](http://arxiv.org/abs/2307.11594v1)|null|
+|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494v1](http://arxiv.org/abs/2307.11494v1)|null|
 |**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042v1](http://arxiv.org/abs/2307.11042v1)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994v1](http://arxiv.org/abs/2307.10994v1)|null|
 |**2023-07-20**|**Energy-consistent discretization of viscous dissipation with application to natural convection flow**|Benjamin Sanderse et.al.|[2307.10874v1](http://arxiv.org/abs/2307.10874v1)|null|
@@ -836,6 +839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|null|
 |**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555v1](http://arxiv.org/abs/2307.09555v1)|null|
 |**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
 |**2023-07-16**|**Enforcing Topological Interaction between Implicit Surfaces via Uniform Sampling**|Hieu Le et.al.|[2307.08716v1](http://arxiv.org/abs/2307.08716v1)|null|
@@ -996,6 +1000,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732v1](http://arxiv.org/abs/2307.11732v1)|null|
+|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|null|
+|**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
 |**2023-07-20**|**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**|Chenxin An et.al.|[2307.11088v1](http://arxiv.org/abs/2307.11088v1)|**[link](https://github.com/openlmlab/leval)**|
 |**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073v1](http://arxiv.org/abs/2307.11073v1)|null|
@@ -1758,6 +1765,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732v1](http://arxiv.org/abs/2307.11732v1)|null|
+|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|null|
+|**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
 |**2023-07-20**|**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**|Chenxin An et.al.|[2307.11088v1](http://arxiv.org/abs/2307.11088v1)|**[link](https://github.com/openlmlab/leval)**|
 |**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073v1](http://arxiv.org/abs/2307.11073v1)|null|
