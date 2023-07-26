@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659v1](http://arxiv.org/abs/2307.13659v1)|null|
+|**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639v1](http://arxiv.org/abs/2307.13639v1)|null|
+|**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560v1](http://arxiv.org/abs/2307.13560v1)|null|
+|**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527v1](http://arxiv.org/abs/2307.13527v1)|null|
 |**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|null|
 |**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872v1](http://arxiv.org/abs/2307.12872v1)|null|
 |**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868v1](http://arxiv.org/abs/2307.12868v1)|null|
@@ -641,6 +645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Federated Heavy Hitter Recovery under Linear Sketching**|Adria Gascon et.al.|[2307.13347v1](http://arxiv.org/abs/2307.13347v1)|null|
 |**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|null|
 |**2023-07-18**|**Semi-supervised Cycle-GAN for face photo-sketch translation in the wild**|Chaofeng Chen et.al.|[2307.10281v1](http://arxiv.org/abs/2307.10281v1)|null|
 |**2023-07-14**|**Volumetric Wireframe Parsing from Neural Attraction Fields**|Nan Xue et.al.|[2307.10206v1](http://arxiv.org/abs/2307.10206v1)|null|
@@ -1013,6 +1018,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
+|**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|
+|**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
+|**2023-07-25**|**Single reference treatment of strongly correlated H $_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690v1](http://arxiv.org/abs/2307.13690v1)|null|
+|**2023-07-25**|**All-optical GeV electron bunch generation in a laser-plasma accelerator via truncated-channel injection**|A. Picksley et.al.|[2307.13689v1](http://arxiv.org/abs/2307.13689v1)|null|
+|**2023-07-25**|**The Visual Language of Fabrics**|Valentin Deschaintre et.al.|[2307.13681v1](http://arxiv.org/abs/2307.13681v1)|null|
+|**2023-07-25**|**High Probability Analysis for Non-Convex Stochastic Optimization with Clipping**|Shaojie Li et.al.|[2307.13680v1](http://arxiv.org/abs/2307.13680v1)|null|
 |**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|null|
 |**2023-07-24**|**Evaluating the Ripple Effects of Knowledge Editing in Language Models**|Roi Cohen et.al.|[2307.12976v1](http://arxiv.org/abs/2307.12976v1)|null|
 |**2023-07-24**|**Volcanic ash delimitation using Artificial Intelligence based on Pix2Pix**|Christian Carrillo et.al.|[2307.12970v1](http://arxiv.org/abs/2307.12970v1)|null|
@@ -1784,6 +1796,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
+|**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|
+|**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
+|**2023-07-25**|**Single reference treatment of strongly correlated H $_4$ and H$_{10}$ isomers with Richardson-Gaudin states**|Paul A. Johnson et.al.|[2307.13690v1](http://arxiv.org/abs/2307.13690v1)|null|
+|**2023-07-25**|**All-optical GeV electron bunch generation in a laser-plasma accelerator via truncated-channel injection**|A. Picksley et.al.|[2307.13689v1](http://arxiv.org/abs/2307.13689v1)|null|
+|**2023-07-25**|**The Visual Language of Fabrics**|Valentin Deschaintre et.al.|[2307.13681v1](http://arxiv.org/abs/2307.13681v1)|null|
+|**2023-07-25**|**High Probability Analysis for Non-Convex Stochastic Optimization with Clipping**|Shaojie Li et.al.|[2307.13680v1](http://arxiv.org/abs/2307.13680v1)|null|
 |**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980v1](http://arxiv.org/abs/2307.12980v1)|null|
 |**2023-07-24**|**Evaluating the Ripple Effects of Knowledge Editing in Language Models**|Roi Cohen et.al.|[2307.12976v1](http://arxiv.org/abs/2307.12976v1)|null|
 |**2023-07-24**|**Volcanic ash delimitation using Artificial Intelligence based on Pix2Pix**|Christian Carrillo et.al.|[2307.12970v1](http://arxiv.org/abs/2307.12970v1)|null|
