@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Virtual Mirrors: Non-Line-of-Sight Imaging Beyond the Third Bounce**|Diego Royo et.al.|[2307.14341v1](http://arxiv.org/abs/2307.14341v1)|null|
+|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331v1](http://arxiv.org/abs/2307.14331v1)|null|
+|**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291v1](http://arxiv.org/abs/2307.14291v1)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073v1](http://arxiv.org/abs/2307.14073v1)|null|
 |**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659v1](http://arxiv.org/abs/2307.13659v1)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639v1](http://arxiv.org/abs/2307.13639v1)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560v1](http://arxiv.org/abs/2307.13560v1)|null|
@@ -849,8 +853,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127v1](http://arxiv.org/abs/2307.14127v1)|**[link](https://github.com/wrk226/2d-to-3d-evolution-transfer)**|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
-|**2023-07-24**|**VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching**|Tica Lin et.al.|[2307.12539v1](http://arxiv.org/abs/2307.12539v1)|null|
+|**2023-07-24**|**VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching**|Tica Lin et.al.|[2307.12539v1](http://arxiv.org/abs/2307.12539v1)|**[link](https://github.com/ticahere/vird-demo)**|
 |**2023-07-23**|**LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2307.12194v1](http://arxiv.org/abs/2307.12194v1)|null|
 |**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|**[link](https://github.com/facebookresearch/replay_dataset)**|
 |**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|null|
@@ -1014,6 +1019,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335v1](http://arxiv.org/abs/2307.14335v1)|**[link](https://github.com/audio-agi/wavjourney)**|
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**Waypoint-Based Imitation Learning for Robotic Manipulation**|Lucy Xiaoyang Shi et.al.|[2307.14326v1](http://arxiv.org/abs/2307.14326v1)|null|
 |**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
 |**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|
 |**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
@@ -1792,6 +1800,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335v1](http://arxiv.org/abs/2307.14335v1)|**[link](https://github.com/audio-agi/wavjourney)**|
+|**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
+|**2023-07-26**|**Waypoint-Based Imitation Learning for Robotic Manipulation**|Lucy Xiaoyang Shi et.al.|[2307.14326v1](http://arxiv.org/abs/2307.14326v1)|null|
 |**2023-07-25**|**Benchmarking and Analyzing Generative Data for Visual Recognition**|Bo Li et.al.|[2307.13697v1](http://arxiv.org/abs/2307.13697v1)|null|
 |**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695v1](http://arxiv.org/abs/2307.13695v1)|null|
 |**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691v1](http://arxiv.org/abs/2307.13691v1)|null|
