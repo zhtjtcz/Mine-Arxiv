@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v1](http://arxiv.org/abs/2307.16865v1)|null|
+|**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783v1](http://arxiv.org/abs/2307.16783v1)|null|
+|**2023-07-31**|**Understanding Dynamics in Coarse-Grained Models: III. Roles of Rotational Motion and Translation-Rotation Coupling in Coarse-Grained Dynamics**|Jaehyeok Jin et.al.|[2307.16747v1](http://arxiv.org/abs/2307.16747v1)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687v1](http://arxiv.org/abs/2307.16687v1)|null|
+|**2023-07-31**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680v1](http://arxiv.org/abs/2307.16680v1)|null|
 |**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576v1](http://arxiv.org/abs/2307.15576v1)|null|
 |**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484v1](http://arxiv.org/abs/2307.15484v1)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061v1](http://arxiv.org/abs/2307.15061v1)|**[link](https://github.com/ldkong1205/robodepth)**|
@@ -651,6 +656,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116v1](http://arxiv.org/abs/2307.16116v1)|null|
 |**2023-07-25**|**Federated Heavy Hitter Recovery under Linear Sketching**|Adria Gascon et.al.|[2307.13347v1](http://arxiv.org/abs/2307.13347v1)|null|
 |**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|null|
 |**2023-07-18**|**Semi-supervised Cycle-GAN for face photo-sketch translation in the wild**|Chaofeng Chen et.al.|[2307.10281v1](http://arxiv.org/abs/2307.10281v1)|null|
@@ -859,6 +865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440v1](http://arxiv.org/abs/2307.16440v1)|null|
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624v1](http://arxiv.org/abs/2307.14624v1)|null|
 |**2023-07-27**|**Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach**|Sandika Biswas et.al.|[2307.14570v1](http://arxiv.org/abs/2307.14570v1)|null|
 |**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127v2](http://arxiv.org/abs/2307.14127v2)|**[link](https://github.com/wrk226/creative_birds)**|
@@ -1027,6 +1034,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
+|**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
+|**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|null|
+|**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883v1](http://arxiv.org/abs/2307.16883v1)|**[link](https://github.com/project-miracl/hagrid)**|
+|**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879v1](http://arxiv.org/abs/2307.16879v1)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
+|**2023-07-31**|**Revisiting the Parameter Efficiency of Adapters from the Perspective of Precision Redundancy**|Shibo Jie et.al.|[2307.16867v1](http://arxiv.org/abs/2307.16867v1)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702v1](http://arxiv.org/abs/2307.15702v1)|null|
 |**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
@@ -1818,6 +1831,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
+|**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
+|**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|null|
+|**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883v1](http://arxiv.org/abs/2307.16883v1)|**[link](https://github.com/project-miracl/hagrid)**|
+|**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879v1](http://arxiv.org/abs/2307.16879v1)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
+|**2023-07-31**|**Revisiting the Parameter Efficiency of Adapters from the Perspective of Precision Redundancy**|Shibo Jie et.al.|[2307.16867v1](http://arxiv.org/abs/2307.16867v1)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702v1](http://arxiv.org/abs/2307.15702v1)|null|
 |**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
