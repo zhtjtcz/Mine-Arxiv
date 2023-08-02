@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675v1](http://arxiv.org/abs/2308.00675v1)|null|
+|**2023-08-01**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303v1](http://arxiv.org/abs/2308.00303v1)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v1](http://arxiv.org/abs/2307.16865v1)|null|
 |**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783v1](http://arxiv.org/abs/2307.16783v1)|null|
 |**2023-07-31**|**Understanding Dynamics in Coarse-Grained Models: III. Roles of Rotational Motion and Translation-Rotation Coupling in Coarse-Grained Dynamics**|Jaehyeok Jin et.al.|[2307.16747v1](http://arxiv.org/abs/2307.16747v1)|null|
@@ -660,6 +662,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Neural approximation of Wasserstein distance via a universal architecture for symmetric and factorwise group invariant functions**|Samantha Chen et.al.|[2308.00273v1](http://arxiv.org/abs/2308.00273v1)|null|
+|**2023-08-01**|**CONSTRUCT: A Program Synthesis Approach for Reconstructing Control Algorithms from Embedded System Binaries in Cyber-Physical Systems**|Ali Shokri et.al.|[2308.00250v1](http://arxiv.org/abs/2308.00250v1)|null|
 |**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116v1](http://arxiv.org/abs/2307.16116v1)|null|
 |**2023-07-25**|**Federated Heavy Hitter Recovery under Linear Sketching**|Adria Gascon et.al.|[2307.13347v1](http://arxiv.org/abs/2307.13347v1)|null|
 |**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|null|
@@ -869,6 +873,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Onboard View Planning of a Flying Camera for High Fidelity 3D Reconstruction of a Moving Actor**|Qingyuan Jiang et.al.|[2308.00134v1](http://arxiv.org/abs/2308.00134v1)|null|
+|**2023-07-21**|**Autonomous Electron Tomography Reconstruction with Machine Learning**|William Millsaps et.al.|[2308.00099v1](http://arxiv.org/abs/2308.00099v1)|null|
 |**2023-07-31**|**Towards Head Computed Tomography Image Reconstruction Standardization with Deep Learning Assisted Automatic Detection**|Bowen Zheng et.al.|[2307.16440v1](http://arxiv.org/abs/2307.16440v1)|null|
 |**2023-07-27**|**FS-Depth: Focal-and-Scale Depth Estimation from a Single Image in Unseen Indoor Scene**|Chengrui Wei et.al.|[2307.14624v1](http://arxiv.org/abs/2307.14624v1)|null|
 |**2023-07-27**|**Physically Plausible 3D Human-Scene Reconstruction from Monocular RGB Image using an Adversarial Learning Approach**|Sandika Biswas et.al.|[2307.14570v1](http://arxiv.org/abs/2307.14570v1)|null|
@@ -1038,6 +1044,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**LISA: Reasoning Segmentation via Large Language Model**|Xin Lai et.al.|[2308.00692v1](http://arxiv.org/abs/2308.00692v1)|**[link](https://github.com/dvlab-research/lisa)**|
+|**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|null|
+|**2023-08-01**|**Learning from Hypervectors: A Survey on Hypervector Encoding**|Sercan Aygun et.al.|[2308.00685v1](http://arxiv.org/abs/2308.00685v1)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
 |**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|null|
@@ -1835,6 +1844,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**LISA: Reasoning Segmentation via Large Language Model**|Xin Lai et.al.|[2308.00692v1](http://arxiv.org/abs/2308.00692v1)|**[link](https://github.com/dvlab-research/lisa)**|
+|**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|null|
+|**2023-08-01**|**Learning from Hypervectors: A Survey on Hypervector Encoding**|Sercan Aygun et.al.|[2308.00685v1](http://arxiv.org/abs/2308.00685v1)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895v1](http://arxiv.org/abs/2307.16895v1)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894v1](http://arxiv.org/abs/2307.16894v1)|null|
 |**2023-07-31**|**LEONARDO: A Pan-European Pre-Exascale Supercomputer for HPC and AI Applications**|Matteo Turisini et.al.|[2307.16885v1](http://arxiv.org/abs/2307.16885v1)|null|
