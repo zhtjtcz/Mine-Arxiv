@@ -966,7 +966,7 @@
 |**2023-04-19**|**3 Dimensional Dense Reconstruction: A Review of Algorithms and Dataset**|Yangming Li et.al.|[2304.09371v1](http://arxiv.org/abs/2304.09371v1)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-17**|**Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**|Michel Hayoz et.al.|[2304.08023v1](http://arxiv.org/abs/2304.08023v1)|**[link](https://github.com/aimi-lab/robust-pose-estimator)**|
-|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
+|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|**[link](https://github.com/facebookresearch/TemporallyConsistentDepth)**|
 |**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|**[link](https://github.com/Lakonik/SSDNeRF)**|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-12**|**Dynamic Voxel Grid Optimization for High-Fidelity RGB-D Supervised Surface Reconstruction**|Xiangyu Xu et.al.|[2304.06178v1](http://arxiv.org/abs/2304.06178v1)|null|
@@ -1075,7 +1075,7 @@
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702v1](http://arxiv.org/abs/2307.15702v1)|null|
 |**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
-|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|null|
+|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|**[link](https://github.com/davideboscaini/patchmixer)**|
 |**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690v1](http://arxiv.org/abs/2307.15690v1)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-27**|**A Geometric Notion of Causal Probing**|Clément Guerner et.al.|[2307.15054v1](http://arxiv.org/abs/2307.15054v1)|null|
@@ -1160,7 +1160,7 @@
 |**2023-07-05**|**LongNet: Scaling Transformers to 1,000,000,000 Tokens**|Jiayu Ding et.al.|[2307.02486v1](http://arxiv.org/abs/2307.02486v1)|**[link](https://github.com/microsoft/unilm)**|
 |**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|null|
 |**2023-07-05**|**Jailbroken: How Does LLM Safety Training Fail?**|Alexander Wei et.al.|[2307.02483v1](http://arxiv.org/abs/2307.02483v1)|null|
-|**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|null|
+|**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|**[link](https://github.com/zhaofengwu/counterfactual-evaluation)**|
 |**2023-07-05**|**The Calissons Puzzle**|Jean-Marie Favreau et.al.|[2307.02475v1](http://arxiv.org/abs/2307.02475v1)|null|
 |**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472v2](http://arxiv.org/abs/2307.02472v2)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
@@ -1316,7 +1316,7 @@
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399v1](http://arxiv.org/abs/2305.15399v1)|**[link](https://github.com/sin3dm/sin3dm)**|
 |**2023-05-24**|**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models**|Weixi Feng et.al.|[2305.15393v1](http://arxiv.org/abs/2305.15393v1)|**[link](https://github.com/weixi-feng/layoutgpt)**|
 |**2023-05-24**|**A Neural Space-Time Representation for Text-to-Image Personalization**|Yuval Alaluf et.al.|[2305.15391v1](http://arxiv.org/abs/2305.15391v1)|**[link](https://github.com/NeuralTextualInversion/NeTI)**|
-|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|**[link](https://github.com/aviclu/peekacross)**|
 |**2023-05-23**|**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects**|Taeksoo Kim et.al.|[2305.14345v1](http://arxiv.org/abs/2305.14345v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
 |**2023-05-23**|**APPLS: A Meta-evaluation Testbed for Plain Language Summarization**|Yue Guo et.al.|[2305.14341v1](http://arxiv.org/abs/2305.14341v1)|**[link](https://github.com/linguisticanomalies/appls)**|
@@ -1355,7 +1355,7 @@
 |**2023-05-18**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v2](http://arxiv.org/abs/2305.10415v2)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
 |**2023-05-17**|**AI Friends: A Design Framework for AI-Powered Creative Programming for Youth**|Stefania Druga et.al.|[2305.10412v1](http://arxiv.org/abs/2305.10412v1)|null|
 |**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
-|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
+|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|**[link](https://github.com/JasonQSY/3DOI)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
 |**2023-05-16**|**Newad: A register map automation tool for Verilog**|Vamsi K Vytla et.al.|[2305.09657v1](http://arxiv.org/abs/2305.09657v1)|null|
@@ -1705,7 +1705,7 @@
 |**2023-02-23**|**Sequence-Based Incremental Concolic Testing of RTL Models**|Hasini Witharana et.al.|[2302.12241v1](http://arxiv.org/abs/2302.12241v1)|null|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
 |**2023-02-23**|**Improving Adaptive Conformal Prediction Using Self-Supervised Learning**|Nabeel Seedat et.al.|[2302.12238v1](http://arxiv.org/abs/2302.12238v1)|**[link](https://github.com/seedatnabeel/sscp)**|
-|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|null|
+|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|**[link](https://github.com/zju3dv/instant-nvr)**|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|**[link](https://github.com/nianticlabs/diffusionerf)**|
 |**2023-02-22**|**Beyond optimal disturbances: a statistical framework for transient growth**|Peter Frame et.al.|[2302.11564v1](http://arxiv.org/abs/2302.11564v1)|null|
 |**2023-02-22**|**Uncovering Bias in Face Generation Models**|Cristian Muñoz et.al.|[2302.11562v1](http://arxiv.org/abs/2302.11562v1)|null|
@@ -1884,7 +1884,7 @@
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703v1](http://arxiv.org/abs/2307.15703v1)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702v1](http://arxiv.org/abs/2307.15702v1)|null|
 |**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700v2](http://arxiv.org/abs/2307.15700v2)|null|
-|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|null|
+|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692v1](http://arxiv.org/abs/2307.15692v1)|**[link](https://github.com/davideboscaini/patchmixer)**|
 |**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690v1](http://arxiv.org/abs/2307.15690v1)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
 |**2023-07-27**|**A Geometric Notion of Causal Probing**|Clément Guerner et.al.|[2307.15054v1](http://arxiv.org/abs/2307.15054v1)|null|
@@ -1969,7 +1969,7 @@
 |**2023-07-05**|**LongNet: Scaling Transformers to 1,000,000,000 Tokens**|Jiayu Ding et.al.|[2307.02486v1](http://arxiv.org/abs/2307.02486v1)|**[link](https://github.com/microsoft/unilm)**|
 |**2023-07-05**|**Elastic Decision Transformer**|Yueh-Hua Wu et.al.|[2307.02484v1](http://arxiv.org/abs/2307.02484v1)|null|
 |**2023-07-05**|**Jailbroken: How Does LLM Safety Training Fail?**|Alexander Wei et.al.|[2307.02483v1](http://arxiv.org/abs/2307.02483v1)|null|
-|**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|null|
+|**2023-07-05**|**Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks**|Zhaofeng Wu et.al.|[2307.02477v1](http://arxiv.org/abs/2307.02477v1)|**[link](https://github.com/zhaofengwu/counterfactual-evaluation)**|
 |**2023-07-05**|**The Calissons Puzzle**|Jean-Marie Favreau et.al.|[2307.02475v1](http://arxiv.org/abs/2307.02475v1)|null|
 |**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472v2](http://arxiv.org/abs/2307.02472v2)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
@@ -2125,7 +2125,7 @@
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399v1](http://arxiv.org/abs/2305.15399v1)|**[link](https://github.com/sin3dm/sin3dm)**|
 |**2023-05-24**|**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models**|Weixi Feng et.al.|[2305.15393v1](http://arxiv.org/abs/2305.15393v1)|**[link](https://github.com/weixi-feng/layoutgpt)**|
 |**2023-05-24**|**A Neural Space-Time Representation for Text-to-Image Personalization**|Yuval Alaluf et.al.|[2305.15391v1](http://arxiv.org/abs/2305.15391v1)|**[link](https://github.com/NeuralTextualInversion/NeTI)**|
-|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|null|
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387v1](http://arxiv.org/abs/2305.15387v1)|**[link](https://github.com/aviclu/peekacross)**|
 |**2023-05-23**|**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects**|Taeksoo Kim et.al.|[2305.14345v1](http://arxiv.org/abs/2305.14345v1)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343v1](http://arxiv.org/abs/2305.14343v1)|null|
 |**2023-05-23**|**APPLS: A Meta-evaluation Testbed for Plain Language Summarization**|Yue Guo et.al.|[2305.14341v1](http://arxiv.org/abs/2305.14341v1)|**[link](https://github.com/linguisticanomalies/appls)**|
@@ -2164,7 +2164,7 @@
 |**2023-05-18**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415v2](http://arxiv.org/abs/2305.10415v2)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
 |**2023-05-17**|**AI Friends: A Design Framework for AI-Powered Creative Programming for Youth**|Stefania Druga et.al.|[2305.10412v1](http://arxiv.org/abs/2305.10412v1)|null|
 |**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401v1](http://arxiv.org/abs/2305.10401v1)|null|
-|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|null|
+|**2023-05-16**|**Understanding 3D Object Interaction from a Single Image**|Shengyi Qian et.al.|[2305.09664v1](http://arxiv.org/abs/2305.09664v1)|**[link](https://github.com/JasonQSY/3DOI)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659v1](http://arxiv.org/abs/2305.09659v1)|null|
 |**2023-05-16**|**Newad: A register map automation tool for Verilog**|Vamsi K Vytla et.al.|[2305.09657v1](http://arxiv.org/abs/2305.09657v1)|null|
@@ -2514,7 +2514,7 @@
 |**2023-02-23**|**Sequence-Based Incremental Concolic Testing of RTL Models**|Hasini Witharana et.al.|[2302.12241v1](http://arxiv.org/abs/2302.12241v1)|null|
 |**2023-02-23**|**What makes a language easy to deep-learn?**|Lukas Galke et.al.|[2302.12239v1](http://arxiv.org/abs/2302.12239v1)|null|
 |**2023-02-23**|**Improving Adaptive Conformal Prediction Using Self-Supervised Learning**|Nabeel Seedat et.al.|[2302.12238v1](http://arxiv.org/abs/2302.12238v1)|**[link](https://github.com/seedatnabeel/sscp)**|
-|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|null|
+|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|**[link](https://github.com/zju3dv/instant-nvr)**|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|**[link](https://github.com/nianticlabs/diffusionerf)**|
 |**2023-02-22**|**Beyond optimal disturbances: a statistical framework for transient growth**|Peter Frame et.al.|[2302.11564v1](http://arxiv.org/abs/2302.11564v1)|null|
 |**2023-02-22**|**Uncovering Bias in Face Generation Models**|Cristian Muñoz et.al.|[2302.11562v1](http://arxiv.org/abs/2302.11562v1)|null|
