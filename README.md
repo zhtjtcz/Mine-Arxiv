@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
+|**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021v1](http://arxiv.org/abs/2308.05021v1)|null|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v1](http://arxiv.org/abs/2308.04995v1)|null|
+|**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961v1](http://arxiv.org/abs/2308.04961v1)|null|
+|**2023-08-09**|**Interaction-induced directional transport on periodically driven chains**|Helena Drüeke et.al.|[2308.04845v1](http://arxiv.org/abs/2308.04845v1)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
 |**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288v1](http://arxiv.org/abs/2308.04288v1)|null|
 |**2023-08-08**|**MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**|Xiaowen Wang et.al.|[2308.04266v1](http://arxiv.org/abs/2308.04266v1)|null|
@@ -677,6 +682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
 |**2023-08-09**|**Apple Vision Pro for Healthcare: "The Ultimate Display"? -- Entering the Wonderland of Precision**|Jan Egger et.al.|[2308.04313v2](http://arxiv.org/abs/2308.04313v2)|null|
 |**2023-08-08**|**Iterative Sketching for Secure Coded Regression**|Neophytos Charalambides et.al.|[2308.04185v1](http://arxiv.org/abs/2308.04185v1)|null|
 |**2023-08-06**|**Gradient Coding through Iterative Block Leverage Score Sampling**|Neophytos Charalambides et.al.|[2308.03096v1](http://arxiv.org/abs/2308.03096v1)|null|
@@ -1072,6 +1078,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
 |**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423v1](http://arxiv.org/abs/2308.04423v1)|null|
@@ -1896,6 +1904,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
 |**2023-08-08**|**SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore**|Sewon Min et.al.|[2308.04430v1](http://arxiv.org/abs/2308.04430v1)|**[link](https://github.com/kernelmachine/silo-lm)**|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426v1](http://arxiv.org/abs/2308.04426v1)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423v1](http://arxiv.org/abs/2308.04423v1)|null|
