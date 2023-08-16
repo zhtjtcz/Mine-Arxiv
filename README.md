@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837v1](http://arxiv.org/abs/2308.07837v1)|null|
+|**2023-08-15**|**DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding**|Jeongsoo Choi et.al.|[2308.07787v1](http://arxiv.org/abs/2308.07787v1)|**[link](https://github.com/joannahong/diffv2s)**|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293v1](http://arxiv.org/abs/2308.07293v1)|null|
 |**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151v1](http://arxiv.org/abs/2308.07151v1)|null|
@@ -702,6 +706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665v1](http://arxiv.org/abs/2308.07665v1)|null|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027v1](http://arxiv.org/abs/2308.06027v1)|null|
 |**2023-08-11**|**Uncertainty-Aware Cross-Modal Transfer Network for Sketch-Based 3D Shape Retrieval**|Yiyang Cai et.al.|[2308.05948v1](http://arxiv.org/abs/2308.05948v1)|null|
 |**2023-08-10**|**The Fast and the Private: Task-based Dataset Search**|Zezhou Huang et.al.|[2308.05637v1](http://arxiv.org/abs/2308.05637v1)|null|
@@ -924,6 +929,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868v1](http://arxiv.org/abs/2308.07868v1)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837v1](http://arxiv.org/abs/2308.07837v1)|null|
+|**2023-08-15**|**Multi-view 3D Face Reconstruction Based on Flame**|Wenzhuo Zheng et.al.|[2308.07551v1](http://arxiv.org/abs/2308.07551v1)|null|
 |**2023-08-14**|**A One Stop 3D Target Reconstruction and multilevel Segmentation Method**|Jiexiong Xu et.al.|[2308.06974v1](http://arxiv.org/abs/2308.06974v1)|**[link](https://github.com/ganlab/ostra)**|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
 |**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
@@ -1105,6 +1113,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Enumerating Tarski fixed points on lattices of binary relations**|Julian Müller et.al.|[2308.07923v1](http://arxiv.org/abs/2308.07923v1)|null|
+|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
+|**2023-08-15**|**The Regular Expression Inference Challenge**|Mojtaba Valizadeh et.al.|[2308.07899v1](http://arxiv.org/abs/2308.07899v1)|null|
+|**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898v1](http://arxiv.org/abs/2308.07898v1)|**[link](https://github.com/jusiro/flair)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309v1](http://arxiv.org/abs/2308.07309v1)|null|
 |**2023-08-15**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308v2](http://arxiv.org/abs/2308.07308v2)|null|
@@ -1947,6 +1959,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Enumerating Tarski fixed points on lattices of binary relations**|Julian Müller et.al.|[2308.07923v1](http://arxiv.org/abs/2308.07923v1)|null|
+|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
+|**2023-08-15**|**The Regular Expression Inference Challenge**|Mojtaba Valizadeh et.al.|[2308.07899v1](http://arxiv.org/abs/2308.07899v1)|null|
+|**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898v1](http://arxiv.org/abs/2308.07898v1)|**[link](https://github.com/jusiro/flair)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309v1](http://arxiv.org/abs/2308.07309v1)|null|
 |**2023-08-15**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308v2](http://arxiv.org/abs/2308.07308v2)|null|
