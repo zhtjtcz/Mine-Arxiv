@@ -31,8 +31,8 @@
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293v1](http://arxiv.org/abs/2308.07293v1)|null|
-|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151v1](http://arxiv.org/abs/2308.07151v1)|null|
-|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058v1](http://arxiv.org/abs/2308.07058v1)|null|
+|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151v1](http://arxiv.org/abs/2308.07151v1)|**[link](https://github.com/ciodar/cultural-heritage-diffaug)**|
+|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058v1](http://arxiv.org/abs/2308.07058v1)|**[link](https://github.com/giuliacencetti/social_bubbles)**|
 |**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037v1](http://arxiv.org/abs/2308.07037v1)|null|
 |**2023-08-14**|**An efficient topology optimization method for steady gas flows in all flow regimes**|Ruifeng Yuan et.al.|[2308.07018v1](http://arxiv.org/abs/2308.07018v1)|null|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
@@ -44,7 +44,7 @@
 |**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027v1](http://arxiv.org/abs/2308.06027v1)|null|
 |**2023-08-14**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995v2](http://arxiv.org/abs/2308.05995v2)|null|
-|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|**[link](https://github.com/haoheliu/AudioLDM2)**|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695v1](http://arxiv.org/abs/2308.05695v1)|null|
 |**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
@@ -124,7 +124,7 @@
 |**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487v1](http://arxiv.org/abs/2307.07487v1)|null|
 |**2023-07-14**|**Inverse Evolution Layers: Physics-informed Regularizers for Deep Neural Networks**|Chaoyu Liu et.al.|[2307.07344v1](http://arxiv.org/abs/2307.07344v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
-|**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|null|
+|**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205v1](http://arxiv.org/abs/2307.07205v1)|**[link](https://github.com/aleflabo/MoCoDAD)**|
 |**2023-07-14**|**Federated Learning-Empowered AI-Generated Content in Wireless Networks**|Xumin Huang et.al.|[2307.07146v1](http://arxiv.org/abs/2307.07146v1)|null|
 |**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949v1](http://arxiv.org/abs/2307.06949v1)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272v1](http://arxiv.org/abs/2307.06272v1)|null|
@@ -553,7 +553,7 @@
 |**2023-03-16**|**$P+$ : Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522v1](http://arxiv.org/abs/2303.09522v1)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472v1](http://arxiv.org/abs/2303.09472v1)|**[link](https://github.com/zj-binxia/diffir)**|
 |**2023-03-16**|**Unwrapping NPT simulations to calculate diffusion coefficients**|Jakob Tómas Bullerjahn et.al.|[2303.09418v1](http://arxiv.org/abs/2303.09418v1)|null|
-|**2023-03-17**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v2](http://arxiv.org/abs/2303.09375v2)|null|
+|**2023-03-17**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v2](http://arxiv.org/abs/2303.09375v2)|**[link](https://github.com/SamsungLabs/DINAR)**|
 |**2023-03-15**|**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions**|Michael S. Albergo et.al.|[2303.08797v1](http://arxiv.org/abs/2303.08797v1)|null|
 |**2023-03-15**|**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion**|Inhwa Han et.al.|[2303.08767v1](http://arxiv.org/abs/2303.08767v1)|null|
 |**2023-03-15**|**Advanced Analysis of Radar Cross-Section Measurements in Reverberation Environment**|Corentin Charlo et.al.|[2303.08751v1](http://arxiv.org/abs/2303.08751v1)|null|
@@ -730,7 +730,7 @@
 |**2023-07-25**|**Federated Heavy Hitter Recovery under Linear Sketching**|Adria Gascon et.al.|[2307.13347v1](http://arxiv.org/abs/2307.13347v1)|null|
 |**2023-07-24**|**Learning Dense Correspondences between Photos and Sketches**|Xuanchen Lu et.al.|[2307.12967v1](http://arxiv.org/abs/2307.12967v1)|null|
 |**2023-07-18**|**Semi-supervised Cycle-GAN for face photo-sketch translation in the wild**|Chaofeng Chen et.al.|[2307.10281v1](http://arxiv.org/abs/2307.10281v1)|null|
-|**2023-07-14**|**Volumetric Wireframe Parsing from Neural Attraction Fields**|Nan Xue et.al.|[2307.10206v1](http://arxiv.org/abs/2307.10206v1)|null|
+|**2023-07-14**|**Volumetric Wireframe Parsing from Neural Attraction Fields**|Nan Xue et.al.|[2307.10206v1](http://arxiv.org/abs/2307.10206v1)|**[link](https://github.com/cherubicxn/neat)**|
 |**2023-07-17**|**Multi-Domain Learning with Modulation Adapters**|Ekaterina Iakovleva et.al.|[2307.08528v1](http://arxiv.org/abs/2307.08528v1)|null|
 |**2023-07-16**|**InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks**|Yanna Lin et.al.|[2307.07922v1](http://arxiv.org/abs/2307.07922v1)|null|
 |**2023-07-13**|**Connectivity Labeling for Multiple Vertex Failures**|Merav Parter et.al.|[2307.06276v2](http://arxiv.org/abs/2307.06276v2)|null|
@@ -739,7 +739,7 @@
 |**2023-07-11**|**Diffusion idea exploration for art generation**|Nikhil Verma et.al.|[2307.04978v1](http://arxiv.org/abs/2307.04978v1)|null|
 |**2023-07-08**|**Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation**|Aditya Sanghi et.al.|[2307.03869v1](http://arxiv.org/abs/2307.03869v1)|null|
 |**2023-07-06**|**Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence**|Hang Zou et.al.|[2307.02757v1](http://arxiv.org/abs/2307.02757v1)|null|
-|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944v1](http://arxiv.org/abs/2307.01944v1)|null|
+|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944v1](http://arxiv.org/abs/2307.01944v1)|**[link](https://github.com/leieric/text-sketch)**|
 |**2023-07-03**|**Digital Twin-Empowered Communications: A New Frontier of Wireless Networks**|Lina Bariah et.al.|[2307.00973v1](http://arxiv.org/abs/2307.00973v1)|null|
 |**2023-07-04**|**SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling**|Zhongjin Luo et.al.|[2307.00804v2](http://arxiv.org/abs/2307.00804v2)|null|
 |**2023-06-27**|**Cartesian institutions with evidence: Data and system modelling with diagrammatic constraints and generalized sketches**|Zinovy Diskin et.al.|[2306.16284v1](http://arxiv.org/abs/2306.16284v1)|null|
@@ -1140,7 +1140,7 @@
 |**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246v1](http://arxiv.org/abs/2308.06246v1)|null|
 |**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
 |**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741v1](http://arxiv.org/abs/2308.05741v1)|null|
-|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|**[link](https://github.com/haoheliu/AudioLDM2)**|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
@@ -1557,7 +1557,7 @@
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
 |**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|**[link](https://github.com/mooler0410/llmspracticalguide)**|
-|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
+|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|**[link](https://github.com/jianlong-yuan/uninext)**|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
@@ -1988,7 +1988,7 @@
 |**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246v1](http://arxiv.org/abs/2308.06246v1)|null|
 |**2023-08-10**|**PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs**|Wentao Hu et.al.|[2308.05744v1](http://arxiv.org/abs/2308.05744v1)|**[link](https://github.com/manycore-research/PlankAssembly)**|
 |**2023-08-10**|**Neural Progressive Meshes**|Yun-Chun Chen et.al.|[2308.05741v1](http://arxiv.org/abs/2308.05741v1)|null|
-|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|**[link](https://github.com/haoheliu/AudioLDM2)**|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104v1](http://arxiv.org/abs/2308.05104v1)|null|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
@@ -2405,7 +2405,7 @@
 |**2023-04-26**|**Controllable Image Generation via Collage Representations**|Arantxa Casanova et.al.|[2304.13722v1](http://arxiv.org/abs/2304.13722v1)|null|
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714v1](http://arxiv.org/abs/2304.13714v1)|null|
 |**2023-04-27**|**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**|Jingfeng Yang et.al.|[2304.13712v2](http://arxiv.org/abs/2304.13712v2)|**[link](https://github.com/mooler0410/llmspracticalguide)**|
-|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
+|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|**[link](https://github.com/jianlong-yuan/uninext)**|
 |**2023-04-26**|**Hitting Subgraphs in Sparse Graphs and Geometric Intersection Graphs**|Daniel Lokshtanov et.al.|[2304.13695v1](http://arxiv.org/abs/2304.13695v1)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689v1](http://arxiv.org/abs/2304.13689v1)|null|
 |**2023-04-25**|**DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**|Huan-ang Gao et.al.|[2304.13031v1](http://arxiv.org/abs/2304.13031v1)|**[link](https://github.com/air-discover/dqs3d)**|
