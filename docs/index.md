@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Theory of Transverse Mode Instability in Fiber Amplifiers with Multimode Excitations**|Kabish Wisal et.al.|[2308.11599v1](http://arxiv.org/abs/2308.11599v1)|null|
+|**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580v1](http://arxiv.org/abs/2308.11580v1)|null|
+|**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473v1](http://arxiv.org/abs/2308.11473v1)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
+|**2023-08-22**|**SDeMorph: Towards Better Facial De-morphing from Single Morph**|Nitish Shukla et.al.|[2308.11442v1](http://arxiv.org/abs/2308.11442v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
 |**2023-08-21**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.|[2308.10845v1](http://arxiv.org/abs/2308.10845v1)|null|
 |**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718v1](http://arxiv.org/abs/2308.10718v1)|null|
@@ -730,6 +734,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**MatFuse: Controllable Material Generation with Diffusion Models**|Giuseppe Vecchio et.al.|[2308.11408v1](http://arxiv.org/abs/2308.11408v1)|null|
+|**2023-08-22**|**Minwise-Independent Permutations with Insertion and Deletion of Features**|Rameshwar Pratap et.al.|[2308.11240v1](http://arxiv.org/abs/2308.11240v1)|null|
 |**2023-08-21**|**Large Language Models for Software Engineering: A Systematic Literature Review**|Xinyi Hou et.al.|[2308.10620v1](http://arxiv.org/abs/2308.10620v1)|null|
 |**2023-08-16**|**Freedom of Speech and AI Output**|Eugene Volokh et.al.|[2308.08673v1](http://arxiv.org/abs/2308.08673v1)|null|
 |**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520v1](http://arxiv.org/abs/2308.08520v1)|null|
@@ -956,6 +962,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction**|Sijia Jiang et.al.|[2308.11025v1](http://arxiv.org/abs/2308.11025v1)|**[link](https://github.com/machineperceptionlab/cq-nir)**|
 |**2023-08-19**|**Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos**|Yikai Wang et.al.|[2308.10089v1](http://arxiv.org/abs/2308.10089v1)|null|
 |**2023-08-19**|**TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo**|Zhenlong Yuan et.al.|[2308.09990v1](http://arxiv.org/abs/2308.09990v1)|null|
 |**2023-08-19**|**A Theory of Topological Derivatives for Inverse Rendering of Geometry**|Ishit Mehta et.al.|[2308.09865v1](http://arxiv.org/abs/2308.09865v1)|null|
@@ -1147,6 +1154,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617v1](http://arxiv.org/abs/2308.11617v1)|null|
+|**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606v1](http://arxiv.org/abs/2308.11606v1)|**[link](https://github.com/google/storybench)**|
+|**2023-08-22**|**GOPro: Generate and Optimize Prompts in CLIP using Self-Supervised Learning**|Mainak Singha et.al.|[2308.11605v1](http://arxiv.org/abs/2308.11605v1)|null|
+|**2023-08-22**|**Towards Universal Interaction for Extended Reality**|Pascal Knierim et.al.|[2308.11600v1](http://arxiv.org/abs/2308.11600v1)|null|
+|**2023-08-22**|**Theory of Transverse Mode Instability in Fiber Amplifiers with Multimode Excitations**|Kabish Wisal et.al.|[2308.11599v1](http://arxiv.org/abs/2308.11599v1)|null|
+|**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590v1](http://arxiv.org/abs/2308.11590v1)|null|
 |**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
 |**2023-08-21**|**Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation**|Xueyi Liu et.al.|[2308.10898v1](http://arxiv.org/abs/2308.10898v1)|null|
@@ -2008,6 +2021,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617v1](http://arxiv.org/abs/2308.11617v1)|null|
+|**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606v1](http://arxiv.org/abs/2308.11606v1)|**[link](https://github.com/google/storybench)**|
+|**2023-08-22**|**GOPro: Generate and Optimize Prompts in CLIP using Self-Supervised Learning**|Mainak Singha et.al.|[2308.11605v1](http://arxiv.org/abs/2308.11605v1)|null|
+|**2023-08-22**|**Towards Universal Interaction for Extended Reality**|Pascal Knierim et.al.|[2308.11600v1](http://arxiv.org/abs/2308.11600v1)|null|
+|**2023-08-22**|**Theory of Transverse Mode Instability in Fiber Amplifiers with Multimode Excitations**|Kabish Wisal et.al.|[2308.11599v1](http://arxiv.org/abs/2308.11599v1)|null|
+|**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590v1](http://arxiv.org/abs/2308.11590v1)|null|
 |**2023-08-21**|**Structured World Models from Human Videos**|Russell Mendonca et.al.|[2308.10901v1](http://arxiv.org/abs/2308.10901v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
 |**2023-08-21**|**Few-Shot Physically-Aware Articulated Mesh Generation via Hierarchical Deformation**|Xueyi Liu et.al.|[2308.10898v1](http://arxiv.org/abs/2308.10898v1)|null|
