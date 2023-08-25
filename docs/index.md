@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights using Generative AI**|Yuqian Sun et.al.|[2308.12915v1](http://arxiv.org/abs/2308.12915v1)|null|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621v1](http://arxiv.org/abs/2308.12621v1)|null|
+|**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605v1](http://arxiv.org/abs/2308.12605v1)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Pulse shape discrimination for the CONUS experiment in the keV and sub-keV regime**|H. Bonet et.al.|[2308.12105v1](http://arxiv.org/abs/2308.12105v1)|null|
@@ -967,6 +971,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
 |**2023-08-21**|**Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction**|Sijia Jiang et.al.|[2308.11025v1](http://arxiv.org/abs/2308.11025v1)|**[link](https://github.com/machineperceptionlab/cq-nir)**|
 |**2023-08-19**|**Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos**|Yikai Wang et.al.|[2308.10089v1](http://arxiv.org/abs/2308.10089v1)|null|
 |**2023-08-19**|**TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo**|Zhenlong Yuan et.al.|[2308.09990v1](http://arxiv.org/abs/2308.09990v1)|null|
@@ -1159,6 +1164,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**ROAM: Robust and Object-aware Motion Generation using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969v1](http://arxiv.org/abs/2308.12969v1)|null|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963v1](http://arxiv.org/abs/2308.12963v1)|null|
+|**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962v1](http://arxiv.org/abs/2308.12962v1)|null|
+|**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961v1](http://arxiv.org/abs/2308.12961v1)|**[link](https://github.com/yangyangyang127/tfs3d)**|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|null|
+|**2023-08-24**|**Semi-analytical Framework for Modeling Strong Coupling of Quantum Emitters in Electromagnetic Resonators**|Mohammad Abutoama et.al.|[2308.12957v1](http://arxiv.org/abs/2308.12957v1)|null|
+|**2023-08-24**|**A new framework for global data regulation**|Ellie Graeden et.al.|[2308.12955v1](http://arxiv.org/abs/2308.12955v1)|null|
+|**2023-08-24**|**BridgeData V2: A Dataset for Robot Learning at Scale**|Homer Walke et.al.|[2308.12952v1](http://arxiv.org/abs/2308.12952v1)|**[link](https://github.com/rail-berkeley/BridgeData-V2)**|
+|**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949v1](http://arxiv.org/abs/2308.12949v1)|null|
 |**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|null|
 |**2023-08-23**|**Devising and Detecting Phishing: large language models vs. Smaller Human Models**|Fredrik Heiding et.al.|[2308.12287v1](http://arxiv.org/abs/2308.12287v1)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
@@ -2034,6 +2049,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**ROAM: Robust and Object-aware Motion Generation using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969v1](http://arxiv.org/abs/2308.12969v1)|null|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963v1](http://arxiv.org/abs/2308.12963v1)|null|
+|**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962v1](http://arxiv.org/abs/2308.12962v1)|null|
+|**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961v1](http://arxiv.org/abs/2308.12961v1)|**[link](https://github.com/yangyangyang127/tfs3d)**|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|null|
+|**2023-08-24**|**Semi-analytical Framework for Modeling Strong Coupling of Quantum Emitters in Electromagnetic Resonators**|Mohammad Abutoama et.al.|[2308.12957v1](http://arxiv.org/abs/2308.12957v1)|null|
+|**2023-08-24**|**A new framework for global data regulation**|Ellie Graeden et.al.|[2308.12955v1](http://arxiv.org/abs/2308.12955v1)|null|
+|**2023-08-24**|**BridgeData V2: A Dataset for Robot Learning at Scale**|Homer Walke et.al.|[2308.12952v1](http://arxiv.org/abs/2308.12952v1)|**[link](https://github.com/rail-berkeley/BridgeData-V2)**|
+|**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949v1](http://arxiv.org/abs/2308.12949v1)|null|
 |**2023-08-23**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288v1](http://arxiv.org/abs/2308.12288v1)|null|
 |**2023-08-23**|**Devising and Detecting Phishing: large language models vs. Smaller Human Models**|Fredrik Heiding et.al.|[2308.12287v1](http://arxiv.org/abs/2308.12287v1)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
