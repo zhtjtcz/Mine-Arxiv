@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
+|**2023-08-28**|**Oscillating reaction in porous media under saddle flow**|Satoshi Izumoto et.al.|[2308.14723v1](http://arxiv.org/abs/2308.14723v1)|null|
+|**2023-08-28**|**360-Degree Panorama Generation from Few Unregistered NFoV Images**|Jionghao Wang et.al.|[2308.14686v1](http://arxiv.org/abs/2308.14686v1)|**[link](https://github.com/shanemankiw/panodiff)**|
+|**2023-08-28**|**Effect of gas diffusion layer fiber shape on cathode two-phase dynamics in proton exchange membrane fuel cells**|Danan Yang et.al.|[2308.14539v1](http://arxiv.org/abs/2308.14539v1)|null|
+|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480v1](http://arxiv.org/abs/2308.14480v1)|null|
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369v1](http://arxiv.org/abs/2308.13369v1)|null|
 |**2023-08-25**|**Age of Information Diffusion on Social Networks: Optimizing Multi-Stage Seeding Strategies**|Songhua Li et.al.|[2308.13303v1](http://arxiv.org/abs/2308.13303v1)|null|
 |**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223v1](http://arxiv.org/abs/2308.13223v1)|null|
@@ -742,6 +747,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191v1](http://arxiv.org/abs/2308.14191v1)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355v1](http://arxiv.org/abs/2308.13355v1)|null|
 |**2023-08-25**|**Bridging the Gap: Fine-to-Coarse Sketch Interpolation Network for High-Quality Animation Sketch Inbetweening**|Jiaming Shen et.al.|[2308.13273v1](http://arxiv.org/abs/2308.13273v1)|null|
 |**2023-08-21**|**Geo-Sketcher: Rapid 3D Geological Modeling using Geological and Topographic Map Sketches**|Ronan Amorim et.al.|[2308.12152v1](http://arxiv.org/abs/2308.12152v1)|null|
@@ -974,6 +980,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
+|**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078v1](http://arxiv.org/abs/2308.14078v1)|null|
+|**2023-08-26**|**HoloPOCUS: Portable Mixed-Reality 3D Ultrasound Tracking, Reconstruction and Overlay**|Kian Wei Ng et.al.|[2308.13823v1](http://arxiv.org/abs/2308.13823v1)|null|
+|**2023-08-25**|**Textureless Deformable Surface Reconstruction with Invisible Markers**|Xinyuan Li et.al.|[2308.13678v1](http://arxiv.org/abs/2308.13678v1)|null|
 |**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
 |**2023-08-21**|**Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction**|Sijia Jiang et.al.|[2308.11025v1](http://arxiv.org/abs/2308.11025v1)|**[link](https://github.com/machineperceptionlab/cq-nir)**|
 |**2023-08-19**|**Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos**|Yikai Wang et.al.|[2308.10089v1](http://arxiv.org/abs/2308.10089v1)|null|
@@ -1167,6 +1177,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|null|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748v1](http://arxiv.org/abs/2308.14748v1)|null|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-28**|**Advancement on Security Applications of Private Intersection Sum Protocol**|Yuvaray Athur Raghuvir et.al.|[2308.14741v1](http://arxiv.org/abs/2308.14741v1)|null|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
+|**2023-08-28**|**Bayesian artificial brain with ChatGPT**|Renato A. Krohling et.al.|[2308.14732v1](http://arxiv.org/abs/2308.14732v1)|null|
+|**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731v1](http://arxiv.org/abs/2308.14731v1)|**[link](https://github.com/apcl-research/jam-cgpt)**|
 |**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|null|
 |**2023-08-25**|**Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**|Jie JW Wu et.al.|[2308.13507v1](http://arxiv.org/abs/2308.13507v1)|null|
 |**2023-08-25**|**A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance**|Ian Colbert et.al.|[2308.13504v1](http://arxiv.org/abs/2308.13504v1)|null|
@@ -2056,6 +2073,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|null|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748v1](http://arxiv.org/abs/2308.14748v1)|null|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-28**|**Advancement on Security Applications of Private Intersection Sum Protocol**|Yuvaray Athur Raghuvir et.al.|[2308.14741v1](http://arxiv.org/abs/2308.14741v1)|null|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
+|**2023-08-28**|**Bayesian artificial brain with ChatGPT**|Renato A. Krohling et.al.|[2308.14732v1](http://arxiv.org/abs/2308.14732v1)|null|
+|**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731v1](http://arxiv.org/abs/2308.14731v1)|**[link](https://github.com/apcl-research/jam-cgpt)**|
 |**2023-08-25**|**ChatGPT as Data Augmentation for Compositional Generalization: A Case Study in Open Intent Detection**|Yihao Fang et.al.|[2308.13517v1](http://arxiv.org/abs/2308.13517v1)|null|
 |**2023-08-25**|**Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models**|Jie JW Wu et.al.|[2308.13507v1](http://arxiv.org/abs/2308.13507v1)|null|
 |**2023-08-25**|**A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance**|Ian Colbert et.al.|[2308.13504v1](http://arxiv.org/abs/2308.13504v1)|null|
