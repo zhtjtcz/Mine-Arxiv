@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**SignDiff: Learning Diffusion Models for American Sign Language Production**|Sen Fang et.al.|[2308.16082v1](http://arxiv.org/abs/2308.16082v1)|null|
+|**2023-08-30**|**Click Metamaterials: Fast Acquisition of Thermal Conductivity and Functionality Diversities**|Chengmeng Wang et.al.|[2308.16057v1](http://arxiv.org/abs/2308.16057v1)|null|
+|**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989v1](http://arxiv.org/abs/2308.15989v1)|null|
+|**2023-08-30**|**Physics-Informed DeepMRI: Bridging the Gap from Heat Diffusion to k-Space Interpolation**|Zhuo-Xu Cui et.al.|[2308.15918v1](http://arxiv.org/abs/2308.15918v1)|null|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398v1](http://arxiv.org/abs/2308.15398v1)|null|
 |**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359v1](http://arxiv.org/abs/2308.15359v1)|null|
@@ -751,6 +755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Surrogate-based Autotuning for Randomized Sketching Algorithms in Regression Problems**|Younghyun Cho et.al.|[2308.15720v1](http://arxiv.org/abs/2308.15720v1)|null|
 |**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191v1](http://arxiv.org/abs/2308.14191v1)|**[link](https://github.com/winkawaks/sketchdreamer)**|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355v1](http://arxiv.org/abs/2308.13355v1)|null|
 |**2023-08-25**|**Bridging the Gap: Fine-to-Coarse Sketch Interpolation Network for High-Quality Animation Sketch Inbetweening**|Jiaming Shen et.al.|[2308.13273v1](http://arxiv.org/abs/2308.13273v1)|null|
@@ -984,6 +989,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Intensity correlation holography for remote phase sensing and 3D imaging**|Guillaume Thekkadath et.al.|[2308.15619v1](http://arxiv.org/abs/2308.15619v1)|null|
 |**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
 |**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078v1](http://arxiv.org/abs/2308.14078v1)|null|
 |**2023-08-26**|**HoloPOCUS: Portable Mixed-Reality 3D Ultrasound Tracking, Reconstruction and Overlay**|Kian Wei Ng et.al.|[2308.13823v1](http://arxiv.org/abs/2308.13823v1)|null|
@@ -1181,6 +1187,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|null|
+|**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/uni-medical/sam-med2d)**|
+|**2023-08-30**|**GREC: Generalized Referring Expression Comprehension**|Shuting He et.al.|[2308.16182v1](http://arxiv.org/abs/2308.16182v1)|**[link](https://github.com/henghuiding/grefcoco)**|
+|**2023-08-30**|**Framework and Methodology for Verification of a Complex Scientific Simulation Software, Flash-X**|Akash Dhruv et.al.|[2308.16180v1](http://arxiv.org/abs/2308.16180v1)|null|
+|**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177v1](http://arxiv.org/abs/2308.16177v1)|null|
+|**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
@@ -2084,6 +2096,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Learning Vision-based Pursuit-Evasion Robot Policies**|Andrea Bajcsy et.al.|[2308.16185v1](http://arxiv.org/abs/2308.16185v1)|null|
+|**2023-08-30**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184v1](http://arxiv.org/abs/2308.16184v1)|**[link](https://github.com/uni-medical/sam-med2d)**|
+|**2023-08-30**|**GREC: Generalized Referring Expression Comprehension**|Shuting He et.al.|[2308.16182v1](http://arxiv.org/abs/2308.16182v1)|**[link](https://github.com/henghuiding/grefcoco)**|
+|**2023-08-30**|**Framework and Methodology for Verification of a Complex Scientific Simulation Software, Flash-X**|Akash Dhruv et.al.|[2308.16180v1](http://arxiv.org/abs/2308.16180v1)|null|
+|**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177v1](http://arxiv.org/abs/2308.16177v1)|null|
+|**2023-08-30**|**Quantifying Uncertainty in Answers from any Language Model via Intrinsic and Extrinsic Confidence Assessment**|Jiuhai Chen et.al.|[2308.16175v1](http://arxiv.org/abs/2308.16175v1)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479v1](http://arxiv.org/abs/2308.15479v1)|null|
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
