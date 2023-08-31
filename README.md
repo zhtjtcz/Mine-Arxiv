@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398v1](http://arxiv.org/abs/2308.15398v1)|null|
 |**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359v1](http://arxiv.org/abs/2308.15359v1)|null|
-|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v1](http://arxiv.org/abs/2308.15321v1)|null|
+|**2023-08-30**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v2](http://arxiv.org/abs/2308.15321v2)|null|
 |**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
 |**2023-08-28**|**Oscillating reaction in porous media under saddle flow**|Satoshi Izumoto et.al.|[2308.14723v1](http://arxiv.org/abs/2308.14723v1)|null|
 |**2023-08-28**|**360-Degree Panorama Generation from Few Unregistered NFoV Images**|Jionghao Wang et.al.|[2308.14686v1](http://arxiv.org/abs/2308.14686v1)|**[link](https://github.com/shanemankiw/panodiff)**|
@@ -745,7 +745,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## sketch
 
@@ -978,7 +978,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1175,7 +1175,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## generate
 
@@ -1185,7 +1185,7 @@
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
 |**2023-08-29**|**Input margins can predict generalization too**|Coenraad Mouton et.al.|[2308.15466v1](http://arxiv.org/abs/2308.15466v1)|null|
-|**2023-08-29**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v1](http://arxiv.org/abs/2308.15465v1)|null|
+|**2023-08-30**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v2](http://arxiv.org/abs/2308.15465v2)|null|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**From SMOTE to Mixup for Deep Imbalanced Classification**|Wei-Chao Cheng et.al.|[2308.15457v1](http://arxiv.org/abs/2308.15457v1)|**[link](https://github.com/ntucllab/imbalanced-dl)**|
 |**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|null|
@@ -2078,7 +2078,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## generation
 
@@ -2088,7 +2088,7 @@
 |**2023-08-29**|**A General-Purpose Self-Supervised Model for Computational Pathology**|Richard J. Chen et.al.|[2308.15474v1](http://arxiv.org/abs/2308.15474v1)|null|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472v1](http://arxiv.org/abs/2308.15472v1)|null|
 |**2023-08-29**|**Input margins can predict generalization too**|Coenraad Mouton et.al.|[2308.15466v1](http://arxiv.org/abs/2308.15466v1)|null|
-|**2023-08-29**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v1](http://arxiv.org/abs/2308.15465v1)|null|
+|**2023-08-30**|**Sharing proofs with predicative theories through universe polymorphic elaboration**|Thiago Felicissimo et.al.|[2308.15465v2](http://arxiv.org/abs/2308.15465v2)|null|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**From SMOTE to Mixup for Deep Imbalanced Classification**|Wei-Chao Cheng et.al.|[2308.15457v1](http://arxiv.org/abs/2308.15457v1)|**[link](https://github.com/ntucllab/imbalanced-dl)**|
 |**2023-08-28**|**AI Deception: A Survey of Examples, Risks, and Potential Solutions**|Peter S. Park et.al.|[2308.14752v1](http://arxiv.org/abs/2308.14752v1)|null|
@@ -2981,7 +2981,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
