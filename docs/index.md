@@ -24,6 +24,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
+|**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031v1](http://arxiv.org/abs/2309.03031v1)|null|
 |**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405v1](http://arxiv.org/abs/2309.02405v1)|null|
 |**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349v1](http://arxiv.org/abs/2309.02349v1)|null|
 |**2023-09-05**|**Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization**|J. Hamilton et.al.|[2309.02319v1](http://arxiv.org/abs/2309.02319v1)|null|
@@ -775,6 +778,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**An Evaluation of Software Sketches**|Roy Friedman et.al.|[2309.03045v1](http://arxiv.org/abs/2309.03045v1)|null|
 |**2023-09-03**|**Business Process Text Sketch Automation Generation Using Large Language Model**|Rui Zhu et.al.|[2309.01071v1](http://arxiv.org/abs/2309.01071v1)|null|
 |**2023-09-02**|**Online Adaptive Mahalanobis Distance Estimation**|Lianke Qin et.al.|[2309.01030v1](http://arxiv.org/abs/2309.01030v1)|null|
 |**2023-09-01**|**Randomized Polar Codes for Anytime Distributed Machine Learning**|Burak Bartan et.al.|[2309.00682v1](http://arxiv.org/abs/2309.00682v1)|null|
@@ -1014,6 +1018,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008v1](http://arxiv.org/abs/2309.03008v1)|null|
+|**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997v1](http://arxiv.org/abs/2309.02997v1)|null|
+|**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777v1](http://arxiv.org/abs/2309.02777v1)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420v1](http://arxiv.org/abs/2309.02420v1)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-09-05**|**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**|Zhenghong Zhou et.al.|[2309.02318v1](http://arxiv.org/abs/2309.02318v1)|null|
@@ -1218,6 +1225,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
+|**2023-09-06**|**Electrocaloric Response of the Dense Ferroelectric Nanocomposites**|Anna N. Morozovska et.al.|[2309.03187v1](http://arxiv.org/abs/2309.03187v1)|null|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
 |**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434v1](http://arxiv.org/abs/2309.02434v1)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
 |**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405v1](http://arxiv.org/abs/2309.02405v1)|null|
 |**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang et.al.|[2309.00616v1](http://arxiv.org/abs/2309.00616v1)|**[link](https://github.com/Pointcept/OpenIns3D)**|
@@ -2141,6 +2151,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
+|**2023-09-06**|**Electrocaloric Response of the Dense Ferroelectric Nanocomposites**|Anna N. Morozovska et.al.|[2309.03187v1](http://arxiv.org/abs/2309.03187v1)|null|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
 |**2023-09-05**|**ReliTalk: Relightable Talking Portrait Generation from a Single Video**|Haonan Qiu et.al.|[2309.02434v1](http://arxiv.org/abs/2309.02434v1)|**[link](https://github.com/arthur-qiu/ReliTalk)**|
 |**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405v1](http://arxiv.org/abs/2309.02405v1)|null|
 |**2023-09-01**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang et.al.|[2309.00616v1](http://arxiv.org/abs/2309.00616v1)|**[link](https://github.com/Pointcept/OpenIns3D)**|
