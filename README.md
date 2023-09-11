@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433v1](http://arxiv.org/abs/2309.04433v1)|null|
+|**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430v1](http://arxiv.org/abs/2309.04430v1)|null|
+|**2023-09-08**|**MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask**|Yupeng Zhou et.al.|[2309.04399v1](http://arxiv.org/abs/2309.04399v1)|null|
+|**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372v1](http://arxiv.org/abs/2309.04372v1)|null|
+|**2023-09-08**|**The role of tumbling in bacterial scattering at convex obstacles**|Theresa Jakuszeit et.al.|[2309.04326v1](http://arxiv.org/abs/2309.04326v1)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893v1](http://arxiv.org/abs/2309.03893v1)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869v1](http://arxiv.org/abs/2309.03869v1)|null|
@@ -780,6 +785,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Receiving an algorithmic recommendation based on documentary filmmaking techniques**|Samuel Gantier et.al.|[2309.04184v1](http://arxiv.org/abs/2309.04184v1)|null|
 |**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835v1](http://arxiv.org/abs/2309.03835v1)|null|
 |**2023-09-07**|**Adjacency Sketches in Adversarial Environments**|Moni Naor et.al.|[2309.03728v1](http://arxiv.org/abs/2309.03728v1)|null|
 |**2023-09-06**|**An Evaluation of Software Sketches**|Roy Friedman et.al.|[2309.03045v1](http://arxiv.org/abs/2309.03045v1)|null|
@@ -1231,6 +1237,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**On the Actionability of Outcome Prediction**|Lydia T. Liu et.al.|[2309.04470v1](http://arxiv.org/abs/2309.04470v1)|null|
+|**2023-09-08**|**Generalized Cross-domain Multi-label Few-shot Learning for Chest X-rays**|Aroof Aimen et.al.|[2309.04462v1](http://arxiv.org/abs/2309.04462v1)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|null|
+|**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
+|**2023-09-08**|**Effect of Electron-Phonon Interactions on Three-Level QD-based Spaser: Linear and Quadratic Potentials**|Ankit Purohit et.al.|[2309.04448v1](http://arxiv.org/abs/2309.04448v1)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
 |**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903v1](http://arxiv.org/abs/2309.03903v1)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
@@ -2164,6 +2175,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**On the Actionability of Outcome Prediction**|Lydia T. Liu et.al.|[2309.04470v1](http://arxiv.org/abs/2309.04470v1)|null|
+|**2023-09-08**|**Generalized Cross-domain Multi-label Few-shot Learning for Chest X-rays**|Aroof Aimen et.al.|[2309.04462v1](http://arxiv.org/abs/2309.04462v1)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|null|
+|**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
+|**2023-09-08**|**Effect of Electron-Phonon Interactions on Three-Level QD-based Spaser: Linear and Quadratic Potentials**|Ankit Purohit et.al.|[2309.04448v1](http://arxiv.org/abs/2309.04448v1)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
 |**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903v1](http://arxiv.org/abs/2309.03903v1)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
