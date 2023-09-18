@@ -25,7 +25,7 @@
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867v1](http://arxiv.org/abs/2309.07867v1)|null|
 |**2023-09-14**|**Study and evaluation of the Ronen Method accuracy at material interfaces**|Johan Cufe et.al.|[2309.07756v1](http://arxiv.org/abs/2309.07756v1)|null|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
-|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051v1](http://arxiv.org/abs/2309.07051v1)|null|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051v1](http://arxiv.org/abs/2309.07051v1)|**[link](https://github.com/youngseng/unifiedgesture)**|
 |**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936v1](http://arxiv.org/abs/2309.06936v1)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933v1](http://arxiv.org/abs/2309.06933v1)|null|
 |**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895v1](http://arxiv.org/abs/2309.06895v1)|null|
@@ -38,7 +38,7 @@
 |**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284v1](http://arxiv.org/abs/2309.06284v1)|null|
 |**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663v1](http://arxiv.org/abs/2309.05663v1)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534v1](http://arxiv.org/abs/2309.05534v1)|null|
-|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
+|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|**[link](https://github.com/NExT-GPT/NExT-GPT)**|
 |**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433v1](http://arxiv.org/abs/2309.04433v1)|null|
 |**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430v1](http://arxiv.org/abs/2309.04430v1)|null|
 |**2023-09-08**|**MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask**|Yupeng Zhou et.al.|[2309.04399v1](http://arxiv.org/abs/2309.04399v1)|null|
@@ -47,14 +47,14 @@
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893v1](http://arxiv.org/abs/2309.03893v1)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869v1](http://arxiv.org/abs/2309.03869v1)|null|
-|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729v1](http://arxiv.org/abs/2309.03729v1)|null|
-|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702v1](http://arxiv.org/abs/2309.03702v1)|null|
+|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729v1](http://arxiv.org/abs/2309.03729v1)|**[link](https://github.com/sjtuplayer/few-shot-diffusion)**|
+|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702v1](http://arxiv.org/abs/2309.03702v1)|**[link](https://github.com/hondamunigeprasannasilva/diffdefence)**|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
 |**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031v1](http://arxiv.org/abs/2309.03031v1)|null|
 |**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405v1](http://arxiv.org/abs/2309.02405v1)|null|
-|**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349v1](http://arxiv.org/abs/2309.02349v1)|null|
+|**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349v1](http://arxiv.org/abs/2309.02349v1)|**[link](https://github.com/bradenmweight/QuantumMonteCarlo)**|
 |**2023-09-05**|**Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization**|J. Hamilton et.al.|[2309.02319v1](http://arxiv.org/abs/2309.02319v1)|null|
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299v1](http://arxiv.org/abs/2309.02299v1)|null|
 |**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218v1](http://arxiv.org/abs/2309.02218v1)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
@@ -76,7 +76,7 @@
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398v1](http://arxiv.org/abs/2308.15398v1)|null|
 |**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359v1](http://arxiv.org/abs/2308.15359v1)|null|
-|**2023-08-30**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v2](http://arxiv.org/abs/2308.15321v2)|null|
+|**2023-08-30**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v2](http://arxiv.org/abs/2308.15321v2)|**[link](https://github.com/forever208/edm-es)**|
 |**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740v1](http://arxiv.org/abs/2308.14740v1)|null|
 |**2023-08-28**|**Oscillating reaction in porous media under saddle flow**|Satoshi Izumoto et.al.|[2308.14723v1](http://arxiv.org/abs/2308.14723v1)|null|
 |**2023-08-28**|**360-Degree Panorama Generation from Few Unregistered NFoV Images**|Jionghao Wang et.al.|[2308.14686v1](http://arxiv.org/abs/2308.14686v1)|**[link](https://github.com/shanemankiw/panodiff)**|
@@ -382,7 +382,7 @@
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
 |**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|null|
-|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|null|
+|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|**[link](https://github.com/google/break-a-scene)**|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
 |**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289v1](http://arxiv.org/abs/2305.16289v1)|**[link](https://github.com/lisadunlap/alia)**|
 |**2023-05-25**|**CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graphs**|Guangyao Zhai et.al.|[2305.16283v1](http://arxiv.org/abs/2305.16283v1)|null|
@@ -546,7 +546,7 @@
 |**2023-04-13**|**DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning**|Enze Xie et.al.|[2304.06648v1](http://arxiv.org/abs/2304.06648v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
 |**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
-|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|null|
+|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|**[link](https://github.com/sanweiliti/EgoHMR)**|
 |**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961v1](http://arxiv.org/abs/2304.05961v1)|**[link](https://github.com/chenning0115/spectraldiff)**|
 |**2023-04-12**|**Diffusion models with location-scale noise**|Alexia Jolicoeur-Martineau et.al.|[2304.05907v1](http://arxiv.org/abs/2304.05907v1)|null|
 |**2023-04-12**|**Cancer-Net BCa-S: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2304.05899v1](http://arxiv.org/abs/2304.05899v1)|**[link](https://github.com/catai9/cancer-net-bca)**|
@@ -1223,7 +1223,7 @@
 |**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
 |**2023-03-06**|**System for 3D Acquisition and 3D Reconstruction using Structured Light for Sewer Line Inspection**|Johannes Künzel et.al.|[2303.02978v1](http://arxiv.org/abs/2303.02978v1)|null|
-|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
+|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|**[link](https://github.com/ashawkey/nerf2mesh)**|
 |**2023-03-09**|**MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices**|Kejie Li et.al.|[2303.01932v2](http://arxiv.org/abs/2303.01932v2)|**[link](https://github.com/ActiveVisionLab/MobileBrick)**|
 |**2023-03-01**|**Motion Compensation via Epipolar Consistency for In-Vivo X-Ray Microscopy**|Mareike Thies et.al.|[2303.00449v1](http://arxiv.org/abs/2303.00449v1)|null|
 |**2023-02-28**|**3D Coronary Vessel Reconstruction from Bi-Plane Angiography using Graph Convolutional Networks**|Kit Mills Bransby et.al.|[2302.14795v1](http://arxiv.org/abs/2302.14795v1)|null|
@@ -1296,7 +1296,7 @@
 |**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
 |**2023-09-08**|**Effect of Electron-Phonon Interactions on Three-Level QD-based Spaser: Linear and Quadratic Potentials**|Ankit Purohit et.al.|[2309.04448v1](http://arxiv.org/abs/2309.04448v1)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
-|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|**[link](https://github.com/zhujiapeng/aurora)**|
 |**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903v1](http://arxiv.org/abs/2309.03903v1)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
 |**2023-09-07**|**The Making and Breaking of Camouflage**|Hala Lamdouar et.al.|[2309.03899v1](http://arxiv.org/abs/2309.03899v1)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
@@ -1464,7 +1464,7 @@
 |**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950v1](http://arxiv.org/abs/2307.12950v1)|**[link](https://github.com/facebookresearch/rlcd)**|
 |**2023-07-24**|**Boosting Punctuation Restoration with Data Generation and Reinforcement Learning**|Viet Dac Lai et.al.|[2307.12949v1](http://arxiv.org/abs/2307.12949v1)|**[link](https://github.com/laiviet/pr-rl)**|
 |**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732v1](http://arxiv.org/abs/2307.11732v1)|null|
-|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|null|
+|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|**[link](https://github.com/ryuryukke/OUTFOX)**|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
 |**2023-07-20**|**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**|Chenxin An et.al.|[2307.11088v1](http://arxiv.org/abs/2307.11088v1)|**[link](https://github.com/openlmlab/leval)**|
 |**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
@@ -1672,7 +1672,7 @@
 |**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
 |**2023-05-26**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314v2](http://arxiv.org/abs/2305.16314v2)|null|
 |**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|null|
-|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|null|
+|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|**[link](https://github.com/google/break-a-scene)**|
 |**2023-05-25**|**Securing Deep Generative Models with Universal Adversarial Signature**|Yu Zeng et.al.|[2305.16310v1](http://arxiv.org/abs/2305.16310v1)|**[link](https://github.com/zengxianyu/genwm)**|
 |**2023-05-25**|**Imitating Task and Motion Planning with Visuomotor Transformers**|Murtaza Dalal et.al.|[2305.16309v1](http://arxiv.org/abs/2305.16309v1)|null|
 |**2023-05-25**|**Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**|Tzvika Geft et.al.|[2305.16303v1](http://arxiv.org/abs/2305.16303v1)|null|
@@ -1863,7 +1863,7 @@
 |**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696v1](http://arxiv.org/abs/2304.06696v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
 |**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
-|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|null|
+|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|**[link](https://github.com/sanweiliti/EgoHMR)**|
 |**2023-04-12**|**SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**|Ge-Peng Ji et.al.|[2304.06022v1](http://arxiv.org/abs/2304.06022v1)|null|
 |**2023-04-12**|**Crowd Counting with Sparse Annotation**|Shiwei Zhang et.al.|[2304.06021v1](http://arxiv.org/abs/2304.06021v1)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020v1](http://arxiv.org/abs/2304.06020v1)|null|
@@ -2260,7 +2260,7 @@
 |**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459v1](http://arxiv.org/abs/2309.04459v1)|null|
 |**2023-09-08**|**Effect of Electron-Phonon Interactions on Three-Level QD-based Spaser: Linear and Quadratic Potentials**|Ankit Purohit et.al.|[2309.04448v1](http://arxiv.org/abs/2309.04448v1)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
-|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|**[link](https://github.com/zhujiapeng/aurora)**|
 |**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903v1](http://arxiv.org/abs/2309.03903v1)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
 |**2023-09-07**|**The Making and Breaking of Camouflage**|Hala Lamdouar et.al.|[2309.03899v1](http://arxiv.org/abs/2309.03899v1)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
@@ -2428,7 +2428,7 @@
 |**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950v1](http://arxiv.org/abs/2307.12950v1)|**[link](https://github.com/facebookresearch/rlcd)**|
 |**2023-07-24**|**Boosting Punctuation Restoration with Data Generation and Reinforcement Learning**|Viet Dac Lai et.al.|[2307.12949v1](http://arxiv.org/abs/2307.12949v1)|**[link](https://github.com/laiviet/pr-rl)**|
 |**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732v1](http://arxiv.org/abs/2307.11732v1)|null|
-|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|null|
+|**2023-07-21**|**OUTFOX: LLM-generated Essay Detection through In-context Learning with Adversarially Generated Examples**|Ryuto Koike et.al.|[2307.11729v1](http://arxiv.org/abs/2307.11729v1)|**[link](https://github.com/ryuryukke/OUTFOX)**|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719v1](http://arxiv.org/abs/2307.11719v1)|null|
 |**2023-07-20**|**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**|Chenxin An et.al.|[2307.11088v1](http://arxiv.org/abs/2307.11088v1)|**[link](https://github.com/openlmlab/leval)**|
 |**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077v1](http://arxiv.org/abs/2307.11077v1)|**[link](https://github.com/liming-ai/AlignDet)**|
@@ -2636,7 +2636,7 @@
 |**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315v1](http://arxiv.org/abs/2305.16315v1)|null|
 |**2023-05-26**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314v2](http://arxiv.org/abs/2305.16314v2)|null|
 |**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312v1](http://arxiv.org/abs/2305.16312v1)|null|
-|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|null|
+|**2023-05-25**|**Break-A-Scene: Extracting Multiple Concepts from a Single Image**|Omri Avrahami et.al.|[2305.16311v1](http://arxiv.org/abs/2305.16311v1)|**[link](https://github.com/google/break-a-scene)**|
 |**2023-05-25**|**Securing Deep Generative Models with Universal Adversarial Signature**|Yu Zeng et.al.|[2305.16310v1](http://arxiv.org/abs/2305.16310v1)|**[link](https://github.com/zengxianyu/genwm)**|
 |**2023-05-25**|**Imitating Task and Motion Planning with Visuomotor Transformers**|Murtaza Dalal et.al.|[2305.16309v1](http://arxiv.org/abs/2305.16309v1)|null|
 |**2023-05-25**|**Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**|Tzvika Geft et.al.|[2305.16303v1](http://arxiv.org/abs/2305.16303v1)|null|
@@ -2827,7 +2827,7 @@
 |**2023-04-13**|**Improving novelty detection with generative adversarial networks on hand gesture data**|Miguel Simão et.al.|[2304.06696v1](http://arxiv.org/abs/2304.06696v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
 |**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
-|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|null|
+|**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|**[link](https://github.com/sanweiliti/EgoHMR)**|
 |**2023-04-12**|**SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything"**|Ge-Peng Ji et.al.|[2304.06022v1](http://arxiv.org/abs/2304.06022v1)|null|
 |**2023-04-12**|**Crowd Counting with Sparse Annotation**|Shiwei Zhang et.al.|[2304.06021v1](http://arxiv.org/abs/2304.06021v1)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020v1](http://arxiv.org/abs/2304.06020v1)|null|
