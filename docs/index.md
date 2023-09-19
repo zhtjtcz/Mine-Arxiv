@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968v1](http://arxiv.org/abs/2309.09968v1)|null|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944v1](http://arxiv.org/abs/2309.09944v1)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777v1](http://arxiv.org/abs/2309.09777v1)|null|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
+|**2023-09-18**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681v1](http://arxiv.org/abs/2309.09681v1)|null|
+|**2023-09-18**|**Anomalous Diffusion of Lithium-Anion Clusters in Ionic Liquids**|YeongKyu Lee et.al.|[2309.09674v1](http://arxiv.org/abs/2309.09674v1)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568v1](http://arxiv.org/abs/2309.08568v1)|null|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
@@ -812,6 +818,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Completeness Thresholds for Memory Safety: Unbounded Guarantees via Bounded Proofs (Extended Abstract)**|Tobias Reinhard et.al.|[2309.09731v1](http://arxiv.org/abs/2309.09731v1)|null|
+|**2023-09-18**|**Applying Security Testing Techniques to Automotive Engineering**|Irdin Pekaric et.al.|[2309.09647v1](http://arxiv.org/abs/2309.09647v1)|null|
+|**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743v1](http://arxiv.org/abs/2309.08743v1)|null|
 |**2023-09-15**|**Beyond Domain Gap: Exploiting Subjectivity in Sketch-Based Person Retrieval**|Kejun Lin et.al.|[2309.08372v1](http://arxiv.org/abs/2309.08372v1)|**[link](https://github.com/lin-kayla/subjectivity-sketch-reid)**|
 |**2023-09-14**|**Landscape-Sketch-Step: An AI/ML-Based Metaheuristic for Surrogate Optimization Problems**|Rafael Monteiro et.al.|[2309.07936v1](http://arxiv.org/abs/2309.07936v1)|null|
 |**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
@@ -1062,6 +1071,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Improving Neural Indoor Surface Reconstruction with Mask-Guided Adaptive Consistency Constraints**|Xinyi Yu et.al.|[2309.09739v1](http://arxiv.org/abs/2309.09739v1)|null|
+|**2023-09-18**|**Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering**|Chi Zhang et.al.|[2309.09724v1](http://arxiv.org/abs/2309.09724v1)|null|
+|**2023-09-17**|**Uncertainty-aware 3D Object-Level Mapping with Deep Shape Priors**|Ziwei Liao et.al.|[2309.09118v1](http://arxiv.org/abs/2309.09118v1)|null|
 |**2023-09-13**|**Exploiting Multiple Priors for Neural 3D Indoor Reconstruction**|Federico Lincetto et.al.|[2309.07021v1](http://arxiv.org/abs/2309.07021v1)|null|
 |**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
 |**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349v1](http://arxiv.org/abs/2309.05349v1)|null|
@@ -1274,6 +1286,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
+|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
+|**2023-09-18**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971v1](http://arxiv.org/abs/2309.09971v1)|null|
+|**2023-09-18**|**Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**|Peikun Guo et.al.|[2309.09970v1](http://arxiv.org/abs/2309.09970v1)|null|
+|**2023-09-18**|**Prompt a Robot to Walk with Large Language Models**|Yen-Jen Wang et.al.|[2309.09969v1](http://arxiv.org/abs/2309.09969v1)|null|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968v1](http://arxiv.org/abs/2309.09968v1)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589v1](http://arxiv.org/abs/2309.08589v1)|null|
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
@@ -2244,6 +2262,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
+|**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
+|**2023-09-18**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971v1](http://arxiv.org/abs/2309.09971v1)|null|
+|**2023-09-18**|**Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data**|Peikun Guo et.al.|[2309.09970v1](http://arxiv.org/abs/2309.09970v1)|null|
+|**2023-09-18**|**Prompt a Robot to Walk with Large Language Models**|Yen-Jen Wang et.al.|[2309.09969v1](http://arxiv.org/abs/2309.09969v1)|null|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968v1](http://arxiv.org/abs/2309.09968v1)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589v1](http://arxiv.org/abs/2309.08589v1)|null|
 |**2023-09-15**|**Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**|Fabien Delattre et.al.|[2309.08588v1](http://arxiv.org/abs/2309.08588v1)|null|
