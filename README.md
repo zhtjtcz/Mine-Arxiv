@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -811,7 +811,7 @@
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## sketch
 
@@ -1066,7 +1066,7 @@
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1282,7 +1282,7 @@
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## generate
 
@@ -1291,7 +1291,7 @@
 |**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815v1](http://arxiv.org/abs/2309.10815v1)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
 |**2023-09-19**|**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**|Tianhua Zhang et.al.|[2309.10814v1](http://arxiv.org/abs/2309.10814v1)|**[link](https://github.com/luohongyin/langcode)**|
 |**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810v1](http://arxiv.org/abs/2309.10810v1)|**[link](https://github.com/pq-yang/pgdiff)**|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Heuristic Search for Path Finding with Refuelling**|Anushtup Nandy et.al.|[2309.10796v1](http://arxiv.org/abs/2309.10796v1)|null|
 |**2023-09-19**|**Guide Your Agent with Adaptive Multimodal Rewards**|Changyeon Kim et.al.|[2309.10790v1](http://arxiv.org/abs/2309.10790v1)|**[link](https://github.com/csmile-1006/arp)**|
 |**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
@@ -2264,7 +2264,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## generation
 
@@ -2273,7 +2273,7 @@
 |**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815v1](http://arxiv.org/abs/2309.10815v1)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
 |**2023-09-19**|**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**|Tianhua Zhang et.al.|[2309.10814v1](http://arxiv.org/abs/2309.10814v1)|**[link](https://github.com/luohongyin/langcode)**|
 |**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810v1](http://arxiv.org/abs/2309.10810v1)|**[link](https://github.com/pq-yang/pgdiff)**|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Heuristic Search for Path Finding with Refuelling**|Anushtup Nandy et.al.|[2309.10796v1](http://arxiv.org/abs/2309.10796v1)|null|
 |**2023-09-19**|**Guide Your Agent with Adaptive Multimodal Rewards**|Changyeon Kim et.al.|[2309.10790v1](http://arxiv.org/abs/2309.10790v1)|**[link](https://github.com/csmile-1006/arp)**|
 |**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979v1](http://arxiv.org/abs/2309.09979v1)|null|
@@ -3246,7 +3246,7 @@
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
