@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858v1](http://arxiv.org/abs/2309.12858v1)|null|
+|**2023-09-22**|**Accuracy and stability analysis of horizontal discretizations used in unstructured grid ocean models**|Fabricio Rodrigues Lapolli et.al.|[2309.12832v1](http://arxiv.org/abs/2309.12832v1)|null|
+|**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829v1](http://arxiv.org/abs/2309.12829v1)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
+|**2023-09-22**|**Semantic Change Driven Generative Semantic Communication Framework**|Wanting Yang et.al.|[2309.12775v1](http://arxiv.org/abs/2309.12775v1)|null|
+|**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508v1](http://arxiv.org/abs/2309.12508v1)|null|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283v1](http://arxiv.org/abs/2309.12283v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456v1](http://arxiv.org/abs/2309.11456v1)|null|
@@ -824,6 +831,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006v1](http://arxiv.org/abs/2309.13006v1)|null|
+|**2023-09-22**|**Visualization According to Statisticians: An Interview Study on the Role of Visualization for Inferential Statistics**|Eric Newburger et.al.|[2309.12684v1](http://arxiv.org/abs/2309.12684v1)|null|
 |**2023-09-22**|**Towards medhub: A Self-Service Platform for Analysts and Physicians**|Markus Höhn et.al.|[2309.11234v2](http://arxiv.org/abs/2309.11234v2)|null|
 |**2023-09-20**|**An Empirical Study of Malicious Code In PyPI Ecosystem**|Wenbo Guo et.al.|[2309.11021v1](http://arxiv.org/abs/2309.11021v1)|**[link](https://github.com/lxyeternal/pypi_malregistry)**|
 |**2023-09-19**|**An overview of some mathematical techniques and problems linking 3D vision to 3D printing**|Emiliano Cristiani et.al.|[2309.10549v1](http://arxiv.org/abs/2309.10549v1)|null|
@@ -1081,6 +1090,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|**[link](https://github.com/luigifreda/plvs)**|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
@@ -1299,6 +1309,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041v1](http://arxiv.org/abs/2309.13041v1)|null|
+|**2023-09-22**|**Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**|Xiaoxiao Sun et.al.|[2309.13038v1](http://arxiv.org/abs/2309.13038v1)|null|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037v1](http://arxiv.org/abs/2309.13037v1)|null|
+|**2023-09-22**|**A numerical framework for simulating progressive failure in composite laminates under high-cycle fatigue loading**|Pieter Hofman et.al.|[2309.13030v1](http://arxiv.org/abs/2309.13030v1)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
 |**2023-09-21**|**Rehearsal: Simulating Conflict to Teach Conflict Resolution**|Omar Shaikh et.al.|[2309.12309v1](http://arxiv.org/abs/2309.12309v1)|null|
 |**2023-09-21**|**Text-Guided Vector Graphics Customization**|Peiying Zhang et.al.|[2309.12302v1](http://arxiv.org/abs/2309.12302v1)|null|
@@ -2291,6 +2307,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043v1](http://arxiv.org/abs/2309.13043v1)|null|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041v1](http://arxiv.org/abs/2309.13041v1)|null|
+|**2023-09-22**|**Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**|Xiaoxiao Sun et.al.|[2309.13038v1](http://arxiv.org/abs/2309.13038v1)|null|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037v1](http://arxiv.org/abs/2309.13037v1)|null|
+|**2023-09-22**|**A numerical framework for simulating progressive failure in composite laminates under high-cycle fatigue loading**|Pieter Hofman et.al.|[2309.13030v1](http://arxiv.org/abs/2309.13030v1)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
 |**2023-09-21**|**Rehearsal: Simulating Conflict to Teach Conflict Resolution**|Omar Shaikh et.al.|[2309.12309v1](http://arxiv.org/abs/2309.12309v1)|null|
 |**2023-09-21**|**Text-Guided Vector Graphics Customization**|Peiying Zhang et.al.|[2309.12302v1](http://arxiv.org/abs/2309.12302v1)|null|
