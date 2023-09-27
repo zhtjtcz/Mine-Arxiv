@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
+|**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
+|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872v1](http://arxiv.org/abs/2309.14872v1)|null|
+|**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859v1](http://arxiv.org/abs/2309.14859v1)|**[link](https://github.com/kohakublueleaf/lycoris)**|
 |**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v1](http://arxiv.org/abs/2309.14303v1)|null|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068v1](http://arxiv.org/abs/2309.14068v1)|null|
 |**2023-09-25**|**Mixing as a correlated aggregation process**|Joris Heyman et.al.|[2309.14040v1](http://arxiv.org/abs/2309.14040v1)|null|
@@ -834,6 +839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Guess & Sketch: Language Model Guided Transpilation**|Celine Lee et.al.|[2309.14396v1](http://arxiv.org/abs/2309.14396v1)|null|
 |**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006v1](http://arxiv.org/abs/2309.13006v1)|null|
 |**2023-09-22**|**Visualization According to Statisticians: An Interview Study on the Role of Visualization for Inferential Statistics**|Eric Newburger et.al.|[2309.12684v1](http://arxiv.org/abs/2309.12684v1)|null|
 |**2023-09-22**|**Towards medhub: A Self-Service Platform for Analysts and Physicians**|Markus Höhn et.al.|[2309.11234v2](http://arxiv.org/abs/2309.11234v2)|null|
@@ -1093,6 +1099,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916v1](http://arxiv.org/abs/2309.14916v1)|null|
+|**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865v1](http://arxiv.org/abs/2309.14865v1)|null|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
 |**2023-09-23**|**MP-MVS: Multi-Scale Windows PatchMatch and Planar Prior Multi-View Stereo**|Rongxuan Tan et.al.|[2309.13294v1](http://arxiv.org/abs/2309.13294v1)|**[link](https://github.com/rongxuantan/mp-mvs)**|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-25**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
@@ -1313,6 +1322,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
+|**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v1](http://arxiv.org/abs/2309.15112v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|null|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
+|**2023-09-26**|**New solution to Airy's equation for modeling beams near turning points**|N. A. Lopez et.al.|[2309.15108v1](http://arxiv.org/abs/2309.15108v1)|null|
 |**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
 |**2023-09-25**|**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**|Jianglin Fu et.al.|[2309.14335v1](http://arxiv.org/abs/2309.14335v1)|**[link](https://github.com/unitedhuman/unitedhuman)**|
@@ -2317,6 +2331,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
+|**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v1](http://arxiv.org/abs/2309.15112v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|null|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
+|**2023-09-26**|**New solution to Airy's equation for modeling beams near turning points**|N. A. Lopez et.al.|[2309.15108v1](http://arxiv.org/abs/2309.15108v1)|null|
 |**2023-09-25**|**Extreme Parkour with Legged Robots**|Xuxin Cheng et.al.|[2309.14341v1](http://arxiv.org/abs/2309.14341v1)|null|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
 |**2023-09-25**|**UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation**|Jianglin Fu et.al.|[2309.14335v1](http://arxiv.org/abs/2309.14335v1)|**[link](https://github.com/unitedhuman/unitedhuman)**|
