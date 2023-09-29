@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
+|**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496v1](http://arxiv.org/abs/2309.16496v1)|null|
+|**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421v1](http://arxiv.org/abs/2309.16421v1)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818v1](http://arxiv.org/abs/2309.15818v1)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807v1](http://arxiv.org/abs/2309.15807v1)|null|
@@ -845,6 +848,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Language models in molecular discovery**|Nikita Janakarajan et.al.|[2309.16235v1](http://arxiv.org/abs/2309.16235v1)|null|
+|**2023-09-28**|**Sampling Methods for Inner Product Sketching**|Majid Daliri et.al.|[2309.16157v1](http://arxiv.org/abs/2309.16157v1)|null|
 |**2023-09-27**|**Fast Locality Sensitive Hashing with Theoretical Guarantee**|Zongyuan Tan et.al.|[2309.15479v1](http://arxiv.org/abs/2309.15479v1)|null|
 |**2023-09-25**|**Guess & Sketch: Language Model Guided Transpilation**|Celine Lee et.al.|[2309.14396v1](http://arxiv.org/abs/2309.14396v1)|null|
 |**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006v1](http://arxiv.org/abs/2309.13006v1)|null|
@@ -1331,6 +1336,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
+|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
+|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653v1](http://arxiv.org/abs/2309.16653v1)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|
 |**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830v1](http://arxiv.org/abs/2309.15830v1)|null|
 |**2023-09-27**|**LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**|Haonan Chang et.al.|[2309.15821v1](http://arxiv.org/abs/2309.15821v1)|null|
@@ -2344,6 +2353,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
+|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-28**|**RealFill: Reference-Driven Generation for Authentic Image Completion**|Luming Tang et.al.|[2309.16668v1](http://arxiv.org/abs/2309.16668v1)|null|
+|**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653v1](http://arxiv.org/abs/2309.16653v1)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|
 |**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830v1](http://arxiv.org/abs/2309.15830v1)|null|
 |**2023-09-27**|**LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement**|Haonan Chang et.al.|[2309.15821v1](http://arxiv.org/abs/2309.15821v1)|null|
