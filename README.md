@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400v1](http://arxiv.org/abs/2309.17400v1)|null|
 |**2023-09-29**|**Physics-Informed Neural Network for the Transient Diffusivity Equation in Reservoir Engineering**|Daniel Badawi et.al.|[2309.17345v1](http://arxiv.org/abs/2309.17345v1)|null|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
@@ -855,7 +855,7 @@
 |**2023-09-28**|**Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper**|Hong-Bin Yang et.al.|[2309.16850v1](http://arxiv.org/abs/2309.16850v1)|null|
 |**2023-09-28**|**Multi-Modal Financial Time-Series Retrieval Through Latent Space Projections**|Tom Bamford et.al.|[2309.16741v1](http://arxiv.org/abs/2309.16741v1)|null|
 |**2023-09-28**|**Language models in molecular discovery**|Nikita Janakarajan et.al.|[2309.16235v1](http://arxiv.org/abs/2309.16235v1)|null|
-|**2023-09-28**|**Sampling Methods for Inner Product Sketching**|Majid Daliri et.al.|[2309.16157v1](http://arxiv.org/abs/2309.16157v1)|null|
+|**2023-10-01**|**Sampling Methods for Inner Product Sketching**|Majid Daliri et.al.|[2309.16157v2](http://arxiv.org/abs/2309.16157v2)|null|
 |**2023-09-27**|**Fast Locality Sensitive Hashing with Theoretical Guarantee**|Zongyuan Tan et.al.|[2309.15479v1](http://arxiv.org/abs/2309.15479v1)|null|
 |**2023-09-25**|**Guess & Sketch: Language Model Guided Transpilation**|Celine Lee et.al.|[2309.14396v1](http://arxiv.org/abs/2309.14396v1)|null|
 |**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006v1](http://arxiv.org/abs/2309.13006v1)|null|
@@ -1345,8 +1345,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
-|**2023-09-29**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v1](http://arxiv.org/abs/2309.17446v1)|null|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-10-02**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v2](http://arxiv.org/abs/2309.17446v2)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**|Lifan Yuan et.al.|[2309.17428v1](http://arxiv.org/abs/2309.17428v1)|null|
 |**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
 |**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
@@ -2366,8 +2366,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
-|**2023-09-29**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v1](http://arxiv.org/abs/2309.17446v1)|null|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-10-02**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v2](http://arxiv.org/abs/2309.17446v2)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**|Lifan Yuan et.al.|[2309.17428v1](http://arxiv.org/abs/2309.17428v1)|null|
 |**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672v1](http://arxiv.org/abs/2309.16672v1)|**[link](https://github.com/sutkarsh/flow_inv)**|
 |**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
