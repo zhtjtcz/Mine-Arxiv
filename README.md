@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242v1](http://arxiv.org/abs/2310.02242v1)|null|
+|**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230v1](http://arxiv.org/abs/2310.02230v1)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060v1](http://arxiv.org/abs/2310.02060v1)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054v1](http://arxiv.org/abs/2310.02054v1)|null|
+|**2023-10-03**|**Spectral operator learning for parametric PDEs without data reliance**|Junho Choi et.al.|[2310.02013v1](http://arxiv.org/abs/2310.02013v1)|null|
+|**2023-10-03**|**Optimizing microlens arrays for incoherent HiLo microscopy**|Ziao Jiao et.al.|[2310.01939v1](http://arxiv.org/abs/2310.01939v1)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400v1](http://arxiv.org/abs/2309.17400v1)|null|
 |**2023-09-29**|**Physics-Informed Neural Network for the Transient Diffusivity Equation in Reservoir Engineering**|Daniel Badawi et.al.|[2309.17345v1](http://arxiv.org/abs/2309.17345v1)|null|
@@ -851,6 +857,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**View-Independent Adjoint Light Tracing for Lighting Design Optimization**|Lukas Lipp et.al.|[2310.02043v1](http://arxiv.org/abs/2310.02043v1)|null|
+|**2023-10-03**|**Randomized Dimension Reduction with Statistical Guarantees**|Yijun Dong et.al.|[2310.01739v1](http://arxiv.org/abs/2310.01739v1)|null|
+|**2023-10-02**|**PolySketchFormer: Fast Transformers via Sketches for Polynomial Kernels**|Praneeth Kacham et.al.|[2310.01655v1](http://arxiv.org/abs/2310.01655v1)|null|
 |**2023-09-29**|**Toward Operationalizing Pipeline-aware ML Fairness: A Research Agenda for Developing Practical Guidelines and Tools**|Emily Black et.al.|[2309.17337v1](http://arxiv.org/abs/2309.17337v1)|null|
 |**2023-09-28**|**Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper**|Hong-Bin Yang et.al.|[2309.16850v1](http://arxiv.org/abs/2309.16850v1)|null|
 |**2023-09-28**|**Multi-Modal Financial Time-Series Retrieval Through Latent Space Projections**|Tom Bamford et.al.|[2309.16741v1](http://arxiv.org/abs/2309.16741v1)|null|
@@ -1117,6 +1126,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
+|**2023-09-29**|**3D Reconstruction in Noisy Agricultural Environments: A Bayesian Optimization Perspective for View Planning**|Athanasios Bacharis et.al.|[2310.00145v1](http://arxiv.org/abs/2310.00145v1)|null|
 |**2023-09-29**|**Effect of structure-based training on 3D localization precision and quality**|Armin Abdehkakha et.al.|[2309.17265v1](http://arxiv.org/abs/2309.17265v1)|null|
 |**2023-09-28**|**Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper**|Hong-Bin Yang et.al.|[2309.16850v1](http://arxiv.org/abs/2309.16850v1)|null|
 |**2023-09-29**|**3D Reconstruction with Generalizable Neural Fields using Scene Priors**|Yang Fu et.al.|[2309.15164v2](http://arxiv.org/abs/2309.15164v2)|null|
@@ -1344,6 +1356,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
+|**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251v1](http://arxiv.org/abs/2310.02251v1)|null|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242v1](http://arxiv.org/abs/2310.02242v1)|null|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
 |**2023-10-02**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v2](http://arxiv.org/abs/2309.17446v2)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
@@ -2365,6 +2382,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
+|**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251v1](http://arxiv.org/abs/2310.02251v1)|null|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242v1](http://arxiv.org/abs/2310.02242v1)|null|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453v1](http://arxiv.org/abs/2309.17453v1)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
 |**2023-10-02**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v2](http://arxiv.org/abs/2309.17446v2)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
