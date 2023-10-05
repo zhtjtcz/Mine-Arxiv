@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
+|**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988v1](http://arxiv.org/abs/2310.02988v1)|null|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**Fast, Expressive SE $(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970v1](http://arxiv.org/abs/2310.02970v1)|**[link](https://github.com/ebekkers/ponita)**|
+|**2023-10-04**|**Optimal Transport with Adaptive Regularisation**|Hugues Van Assel et.al.|[2310.02925v1](http://arxiv.org/abs/2310.02925v1)|null|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906v1](http://arxiv.org/abs/2310.02906v1)|null|
 |**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242v1](http://arxiv.org/abs/2310.02242v1)|null|
 |**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230v1](http://arxiv.org/abs/2310.02230v1)|null|
 |**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060v1](http://arxiv.org/abs/2310.02060v1)|null|
@@ -857,6 +864,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Streaming Euclidean $k$-median and $k$-means with $o(\log n)$ Space**|Vincent Cohen-Addad et.al.|[2310.02882v1](http://arxiv.org/abs/2310.02882v1)|null|
+|**2023-10-04**|**On the tilt of the Earth's polar axis ( $κλιμα$ ): Some 'impressionist' remarks**|V. Courtillot et.al.|[2310.02768v1](http://arxiv.org/abs/2310.02768v1)|null|
 |**2023-10-03**|**View-Independent Adjoint Light Tracing for Lighting Design Optimization**|Lukas Lipp et.al.|[2310.02043v1](http://arxiv.org/abs/2310.02043v1)|null|
 |**2023-10-03**|**Randomized Dimension Reduction with Statistical Guarantees**|Yijun Dong et.al.|[2310.01739v1](http://arxiv.org/abs/2310.01739v1)|null|
 |**2023-10-02**|**PolySketchFormer: Fast Transformers via Sketches for Polynomial Kernels**|Praneeth Kacham et.al.|[2310.01655v1](http://arxiv.org/abs/2310.01655v1)|null|
@@ -1356,6 +1365,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026v1](http://arxiv.org/abs/2310.03026v1)|null|
+|**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|null|
+|**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022v1](http://arxiv.org/abs/2310.03022v1)|null|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
+|**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
+|**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|**[link](https://github.com/Westlake-AI/SemiReward)**|
+|**2023-10-04**|**Towards Domain-Specific Features Disentanglement for Domain Generalization**|Hao Chen et.al.|[2310.03007v1](http://arxiv.org/abs/2310.03007v1)|null|
+|**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006v1](http://arxiv.org/abs/2310.03006v1)|null|
 |**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
 |**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
 |**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251v1](http://arxiv.org/abs/2310.02251v1)|null|
@@ -2382,6 +2400,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026v1](http://arxiv.org/abs/2310.03026v1)|null|
+|**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|null|
+|**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022v1](http://arxiv.org/abs/2310.03022v1)|null|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
+|**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|
+|**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
+|**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|**[link](https://github.com/Westlake-AI/SemiReward)**|
+|**2023-10-04**|**Towards Domain-Specific Features Disentanglement for Domain Generalization**|Hao Chen et.al.|[2310.03007v1](http://arxiv.org/abs/2310.03007v1)|null|
+|**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006v1](http://arxiv.org/abs/2310.03006v1)|null|
 |**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
 |**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
 |**2023-10-03**|**Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving**|Vikrant Dewangan et.al.|[2310.02251v1](http://arxiv.org/abs/2310.02251v1)|null|
