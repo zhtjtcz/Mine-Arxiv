@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
+|**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795v1](http://arxiv.org/abs/2310.06795v1)|null|
+|**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744v1](http://arxiv.org/abs/2310.06744v1)|null|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668v1](http://arxiv.org/abs/2310.06668v1)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661v1](http://arxiv.org/abs/2310.06661v1)|null|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
 |**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
@@ -881,6 +886,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
 |**2023-10-10**|**HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**|Yaosen Chen et.al.|[2310.05720v2](http://arxiv.org/abs/2310.05720v2)|null|
 |**2023-10-09**|**Logic-guided Deep Reinforcement Learning for Stock Trading**|Zhiming Li et.al.|[2310.05551v1](http://arxiv.org/abs/2310.05551v1)|null|
 |**2023-10-08**|**Transforming Pixels into a Masterpiece: AI-Powered Art Restoration using a Novel Distributed Denoising CNN (DDCNN)**|Sankar B. et.al.|[2310.05270v1](http://arxiv.org/abs/2310.05270v1)|null|
@@ -1158,6 +1164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
 |**2023-10-08**|**Experiences with CAMRE: Single-Device Collaborative Adaptive Mixed Reality Environment**|Hung-Jui Guo et.al.|[2310.04996v1](http://arxiv.org/abs/2310.04996v1)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
@@ -1389,6 +1396,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
+|**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
+|**2023-10-10**|**Teaching Language Models to Hallucinate Less with Synthetic Tasks**|Erik Jones et.al.|[2310.06827v1](http://arxiv.org/abs/2310.06827v1)|null|
+|**2023-10-10**|**Mistral 7B**|Albert Q. Jiang et.al.|[2310.06825v1](http://arxiv.org/abs/2310.06825v1)|**[link](https://github.com/mistralai/mistral-src)**|
+|**2023-10-10**|**The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets**|Samuel Marks et.al.|[2310.06824v1](http://arxiv.org/abs/2310.06824v1)|null|
 |**2023-10-09**|**Grokking as Compression: A Nonlinear Complexity Perspective**|Ziming Liu et.al.|[2310.05918v1](http://arxiv.org/abs/2310.05918v1)|null|
 |**2023-10-09**|**Drivable Avatar Clothing: Faithful Full-Body Telepresence with Dynamic Clothing Driven by Sparse RGB-D Input**|Donglai Xiang et.al.|[2310.05917v1](http://arxiv.org/abs/2310.05917v1)|null|
 |**2023-10-09**|**FireAct: Toward Language Agent Fine-tuning**|Baian Chen et.al.|[2310.05915v1](http://arxiv.org/abs/2310.05915v1)|null|
@@ -2442,6 +2455,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
+|**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
+|**2023-10-10**|**Teaching Language Models to Hallucinate Less with Synthetic Tasks**|Erik Jones et.al.|[2310.06827v1](http://arxiv.org/abs/2310.06827v1)|null|
+|**2023-10-10**|**Mistral 7B**|Albert Q. Jiang et.al.|[2310.06825v1](http://arxiv.org/abs/2310.06825v1)|**[link](https://github.com/mistralai/mistral-src)**|
+|**2023-10-10**|**The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets**|Samuel Marks et.al.|[2310.06824v1](http://arxiv.org/abs/2310.06824v1)|null|
 |**2023-10-09**|**Grokking as Compression: A Nonlinear Complexity Perspective**|Ziming Liu et.al.|[2310.05918v1](http://arxiv.org/abs/2310.05918v1)|null|
 |**2023-10-09**|**Drivable Avatar Clothing: Faithful Full-Body Telepresence with Dynamic Clothing Driven by Sparse RGB-D Input**|Donglai Xiang et.al.|[2310.05917v1](http://arxiv.org/abs/2310.05917v1)|null|
 |**2023-10-09**|**FireAct: Toward Language Agent Fine-tuning**|Baian Chen et.al.|[2310.05915v1](http://arxiv.org/abs/2310.05915v1)|null|
