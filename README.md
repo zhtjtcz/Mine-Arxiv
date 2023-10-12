@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
+|**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653v1](http://arxiv.org/abs/2310.07653v1)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
+|**2023-10-11**|**Flux gradient relations and their dependence on turbulence anisotropy**|Samuele Mosso et.al.|[2310.07503v1](http://arxiv.org/abs/2310.07503v1)|null|
+|**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
+|**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419v1](http://arxiv.org/abs/2310.07419v1)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
 |**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795v1](http://arxiv.org/abs/2310.06795v1)|null|
 |**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744v1](http://arxiv.org/abs/2310.06744v1)|null|
@@ -1392,6 +1398,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**Knowledge-enhanced Memory Model for Emotional Support Conversation**|Mengzhao Jia et.al.|[2310.07700v1](http://arxiv.org/abs/2310.07700v1)|null|
+|**2023-10-11**|**From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions**|Zhengfeng Lai et.al.|[2310.07699v1](http://arxiv.org/abs/2310.07699v1)|null|
+|**2023-10-11**|**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation**|Bo Pan et.al.|[2310.07698v1](http://arxiv.org/abs/2310.07698v1)|null|
+|**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
+|**2023-10-11**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690v1](http://arxiv.org/abs/2310.07690v1)|null|
 |**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
 |**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
@@ -2451,6 +2464,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**Knowledge-enhanced Memory Model for Emotional Support Conversation**|Mengzhao Jia et.al.|[2310.07700v1](http://arxiv.org/abs/2310.07700v1)|null|
+|**2023-10-11**|**From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions**|Zhengfeng Lai et.al.|[2310.07699v1](http://arxiv.org/abs/2310.07699v1)|null|
+|**2023-10-11**|**SurroCBM: Concept Bottleneck Surrogate Models for Generative Post-hoc Explanation**|Bo Pan et.al.|[2310.07698v1](http://arxiv.org/abs/2310.07698v1)|null|
+|**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
+|**2023-10-11**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690v1](http://arxiv.org/abs/2310.07690v1)|null|
 |**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
 |**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837v1](http://arxiv.org/abs/2310.06837v1)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
