@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580v1](http://arxiv.org/abs/2310.08580v1)|null|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579v1](http://arxiv.org/abs/2310.08579v1)|null|
+|**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543v1](http://arxiv.org/abs/2310.08543v1)|null|
+|**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529v1](http://arxiv.org/abs/2310.08529v1)|null|
+|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465v1](http://arxiv.org/abs/2310.08465v1)|null|
+|**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442v1](http://arxiv.org/abs/2310.08442v1)|null|
+|**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337v1](http://arxiv.org/abs/2310.08337v1)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653v1](http://arxiv.org/abs/2310.07653v1)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
@@ -888,6 +895,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|null|
+|**2023-10-12**|**Visualizing a Nondeterministic to Deterministic Finite-State Machine Transformation**|Tijana Minic et.al.|[2310.08248v1](http://arxiv.org/abs/2310.08248v1)|null|
+|**2023-10-11**|**On $(1+\varepsilon)$ -Approximate Flow Sparsifiers**|Yu Chen et.al.|[2310.07857v1](http://arxiv.org/abs/2310.07857v1)|null|
 |**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
 |**2023-10-10**|**HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**|Yaosen Chen et.al.|[2310.05720v2](http://arxiv.org/abs/2310.05720v2)|null|
 |**2023-10-09**|**Logic-guided Deep Reinforcement Learning for Stock Trading**|Zhiming Li et.al.|[2310.05551v1](http://arxiv.org/abs/2310.05551v1)|null|
@@ -1166,6 +1176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v1](http://arxiv.org/abs/2310.08586v1)|null|
+|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
 |**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
 |**2023-10-08**|**Experiences with CAMRE: Single-Device Collaborative Adaptive Mixed Reality Environment**|Hung-Jui Guo et.al.|[2310.04996v1](http://arxiv.org/abs/2310.04996v1)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
@@ -1398,6 +1410,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao et.al.|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v1](http://arxiv.org/abs/2310.08586v1)|null|
+|**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583v1](http://arxiv.org/abs/2310.08583v1)|null|
+|**2023-10-12**|**Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**|Mengkang Hu et.al.|[2310.08582v1](http://arxiv.org/abs/2310.08582v1)|null|
+|**2023-10-12**|**Universal Visual Decomposer: Long-Horizon Manipulation Made Easy**|Zichen Zhang et.al.|[2310.08581v1](http://arxiv.org/abs/2310.08581v1)|null|
+|**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580v1](http://arxiv.org/abs/2310.08580v1)|null|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579v1](http://arxiv.org/abs/2310.08579v1)|null|
+|**2023-10-12**|**Learning to Act from Actionless Videos through Dense Correspondences**|Po-Chen Ko et.al.|[2310.08576v1](http://arxiv.org/abs/2310.08576v1)|null|
+|**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574v1](http://arxiv.org/abs/2310.08574v1)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Knowledge-enhanced Memory Model for Emotional Support Conversation**|Mengzhao Jia et.al.|[2310.07700v1](http://arxiv.org/abs/2310.07700v1)|null|
@@ -2464,6 +2486,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao et.al.|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|
+|**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v1](http://arxiv.org/abs/2310.08586v1)|null|
+|**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583v1](http://arxiv.org/abs/2310.08583v1)|null|
+|**2023-10-12**|**Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**|Mengkang Hu et.al.|[2310.08582v1](http://arxiv.org/abs/2310.08582v1)|null|
+|**2023-10-12**|**Universal Visual Decomposer: Long-Horizon Manipulation Made Easy**|Zichen Zhang et.al.|[2310.08581v1](http://arxiv.org/abs/2310.08581v1)|null|
+|**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580v1](http://arxiv.org/abs/2310.08580v1)|null|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579v1](http://arxiv.org/abs/2310.08579v1)|null|
+|**2023-10-12**|**Learning to Act from Actionless Videos through Dense Correspondences**|Po-Chen Ko et.al.|[2310.08576v1](http://arxiv.org/abs/2310.08576v1)|null|
+|**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574v1](http://arxiv.org/abs/2310.08574v1)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Knowledge-enhanced Memory Model for Emotional Support Conversation**|Mengzhao Jia et.al.|[2310.07700v1](http://arxiv.org/abs/2310.07700v1)|null|
