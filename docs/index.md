@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543v1](http://arxiv.org/abs/2310.10543v1)|null|
 |**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247v1](http://arxiv.org/abs/2310.09247v1)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213v1](http://arxiv.org/abs/2310.09213v1)|null|
 |**2023-10-13**|**The effect of solar wind on the charged particles' diffusion coefficients**|J. F. Wang et.al.|[2310.09211v1](http://arxiv.org/abs/2310.09211v1)|null|
@@ -902,7 +908,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
+|**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|null|
+|**2023-10-16**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v2](http://arxiv.org/abs/2310.08577v2)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
 |**2023-10-12**|**Visualizing a Nondeterministic to Deterministic Finite-State Machine Transformation**|Tijana Minic et.al.|[2310.08248v1](http://arxiv.org/abs/2310.08248v1)|null|
 |**2023-10-11**|**On $(1+\varepsilon)$ -Approximate Flow Sparsifiers**|Yu Chen et.al.|[2310.07857v1](http://arxiv.org/abs/2310.07857v1)|null|
 |**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
@@ -1183,6 +1190,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**In-Situ Single Particle Reconstruction Reveals 3D Evolution of PtNi Nanocatalysts During Heating**|Yi-Chi Wang et.al.|[2310.10253v1](http://arxiv.org/abs/2310.10253v1)|null|
+|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-12**|**Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction**|Pol Caselles et.al.|[2310.08784v1](http://arxiv.org/abs/2310.08784v1)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v2](http://arxiv.org/abs/2310.08586v2)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
@@ -1418,6 +1428,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649v1](http://arxiv.org/abs/2310.10649v1)|null|
+|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648v1](http://arxiv.org/abs/2310.10648v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
+|**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645v1](http://arxiv.org/abs/2310.10645v1)|null|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642v1](http://arxiv.org/abs/2310.10642v1)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278v1](http://arxiv.org/abs/2310.09278v1)|null|
 |**2023-10-13**|**Retro-fallback: retrosynthetic planning in an uncertain world**|Austin Tripp et.al.|[2310.09270v1](http://arxiv.org/abs/2310.09270v1)|null|
@@ -2499,6 +2517,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649v1](http://arxiv.org/abs/2310.10649v1)|null|
+|**2023-10-16**|**Step-by-Step Remediation of Students' Mathematical Mistakes**|Rose E. Wang et.al.|[2310.10648v1](http://arxiv.org/abs/2310.10648v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
+|**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645v1](http://arxiv.org/abs/2310.10645v1)|null|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642v1](http://arxiv.org/abs/2310.10642v1)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278v1](http://arxiv.org/abs/2310.09278v1)|null|
 |**2023-10-13**|**Retro-fallback: retrosynthetic planning in an uncertain world**|Austin Tripp et.al.|[2310.09270v1](http://arxiv.org/abs/2310.09270v1)|null|
