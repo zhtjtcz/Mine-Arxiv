@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644v1](http://arxiv.org/abs/2310.13644v1)|null|
+|**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545v1](http://arxiv.org/abs/2310.13545v1)|**[link](https://github.com/sail-sg/scalelong)**|
+|**2023-10-20**|**A Critical Insight into Pretransitional Behavior and Dielectric Tunability of Relaxor Ceramics**|Sylwester J. Rzoska et.al.|[2310.13326v1](http://arxiv.org/abs/2310.13326v1)|null|
 |**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975v1](http://arxiv.org/abs/2310.12975v1)|null|
 |**2023-10-19**|**A Markovian dynamics for $C. elegans$ behavior across scales**|Antonio C. Costa et.al.|[2310.12883v1](http://arxiv.org/abs/2310.12883v1)|**[link](https://github.com/antonioccosta/markov_worm)**|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868v1](http://arxiv.org/abs/2310.12868v1)|null|
@@ -1204,6 +1207,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Single-view 3D reconstruction via inverse procedural modeling**|Albert Garifullin et.al.|[2310.13373v1](http://arxiv.org/abs/2310.13373v1)|null|
+|**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263v1](http://arxiv.org/abs/2310.13263v1)|null|
 |**2023-10-19**|**Real space iterative reconstruction for vector tomography (RESIRE-V)**|Minh Pham et.al.|[2310.12513v1](http://arxiv.org/abs/2310.12513v1)|**[link](https://github.com/minhpham0309/resire-v)**|
 |**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra et.al.|[2310.11811v1](http://arxiv.org/abs/2310.11811v1)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu et.al.|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
@@ -1446,6 +1451,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691v1](http://arxiv.org/abs/2310.13691v1)|null|
+|**2023-10-20**|**Exploring Linguistic Probes for Morphological Generalization**|Jordan Kodner et.al.|[2310.13686v1](http://arxiv.org/abs/2310.13686v1)|null|
+|**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
+|**2023-10-20**|**Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**|Mario Giulianelli et.al.|[2310.13676v1](http://arxiv.org/abs/2310.13676v1)|**[link](https://github.com/dmg-illc/information-value)**|
+|**2023-10-20**|**On Synthetic Data for Back Translation**|Jiahao Xu et.al.|[2310.13675v1](http://arxiv.org/abs/2310.13675v1)|**[link](https://github.com/jiahao004/data-for-bt)**|
 |**2023-10-19**|**HumanTOMATO: Text-aligned Whole-body Motion Generation**|Shunlin Lu et.al.|[2310.12978v1](http://arxiv.org/abs/2310.12978v1)|null|
 |**2023-10-19**|**Training Dynamics of Deep Network Linear Regions**|Ahmed Imtiaz Humayun et.al.|[2310.12977v1](http://arxiv.org/abs/2310.12977v1)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
@@ -2550,6 +2561,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691v1](http://arxiv.org/abs/2310.13691v1)|null|
+|**2023-10-20**|**Exploring Linguistic Probes for Morphological Generalization**|Jordan Kodner et.al.|[2310.13686v1](http://arxiv.org/abs/2310.13686v1)|null|
+|**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682v1](http://arxiv.org/abs/2310.13682v1)|**[link](https://github.com/mosheber/token_elimination)**|
+|**2023-10-20**|**Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**|Mario Giulianelli et.al.|[2310.13676v1](http://arxiv.org/abs/2310.13676v1)|**[link](https://github.com/dmg-illc/information-value)**|
+|**2023-10-20**|**On Synthetic Data for Back Translation**|Jiahao Xu et.al.|[2310.13675v1](http://arxiv.org/abs/2310.13675v1)|**[link](https://github.com/jiahao004/data-for-bt)**|
 |**2023-10-19**|**HumanTOMATO: Text-aligned Whole-body Motion Generation**|Shunlin Lu et.al.|[2310.12978v1](http://arxiv.org/abs/2310.12978v1)|null|
 |**2023-10-19**|**Training Dynamics of Deep Network Linear Regions**|Ahmed Imtiaz Humayun et.al.|[2310.12977v1](http://arxiv.org/abs/2310.12977v1)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
