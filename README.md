@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003v1](http://arxiv.org/abs/2310.16003v1)|null|
+|**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000v1](http://arxiv.org/abs/2310.16000v1)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
@@ -928,6 +933,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Emergent Communication in Interactive Sketch Question Answering**|Zixing Lei et.al.|[2310.15597v1](http://arxiv.org/abs/2310.15597v1)|null|
+|**2023-10-24**|**Fast multiplication of random dense matrices with fixed sparse matrices**|Tianyu Liang et.al.|[2310.15419v1](http://arxiv.org/abs/2310.15419v1)|null|
 |**2023-10-18**|**A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**|Yikun Han et.al.|[2310.11703v1](http://arxiv.org/abs/2310.11703v1)|null|
 |**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028v1](http://arxiv.org/abs/2310.11028v1)|null|
 |**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|**[link](https://github.com/wty-ustc/hairclipv2)**|
@@ -1460,6 +1467,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|null|
+|**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
+|**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049v1](http://arxiv.org/abs/2310.16049v1)|**[link](https://github.com/zayne-sprague/musr)**|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
+|**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
+|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
+|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
@@ -2577,6 +2592,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|null|
+|**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
+|**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049v1](http://arxiv.org/abs/2310.16049v1)|**[link](https://github.com/zayne-sprague/musr)**|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
+|**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
+|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
+|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
