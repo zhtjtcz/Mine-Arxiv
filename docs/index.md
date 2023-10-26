@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,8 +27,8 @@ layout: default
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003v1](http://arxiv.org/abs/2310.16003v1)|null|
 |**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000v1](http://arxiv.org/abs/2310.16000v1)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
@@ -931,7 +931,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
 
 ## sketch
 
@@ -1217,7 +1217,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1465,7 +1465,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
 
 ## generate
 
@@ -1476,8 +1476,8 @@ layout: default
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049v1](http://arxiv.org/abs/2310.16049v1)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
-|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v2](http://arxiv.org/abs/2310.16044v2)|null|
+|**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v2](http://arxiv.org/abs/2310.16042v2)|null|
 |**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
@@ -2590,7 +2590,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
 
 ## generation
 
@@ -2601,8 +2601,8 @@ layout: default
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049v1](http://arxiv.org/abs/2310.16049v1)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
-|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v2](http://arxiv.org/abs/2310.16044v2)|null|
+|**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v2](http://arxiv.org/abs/2310.16042v2)|null|
 |**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
 |**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
@@ -3715,7 +3715,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
