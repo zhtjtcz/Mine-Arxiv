@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
+|**2023-10-26**|**Orbital-optimized Density Functional Calculations of Molecular Rydberg Excited States with Real Space Grid Representation and Self-Interaction Correction**|Alec E. Sigurðarson et.al.|[2310.17605v1](http://arxiv.org/abs/2310.17605v1)|null|
+|**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590v1](http://arxiv.org/abs/2310.17590v1)|null|
+|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577v1](http://arxiv.org/abs/2310.17577v1)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
+|**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li et.al.|[2310.17569v1](http://arxiv.org/abs/2310.17569v1)|null|
+|**2023-10-26**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513v1](http://arxiv.org/abs/2310.17513v1)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
@@ -945,8 +953,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models**|Dingli Yu et.al.|[2310.17567v1](http://arxiv.org/abs/2310.17567v1)|null|
 |**2023-10-24**|**Emergent Communication in Interactive Sketch Question Answering**|Zixing Lei et.al.|[2310.15597v1](http://arxiv.org/abs/2310.15597v1)|null|
-|**2023-10-24**|**Fast multiplication of random dense matrices with fixed sparse matrices**|Tianyu Liang et.al.|[2310.15419v1](http://arxiv.org/abs/2310.15419v1)|null|
+|**2023-10-24**|**Fast multiplication of random dense matrices with fixed sparse matrices**|Tianyu Liang et.al.|[2310.15419v1](http://arxiv.org/abs/2310.15419v1)|**[link](https://github.com/tianyu-liang/solving-with-sketch)**|
 |**2023-10-18**|**A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**|Yikun Han et.al.|[2310.11703v1](http://arxiv.org/abs/2310.11703v1)|null|
 |**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028v1](http://arxiv.org/abs/2310.11028v1)|null|
 |**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|**[link](https://github.com/wty-ustc/hairclipv2)**|
@@ -1480,6 +1489,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653v1](http://arxiv.org/abs/2310.17653v1)|null|
+|**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|null|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
+|**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639v1](http://arxiv.org/abs/2310.17639v1)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
+|**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631v1](http://arxiv.org/abs/2310.17631v1)|**[link](https://github.com/baaivision/judgelm)**|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
@@ -2610,6 +2625,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653v1](http://arxiv.org/abs/2310.17653v1)|null|
+|**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650v1](http://arxiv.org/abs/2310.17650v1)|null|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
+|**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639v1](http://arxiv.org/abs/2310.17639v1)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
+|**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631v1](http://arxiv.org/abs/2310.17631v1)|**[link](https://github.com/baaivision/judgelm)**|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
