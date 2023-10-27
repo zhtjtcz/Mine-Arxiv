@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v1](http://arxiv.org/abs/2310.16818v1)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784v1](http://arxiv.org/abs/2310.16784v1)|null|
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
 |**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v1](http://arxiv.org/abs/2310.16779v1)|null|
@@ -939,7 +939,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## sketch
 
@@ -1225,7 +1225,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1474,7 +1474,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## generate
 
@@ -1483,7 +1483,7 @@ layout: default
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v1](http://arxiv.org/abs/2310.16818v1)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber et.al.|[2310.16816v1](http://arxiv.org/abs/2310.16816v1)|null|
 |**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|null|
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
@@ -2604,7 +2604,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## generation
 
@@ -2613,7 +2613,7 @@ layout: default
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838v1](http://arxiv.org/abs/2310.16838v1)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835v1](http://arxiv.org/abs/2310.16835v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v1](http://arxiv.org/abs/2310.16818v1)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber et.al.|[2310.16816v1](http://arxiv.org/abs/2310.16816v1)|null|
 |**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|null|
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
@@ -3734,7 +3734,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
