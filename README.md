@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180v1](http://arxiv.org/abs/2310.19180v1)|null|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145v1](http://arxiv.org/abs/2310.19145v1)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-29**|**Backward and Forward Inference in Interacting Independent-Cascade Processes: A Scalable and Convergent Message-Passing Approach**|Nouman Khan et.al.|[2310.19138v1](http://arxiv.org/abs/2310.19138v1)|null|
+|**2023-10-29**|**Bespoke Solvers for Generative Flow Models**|Neta Shaul et.al.|[2310.19075v1](http://arxiv.org/abs/2310.19075v1)|null|
+|**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986v1](http://arxiv.org/abs/2310.18986v1)|null|
+|**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936v1](http://arxiv.org/abs/2310.18936v1)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
 |**2023-10-27**|**Unsteady evolution of slip and drag in surfactant-contaminated superhydrophobic channels**|Samuel D. Tomlinson et.al.|[2310.18184v1](http://arxiv.org/abs/2310.18184v1)|null|
 |**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169v1](http://arxiv.org/abs/2310.18169v1)|null|
@@ -954,6 +960,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming**|Gregory Dexter et.al.|[2310.19068v1](http://arxiv.org/abs/2310.19068v1)|null|
+|**2023-10-29**|**Customize StyleGAN with One Hand Sketch**|Shaocong Zhang et.al.|[2310.18949v1](http://arxiv.org/abs/2310.18949v1)|null|
+|**2023-10-28**|**Deep3DSketch+: Obtaining Customized 3D Model by Single Free-Hand Sketch through Deep Learning**|Ying Zang et.al.|[2310.18609v1](http://arxiv.org/abs/2310.18609v1)|null|
 |**2023-10-27**|**Deep3DSketch+\+: High-Fidelity 3D Modeling from Single Free-hand Sketches**|Ying Zang et.al.|[2310.18178v1](http://arxiv.org/abs/2310.18178v1)|null|
 |**2023-10-27**|**Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches**|Tianrun Chen et.al.|[2310.18148v1](http://arxiv.org/abs/2310.18148v1)|null|
 |**2023-10-27**|**On General Language Understanding**|David Schlangen et.al.|[2310.18038v1](http://arxiv.org/abs/2310.18038v1)|null|
@@ -1245,6 +1254,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130v1](http://arxiv.org/abs/2310.15130v1)|**[link](https://github.com/apple/ml-nvas3d)**|
 |**2023-10-23**|**Interaction-Driven Active 3D Reconstruction with Object Interiors**|Zihao Yan et.al.|[2310.14700v1](http://arxiv.org/abs/2310.14700v1)|null|
@@ -1494,6 +1504,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
+|**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
+|**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|null|
+|**2023-10-30**|**CHAMMI: A benchmark for channel-adaptive models in microscopy imaging**|Zitong Chen et.al.|[2310.19224v1](http://arxiv.org/abs/2310.19224v1)|**[link](https://github.com/broadinstitute/MorphEm)**|
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313v1](http://arxiv.org/abs/2310.18313v1)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
 |**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301v1](http://arxiv.org/abs/2310.18301v1)|null|
@@ -2636,6 +2650,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
+|**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
+|**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|null|
+|**2023-10-30**|**CHAMMI: A benchmark for channel-adaptive models in microscopy imaging**|Zitong Chen et.al.|[2310.19224v1](http://arxiv.org/abs/2310.19224v1)|**[link](https://github.com/broadinstitute/MorphEm)**|
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313v1](http://arxiv.org/abs/2310.18313v1)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
 |**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301v1](http://arxiv.org/abs/2310.18301v1)|null|
