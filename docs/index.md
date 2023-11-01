@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618v1](http://arxiv.org/abs/2310.20618v1)|null|
 |**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180v1](http://arxiv.org/abs/2310.19180v1)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145v1](http://arxiv.org/abs/2310.19145v1)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-29**|**Backward and Forward Inference in Interacting Independent-Cascade Processes: A Scalable and Convergent Message-Passing Approach**|Nouman Khan et.al.|[2310.19138v1](http://arxiv.org/abs/2310.19138v1)|null|
@@ -964,6 +966,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Progress and outlook on advanced fly scans based on Mamba**|Peng-Cheng Li et.al.|[2310.20106v1](http://arxiv.org/abs/2310.20106v1)|null|
+|**2023-10-30**|**The Expressibility of Polynomial based Attention Scheme**|Zhao Song et.al.|[2310.20051v1](http://arxiv.org/abs/2310.20051v1)|null|
 |**2023-10-29**|**Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming**|Gregory Dexter et.al.|[2310.19068v1](http://arxiv.org/abs/2310.19068v1)|null|
 |**2023-10-29**|**Customize StyleGAN with One Hand Sketch**|Shaocong Zhang et.al.|[2310.18949v1](http://arxiv.org/abs/2310.18949v1)|null|
 |**2023-10-28**|**Deep3DSketch+: Obtaining Customized 3D Model by Single Free-Hand Sketch through Deep Learning**|Ying Zang et.al.|[2310.18609v1](http://arxiv.org/abs/2310.18609v1)|null|
@@ -1258,6 +1262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang et.al.|[2310.20117v1](http://arxiv.org/abs/2310.20117v1)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-23**|**Novel-View Acoustic Synthesis from 3D Reconstructed Rooms**|Byeongjoo Ahn et.al.|[2310.15130v1](http://arxiv.org/abs/2310.15130v1)|**[link](https://github.com/apple/ml-nvas3d)**|
@@ -1508,6 +1513,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Unexpected Improvements to Expected Improvement for Bayesian Optimization**|Sebastian Ament et.al.|[2310.20708v1](http://arxiv.org/abs/2310.20708v1)|null|
+|**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707v1](http://arxiv.org/abs/2310.20707v1)|null|
+|**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v1](http://arxiv.org/abs/2310.20699v1)|null|
+|**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|**[link](https://github.com/microsoft/codet)**|
+|**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682v1](http://arxiv.org/abs/2310.20682v1)|null|
 |**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|null|
@@ -2654,6 +2666,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Unexpected Improvements to Expected Improvement for Bayesian Optimization**|Sebastian Ament et.al.|[2310.20708v1](http://arxiv.org/abs/2310.20708v1)|null|
+|**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707v1](http://arxiv.org/abs/2310.20707v1)|null|
+|**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v1](http://arxiv.org/abs/2310.20699v1)|null|
+|**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|**[link](https://github.com/microsoft/codet)**|
+|**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682v1](http://arxiv.org/abs/2310.20682v1)|null|
 |**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225v1](http://arxiv.org/abs/2310.19225v1)|null|
