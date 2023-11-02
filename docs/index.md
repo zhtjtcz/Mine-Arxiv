@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -960,7 +960,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## sketch
 
@@ -1256,7 +1256,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1507,7 +1507,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## generate
 
@@ -1517,7 +1517,7 @@ layout: default
 |**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707v1](http://arxiv.org/abs/2310.20707v1)|null|
 |**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
-|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v1](http://arxiv.org/abs/2310.20699v1)|null|
+|**2023-11-01**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v2](http://arxiv.org/abs/2310.20699v2)|null|
 |**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|**[link](https://github.com/microsoft/codet)**|
 |**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682v1](http://arxiv.org/abs/2310.20682v1)|null|
 |**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
@@ -2660,7 +2660,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 ## generation
 
@@ -2670,7 +2670,7 @@ layout: default
 |**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707v1](http://arxiv.org/abs/2310.20707v1)|null|
 |**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
-|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v1](http://arxiv.org/abs/2310.20699v1)|null|
+|**2023-11-01**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699v2](http://arxiv.org/abs/2310.20699v2)|null|
 |**2023-10-31**|**Learning From Mistakes Makes LLM Better Reasoner**|Shengnan An et.al.|[2310.20689v1](http://arxiv.org/abs/2310.20689v1)|**[link](https://github.com/microsoft/codet)**|
 |**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682v1](http://arxiv.org/abs/2310.20682v1)|null|
 |**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239v1](http://arxiv.org/abs/2310.19239v1)|null|
@@ -3813,7 +3813,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
