@@ -24,6 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Transferability of atomic energies from alchemical decomposition**|Michael J. Sahre et.al.|[2311.04784v1](http://arxiv.org/abs/2311.04784v1)|null|
+|**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584v1](http://arxiv.org/abs/2311.04584v1)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145v1](http://arxiv.org/abs/2311.04145v1)|null|
 |**2023-11-07**|**Simple Bundles of Complex Networks**|Alexandre Benatti et.al.|[2311.04133v1](http://arxiv.org/abs/2311.04133v1)|null|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052v1](http://arxiv.org/abs/2311.04052v1)|null|
@@ -1294,11 +1296,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|null|
 |**2023-11-05**|**MuSHRoom: Multi-Sensor Hybrid Room Dataset for Joint 3D Reconstruction and Novel View Synthesis**|Xuqian Ren et.al.|[2311.02778v1](http://arxiv.org/abs/2311.02778v1)|null|
 |**2023-11-05**|**Fast Point-cloud to Mesh Reconstruction for Deformable Object Tracking**|Elham Amin Mansour et.al.|[2311.02749v1](http://arxiv.org/abs/2311.02749v1)|null|
-|**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552v1](http://arxiv.org/abs/2311.02552v1)|null|
+|**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552v1](http://arxiv.org/abs/2311.02552v1)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 |**2023-11-02**|**CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation**|Jingkang Wang et.al.|[2311.01447v1](http://arxiv.org/abs/2311.01447v1)|null|
 |**2023-11-02**|**Look at Robot Base Once: Hand-Eye Calibration with Point Clouds of Robot Base Leveraging Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335v1](http://arxiv.org/abs/2311.01335v1)|**[link](https://github.com/leihui6/lrbo)**|
 |**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|null|
@@ -1555,6 +1558,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901v1](http://arxiv.org/abs/2311.04901v1)|null|
+|**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900v1](http://arxiv.org/abs/2311.04900v1)|**[link](https://github.com/clay-lab/structural-alternations)**|
+|**2023-11-08**|**Optimized measurements of chaotic dynamical systems via the information bottleneck**|Kieran A. Murphy et.al.|[2311.04896v1](http://arxiv.org/abs/2311.04896v1)|null|
+|**2023-11-08**|**The Monadic Theory of Toric Words**|Valérie Berthé et.al.|[2311.04895v1](http://arxiv.org/abs/2311.04895v1)|null|
+|**2023-11-08**|**Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**|Shashank Gupta et.al.|[2311.04892v1](http://arxiv.org/abs/2311.04892v1)|**[link](https://github.com/allenai/persona-bias)**|
+|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887v1](http://arxiv.org/abs/2311.04887v1)|null|
+|**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
 |**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
 |**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205v1](http://arxiv.org/abs/2311.04205v1)|null|
 |**2023-11-07**|**Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique**|David Gamarnik et.al.|[2311.04204v1](http://arxiv.org/abs/2311.04204v1)|null|
@@ -2741,6 +2751,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901v1](http://arxiv.org/abs/2311.04901v1)|null|
+|**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900v1](http://arxiv.org/abs/2311.04900v1)|**[link](https://github.com/clay-lab/structural-alternations)**|
+|**2023-11-08**|**Optimized measurements of chaotic dynamical systems via the information bottleneck**|Kieran A. Murphy et.al.|[2311.04896v1](http://arxiv.org/abs/2311.04896v1)|null|
+|**2023-11-08**|**The Monadic Theory of Toric Words**|Valérie Berthé et.al.|[2311.04895v1](http://arxiv.org/abs/2311.04895v1)|null|
+|**2023-11-08**|**Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**|Shashank Gupta et.al.|[2311.04892v1](http://arxiv.org/abs/2311.04892v1)|**[link](https://github.com/allenai/persona-bias)**|
+|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887v1](http://arxiv.org/abs/2311.04887v1)|null|
+|**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
 |**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
 |**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205v1](http://arxiv.org/abs/2311.04205v1)|null|
 |**2023-11-07**|**Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique**|David Gamarnik et.al.|[2311.04204v1](http://arxiv.org/abs/2311.04204v1)|null|
