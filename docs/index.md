@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
+|**2023-11-10**|**Turbulence Scaling from Deep Learning Diffusion Generative Models**|Tim Whittaker et.al.|[2311.06112v1](http://arxiv.org/abs/2311.06112v1)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606v1](http://arxiv.org/abs/2311.05606v1)|null|
 |**2023-11-09**|**Bayesian Methods for Media Mix Modelling with shape and funnel effects**|Javier Marin et.al.|[2311.05587v1](http://arxiv.org/abs/2311.05587v1)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556v1](http://arxiv.org/abs/2311.05556v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
@@ -1570,6 +1574,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
+|**2023-11-10**|**Nonnegativity Problems for Matrix Semigroups**|Julian D'Costa et.al.|[2311.06241v1](http://arxiv.org/abs/2311.06241v1)|null|
+|**2023-11-10**|**Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild**|Nanna Inie et.al.|[2311.06237v1](http://arxiv.org/abs/2311.06237v1)|null|
+|**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236v1](http://arxiv.org/abs/2311.06236v1)|null|
+|**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228v1](http://arxiv.org/abs/2311.06228v1)|null|
+|**2023-11-10**|**Does Differential Privacy Prevent Backdoor Attacks in Practice?**|Fereshteh Razmi et.al.|[2311.06227v1](http://arxiv.org/abs/2311.06227v1)|null|
 |**2023-11-09**|**What Do I Hear? Generating Sounds for Visuals with ChatGPT**|David Chuan-En Lin et.al.|[2311.05609v1](http://arxiv.org/abs/2311.05609v1)|null|
 |**2023-11-09**|**Real-Time Neural Rasterization for Large Scenes**|Jeffrey Yunfan Liu et.al.|[2311.05607v1](http://arxiv.org/abs/2311.05607v1)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606v1](http://arxiv.org/abs/2311.05606v1)|null|
@@ -2770,6 +2781,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
+|**2023-11-10**|**Nonnegativity Problems for Matrix Semigroups**|Julian D'Costa et.al.|[2311.06241v1](http://arxiv.org/abs/2311.06241v1)|null|
+|**2023-11-10**|**Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild**|Nanna Inie et.al.|[2311.06237v1](http://arxiv.org/abs/2311.06237v1)|null|
+|**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236v1](http://arxiv.org/abs/2311.06236v1)|null|
+|**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228v1](http://arxiv.org/abs/2311.06228v1)|null|
+|**2023-11-10**|**Does Differential Privacy Prevent Backdoor Attacks in Practice?**|Fereshteh Razmi et.al.|[2311.06227v1](http://arxiv.org/abs/2311.06227v1)|null|
 |**2023-11-09**|**What Do I Hear? Generating Sounds for Visuals with ChatGPT**|David Chuan-En Lin et.al.|[2311.05609v1](http://arxiv.org/abs/2311.05609v1)|null|
 |**2023-11-09**|**Real-Time Neural Rasterization for Large Scenes**|Jeffrey Yunfan Liu et.al.|[2311.05607v1](http://arxiv.org/abs/2311.05607v1)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606v1](http://arxiv.org/abs/2311.05606v1)|null|
