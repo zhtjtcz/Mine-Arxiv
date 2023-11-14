@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
+|**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421v1](http://arxiv.org/abs/2311.07421v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
@@ -999,6 +1002,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
+|**2023-11-13**|**Sketch-based Video Object Segmentation: Benchmark and Analysis**|Ruolin Yang et.al.|[2311.07261v1](http://arxiv.org/abs/2311.07261v1)|null|
 |**2023-11-09**|**General Policies, Subgoal Structure, and Planning Width**|Blai Bonet et.al.|[2311.05490v1](http://arxiv.org/abs/2311.05490v1)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461v1](http://arxiv.org/abs/2311.05461v1)|null|
 |**2023-11-08**|**Prompt Sketching for Large Language Models**|Luca Beurer-Kellner et.al.|[2311.04954v1](http://arxiv.org/abs/2311.04954v1)|null|
@@ -1306,6 +1311,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
+|**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun et.al.|[2311.06659v1](http://arxiv.org/abs/2311.06659v1)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230v1](http://arxiv.org/abs/2311.05230v1)|null|
 |**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999v1](http://arxiv.org/abs/2311.04999v1)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
@@ -1570,6 +1577,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
+|**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
+|**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561v1](http://arxiv.org/abs/2311.07561v1)|null|
+|**2023-11-13**|**Sound Gradual Verification with Symbolic Execution**|Conrad Zimmerman et.al.|[2311.07559v1](http://arxiv.org/abs/2311.07559v1)|null|
+|**2023-11-13**|**Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning**|Arjun Bhardwaj et.al.|[2311.07558v1](http://arxiv.org/abs/2311.07558v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
 |**2023-11-10**|**Nonnegativity Problems for Matrix Semigroups**|Julian D'Costa et.al.|[2311.06241v1](http://arxiv.org/abs/2311.06241v1)|null|
@@ -2777,6 +2791,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
+|**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
+|**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561v1](http://arxiv.org/abs/2311.07561v1)|null|
+|**2023-11-13**|**Sound Gradual Verification with Symbolic Execution**|Conrad Zimmerman et.al.|[2311.07559v1](http://arxiv.org/abs/2311.07559v1)|null|
+|**2023-11-13**|**Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning**|Arjun Bhardwaj et.al.|[2311.07558v1](http://arxiv.org/abs/2311.07558v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
 |**2023-11-10**|**Nonnegativity Problems for Matrix Semigroups**|Julian D'Costa et.al.|[2311.06241v1](http://arxiv.org/abs/2311.06241v1)|null|
