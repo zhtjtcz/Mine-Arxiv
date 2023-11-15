@@ -1006,6 +1006,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244v1](http://arxiv.org/abs/2311.08244v1)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
 |**2023-11-13**|**Sketch-based Video Object Segmentation: Benchmark and Analysis**|Ruolin Yang et.al.|[2311.07261v1](http://arxiv.org/abs/2311.07261v1)|null|
 |**2023-11-09**|**General Policies, Subgoal Structure, and Planning Width**|Blai Bonet et.al.|[2311.05490v1](http://arxiv.org/abs/2311.05490v1)|null|
@@ -1315,6 +1316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159v1](http://arxiv.org/abs/2311.08159v1)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
 |**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun et.al.|[2311.06659v1](http://arxiv.org/abs/2311.06659v1)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230v1](http://arxiv.org/abs/2311.05230v1)|null|
@@ -1581,6 +1583,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403v1](http://arxiv.org/abs/2311.08403v1)|null|
+|**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401v1](http://arxiv.org/abs/2311.08401v1)|null|
+|**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400v1](http://arxiv.org/abs/2311.08400v1)|**[link](https://github.com/bytedance/omniscient-model)**|
+|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398v1](http://arxiv.org/abs/2311.08398v1)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**On What Basis? Predicting Text Preference Via Structured Comparative Reasoning**|Jing Nathan Yan et.al.|[2311.08390v1](http://arxiv.org/abs/2311.08390v1)|null|
+|**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389v1](http://arxiv.org/abs/2311.08389v1)|null|
 |**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
 |**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
@@ -2795,6 +2804,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403v1](http://arxiv.org/abs/2311.08403v1)|null|
+|**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401v1](http://arxiv.org/abs/2311.08401v1)|null|
+|**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400v1](http://arxiv.org/abs/2311.08400v1)|**[link](https://github.com/bytedance/omniscient-model)**|
+|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398v1](http://arxiv.org/abs/2311.08398v1)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
+|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-14**|**On What Basis? Predicting Text Preference Via Structured Comparative Reasoning**|Jing Nathan Yan et.al.|[2311.08390v1](http://arxiv.org/abs/2311.08390v1)|null|
+|**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389v1](http://arxiv.org/abs/2311.08389v1)|null|
 |**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
 |**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
