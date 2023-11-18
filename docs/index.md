@@ -1017,7 +1017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-09**|**Chain of Images for Intuitively Reasoning**|Fanxu Meng et.al.|[2311.09241v1](http://arxiv.org/abs/2311.09241v1)|null|
+|**2023-11-09**|**Chain of Images for Intuitively Reasoning**|Fanxu Meng et.al.|[2311.09241v1](http://arxiv.org/abs/2311.09241v1)|**[link](https://github.com/graphpku/coi)**|
 |**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244v1](http://arxiv.org/abs/2311.08244v1)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|**[link](https://github.com/ucrparlay/influence-maximization)**|
 |**2023-11-13**|**Sketch-based Video Object Segmentation: Benchmark and Analysis**|Ruolin Yang et.al.|[2311.07261v1](http://arxiv.org/abs/2311.07261v1)|null|
