@@ -35,8 +35,8 @@ layout: default
 |**2023-11-15**|**Fast Detection of Phase Transitions with Multi-Task Learning-by-Confusion**|Julian Arnold et.al.|[2311.09128v1](http://arxiv.org/abs/2311.09128v1)|null|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084v1](http://arxiv.org/abs/2311.09084v1)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
-|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
-|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|**[link](https://github.com/ucrparlay/influence-maximization)**|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|**[link](https://github.com/cabrowne/enhancedmixing)**|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421v1](http://arxiv.org/abs/2311.07421v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
@@ -1045,13 +1045,13 @@ layout: default
 |**2023-10-24**|**Emergent Communication in Interactive Sketch Question Answering**|Zixing Lei et.al.|[2310.15597v1](http://arxiv.org/abs/2310.15597v1)|**[link](https://github.com/mediabrain-sjtu/ecisqa)**|
 |**2023-10-24**|**Fast multiplication of random dense matrices with fixed sparse matrices**|Tianyu Liang et.al.|[2310.15419v1](http://arxiv.org/abs/2310.15419v1)|**[link](https://github.com/tianyu-liang/solving-with-sketch)**|
 |**2023-10-18**|**A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**|Yikun Han et.al.|[2310.11703v1](http://arxiv.org/abs/2310.11703v1)|null|
-|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028v1](http://arxiv.org/abs/2310.11028v1)|null|
+|**2023-10-17**|**Matrix Compression via Randomized Low Rank and Low Precision Factorization**|Rajarshi Saha et.al.|[2310.11028v1](http://arxiv.org/abs/2310.11028v1)|**[link](https://github.com/pilancilab/matrix-compressor)**|
 |**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|**[link](https://github.com/wty-ustc/hairclipv2)**|
 |**2023-10-16**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v2](http://arxiv.org/abs/2310.08577v2)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
 |**2023-10-12**|**Visualizing a Nondeterministic to Deterministic Finite-State Machine Transformation**|Tijana Minic et.al.|[2310.08248v1](http://arxiv.org/abs/2310.08248v1)|**[link](https://github.com/morazanm/fsm)**|
 |**2023-10-11**|**On $(1+\varepsilon)$ -Approximate Flow Sparsifiers**|Yu Chen et.al.|[2310.07857v1](http://arxiv.org/abs/2310.07857v1)|null|
 |**2023-10-10**|**SketchBodyNet: A Sketch-Driven Multi-faceted Decoder Network for 3D Human Reconstruction**|Fei Wang et.al.|[2310.06577v1](http://arxiv.org/abs/2310.06577v1)|null|
-|**2023-10-15**|**HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**|Yaosen Chen et.al.|[2310.05720v3](http://arxiv.org/abs/2310.05720v3)|null|
+|**2023-10-15**|**HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**|Yaosen Chen et.al.|[2310.05720v3](http://arxiv.org/abs/2310.05720v3)|**[link](https://github.com/semchan/HyperLips)**|
 |**2023-10-09**|**Logic-guided Deep Reinforcement Learning for Stock Trading**|Zhiming Li et.al.|[2310.05551v1](http://arxiv.org/abs/2310.05551v1)|null|
 |**2023-10-08**|**Transforming Pixels into a Masterpiece: AI-Powered Art Restoration using a Novel Distributed Denoising CNN (DDCNN)**|Sankar B. et.al.|[2310.05270v1](http://arxiv.org/abs/2310.05270v1)|null|
 |**2023-10-06**|**Hanging in there: Prenatal origins of antigravity homeostasis in humans**|Nicholas M. Wilkinson et.al.|[2310.04168v1](http://arxiv.org/abs/2310.04168v1)|null|
@@ -1619,7 +1619,7 @@ layout: default
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
 |**2023-11-14**|**On What Basis? Predicting Text Preference Via Structured Comparative Reasoning**|Jing Nathan Yan et.al.|[2311.08390v1](http://arxiv.org/abs/2311.08390v1)|null|
 |**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389v1](http://arxiv.org/abs/2311.08389v1)|null|
-|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|**[link](https://github.com/x2fd/lvis-instruct4v)**|
 |**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
@@ -1647,7 +1647,7 @@ layout: default
 |**2023-11-08**|**Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**|Shashank Gupta et.al.|[2311.04892v1](http://arxiv.org/abs/2311.04892v1)|**[link](https://github.com/allenai/persona-bias)**|
 |**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887v1](http://arxiv.org/abs/2311.04887v1)|null|
 |**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
-|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|**[link](https://github.com/sail-sg/sewformer)**|
 |**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205v1](http://arxiv.org/abs/2311.04205v1)|**[link](https://github.com/uclaml/Rephrase-and-Respond)**|
 |**2023-11-07**|**Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique**|David Gamarnik et.al.|[2311.04204v1](http://arxiv.org/abs/2311.04204v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
@@ -2855,7 +2855,7 @@ layout: default
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
 |**2023-11-14**|**On What Basis? Predicting Text Preference Via Structured Comparative Reasoning**|Jing Nathan Yan et.al.|[2311.08390v1](http://arxiv.org/abs/2311.08390v1)|null|
 |**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389v1](http://arxiv.org/abs/2311.08389v1)|null|
-|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|null|
+|**2023-11-13**|**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**|Junke Wang et.al.|[2311.07574v1](http://arxiv.org/abs/2311.07574v1)|**[link](https://github.com/x2fd/lvis-instruct4v)**|
 |**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573v1](http://arxiv.org/abs/2311.07573v1)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568v1](http://arxiv.org/abs/2311.07568v1)|null|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
@@ -2883,7 +2883,7 @@ layout: default
 |**2023-11-08**|**Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs**|Shashank Gupta et.al.|[2311.04892v1](http://arxiv.org/abs/2311.04892v1)|**[link](https://github.com/allenai/persona-bias)**|
 |**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887v1](http://arxiv.org/abs/2311.04887v1)|null|
 |**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886v1](http://arxiv.org/abs/2311.04886v1)|**[link](https://github.com/google-research-datasets/quotesum)**|
-|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|**[link](https://github.com/sail-sg/sewformer)**|
 |**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205v1](http://arxiv.org/abs/2311.04205v1)|**[link](https://github.com/uclaml/Rephrase-and-Respond)**|
 |**2023-11-07**|**Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique**|David Gamarnik et.al.|[2311.04204v1](http://arxiv.org/abs/2311.04204v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
