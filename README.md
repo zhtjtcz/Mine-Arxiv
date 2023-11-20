@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522v1](http://arxiv.org/abs/2311.10522v1)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
 |**2023-11-16**|**Spontaneous Opinion Swings in the Voter Model with Latency**|Giovanni Palermo et.al.|[2311.10045v1](http://arxiv.org/abs/2311.10045v1)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999v1](http://arxiv.org/abs/2311.09999v1)|null|
@@ -1013,6 +1016,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks**|Benjamin Feuer et.al.|[2311.10609v1](http://arxiv.org/abs/2311.10609v1)|null|
 |**2023-11-09**|**Chain of Images for Intuitively Reasoning**|Fanxu Meng et.al.|[2311.09241v1](http://arxiv.org/abs/2311.09241v1)|**[link](https://github.com/graphpku/coi)**|
 |**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244v1](http://arxiv.org/abs/2311.08244v1)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|**[link](https://github.com/ucrparlay/influence-maximization)**|
@@ -1593,6 +1597,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
+|**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706v1](http://arxiv.org/abs/2311.10706v1)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
@@ -2829,6 +2836,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
+|**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706v1](http://arxiv.org/abs/2311.10706v1)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092v1](http://arxiv.org/abs/2311.10092v1)|null|
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
