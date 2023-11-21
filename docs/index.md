@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Macroscopic description of a heavy particle immersed within a flow of light particles**|Radek Erban et.al.|[2311.12021v1](http://arxiv.org/abs/2311.12021v1)|null|
+|**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919v1](http://arxiv.org/abs/2311.11919v1)|null|
+|**2023-11-20**|**Evolution of internal gravity waves in meso-scale eddies**|Pablo Sebastia Saez et.al.|[2311.11916v1](http://arxiv.org/abs/2311.11916v1)|null|
+|**2023-11-20**|**Log-periodic oscillations as real-time signatures of hierarchical dynamics in proteins**|Emanuel Dorbath et.al.|[2311.11839v1](http://arxiv.org/abs/2311.11839v1)|null|
+|**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825v1](http://arxiv.org/abs/2311.11825v1)|null|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
 |**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522v1](http://arxiv.org/abs/2311.10522v1)|null|
@@ -1020,6 +1025,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort**|Wen Wang et.al.|[2311.11243v1](http://arxiv.org/abs/2311.11243v1)|null|
 |**2023-11-17**|**Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks**|Benjamin Feuer et.al.|[2311.10609v1](http://arxiv.org/abs/2311.10609v1)|null|
 |**2023-11-09**|**Chain of Images for Intuitively Reasoning**|Fanxu Meng et.al.|[2311.09241v1](http://arxiv.org/abs/2311.09241v1)|**[link](https://github.com/graphpku/coi)**|
 |**2023-11-14**|**Language and Sketching: An LLM-driven Interactive Multimodal Multitask Robot Navigation Framework**|Weiqin Zu et.al.|[2311.08244v1](http://arxiv.org/abs/2311.08244v1)|null|
@@ -1332,8 +1338,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
+|**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
+|**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes et.al.|[2311.11130v1](http://arxiv.org/abs/2311.11130v1)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 |**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159v1](http://arxiv.org/abs/2311.08159v1)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
 |**2023-11-11**|**3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**|Xi Sun et.al.|[2311.06659v1](http://arxiv.org/abs/2311.06659v1)|null|
@@ -1601,6 +1611,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Rate-Independent Gradient Crystal Plasticity Theory -- Robust Algorithmic Formulations based on Incremental Energy Minimization**|Volker Fohrmeister et.al.|[2311.12026v1](http://arxiv.org/abs/2311.12026v1)|null|
+|**2023-11-20**|**The allosteric lever: towards a principle of specific allosteric response**|Maximilian Vossel et.al.|[2311.12025v1](http://arxiv.org/abs/2311.12025v1)|null|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-20**|**Macroscopic description of a heavy particle immersed within a flow of light particles**|Radek Erban et.al.|[2311.12021v1](http://arxiv.org/abs/2311.12021v1)|null|
+|**2023-11-20**|**An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software**|Aaditya Bhatia et.al.|[2311.12019v1](http://arxiv.org/abs/2311.12019v1)|null|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
 |**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706v1](http://arxiv.org/abs/2311.10706v1)|null|
@@ -2840,6 +2856,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Rate-Independent Gradient Crystal Plasticity Theory -- Robust Algorithmic Formulations based on Incremental Energy Minimization**|Volker Fohrmeister et.al.|[2311.12026v1](http://arxiv.org/abs/2311.12026v1)|null|
+|**2023-11-20**|**The allosteric lever: towards a principle of specific allosteric response**|Maximilian Vossel et.al.|[2311.12025v1](http://arxiv.org/abs/2311.12025v1)|null|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-20**|**Macroscopic description of a heavy particle immersed within a flow of light particles**|Radek Erban et.al.|[2311.12021v1](http://arxiv.org/abs/2311.12021v1)|null|
+|**2023-11-20**|**An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software**|Aaditya Bhatia et.al.|[2311.12019v1](http://arxiv.org/abs/2311.12019v1)|null|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709v1](http://arxiv.org/abs/2311.10709v1)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708v1](http://arxiv.org/abs/2311.10708v1)|null|
 |**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706v1](http://arxiv.org/abs/2311.10706v1)|null|
