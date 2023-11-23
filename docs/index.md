@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584v1](http://arxiv.org/abs/2311.13584v1)|null|
+|**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
+|**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549v1](http://arxiv.org/abs/2311.13549v1)|null|
+|**2023-11-22**|**DiffusionMat: Alpha Matting as Sequential Refinement Learning**|Yangyang Xu et.al.|[2311.13535v1](http://arxiv.org/abs/2311.13535v1)|null|
+|**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443v1](http://arxiv.org/abs/2311.13443v1)|null|
+|**2023-11-22**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384v1](http://arxiv.org/abs/2311.13384v1)|null|
 |**2023-11-21**|**Bubble departure and sliding in high-pressure flow boiling of water**|Artyom Kossolapov et.al.|[2311.12749v1](http://arxiv.org/abs/2311.12749v1)|null|
 |**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631v1](http://arxiv.org/abs/2311.12631v1)|null|
 |**2023-11-21**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454v1](http://arxiv.org/abs/2311.12454v1)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
@@ -1031,6 +1037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies**|Shabnam Daghaghi et.al.|[2311.13583v1](http://arxiv.org/abs/2311.13583v1)|null|
 |**2023-11-21**|**From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design**|Cyril Picard et.al.|[2311.12668v1](http://arxiv.org/abs/2311.12668v1)|null|
 |**2023-11-19**|**AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort**|Wen Wang et.al.|[2311.11243v1](http://arxiv.org/abs/2311.11243v1)|null|
 |**2023-11-17**|**Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks**|Benjamin Feuer et.al.|[2311.10609v1](http://arxiv.org/abs/2311.10609v1)|null|
@@ -1345,6 +1352,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang et.al.|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|null|
+|**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen et.al.|[2311.13182v1](http://arxiv.org/abs/2311.13182v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|null|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi et.al.|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
 |**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
@@ -1620,6 +1629,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|null|
+|**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|
+|**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589v1](http://arxiv.org/abs/2311.13589v1)|null|
+|**2023-11-22**|**A Survey of Serverless Machine Learning Model Inference**|Kamil Kojs et.al.|[2311.13587v1](http://arxiv.org/abs/2311.13587v1)|null|
+|**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584v1](http://arxiv.org/abs/2311.13584v1)|null|
+|**2023-11-22**|**PaSS: Parallel Speculative Sampling**|Giovanni Monea et.al.|[2311.13581v1](http://arxiv.org/abs/2311.13581v1)|null|
+|**2023-11-22**|**Aufbau Suppressed Coupled Cluster Theory for Electronically Excited States**|Harrison Tuckman et.al.|[2311.13576v1](http://arxiv.org/abs/2311.13576v1)|null|
 |**2023-11-21**|**Intrinsic Image Decomposition via Ordinal Shading**|Chris Careaga et.al.|[2311.12792v1](http://arxiv.org/abs/2311.12792v1)|null|
 |**2023-11-21**|**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**|Samyak Jain et.al.|[2311.12786v1](http://arxiv.org/abs/2311.12786v1)|null|
 |**2023-11-20**|**Rate-Independent Gradient Crystal Plasticity Theory -- Robust Algorithmic Formulations based on Incremental Energy Minimization**|Volker Fohrmeister et.al.|[2311.12026v1](http://arxiv.org/abs/2311.12026v1)|null|
@@ -2867,6 +2884,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|null|
+|**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|
+|**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589v1](http://arxiv.org/abs/2311.13589v1)|null|
+|**2023-11-22**|**A Survey of Serverless Machine Learning Model Inference**|Kamil Kojs et.al.|[2311.13587v1](http://arxiv.org/abs/2311.13587v1)|null|
+|**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584v1](http://arxiv.org/abs/2311.13584v1)|null|
+|**2023-11-22**|**PaSS: Parallel Speculative Sampling**|Giovanni Monea et.al.|[2311.13581v1](http://arxiv.org/abs/2311.13581v1)|null|
+|**2023-11-22**|**Aufbau Suppressed Coupled Cluster Theory for Electronically Excited States**|Harrison Tuckman et.al.|[2311.13576v1](http://arxiv.org/abs/2311.13576v1)|null|
 |**2023-11-21**|**Intrinsic Image Decomposition via Ordinal Shading**|Chris Careaga et.al.|[2311.12792v1](http://arxiv.org/abs/2311.12792v1)|null|
 |**2023-11-21**|**Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks**|Samyak Jain et.al.|[2311.12786v1](http://arxiv.org/abs/2311.12786v1)|null|
 |**2023-11-20**|**Rate-Independent Gradient Crystal Plasticity Theory -- Robust Algorithmic Formulations based on Incremental Energy Minimization**|Volker Fohrmeister et.al.|[2311.12026v1](http://arxiv.org/abs/2311.12026v1)|null|
