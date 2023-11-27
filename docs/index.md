@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631v1](http://arxiv.org/abs/2311.14631v1)|null|
+|**2023-11-24**|**Received Signal and Channel Parameter Estimation in Molecular Communications**|O. Tansel Baydas et.al.|[2311.14621v1](http://arxiv.org/abs/2311.14621v1)|null|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603v1](http://arxiv.org/abs/2311.14603v1)|null|
+|**2023-11-24**|**On the thermodynamic invariance of fine-grain and coarse-grain fluid models**|Thomas Dubos et.al.|[2311.14564v1](http://arxiv.org/abs/2311.14564v1)|null|
+|**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542v1](http://arxiv.org/abs/2311.14542v1)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521v1](http://arxiv.org/abs/2311.14521v1)|null|
+|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494v1](http://arxiv.org/abs/2311.14494v1)|null|
 |**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584v1](http://arxiv.org/abs/2311.13584v1)|null|
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549v1](http://arxiv.org/abs/2311.13549v1)|null|
@@ -1037,6 +1044,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652v1](http://arxiv.org/abs/2311.14652v1)|null|
+|**2023-11-21**|**Breathing Life Into Sketches Using Text-to-Video Priors**|Rinon Gal et.al.|[2311.13608v1](http://arxiv.org/abs/2311.13608v1)|null|
 |**2023-11-22**|**Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies**|Shabnam Daghaghi et.al.|[2311.13583v1](http://arxiv.org/abs/2311.13583v1)|null|
 |**2023-11-21**|**From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design**|Cyril Picard et.al.|[2311.12668v1](http://arxiv.org/abs/2311.12668v1)|null|
 |**2023-11-19**|**AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort**|Wen Wang et.al.|[2311.11243v1](http://arxiv.org/abs/2311.11243v1)|null|
@@ -1352,11 +1361,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-22**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang et.al.|[2311.13199v1](http://arxiv.org/abs/2311.13199v1)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
+|**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242v1](http://arxiv.org/abs/2311.14242v1)|null|
+|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|null|
+|**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
+|**2023-11-23**|**DRIFu: Differentiable Rendering and Implicit Function-based Single-View 3D Reconstruction**|Zijian Kuang et.al.|[2311.13199v2](http://arxiv.org/abs/2311.13199v2)|**[link](https://github.com/kuangzijian/drifu-for-animals)**|
 |**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen et.al.|[2311.13182v1](http://arxiv.org/abs/2311.13182v1)|null|
 |**2023-11-21**|**Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models**|David Stotko et.al.|[2311.12796v1](http://arxiv.org/abs/2311.12796v1)|**[link](https://github.com/davidstotko/physics-guided-shape-from-template)**|
 |**2023-11-20**|**Mixing-Denoising Generalizable Occupancy Networks**|Amine Ouasfi et.al.|[2311.12125v1](http://arxiv.org/abs/2311.12125v1)|null|
-|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v1](http://arxiv.org/abs/2311.12024v1)|null|
+|**2023-11-23**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024v2](http://arxiv.org/abs/2311.12024v2)|null|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
 |**2023-11-18**|**Invariant-based Mapping of Space During General Motion of an Observer**|Juan D. Yepes et.al.|[2311.11130v1](http://arxiv.org/abs/2311.11130v1)|null|
@@ -1629,6 +1641,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671v1](http://arxiv.org/abs/2311.14671v1)|**[link](https://github.com/menglcool/segic)**|
+|**2023-11-24**|**Data-driven Prior Learning for Bayesian Optimisation**|Sigrid Passano Hellan et.al.|[2311.14653v1](http://arxiv.org/abs/2311.14653v1)|**[link](https://github.com/sighellan/plebo)**|
+|**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652v1](http://arxiv.org/abs/2311.14652v1)|null|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651v1](http://arxiv.org/abs/2311.14651v1)|null|
 |**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|
@@ -2884,6 +2900,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671v1](http://arxiv.org/abs/2311.14671v1)|**[link](https://github.com/menglcool/segic)**|
+|**2023-11-24**|**Data-driven Prior Learning for Bayesian Optimisation**|Sigrid Passano Hellan et.al.|[2311.14653v1](http://arxiv.org/abs/2311.14653v1)|**[link](https://github.com/sighellan/plebo)**|
+|**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652v1](http://arxiv.org/abs/2311.14652v1)|null|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651v1](http://arxiv.org/abs/2311.14651v1)|null|
 |**2023-11-22**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602v1](http://arxiv.org/abs/2311.13602v1)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**|Viraj Shah et.al.|[2311.13600v1](http://arxiv.org/abs/2311.13600v1)|null|
