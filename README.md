@@ -28,7 +28,7 @@
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
 |**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
 |**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|**[link](https://github.com/soumik-kanad/diffssl)**|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919v1](http://arxiv.org/abs/2311.17919v1)|null|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907v1](http://arxiv.org/abs/2311.17907v1)|null|
@@ -60,7 +60,7 @@
 |**2023-11-24**|**On the thermodynamic invariance of fine-grain and coarse-grain fluid models**|Thomas Dubos et.al.|[2311.14564v1](http://arxiv.org/abs/2311.14564v1)|null|
 |**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542v1](http://arxiv.org/abs/2311.14542v1)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521v1](http://arxiv.org/abs/2311.14521v1)|null|
-|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494v1](http://arxiv.org/abs/2311.14494v1)|null|
+|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494v1](http://arxiv.org/abs/2311.14494v1)|**[link](https://github.com/wu-cvgl/mvcontrol)**|
 |**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584v1](http://arxiv.org/abs/2311.13584v1)|null|
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570v1](http://arxiv.org/abs/2311.13570v1)|null|
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549v1](http://arxiv.org/abs/2311.13549v1)|null|
@@ -640,7 +640,7 @@
 |**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264v1](http://arxiv.org/abs/2305.18264v1)|**[link](https://github.com/g-u-n/gen-l-video)**|
 |**2023-05-29**|**GlyphControl: Glyph Conditional Control for Visual Text Generation**|Yukang Yang et.al.|[2305.18259v1](http://arxiv.org/abs/2305.18259v1)|**[link](https://github.com/aigtext/glyphcontrol-release)**|
 |**2023-05-26**|**Improving accuracy of GPT-3/4 results on biomedical data using a retrieval-augmented language model**|David Soong et.al.|[2305.17116v1](http://arxiv.org/abs/2305.17116v1)|null|
-|**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
+|**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|**[link](https://github.com/thu-ml/controlvideo)**|
 |**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|**[link](https://github.com/polymaths-lab/reaction-diffusion-flagella)**|
 |**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965v1](http://arxiv.org/abs/2305.16965v1)|**[link](https://github.com/gongyeliu/ssd)**|
 |**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944v1](http://arxiv.org/abs/2305.16944v1)|**[link](https://github.com/rucaibox/live)**|
@@ -846,7 +846,7 @@
 |**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182v1](http://arxiv.org/abs/2304.01182v1)|**[link](https://github.com/carolinahiguera/tactile-diffusion)**|
 |**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116v1](http://arxiv.org/abs/2304.01116v1)|**[link](https://github.com/mingyuan-zhang/ReMoDiffuse)**|
 |**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053v1](http://arxiv.org/abs/2304.01053v1)|null|
-|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|**[link](https://github.com/threestudio-project/threestudio)**|
 |**2023-03-31**|**$\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242v1](http://arxiv.org/abs/2303.18242v1)|**[link](https://github.com/samb-t/infty-diff)**|
 |**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|**[link](https://github.com/Xiang-cd/unet-finetune)**|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080v1](http://arxiv.org/abs/2303.18080v1)|**[link](https://github.com/yasserben/datum)**|
@@ -1304,7 +1304,7 @@
 |**2023-04-05**|**Optimal Sketching Bounds for Sparse Linear Regression**|Tung Mai et.al.|[2304.02261v1](http://arxiv.org/abs/2304.02261v1)|null|
 |**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214v1](http://arxiv.org/abs/2304.02214v1)|**[link](https://github.com/abin333/logonet)**|
 |**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
-|**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|null|
+|**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|**[link](https://github.com/sangminwoo/svol)**|
 |**2023-03-31**|**Almost Linear Constant-Factor Sketching for $\ell_1$ and Logistic Regression**|Alexander Munteanu et.al.|[2304.00051v1](http://arxiv.org/abs/2304.00051v1)|**[link](https://github.com/tim907/oblivious_sketching_varreglogreg)**|
 |**2023-03-30**|**If At First You Don't Succeed: Test Time Re-ranking for Zero-shot, Cross-domain Retrieval**|Finlay G. C. Hudson et.al.|[2303.17703v1](http://arxiv.org/abs/2303.17703v1)|null|
 |**2023-03-30**|**Methods and advancement of content-based fashion image retrieval: A Review**|Amin Muhammad Shoib et.al.|[2303.17371v1](http://arxiv.org/abs/2303.17371v1)|null|
@@ -1706,7 +1706,7 @@
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
 |**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
 |**2023-11-29**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al.|[2311.17922v1](http://arxiv.org/abs/2311.17922v1)|null|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|**[link](https://github.com/soumik-kanad/diffssl)**|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919v1](http://arxiv.org/abs/2311.17919v1)|null|
 |**2023-11-29**|**Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**|Yuqi Wang et.al.|[2311.17918v1](http://arxiv.org/abs/2311.17918v1)|**[link](https://github.com/bravegroup/drive-wm)**|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
@@ -1950,7 +1950,7 @@
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406v1](http://arxiv.org/abs/2310.04406v1)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
 |**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740v1](http://arxiv.org/abs/2310.03740v1)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
-|**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738v1](http://arxiv.org/abs/2310.03738v1)|null|
+|**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738v1](http://arxiv.org/abs/2310.03738v1)|**[link](https://github.com/bit-ml/Stylist)**|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734v1](http://arxiv.org/abs/2310.03734v1)|null|
 |**2023-10-05**|**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**|Ke Wang et.al.|[2310.03731v1](http://arxiv.org/abs/2310.03731v1)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
@@ -2355,7 +2355,7 @@
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|**[link](https://github.com/crockwell/cap3d)**|
 |**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277v1](http://arxiv.org/abs/2306.07277v1)|null|
-|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|**[link](https://github.com/louisserrano/coral)**|
 |**2023-06-12**|**On the Collocated Form with Input Decoupling of Lagrangian Systems**|Pietro Pustina et.al.|[2306.07258v1](http://arxiv.org/abs/2306.07258v1)|null|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
@@ -3000,7 +3000,7 @@
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
 |**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824v1](http://arxiv.org/abs/2311.18824v1)|null|
 |**2023-11-29**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al.|[2311.17922v1](http://arxiv.org/abs/2311.17922v1)|null|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|**[link](https://github.com/soumik-kanad/diffssl)**|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919v1](http://arxiv.org/abs/2311.17919v1)|null|
 |**2023-11-29**|**Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**|Yuqi Wang et.al.|[2311.17918v1](http://arxiv.org/abs/2311.17918v1)|**[link](https://github.com/bravegroup/drive-wm)**|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
@@ -3244,7 +3244,7 @@
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406v1](http://arxiv.org/abs/2310.04406v1)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
 |**2023-10-05**|**ContactGen: Generative Contact Modeling for Grasp Generation**|Shaowei Liu et.al.|[2310.03740v1](http://arxiv.org/abs/2310.03740v1)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
-|**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738v1](http://arxiv.org/abs/2310.03738v1)|null|
+|**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738v1](http://arxiv.org/abs/2310.03738v1)|**[link](https://github.com/bit-ml/Stylist)**|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734v1](http://arxiv.org/abs/2310.03734v1)|null|
 |**2023-10-05**|**MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning**|Ke Wang et.al.|[2310.03731v1](http://arxiv.org/abs/2310.03731v1)|**[link](https://github.com/mathllm/mathcoder)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
@@ -3649,7 +3649,7 @@
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**Scalable 3D Captioning with Pretrained Models**|Tiange Luo et.al.|[2306.07279v1](http://arxiv.org/abs/2306.07279v1)|**[link](https://github.com/crockwell/cap3d)**|
 |**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277v1](http://arxiv.org/abs/2306.07277v1)|null|
-|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|**[link](https://github.com/louisserrano/coral)**|
 |**2023-06-12**|**On the Collocated Form with Input Decoupling of Lagrangian Systems**|Pietro Pustina et.al.|[2306.07258v1](http://arxiv.org/abs/2306.07258v1)|null|
 |**2023-06-09**|**Leveraging Large Language Models for Scalable Vector Graphics-Driven Image Understanding**|Mu Cai et.al.|[2306.06094v1](http://arxiv.org/abs/2306.06094v1)|null|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
