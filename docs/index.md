@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156v1](http://arxiv.org/abs/2312.02156v1)|null|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150v1](http://arxiv.org/abs/2312.02150v1)|null|
+|**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139v1](http://arxiv.org/abs/2312.02139v1)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133v1](http://arxiv.org/abs/2312.02133v1)|null|
+|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v1](http://arxiv.org/abs/2312.02087v1)|null|
+|**2023-12-04**|**Computational Investigation on Collective Dynamical Behaviors of Flickering Laminar Buoyant Diffusion Flames in Circular Arrays**|Tao Yang et.al.|[2312.02018v1](http://arxiv.org/abs/2312.02018v1)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778v1](http://arxiv.org/abs/2312.00778v1)|null|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777v1](http://arxiv.org/abs/2312.00777v1)|null|
 |**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776v1](http://arxiv.org/abs/2312.00776v1)|null|
@@ -1085,6 +1093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials**|Viktor Zaverkin et.al.|[2312.01416v1](http://arxiv.org/abs/2312.01416v1)|null|
 |**2023-11-30**|**Sketch Input Method Editor: A Comprehensive Dataset and Methodology for Systematic Input Recognition**|Guangming Zhu et.al.|[2311.18254v1](http://arxiv.org/abs/2311.18254v1)|null|
 |**2023-11-29**|**Analyzing Query Optimizer Performance in the Presence and Absence of Cardinality Estimates**|Asoke Datta et.al.|[2311.17293v1](http://arxiv.org/abs/2311.17293v1)|null|
 |**2023-11-28**|**Time- and Communication-Efficient Overlay Network Construction via Gossip**|Fabien Dufoulon et.al.|[2311.17115v1](http://arxiv.org/abs/2311.17115v1)|null|
@@ -1412,6 +1421,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
+|**2023-12-04**|**Light Field Imaging in the Restrictive Object Space based on Flexible Angular Plane**|Ping Zhou et.al.|[2312.01761v1](http://arxiv.org/abs/2312.01761v1)|null|
+|**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215v1](http://arxiv.org/abs/2312.01215v1)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v1](http://arxiv.org/abs/2312.01003v1)|null|
+|**2023-12-01**|**NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance**|Hanlin Chen et.al.|[2312.00846v1](http://arxiv.org/abs/2312.00846v1)|null|
 |**2023-12-01**|**UAVs and Birds: Enhancing Short-Range Navigation through Budgerigar Flight Studies**|Md. Mahmudur Rahman et.al.|[2312.00597v1](http://arxiv.org/abs/2312.00597v1)|null|
 |**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729v1](http://arxiv.org/abs/2311.18729v1)|null|
 |**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
@@ -1707,6 +1722,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150v1](http://arxiv.org/abs/2312.02150v1)|null|
+|**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
+|**2023-12-04**|**Rejuvenating image-GPT as Strong Visual Representation Learners**|Sucheng Ren et.al.|[2312.02147v1](http://arxiv.org/abs/2312.02147v1)|**[link](https://github.com/oliverrensu/d-igpt)**|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
+|**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144v1](http://arxiv.org/abs/2312.02144v1)|null|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143v1](http://arxiv.org/abs/2312.02143v1)|null|
+|**2023-12-04**|**Object Recognition as Next Token Prediction**|Kaiyu Yue et.al.|[2312.02142v1](http://arxiv.org/abs/2312.02142v1)|**[link](https://github.com/kaiyuyue/nxtp)**|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777v1](http://arxiv.org/abs/2312.00777v1)|null|
 |**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775v1](http://arxiv.org/abs/2312.00775v1)|null|
 |**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763v1](http://arxiv.org/abs/2312.00763v1)|null|
@@ -3007,6 +3030,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150v1](http://arxiv.org/abs/2312.02150v1)|null|
+|**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
+|**2023-12-04**|**Rejuvenating image-GPT as Strong Visual Representation Learners**|Sucheng Ren et.al.|[2312.02147v1](http://arxiv.org/abs/2312.02147v1)|**[link](https://github.com/oliverrensu/d-igpt)**|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
+|**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144v1](http://arxiv.org/abs/2312.02144v1)|null|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143v1](http://arxiv.org/abs/2312.02143v1)|null|
+|**2023-12-04**|**Object Recognition as Next Token Prediction**|Kaiyu Yue et.al.|[2312.02142v1](http://arxiv.org/abs/2312.02142v1)|**[link](https://github.com/kaiyuyue/nxtp)**|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777v1](http://arxiv.org/abs/2312.00777v1)|null|
 |**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775v1](http://arxiv.org/abs/2312.00775v1)|null|
 |**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763v1](http://arxiv.org/abs/2312.00763v1)|null|
