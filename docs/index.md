@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
+|**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204v1](http://arxiv.org/abs/2312.05204v1)|null|
+|**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140v1](http://arxiv.org/abs/2312.05140v1)|null|
+|**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107v1](http://arxiv.org/abs/2312.05107v1)|null|
+|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068v1](http://arxiv.org/abs/2312.05068v1)|null|
+|**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
+|**2023-12-08**|**Numerical determination of iron dust laminar flame speeds with the counterflow twin-flame technique**|C. E. A. G. van Gool et.al.|[2312.04994v1](http://arxiv.org/abs/2312.04994v1)|null|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566v1](http://arxiv.org/abs/2312.04566v1)|null|
 |**2023-12-07**|**NeRFiller: Completing Scenes via Generative 3D Inpainting**|Ethan Weber et.al.|[2312.04560v1](http://arxiv.org/abs/2312.04560v1)|null|
 |**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559v1](http://arxiv.org/abs/2312.04559v1)|**[link](https://github.com/frozenburning/primdiffusion)**|
@@ -1119,12 +1127,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Optimal Multi-Pass Lower Bounds for MST in Dynamic Streams**|Sepehr Assadi et.al.|[2312.04674v1](http://arxiv.org/abs/2312.04674v1)|null|
 |**2023-12-07**|**Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training**|Tianrun Chen et.al.|[2312.04435v1](http://arxiv.org/abs/2312.04435v1)|null|
 |**2023-12-07**|**DemoCaricature: Democratising Caricature Generation with a Rough Sketch**|Dar-Yen Chen et.al.|[2312.04364v1](http://arxiv.org/abs/2312.04364v1)|null|
 |**2023-12-07**|**Doodle Your 3D: From Abstract Freehand Sketches to Precise 3D Shapes**|Hmrishav Bandyopadhyay et.al.|[2312.04043v1](http://arxiv.org/abs/2312.04043v1)|null|
 |**2023-12-06**|**CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models**|Hailin Zhang et.al.|[2312.03256v1](http://arxiv.org/abs/2312.03256v1)|**[link](https://github.com/hugozhl/cafe)**|
 |**2023-12-05**|**SEVA: Leveraging sketches to evaluate alignment between human and machine visual abstraction**|Kushin Mukherjee et.al.|[2312.03035v1](http://arxiv.org/abs/2312.03035v1)|**[link](https://github.com/cogtoolslab/visual_abstractions_benchmarking_public2023)**|
-|**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428v1](http://arxiv.org/abs/2312.02428v1)|**[link](https://github.com/curisejia/freestyleret)**|
+|**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428v2](http://arxiv.org/abs/2312.02428v2)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**CLIPDrawX: Primitive-based Explanations for Text Guided Sketch Synthesis**|Nityanand Mathur et.al.|[2312.02345v1](http://arxiv.org/abs/2312.02345v1)|null|
 |**2023-12-03**|**Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials**|Viktor Zaverkin et.al.|[2312.01416v1](http://arxiv.org/abs/2312.01416v1)|null|
 |**2023-11-30**|**Sketch Input Method Editor: A Comprehensive Dataset and Methodology for Systematic Input Recognition**|Guangming Zhu et.al.|[2311.18254v1](http://arxiv.org/abs/2311.18254v1)|null|
@@ -1454,6 +1463,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
+|**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803v1](http://arxiv.org/abs/2312.04803v1)|null|
 |**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis et.al.|[2312.04465v1](http://arxiv.org/abs/2312.04465v1)|null|
 |**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
@@ -1764,6 +1775,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
+|**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|null|
+|**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
+|**2023-12-08**|**Seeing ChatGPT Through Universities' Policies, Resources and Guidelines**|Hui Wang et.al.|[2312.05235v1](http://arxiv.org/abs/2312.05235v1)|null|
 |**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567v1](http://arxiv.org/abs/2312.04567v1)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566v1](http://arxiv.org/abs/2312.04566v1)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
@@ -3098,6 +3114,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
+|**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|null|
+|**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
+|**2023-12-08**|**Seeing ChatGPT Through Universities' Policies, Resources and Guidelines**|Hui Wang et.al.|[2312.05235v1](http://arxiv.org/abs/2312.05235v1)|null|
 |**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567v1](http://arxiv.org/abs/2312.04567v1)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566v1](http://arxiv.org/abs/2312.04566v1)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
