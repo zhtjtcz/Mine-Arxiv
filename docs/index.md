@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**CAD: Photorealistic 3D Generation via Adversarial Distillation**|Ziyu Wan et.al.|[2312.06663v1](http://arxiv.org/abs/2312.06663v1)|null|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
+|**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
+|**2023-12-11**|**Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior**|Fangfu Liu et.al.|[2312.06655v1](http://arxiv.org/abs/2312.06655v1)|**[link](https://github.com/liuff19/Sherpa3D)**|
+|**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
+|**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607v1](http://arxiv.org/abs/2312.06607v1)|**[link](https://github.com/lewandofskee/DiAD)**|
+|**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573v1](http://arxiv.org/abs/2312.06573v1)|**[link](https://github.com/vislearn/ControlNet-XS)**|
+|**2023-12-11**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553v1](http://arxiv.org/abs/2312.06553v1)|null|
+|**2023-12-11**|**In-situ Synchrotron X-Ray Photoelectron Spectroscopy Study of Medium-Temperature Baking of Niobium for SRF Application**|Alena Prudnikava et.al.|[2312.06529v1](http://arxiv.org/abs/2312.06529v1)|null|
 |**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
 |**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204v1](http://arxiv.org/abs/2312.05204v1)|null|
@@ -1127,6 +1136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-09**|**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion**|Yuming Qiao et.al.|[2312.05482v1](http://arxiv.org/abs/2312.05482v1)|null|
 |**2023-12-07**|**Optimal Multi-Pass Lower Bounds for MST in Dynamic Streams**|Sepehr Assadi et.al.|[2312.04674v1](http://arxiv.org/abs/2312.04674v1)|null|
 |**2023-12-07**|**Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training**|Tianrun Chen et.al.|[2312.04435v1](http://arxiv.org/abs/2312.04435v1)|null|
 |**2023-12-07**|**DemoCaricature: Democratising Caricature Generation with a Rough Sketch**|Dar-Yen Chen et.al.|[2312.04364v1](http://arxiv.org/abs/2312.04364v1)|null|
@@ -1463,6 +1473,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889v1](http://arxiv.org/abs/2312.05889v1)|null|
+|**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283v1](http://arxiv.org/abs/2312.05283v1)|null|
 |**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803v1](http://arxiv.org/abs/2312.04803v1)|null|
 |**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis et.al.|[2312.04465v1](http://arxiv.org/abs/2312.04465v1)|null|
@@ -1775,6 +1787,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**CAD: Photorealistic 3D Generation via Adversarial Distillation**|Ziyu Wan et.al.|[2312.06663v1](http://arxiv.org/abs/2312.06663v1)|null|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
+|**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
+|**2023-12-11**|**EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM**|Chong Zhou et.al.|[2312.06660v1](http://arxiv.org/abs/2312.06660v1)|**[link](https://github.com/chongzhou96/edgesam)**|
+|**2023-12-11**|**Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior**|Fangfu Liu et.al.|[2312.06655v1](http://arxiv.org/abs/2312.06655v1)|**[link](https://github.com/liuff19/Sherpa3D)**|
+|**2023-12-11**|**LightSim: Neural Lighting Simulation for Urban Scenes**|Ava Pun et.al.|[2312.06654v1](http://arxiv.org/abs/2312.06654v1)|null|
+|**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653v1](http://arxiv.org/abs/2312.06653v1)|null|
+|**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283v1](http://arxiv.org/abs/2312.05283v1)|null|
 |**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
 |**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|null|
 |**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|null|
@@ -3114,6 +3134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**CAD: Photorealistic 3D Generation via Adversarial Distillation**|Ziyu Wan et.al.|[2312.06663v1](http://arxiv.org/abs/2312.06663v1)|null|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
+|**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
+|**2023-12-11**|**EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM**|Chong Zhou et.al.|[2312.06660v1](http://arxiv.org/abs/2312.06660v1)|**[link](https://github.com/chongzhou96/edgesam)**|
+|**2023-12-11**|**Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior**|Fangfu Liu et.al.|[2312.06655v1](http://arxiv.org/abs/2312.06655v1)|**[link](https://github.com/liuff19/Sherpa3D)**|
+|**2023-12-11**|**LightSim: Neural Lighting Simulation for Urban Scenes**|Ava Pun et.al.|[2312.06654v1](http://arxiv.org/abs/2312.06654v1)|null|
+|**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653v1](http://arxiv.org/abs/2312.06653v1)|null|
+|**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283v1](http://arxiv.org/abs/2312.05283v1)|null|
 |**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
 |**2023-12-08**|**Laboratory realization of relativistic pair-plasma beams**|C. D. Arrowsmith et.al.|[2312.05244v1](http://arxiv.org/abs/2312.05244v1)|null|
 |**2023-12-08**|**Contra generative AI detection in higher education assessments**|Cesare G. Ardito et.al.|[2312.05241v1](http://arxiv.org/abs/2312.05241v1)|null|
