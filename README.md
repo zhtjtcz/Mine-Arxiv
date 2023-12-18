@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008v1](http://arxiv.org/abs/2312.10008v1)|null|
+|**2023-12-15**|**Contributions to the geomagnetic secular variation from a reanalysis of core surface dynamics**|Olivier Barrois et.al.|[2312.09942v1](http://arxiv.org/abs/2312.09942v1)|null|
+|**2023-12-15**|**Assimilation of ground and satellite magnetic measurements: inference of core surface magnetic and velocity field changes**|Olivier Barrois et.al.|[2312.09878v1](http://arxiv.org/abs/2312.09878v1)|null|
+|**2023-12-15**|**Integrating New Technologies into Science: The case of AI**|Stefano Bianchini et.al.|[2312.09843v1](http://arxiv.org/abs/2312.09843v1)|null|
+|**2023-12-15**|**Socio-Economic Deprivation Analysis: Diffusion Maps**|June Moh Goo et.al.|[2312.09830v1](http://arxiv.org/abs/2312.09830v1)|null|
+|**2023-12-15**|**Comparison of Quasi-Geostrophic, Hybrid and 3D models of planetary core convection**|Olivier Barrois et.al.|[2312.09826v1](http://arxiv.org/abs/2312.09826v1)|null|
+|**2023-12-15**|**Neural networks for turbulent transport prediction in a simplified model of tokamak plasmas**|L. M. Pomârjanschi et.al.|[2312.09807v1](http://arxiv.org/abs/2312.09807v1)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252v1](http://arxiv.org/abs/2312.09252v1)|null|
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250v1](http://arxiv.org/abs/2312.09250v1)|null|
@@ -1154,6 +1161,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Sketch and shift: a robust decoder for compressive clustering**|Ayoub Belhadji et.al.|[2312.09940v1](http://arxiv.org/abs/2312.09940v1)|null|
+|**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812v1](http://arxiv.org/abs/2312.09812v1)|null|
 |**2023-12-14**|**Matching Noisy Keys for Obfuscation**|Charlie Dickens et.al.|[2312.08981v1](http://arxiv.org/abs/2312.08981v1)|null|
 |**2023-12-14**|**Solving Dense Linear Systems Faster than via Preconditioning**|Michał Dereziński et.al.|[2312.08893v1](http://arxiv.org/abs/2312.08893v1)|null|
 |**2023-12-13**|**Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing**|Guangming Zhu et.al.|[2312.07875v1](http://arxiv.org/abs/2312.07875v1)|**[link](https://github.com/guangmingzhu/sketchesc)**|
@@ -1814,6 +1823,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging**|Xia Zhu et.al.|[2312.10018v1](http://arxiv.org/abs/2312.10018v1)|null|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008v1](http://arxiv.org/abs/2312.10008v1)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007v1](http://arxiv.org/abs/2312.10007v1)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254v1](http://arxiv.org/abs/2312.09254v1)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252v1](http://arxiv.org/abs/2312.09252v1)|null|
@@ -3182,6 +3195,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging**|Xia Zhu et.al.|[2312.10018v1](http://arxiv.org/abs/2312.10018v1)|null|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008v1](http://arxiv.org/abs/2312.10008v1)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007v1](http://arxiv.org/abs/2312.10007v1)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254v1](http://arxiv.org/abs/2312.09254v1)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252v1](http://arxiv.org/abs/2312.09252v1)|null|
