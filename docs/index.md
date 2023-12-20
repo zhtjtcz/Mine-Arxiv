@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425v1](http://arxiv.org/abs/2312.12425v1)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419v1](http://arxiv.org/abs/2312.12419v1)|null|
+|**2023-12-19**|**LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset**|Haolin Liu et.al.|[2312.12418v1](http://arxiv.org/abs/2312.12418v1)|null|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416v1](http://arxiv.org/abs/2312.12416v1)|null|
+|**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274v1](http://arxiv.org/abs/2312.12274v1)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232v1](http://arxiv.org/abs/2312.12232v1)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835v1](http://arxiv.org/abs/2312.10835v1)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-17**|**From mixing to displacement of miscible phases in porous media: The role of heterogeneity and inlet pressure**|Yahel Eliyahu-Yakir et.al.|[2312.10722v1](http://arxiv.org/abs/2312.10722v1)|null|
@@ -1170,6 +1177,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Sketch Vision: Artificial Intelligence with Sight for Imagination**|Demircan Tas et.al.|[2312.12270v1](http://arxiv.org/abs/2312.12270v1)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232v1](http://arxiv.org/abs/2312.12232v1)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2023-12-19**|**CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI**|DaEun Choi et.al.|[2312.11949v1](http://arxiv.org/abs/2312.11949v1)|null|
 |**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|null|
 |**2023-12-15**|**Sketch and shift: a robust decoder for compressive clustering**|Ayoub Belhadji et.al.|[2312.09940v1](http://arxiv.org/abs/2312.09940v1)|null|
 |**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812v1](http://arxiv.org/abs/2312.09812v1)|null|
@@ -1514,8 +1524,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**|David Charatan et.al.|[2312.12337v1](http://arxiv.org/abs/2312.12337v1)|null|
+|**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|null|
 |**2023-12-17**|**Primitive-based 3D Human-Object Interaction Modelling and Programming**|Siqi Liu et.al.|[2312.10714v1](http://arxiv.org/abs/2312.10714v1)|null|
-|**2023-12-14**|**Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers**|Zi-Xin Zou et.al.|[2312.09147v1](http://arxiv.org/abs/2312.09147v1)|null|
+|**2023-12-16**|**Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers**|Zi-Xin Zou et.al.|[2312.09147v2](http://arxiv.org/abs/2312.09147v2)|null|
 |**2023-12-14**|**Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments**|Liyuan Zhu et.al.|[2312.09138v1](http://arxiv.org/abs/2312.09138v1)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005v1](http://arxiv.org/abs/2312.09005v1)|null|
 |**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741v1](http://arxiv.org/abs/2312.06741v1)|null|
@@ -1834,6 +1846,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**ROSE: A reduced-order scattering emulator for optical models**|Daniel Odell et.al.|[2312.12426v1](http://arxiv.org/abs/2312.12426v1)|null|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425v1](http://arxiv.org/abs/2312.12425v1)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419v1](http://arxiv.org/abs/2312.12419v1)|null|
 |**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
 |**2023-12-18**|**Sharable Clothoid-based Continuous Motion Planning for Connected Automated Vehicles**|Sanghoon Oh et.al.|[2312.10880v1](http://arxiv.org/abs/2312.10880v1)|null|
@@ -3211,6 +3230,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**ROSE: A reduced-order scattering emulator for optical models**|Daniel Odell et.al.|[2312.12426v1](http://arxiv.org/abs/2312.12426v1)|null|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425v1](http://arxiv.org/abs/2312.12425v1)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419v1](http://arxiv.org/abs/2312.12419v1)|null|
 |**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887v1](http://arxiv.org/abs/2312.10887v1)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
 |**2023-12-18**|**Sharable Clothoid-based Continuous Motion Planning for Connected Automated Vehicles**|Sanghoon Oh et.al.|[2312.10880v1](http://arxiv.org/abs/2312.10880v1)|null|
