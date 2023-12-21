@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v1](http://arxiv.org/abs/2312.13271v1)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
+|**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
+|**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236v1](http://arxiv.org/abs/2312.13236v1)|**[link](https://github.com/s-sahoo/mulan)**|
+|**2023-12-20**|**MoSAR: Monocular Semi-Supervised Model for Avatar Reconstruction using Differentiable Shading**|Abdallah Dib et.al.|[2312.13091v1](http://arxiv.org/abs/2312.13091v1)|null|
+|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v1](http://arxiv.org/abs/2312.13016v1)|null|
+|**2023-12-20**|**A comparative study of analytical models of diffuse reflectance in homogeneous biological tissues: Gelatin based phantoms and Monte Carlo experiments**|Anisha Bahl et.al.|[2312.12935v1](http://arxiv.org/abs/2312.12935v1)|null|
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
 |**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425v1](http://arxiv.org/abs/2312.12425v1)|**[link](https://github.com/mengyuwang826/segrefiner)**|
 |**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419v1](http://arxiv.org/abs/2312.12419v1)|null|
@@ -1177,6 +1184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Open Vocabulary Semantic Scene Sketch Understanding**|Ahmed Bourouis et.al.|[2312.12463v1](http://arxiv.org/abs/2312.12463v1)|null|
 |**2023-12-19**|**Sketch Vision: Artificial Intelligence with Sight for Imagination**|Demircan Tas et.al.|[2312.12270v1](http://arxiv.org/abs/2312.12270v1)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232v1](http://arxiv.org/abs/2312.12232v1)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
 |**2023-12-19**|**CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI**|DaEun Choi et.al.|[2312.11949v1](http://arxiv.org/abs/2312.11949v1)|null|
@@ -1524,6 +1532,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285v1](http://arxiv.org/abs/2312.13285v1)|null|
+|**2023-12-20**|**Splatter Image: Ultra-Fast Single-View 3D Reconstruction**|Stanislaw Szymanowicz et.al.|[2312.13150v1](http://arxiv.org/abs/2312.13150v1)|**[link](https://github.com/szymanowiczs/splatter-image)**|
 |**2023-12-19**|**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**|David Charatan et.al.|[2312.12337v1](http://arxiv.org/abs/2312.12337v1)|null|
 |**2023-12-19**|**EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping**|Weipeng Guan et.al.|[2312.11911v1](http://arxiv.org/abs/2312.11911v1)|null|
 |**2023-12-17**|**Primitive-based 3D Human-Object Interaction Modelling and Programming**|Siqi Liu et.al.|[2312.10714v1](http://arxiv.org/abs/2312.10714v1)|null|
@@ -1846,6 +1856,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|null|
+|**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285v1](http://arxiv.org/abs/2312.13285v1)|null|
+|**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277v1](http://arxiv.org/abs/2312.13277v1)|null|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v1](http://arxiv.org/abs/2312.13271v1)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
@@ -3230,6 +3244,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|null|
+|**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285v1](http://arxiv.org/abs/2312.13285v1)|null|
+|**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277v1](http://arxiv.org/abs/2312.13277v1)|null|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v1](http://arxiv.org/abs/2312.13271v1)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-19**|**Weakly Supervised Open-Vocabulary Object Detection**|Jianghang Lin et.al.|[2312.12437v1](http://arxiv.org/abs/2312.12437v1)|null|
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436v1](http://arxiv.org/abs/2312.12436v1)|null|
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
