@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
+|**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871v1](http://arxiv.org/abs/2312.14871v1)|null|
+|**2023-12-22**|**Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**|Tanish Baranwal et.al.|[2312.14830v1](http://arxiv.org/abs/2312.14830v1)|null|
+|**2023-12-22**|**Neural network models for preferential concentration of particles in two-dimensional turbulence**|Thibault Maurel-Oujia et.al.|[2312.14829v1](http://arxiv.org/abs/2312.14829v1)|null|
+|**2023-12-22**|**Plan, Posture and Go: Towards Open-World Text-to-Motion Generation**|Jinpeng Liu et.al.|[2312.14828v1](http://arxiv.org/abs/2312.14828v1)|null|
+|**2023-12-22**|**Disorder-induced non-linear growth of viscously-unstable immiscible two-phase flow fingers in porous media**|Santanu Sinha et.al.|[2312.14799v1](http://arxiv.org/abs/2312.14799v1)|null|
+|**2023-12-22**|**Diffusion Maps for Signal Filtering in Graph Learning**|Todd Hildebrant et.al.|[2312.14758v1](http://arxiv.org/abs/2312.14758v1)|null|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134v1](http://arxiv.org/abs/2312.14134v1)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124v1](http://arxiv.org/abs/2312.14124v1)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
@@ -1187,6 +1194,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**A Modular Approach to Metatheoretic Reasoning for Extensible Languages**|Dawn Michaelson et.al.|[2312.14374v1](http://arxiv.org/abs/2312.14374v1)|null|
 |**2023-12-21**|**On the Hardness of Analyzing Quantum Programs Quantitatively**|Martin Avanzini et.al.|[2312.13657v1](http://arxiv.org/abs/2312.13657v1)|null|
 |**2023-12-18**|**Open Vocabulary Semantic Scene Sketch Understanding**|Ahmed Bourouis et.al.|[2312.12463v1](http://arxiv.org/abs/2312.12463v1)|null|
 |**2023-12-19**|**Sketch Vision: Artificial Intelligence with Sight for Imagination**|Demircan Tas et.al.|[2312.12270v1](http://arxiv.org/abs/2312.12270v1)|null|
@@ -1536,6 +1544,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697v1](http://arxiv.org/abs/2312.14697v1)|null|
+|**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432v1](http://arxiv.org/abs/2312.14432v1)|null|
+|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157v1](http://arxiv.org/abs/2312.14157v1)|null|
 |**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132v1](http://arxiv.org/abs/2312.14132v1)|null|
 |**2023-12-21**|**Anatomical basis of sex differences in human post-myocardial infarction ECG phenotypes identified by novel automated torso-cardiac 3D reconstruction**|Hannah J. Smith et.al.|[2312.13976v1](http://arxiv.org/abs/2312.13976v1)|null|
@@ -1865,6 +1876,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150v1](http://arxiv.org/abs/2312.14150v1)|**[link](https://github.com/opendrivelab/drivelm)**|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140v1](http://arxiv.org/abs/2312.14140v1)|null|
@@ -3257,6 +3270,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150v1](http://arxiv.org/abs/2312.14150v1)|**[link](https://github.com/opendrivelab/drivelm)**|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140v1](http://arxiv.org/abs/2312.14140v1)|null|
