@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145v1](http://arxiv.org/abs/2312.16145v1)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964v1](http://arxiv.org/abs/2312.15964v1)|null|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946v1](http://arxiv.org/abs/2312.15946v1)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871v1](http://arxiv.org/abs/2312.14871v1)|null|
 |**2023-12-22**|**Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**|Tanish Baranwal et.al.|[2312.14830v1](http://arxiv.org/abs/2312.14830v1)|null|
@@ -1198,6 +1202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Generative AI and the History of Architecture**|Joern Ploennigs et.al.|[2312.15106v1](http://arxiv.org/abs/2312.15106v1)|null|
 |**2023-12-22**|**A Modular Approach to Metatheoretic Reasoning for Extensible Languages**|Dawn Michaelson et.al.|[2312.14374v1](http://arxiv.org/abs/2312.14374v1)|null|
 |**2023-12-21**|**On the Hardness of Analyzing Quantum Programs Quantitatively**|Martin Avanzini et.al.|[2312.13657v1](http://arxiv.org/abs/2312.13657v1)|null|
 |**2023-12-18**|**Open Vocabulary Semantic Scene Sketch Understanding**|Ahmed Bourouis et.al.|[2312.12463v1](http://arxiv.org/abs/2312.12463v1)|null|
@@ -1548,6 +1553,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-24**|**A theory of volumetric representations for opaque solids**|Bailey Miller et.al.|[2312.15406v1](http://arxiv.org/abs/2312.15406v1)|null|
 |**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697v1](http://arxiv.org/abs/2312.14697v1)|null|
 |**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432v1](http://arxiv.org/abs/2312.14432v1)|null|
 |**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
@@ -1880,6 +1886,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
+|**2023-12-26**|**Age of Information in Gossip Networks: A Friendly Introduction and Literature Survey**|Priyanka Kaswan et.al.|[2312.16163v1](http://arxiv.org/abs/2312.16163v1)|null|
+|**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|
+|**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156v1](http://arxiv.org/abs/2312.16156v1)|null|
+|**2023-12-26**|**Validating Light Phenomena Conceptual Assessment Through The Lens of CTT and IRT Frameworks**|Purwoko Haryadi Santoso et.al.|[2312.16153v1](http://arxiv.org/abs/2312.16153v1)|null|
+|**2023-12-26**|**SoundCount: Sound Counting from Raw Audio with Dyadic Decomposition Neural Network**|Yuhang He et.al.|[2312.16149v1](http://arxiv.org/abs/2312.16149v1)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
@@ -3274,6 +3286,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
+|**2023-12-26**|**Age of Information in Gossip Networks: A Friendly Introduction and Literature Survey**|Priyanka Kaswan et.al.|[2312.16163v1](http://arxiv.org/abs/2312.16163v1)|null|
+|**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|
+|**2023-12-26**|**From Text to Multimodal: A Comprehensive Survey of Adversarial Example Generation in Question Answering Systems**|Gulsum Yigit et.al.|[2312.16156v1](http://arxiv.org/abs/2312.16156v1)|null|
+|**2023-12-26**|**Validating Light Phenomena Conceptual Assessment Through The Lens of CTT and IRT Frameworks**|Purwoko Haryadi Santoso et.al.|[2312.16153v1](http://arxiv.org/abs/2312.16153v1)|null|
+|**2023-12-26**|**SoundCount: Sound Counting from Raw Audio with Dyadic Decomposition Neural Network**|Yuhang He et.al.|[2312.16149v1](http://arxiv.org/abs/2312.16149v1)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
