@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@ layout: default
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145v1](http://arxiv.org/abs/2312.16145v1)|null|
 |**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|null|
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964v1](http://arxiv.org/abs/2312.15964v1)|null|
-|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946v1](http://arxiv.org/abs/2312.15946v1)|null|
+|**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946v1](http://arxiv.org/abs/2312.15946v1)|**[link](https://github.com/fluide1022/EnchantDance)**|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871v1](http://arxiv.org/abs/2312.14871v1)|null|
 |**2023-12-22**|**Dreaming of Electrical Waves: Generative Modeling of Cardiac Excitation Waves using Diffusion Models**|Tanish Baranwal et.al.|[2312.14830v1](http://arxiv.org/abs/2312.14830v1)|null|
@@ -1196,7 +1196,7 @@ layout: default
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## sketch
 
@@ -1547,7 +1547,7 @@ layout: default
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## 3D reconstruction
 
@@ -1880,7 +1880,7 @@ layout: default
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-24**|**Polarimetric Multi-View Inverse Rendering**|Jinyu Zhao et.al.|[2212.12721v1](http://arxiv.org/abs/2212.12721v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## generate
 
@@ -3280,7 +3280,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## generation
 
@@ -4680,7 +4680,7 @@ layout: default
 |**2023-01-12**|**Adversarial Adaptation for French Named Entity Recognition**|Arjun Choudhry et.al.|[2301.05220v1](http://arxiv.org/abs/2301.05220v1)|**[link](https://github.com/arjun7m/aa_ner_fr)**|
 |**2023-01-12**|**NDNSD: Service Publishing and Discovery in NDN**|Saurab Dulal et.al.|[2301.05218v1](http://arxiv.org/abs/2301.05218v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zhtjtcz/Mine-Arxiv.svg?style=for-the-badge
 [contributors-url]: https://github.com/zhtjtcz/Mine-Arxiv/graphs/contributors
