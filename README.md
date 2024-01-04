@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846v1](http://arxiv.org/abs/2401.01846v1)|null|
+|**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827v1](http://arxiv.org/abs/2401.01827v1)|**[link](https://github.com/salesforce/lavis)**|
+|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808v1](http://arxiv.org/abs/2401.01808v1)|null|
+|**2024-01-03**|**Short-time expansion of one-dimensional Fokker-Planck equations with heterogeneous diffusion**|Tom Dupont et.al.|[2401.01765v1](http://arxiv.org/abs/2401.01765v1)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281v1](http://arxiv.org/abs/2401.01281v1)|null|
 |**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262v1](http://arxiv.org/abs/2401.01262v1)|null|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
@@ -1215,12 +1220,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|null|
 |**2024-01-01**|**Free-form Shape Modeling in XR: A Systematic Review**|Shounak Chatterjee et.al.|[2401.00924v1](http://arxiv.org/abs/2401.00924v1)|null|
 |**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739v1](http://arxiv.org/abs/2401.00739v1)|null|
 |**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420v1](http://arxiv.org/abs/2401.00420v1)|**[link](https://github.com/samarth4149/syncdr)**|
 |**2023-12-31**|**Multi-Granularity Representation Learning for Sketch-based Dynamic Face Image Retrieval**|Liang Wang et.al.|[2401.00371v1](http://arxiv.org/abs/2401.00371v1)|**[link](https://github.com/ddw2aigroup2cqupt/mgrl)**|
 |**2023-12-28**|**A randomized algorithm to solve reduced rank operator regression**|Giacomo Turri et.al.|[2312.17348v1](http://arxiv.org/abs/2312.17348v1)|null|
-|**2023-12-27**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476v1](http://arxiv.org/abs/2312.16476v1)|null|
+|**2024-01-03**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476v2](http://arxiv.org/abs/2312.16476v2)|null|
 |**2023-12-22**|**Generative AI and the History of Architecture**|Joern Ploennigs et.al.|[2312.15106v1](http://arxiv.org/abs/2312.15106v1)|null|
 |**2023-12-22**|**A Modular Approach to Metatheoretic Reasoning for Extensible Languages**|Dawn Michaelson et.al.|[2312.14374v1](http://arxiv.org/abs/2312.14374v1)|null|
 |**2023-12-21**|**On the Hardness of Analyzing Quantum Programs Quantitatively**|Martin Avanzini et.al.|[2312.13657v1](http://arxiv.org/abs/2312.13657v1)|null|
@@ -1572,6 +1578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643v1](http://arxiv.org/abs/2401.01643v1)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|
 |**2023-12-28**|**Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants**|Mohamad Qadri et.al.|[2312.17110v1](http://arxiv.org/abs/2312.17110v1)|null|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018v1](http://arxiv.org/abs/2312.17018v1)|null|
@@ -1910,6 +1917,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
+|**2024-01-03**|**A rewriting-logic-with-SMT-based formal analysis and parameter synthesis framework for parametric time Petri nets**|Jaime Arias et.al.|[2401.01884v1](http://arxiv.org/abs/2401.01884v1)|null|
+|**2024-01-03**|**Theoretical guarantees on the best-of-n alignment policy**|Ahmad Beirami et.al.|[2401.01879v1](http://arxiv.org/abs/2401.01879v1)|null|
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
+|**2024-01-03**|**Dataset Difficulty and the Role of Inductive Bias**|Devin Kwok et.al.|[2401.01867v1](http://arxiv.org/abs/2401.01867v1)|null|
 |**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|null|
 |**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
 |**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|null|
@@ -3324,6 +3336,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
+|**2024-01-03**|**A rewriting-logic-with-SMT-based formal analysis and parameter synthesis framework for parametric time Petri nets**|Jaime Arias et.al.|[2401.01884v1](http://arxiv.org/abs/2401.01884v1)|null|
+|**2024-01-03**|**Theoretical guarantees on the best-of-n alignment policy**|Ahmad Beirami et.al.|[2401.01879v1](http://arxiv.org/abs/2401.01879v1)|null|
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
+|**2024-01-03**|**Dataset Difficulty and the Role of Inductive Bias**|Devin Kwok et.al.|[2401.01867v1](http://arxiv.org/abs/2401.01867v1)|null|
 |**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|null|
 |**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
 |**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|null|
