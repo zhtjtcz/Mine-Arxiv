@@ -24,10 +24,10 @@
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
 |**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363v1](http://arxiv.org/abs/2401.02363v1)|null|
 |**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300v1](http://arxiv.org/abs/2401.02300v1)|null|
-|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
-|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846v1](http://arxiv.org/abs/2401.01846v1)|null|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|**[link](https://github.com/facebookresearch/audio2photoreal)**|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846v1](http://arxiv.org/abs/2401.01846v1)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827v1](http://arxiv.org/abs/2401.01827v1)|**[link](https://github.com/salesforce/lavis)**|
-|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808v1](http://arxiv.org/abs/2401.01808v1)|null|
+|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808v1](http://arxiv.org/abs/2401.01808v1)|**[link](https://github.com/huggingface/amused)**|
 |**2024-01-03**|**Short-time expansion of one-dimensional Fokker-Planck equations with heterogeneous diffusion**|Tom Dupont et.al.|[2401.01765v1](http://arxiv.org/abs/2401.01765v1)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281v1](http://arxiv.org/abs/2401.01281v1)|null|
 |**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262v1](http://arxiv.org/abs/2401.01262v1)|null|
@@ -47,7 +47,7 @@
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135v1](http://arxiv.org/abs/2312.17135v1)|null|
 |**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027v1](http://arxiv.org/abs/2312.17027v1)|**[link](https://github.com/anasem/quantized-eddy-accumulation)**|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145v1](http://arxiv.org/abs/2312.16145v1)|null|
-|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|**[link](https://github.com/byeongjun-park/HarmonyView)**|
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964v1](http://arxiv.org/abs/2312.15964v1)|null|
 |**2023-12-26**|**EnchantDance: Unveiling the Potential of Music-Driven Dance Movement**|Bo Han et.al.|[2312.15946v1](http://arxiv.org/abs/2312.15946v1)|**[link](https://github.com/fluide1022/EnchantDance)**|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929v1](http://arxiv.org/abs/2312.14929v1)|null|
@@ -103,7 +103,7 @@
 |**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207v1](http://arxiv.org/abs/2312.08207v1)|null|
 |**2023-12-13**|**SPD-DDPM: Denoising Diffusion Probabilistic Models in the Symmetric Positive Definite Space**|Yunchen Li et.al.|[2312.08200v1](http://arxiv.org/abs/2312.08200v1)|**[link](https://github.com/li-yun-chen/spd-ddpm)**|
 |**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195v1](http://arxiv.org/abs/2312.08195v1)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
-|**2023-12-13**|**$ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153v1](http://arxiv.org/abs/2312.08153v1)|null|
+|**2023-12-13**|**$ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153v1](http://arxiv.org/abs/2312.08153v1)|**[link](https://github.com/intel/rho-diffusion)**|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128v1](http://arxiv.org/abs/2312.08128v1)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537v1](http://arxiv.org/abs/2312.07537v1)|**[link](https://github.com/tianxingwu/freeinit)**|
 |**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536v1](http://arxiv.org/abs/2312.07536v1)|null|
@@ -406,7 +406,7 @@
 |**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664v1](http://arxiv.org/abs/2309.15664v1)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2023-09-27**|**Direct Sensing of Remote Nuclei: Expanding the Reach of Cross-Effect Dynamic Nuclear Polarization**|Amaria Javed et.al.|[2309.15653v1](http://arxiv.org/abs/2309.15653v1)|null|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
-|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
+|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|**[link](https://github.com/Vchitect/LaVie)**|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
 |**2023-09-27**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872v2](http://arxiv.org/abs/2309.14872v2)|null|
 |**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859v1](http://arxiv.org/abs/2309.14859v1)|**[link](https://github.com/kohakublueleaf/lycoris)**|
@@ -574,7 +574,7 @@
 |**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249v1](http://arxiv.org/abs/2308.04249v1)|**[link](https://github.com/reedonepeck/minddiffuser)**|
 |**2023-08-08**|**Synthetic Augmentation with Large-scale Unconditional Pre-training**|Jiarong Ye et.al.|[2308.04020v1](http://arxiv.org/abs/2308.04020v1)|**[link](https://github.com/karenyyy/histodiffaug)**|
 |**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669v1](http://arxiv.org/abs/2308.03669v1)|**[link](https://github.com/tatsu432/BDCM)**|
-|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
+|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|**[link](https://github.com/bytedance/AvatarVerse)**|
 |**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v2](http://arxiv.org/abs/2308.03463v2)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-04**|**Quantum Dynamical Approach to Predicting the Optical Pumping Threshold for Lasing in Organic Materials**|Bin Zhang et.al.|[2308.02447v1](http://arxiv.org/abs/2308.02447v1)|null|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
@@ -1052,7 +1052,7 @@
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306v1](http://arxiv.org/abs/2303.11306v1)|null|
 |**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305v1](http://arxiv.org/abs/2303.11305v1)|**[link](https://github.com/phymhan/SVDiff)**|
-|**2023-03-20**|**AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models**|Yu Cao et.al.|[2303.11137v1](http://arxiv.org/abs/2303.11137v1)|null|
+|**2023-03-20**|**AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models**|Yu Cao et.al.|[2303.11137v1](http://arxiv.org/abs/2303.11137v1)|**[link](https://github.com/xq-meng/animediffusion)**|
 |**2023-03-17**|**A Recipe for Watermarking Diffusion Models**|Yunqing Zhao et.al.|[2303.10137v1](http://arxiv.org/abs/2303.10137v1)|**[link](https://github.com/yunqing-me/watermarkdm)**|
 |**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108v1](http://arxiv.org/abs/2303.10108v1)|**[link](https://github.com/liugangcode/data_centric_transfer)**|
 |**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
@@ -1238,7 +1238,7 @@
 |**2023-12-19**|**Sketch Vision: Artificial Intelligence with Sight for Imagination**|Demircan Tas et.al.|[2312.12270v1](http://arxiv.org/abs/2312.12270v1)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232v1](http://arxiv.org/abs/2312.12232v1)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
 |**2023-12-19**|**CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI**|DaEun Choi et.al.|[2312.11949v1](http://arxiv.org/abs/2312.11949v1)|null|
-|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|**[link](https://github.com/zermatt-luo/SBKA)**|
 |**2023-12-15**|**Sketch and shift: a robust decoder for compressive clustering**|Ayoub Belhadji et.al.|[2312.09940v1](http://arxiv.org/abs/2312.09940v1)|null|
 |**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812v1](http://arxiv.org/abs/2312.09812v1)|**[link](https://github.com/event-ahu/vehiclemae)**|
 |**2023-12-14**|**Matching Noisy Keys for Obfuscation**|Charlie Dickens et.al.|[2312.08981v1](http://arxiv.org/abs/2312.08981v1)|null|
@@ -1667,7 +1667,7 @@
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552v1](http://arxiv.org/abs/2311.02552v1)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 |**2023-11-02**|**CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation**|Jingkang Wang et.al.|[2311.01447v1](http://arxiv.org/abs/2311.01447v1)|null|
 |**2023-11-02**|**Look at Robot Base Once: Hand-Eye Calibration with Point Clouds of Robot Base Leveraging Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335v1](http://arxiv.org/abs/2311.01335v1)|**[link](https://github.com/leihui6/lrbo)**|
-|**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|null|
+|**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|**[link](https://github.com/icb-vision-ai/rslf)**|
 |**2023-11-01**|**Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture**|Yixin Chen et.al.|[2311.00457v1](http://arxiv.org/abs/2311.00457v1)|null|
 |**2023-10-31**|**Deep Compressed Learning for 3D Seismic Inversion**|Maayan Gelboim et.al.|[2311.00107v1](http://arxiv.org/abs/2311.00107v1)|null|
 |**2023-10-31**|**Refined Equivalent Pinhole Model for Large-scale 3D Reconstruction from Spaceborne CCD Imagery**|Hong Danyang et.al.|[2310.20117v1](http://arxiv.org/abs/2310.20117v1)|null|
@@ -1928,13 +1928,13 @@
 |**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404v1](http://arxiv.org/abs/2401.02404v1)|null|
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402v1](http://arxiv.org/abs/2401.02402v1)|null|
 |**2024-01-04**|**Learning the 3D Fauna of the Web**|Zizhang Li et.al.|[2401.02400v1](http://arxiv.org/abs/2401.02400v1)|null|
-|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|**[link](https://github.com/facebookresearch/audio2photoreal)**|
 |**2024-01-03**|**A rewriting-logic-with-SMT-based formal analysis and parameter synthesis framework for parametric time Petri nets**|Jaime Arias et.al.|[2401.01884v1](http://arxiv.org/abs/2401.01884v1)|null|
 |**2024-01-03**|**Theoretical guarantees on the best-of-n alignment policy**|Ahmad Beirami et.al.|[2401.01879v1](http://arxiv.org/abs/2401.01879v1)|null|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**Dataset Difficulty and the Role of Inductive Bias**|Devin Kwok et.al.|[2401.01867v1](http://arxiv.org/abs/2401.01867v1)|null|
 |**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|null|
-|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
+|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|**[link](https://github.com/urchade/atg)**|
 |**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|null|
 |**2024-01-02**|**On the uniqueness and computation of commuting extensions**|Pascal Koiran et.al.|[2401.01302v1](http://arxiv.org/abs/2401.01302v1)|null|
 |**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748v1](http://arxiv.org/abs/2312.17748v1)|null|
@@ -2026,7 +2026,7 @@
 |**2023-12-06**|**Relightable Gaussian Codec Avatars**|Shunsuke Saito et.al.|[2312.03704v1](http://arxiv.org/abs/2312.03704v1)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703v1](http://arxiv.org/abs/2312.03703v1)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v1](http://arxiv.org/abs/2312.03701v1)|**[link](https://github.com/LTH14/rcg)**|
-|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|null|
+|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|**[link](https://github.com/compphoto/IntrinsicCompositing)**|
 |**2023-12-06**|**Efficient Learning in Polyhedral Games via Best Response Oracles**|Darshan Chakrabarti et.al.|[2312.03696v1](http://arxiv.org/abs/2312.03696v1)|null|
 |**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692v1](http://arxiv.org/abs/2312.03692v1)|null|
 |**2023-12-06**|**On the Role of Edge Dependency in Graph Generative Models**|Sudhanshu Chanpuriya et.al.|[2312.03691v1](http://arxiv.org/abs/2312.03691v1)|null|
@@ -3354,13 +3354,13 @@
 |**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404v1](http://arxiv.org/abs/2401.02404v1)|null|
 |**2024-01-04**|**3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation**|Zihao Xiao et.al.|[2401.02402v1](http://arxiv.org/abs/2401.02402v1)|null|
 |**2024-01-04**|**Learning the 3D Fauna of the Web**|Zizhang Li et.al.|[2401.02400v1](http://arxiv.org/abs/2401.02400v1)|null|
-|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|null|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885v1](http://arxiv.org/abs/2401.01885v1)|**[link](https://github.com/facebookresearch/audio2photoreal)**|
 |**2024-01-03**|**A rewriting-logic-with-SMT-based formal analysis and parameter synthesis framework for parametric time Petri nets**|Jaime Arias et.al.|[2401.01884v1](http://arxiv.org/abs/2401.01884v1)|null|
 |**2024-01-03**|**Theoretical guarantees on the best-of-n alignment policy**|Ahmad Beirami et.al.|[2401.01879v1](http://arxiv.org/abs/2401.01879v1)|null|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**Dataset Difficulty and the Role of Inductive Bias**|Devin Kwok et.al.|[2401.01867v1](http://arxiv.org/abs/2401.01867v1)|null|
 |**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335v1](http://arxiv.org/abs/2401.01335v1)|null|
-|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|null|
+|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326v1](http://arxiv.org/abs/2401.01326v1)|**[link](https://github.com/urchade/atg)**|
 |**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313v1](http://arxiv.org/abs/2401.01313v1)|null|
 |**2024-01-02**|**On the uniqueness and computation of commuting extensions**|Pascal Koiran et.al.|[2401.01302v1](http://arxiv.org/abs/2401.01302v1)|null|
 |**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748v1](http://arxiv.org/abs/2312.17748v1)|null|
@@ -3452,7 +3452,7 @@
 |**2023-12-06**|**Relightable Gaussian Codec Avatars**|Shunsuke Saito et.al.|[2312.03704v1](http://arxiv.org/abs/2312.03704v1)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703v1](http://arxiv.org/abs/2312.03703v1)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v1](http://arxiv.org/abs/2312.03701v1)|**[link](https://github.com/LTH14/rcg)**|
-|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|null|
+|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v1](http://arxiv.org/abs/2312.03698v1)|**[link](https://github.com/compphoto/IntrinsicCompositing)**|
 |**2023-12-06**|**Efficient Learning in Polyhedral Games via Best Response Oracles**|Darshan Chakrabarti et.al.|[2312.03696v1](http://arxiv.org/abs/2312.03696v1)|null|
 |**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692v1](http://arxiv.org/abs/2312.03692v1)|null|
 |**2023-12-06**|**On the Role of Edge Dependency in Graph Generative Models**|Sudhanshu Chanpuriya et.al.|[2312.03691v1](http://arxiv.org/abs/2312.03691v1)|null|
