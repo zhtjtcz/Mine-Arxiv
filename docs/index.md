@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
+|**2024-01-11**|**Numerical thermalization in 2D PIC simulations: Practical estimates for low temperature plasma simulations**|Sierra Jubin et.al.|[2401.06057v1](http://arxiv.org/abs/2401.06057v1)|null|
+|**2024-01-11**|**DiffDA: a diffusion model for weather-scale data assimilation**|Langwen Huang et.al.|[2401.05932v1](http://arxiv.org/abs/2401.05932v1)|null|
+|**2024-01-11**|**Efficient Image Deblurring Networks based on Diffusion Models**|Kang Chen et.al.|[2401.05907v1](http://arxiv.org/abs/2401.05907v1)|**[link](https://github.com/bnm6900030/swintormer)**|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293v1](http://arxiv.org/abs/2401.05293v1)|null|
 |**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|null|
@@ -1245,6 +1249,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**|Chunlei Peng et.al.|[2401.05646v1](http://arxiv.org/abs/2401.05646v1)|null|
+|**2024-01-11**|**DrawTalking: Building Interactive Worlds by Sketching and Speaking**|Karl Toby Rosenberg et.al.|[2401.05631v1](http://arxiv.org/abs/2401.05631v1)|null|
 |**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860v1](http://arxiv.org/abs/2401.04860v1)|null|
 |**2024-01-09**|**Content-Conditioned Generation of Stylized Free hand Sketches**|Jiajun Liu et.al.|[2401.04739v1](http://arxiv.org/abs/2401.04739v1)|null|
 |**2024-01-09**|**Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**|Kwan Yun et.al.|[2401.04362v1](http://arxiv.org/abs/2401.04362v1)|null|
@@ -1608,6 +1614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Surgical-DINO: Adapter Learning of Foundation Model for Depth Estimation in Endoscopic Surgery**|Cui Beilei et.al.|[2401.06013v1](http://arxiv.org/abs/2401.06013v1)|**[link](https://github.com/beileicui/surgicaldino)**|
 |**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143v1](http://arxiv.org/abs/2401.04143v1)|null|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099v1](http://arxiv.org/abs/2401.04099v1)|null|
@@ -1951,6 +1958,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
+|**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
+|**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126v1](http://arxiv.org/abs/2401.06126v1)|null|
+|**2024-01-11**|**Manipulating Feature Visualizations with Gradient Slingshots**|Dilyara Bareeva et.al.|[2401.06122v1](http://arxiv.org/abs/2401.06122v1)|**[link](https://github.com/dilyabareeva/grad-slingshot)**|
+|**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116v1](http://arxiv.org/abs/2401.06116v1)|null|
+|**2024-01-11**|**Jupyter widgets and extensions for education and research in computational physics and chemistry**|Dou Du et.al.|[2401.06113v1](http://arxiv.org/abs/2401.06113v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**URHand: Universal Relightable Hands**|Zhaoxi Chen et.al.|[2401.05334v1](http://arxiv.org/abs/2401.05334v1)|null|
 |**2024-01-10**|**\textit{SmartMME}: Implementation of Base Station Switching Off Strategy in ns-3**|Argha Sen et.al.|[2401.05329v1](http://arxiv.org/abs/2401.05329v1)|null|
@@ -3393,6 +3406,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
+|**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
+|**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126v1](http://arxiv.org/abs/2401.06126v1)|null|
+|**2024-01-11**|**Manipulating Feature Visualizations with Gradient Slingshots**|Dilyara Bareeva et.al.|[2401.06122v1](http://arxiv.org/abs/2401.06122v1)|**[link](https://github.com/dilyabareeva/grad-slingshot)**|
+|**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116v1](http://arxiv.org/abs/2401.06116v1)|null|
+|**2024-01-11**|**Jupyter widgets and extensions for education and research in computational physics and chemistry**|Dou Du et.al.|[2401.06113v1](http://arxiv.org/abs/2401.06113v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**URHand: Universal Relightable Hands**|Zhaoxi Chen et.al.|[2401.05334v1](http://arxiv.org/abs/2401.05334v1)|null|
 |**2024-01-10**|**\textit{SmartMME}: Implementation of Base Station Switching Off Strategy in ns-3**|Argha Sen et.al.|[2401.05329v1](http://arxiv.org/abs/2401.05329v1)|null|
