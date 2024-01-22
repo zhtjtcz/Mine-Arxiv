@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|
+|**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822v1](http://arxiv.org/abs/2401.10822v1)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786v1](http://arxiv.org/abs/2401.10786v1)|null|
+|**2024-01-19**|**Signatures of s-wave scattering in bound electronic states**|Robin E. Moorby et.al.|[2401.10714v1](http://arxiv.org/abs/2401.10714v1)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700v1](http://arxiv.org/abs/2401.10700v1)|null|
+|**2024-01-19**|**Refractive index measurement of pharmaceutical powders in the short-wave infrared range using index matching assisted with phase imaging**|Cory Juntunen et.al.|[2401.10667v1](http://arxiv.org/abs/2401.10667v1)|null|
+|**2024-01-19**|**Analysis of the Patent of a Protective Cover for Vertical-Axis Wind Turbines (VAWTs): Simulations of Wind Flow**|JA Moleón Baca et.al.|[2401.10656v1](http://arxiv.org/abs/2401.10656v1)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227v1](http://arxiv.org/abs/2401.10227v1)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226v1](http://arxiv.org/abs/2401.10226v1)|null|
 |**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150v1](http://arxiv.org/abs/2401.10150v1)|null|
@@ -1980,6 +1987,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890v1](http://arxiv.org/abs/2401.10890v1)|null|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|
+|**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862v1](http://arxiv.org/abs/2401.10862v1)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232v1](http://arxiv.org/abs/2401.10232v1)|null|
 |**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230v1](http://arxiv.org/abs/2401.10230v1)|null|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228v1](http://arxiv.org/abs/2401.10228v1)|**[link](https://github.com/xushilin1/rap-sam)**|
@@ -3451,6 +3462,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890v1](http://arxiv.org/abs/2401.10890v1)|null|
+|**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889v1](http://arxiv.org/abs/2401.10889v1)|null|
+|**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862v1](http://arxiv.org/abs/2401.10862v1)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232v1](http://arxiv.org/abs/2401.10232v1)|null|
 |**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230v1](http://arxiv.org/abs/2401.10230v1)|null|
 |**2024-01-18**|**RAP-SAM: Towards Real-Time All-Purpose Segment Anything**|Shilin Xu et.al.|[2401.10228v1](http://arxiv.org/abs/2401.10228v1)|**[link](https://github.com/xushilin1/rap-sam)**|
