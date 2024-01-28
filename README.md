@@ -24,7 +24,7 @@
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381v1](http://arxiv.org/abs/2401.14381v1)|null|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
-|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372v1](http://arxiv.org/abs/2401.14372v1)|null|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372v1](http://arxiv.org/abs/2401.14372v1)|**[link](https://github.com/evantwout/pinn-global-dust)**|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
 |**2024-01-24**|**Bi-Hamiltonian in Semiflexible Polymer as Strongly Coupled System**|Heeyuen Koh et.al.|[2401.13655v1](http://arxiv.org/abs/2401.13655v1)|null|
 |**2024-01-24**|**On the self-similarity of unbounded viscous Marangoni flows**|Fernando Temprano-Coleto et.al.|[2401.13647v1](http://arxiv.org/abs/2401.13647v1)|null|
