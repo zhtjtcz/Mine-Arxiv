@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045v1](http://arxiv.org/abs/2401.15045v1)|null|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938v1](http://arxiv.org/abs/2401.14938v1)|null|
+|**2024-01-26**|**Social norms and cooperation in higher-order networks**|Yin-Jie Ma et.al.|[2401.14905v1](http://arxiv.org/abs/2401.14905v1)|null|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381v1](http://arxiv.org/abs/2401.14381v1)|null|
@@ -1291,6 +1295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Sketch and Refine: Towards Fast and Accurate Lane Detection**|Chao Chen et.al.|[2401.14729v1](http://arxiv.org/abs/2401.14729v1)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
 |**2024-01-22**|**PatternPortrait: Draw Me Like One of Your Scribbles**|Sabine Wieluch et.al.|[2401.13001v1](http://arxiv.org/abs/2401.13001v1)|null|
 |**2024-01-22**|**Automated Completion of Statements and Proofs in Synthetic Geometry: an Approach based on Constraint Solving**|Salwa Tabet Gonzalez et.al.|[2401.11898v1](http://arxiv.org/abs/2401.11898v1)|null|
@@ -1661,6 +1666,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
+|**2024-01-25**|**TIFu: Tri-directional Implicit Function for High-Fidelity 3D Character Reconstruction**|Byoungsung Lim et.al.|[2401.14565v1](http://arxiv.org/abs/2401.14565v1)|null|
 |**2024-01-25**|**Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**|Andrea Conti et.al.|[2401.14401v1](http://arxiv.org/abs/2401.14401v1)|**[link](https://github.com/andreaconti/ramdepth)**|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting**|Butian Xiong et.al.|[2401.14032v1](http://arxiv.org/abs/2401.14032v1)|null|
@@ -2019,6 +2026,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v1](http://arxiv.org/abs/2401.15077v1)|null|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071v1](http://arxiv.org/abs/2401.15071v1)|null|
+|**2024-01-26**|**Pairing Orthographically Variant Literary Words to Standard Equivalents Using Neural Edit Distance Models**|Craig Messner et.al.|[2401.15068v1](http://arxiv.org/abs/2401.15068v1)|null|
+|**2024-01-26**|**Asymmetric Influence of the Amplitude-Dependent Tune Shift on the Transverse Mode-Coupling Instability**|Miriam Brosi et.al.|[2401.15065v1](http://arxiv.org/abs/2401.15065v1)|null|
+|**2024-01-26**|**Expert with Clustering: Hierarchical Online Preference Learning Framework**|Tianyue Zhou et.al.|[2401.15062v1](http://arxiv.org/abs/2401.15062v1)|null|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**O(1) Insertion for Random Walk d-ary Cuckoo Hashing up to the Load Threshold**|Tolson Bell et.al.|[2401.14394v1](http://arxiv.org/abs/2401.14394v1)|null|
 |**2024-01-25**|**Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**|Michael R. H. Vorndran et.al.|[2401.14387v1](http://arxiv.org/abs/2401.14387v1)|**[link](https://github.com/michaelvorndran/inconsistencymasks)**|
@@ -3514,6 +3527,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v1](http://arxiv.org/abs/2401.15077v1)|null|
+|**2024-01-26**|**Annotated Hands for Generative Models**|Yue Yang et.al.|[2401.15075v1](http://arxiv.org/abs/2401.15075v1)|**[link](https://github.com/YY-GX/Annotated-Hands-Dataset)**|
+|**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071v1](http://arxiv.org/abs/2401.15071v1)|null|
+|**2024-01-26**|**Pairing Orthographically Variant Literary Words to Standard Equivalents Using Neural Edit Distance Models**|Craig Messner et.al.|[2401.15068v1](http://arxiv.org/abs/2401.15068v1)|null|
+|**2024-01-26**|**Asymmetric Influence of the Amplitude-Dependent Tune Shift on the Transverse Mode-Coupling Instability**|Miriam Brosi et.al.|[2401.15065v1](http://arxiv.org/abs/2401.15065v1)|null|
+|**2024-01-26**|**Expert with Clustering: Hierarchical Online Preference Learning Framework**|Tianyue Zhou et.al.|[2401.15062v1](http://arxiv.org/abs/2401.15062v1)|null|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**O(1) Insertion for Random Walk d-ary Cuckoo Hashing up to the Load Threshold**|Tolson Bell et.al.|[2401.14394v1](http://arxiv.org/abs/2401.14394v1)|null|
 |**2024-01-25**|**Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**|Michael R. H. Vorndran et.al.|[2401.14387v1](http://arxiv.org/abs/2401.14387v1)|**[link](https://github.com/michaelvorndran/inconsistencymasks)**|
