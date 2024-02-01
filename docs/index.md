@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
+|**2024-01-31**|**An electrodynamic wave model for the action potential**|Vitaly L. Galinsky et.al.|[2401.18051v1](http://arxiv.org/abs/2401.18051v1)|null|
+|**2024-01-31**|**Investigation of Microstructure and Corrosion Resistance of Ti-Al-V Titanium Alloys Obtained by Spark Plasma Sintering**|Aleksey Nokhrin et.al.|[2401.17941v1](http://arxiv.org/abs/2401.17941v1)|null|
+|**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879v1](http://arxiv.org/abs/2401.17879v1)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
 |**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212v1](http://arxiv.org/abs/2401.17212v1)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181v1](http://arxiv.org/abs/2401.17181v1)|null|
@@ -1306,6 +1310,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**On The Power of Subtle Expressive Cues in the Perception of Human Affects**|Ezgi Dede et.al.|[2401.18013v1](http://arxiv.org/abs/2401.18013v1)|null|
+|**2024-01-31**|**Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects**|Jingcai Guo et.al.|[2401.17766v1](http://arxiv.org/abs/2401.17766v1)|null|
+|**2024-01-31**|**Estimating Diffusion Degree on Graph Streams**|Vinit Ramesh Gore et.al.|[2401.17611v1](http://arxiv.org/abs/2401.17611v1)|null|
+|**2024-01-31**|**Topology-Aware Latent Diffusion for 3D Shape Generation**|Jiangbei Hu et.al.|[2401.17603v1](http://arxiv.org/abs/2401.17603v1)|null|
 |**2024-01-29**|**FPGA Technology Mapping Using Sketch-Guided Program Synthesis**|Gus Henry Smith et.al.|[2401.16526v1](http://arxiv.org/abs/2401.16526v1)|null|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459v1](http://arxiv.org/abs/2401.16459v1)|null|
 |**2024-01-25**|**Incremental Proof Development in Dafny with Module-Based Induction**|Son Ho et.al.|[2401.16233v1](http://arxiv.org/abs/2401.16233v1)|null|
@@ -1680,6 +1688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
 |**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207v1](http://arxiv.org/abs/2401.17207v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061v1](http://arxiv.org/abs/2401.17061v1)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
@@ -2046,6 +2055,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070v1](http://arxiv.org/abs/2401.18070v1)|null|
 |**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|**[link](https://github.com/paulbornep/xview2_strong_baseline)**|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
 |**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|**[link](https://github.com/facebookresearch/audioseal)**|
@@ -3554,6 +3566,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070v1](http://arxiv.org/abs/2401.18070v1)|null|
 |**2024-01-30**|**A simple, strong baseline for building damage detection on the xBD dataset**|Sebastian Gerard et.al.|[2401.17271v1](http://arxiv.org/abs/2401.17271v1)|**[link](https://github.com/paulbornep/xview2_strong_baseline)**|
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268v1](http://arxiv.org/abs/2401.17268v1)|null|
 |**2024-01-30**|**Proactive Detection of Voice Cloning with Localized Watermarking**|Robin San Roman et.al.|[2401.17264v1](http://arxiv.org/abs/2401.17264v1)|**[link](https://github.com/facebookresearch/audioseal)**|
