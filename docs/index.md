@@ -24,6 +24,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590v1](http://arxiv.org/abs/2402.01590v1)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566v1](http://arxiv.org/abs/2402.01566v1)|null|
+|**2024-02-02**|**Low-Resource Cross-Domain Singing Voice Synthesis via Reduced Self-Supervised Speech Representations**|Panos Kakoulidis et.al.|[2402.01520v1](http://arxiv.org/abs/2402.01520v1)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516v1](http://arxiv.org/abs/2402.01516v1)|null|
 |**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867v1](http://arxiv.org/abs/2402.00867v1)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807v1](http://arxiv.org/abs/2402.00807v1)|null|
@@ -1316,6 +1320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Solitons, dispersive shock waves and Noel Fredrick Smyth**|Saleh Baqer et.al.|[2402.01332v1](http://arxiv.org/abs/2402.01332v1)|null|
 |**2024-02-01**|**Deep Robot Sketching: An application of Deep Q-Learning Networks for human-like sketching**|Raul Fernandez-Fernandez et.al.|[2402.00676v1](http://arxiv.org/abs/2402.00676v1)|null|
 |**2024-02-01**|**High-Quality Medical Image Generation from Free-hand Sketch**|Quan Huu Cap et.al.|[2402.00353v1](http://arxiv.org/abs/2402.00353v1)|null|
 |**2024-01-31**|**On The Power of Subtle Expressive Cues in the Perception of Human Affects**|Ezgi Dede et.al.|[2401.18013v1](http://arxiv.org/abs/2401.18013v1)|null|
@@ -1696,6 +1701,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
+|**2024-02-02**|**DeepAAT: Deep Automated Aerial Triangulation for Fast UAV-based Mapping**|Zequan Chen et.al.|[2402.01134v1](http://arxiv.org/abs/2402.01134v1)|**[link](https://github.com/whu-usi3dv/deepaat)**|
+|**2024-02-01**|**Enhanced fringe-to-phase framework using deep learning**|Won-Hoe Kim et.al.|[2402.00977v1](http://arxiv.org/abs/2402.00977v1)|null|
 |**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575v1](http://arxiv.org/abs/2402.00575v1)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
 |**2024-01-30**|**Self-Supervised Representation Learning for Nerve Fiber Distribution Patterns in 3D-PLI**|Alexander Oberstrass et.al.|[2401.17207v1](http://arxiv.org/abs/2401.17207v1)|null|
@@ -2064,6 +2072,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Position Paper: Generalized grammar rules and structure-based generalization beyond classical equivariance for lexical tasks and transduction**|Mircea Petrache et.al.|[2402.01629v1](http://arxiv.org/abs/2402.01629v1)|null|
+|**2024-02-02**|**Stochastic Two Points Method for Deep Model Zeroth-order Optimization**|Yijiang Pang et.al.|[2402.01621v1](http://arxiv.org/abs/2402.01621v1)|null|
+|**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620v1](http://arxiv.org/abs/2402.01620v1)|**[link](https://github.com/dinobby/magdi)**|
+|**2024-02-02**|**Style Vectors for Steering Generative Large Language Model**|Kai Konen et.al.|[2402.01618v1](http://arxiv.org/abs/2402.01618v1)|**[link](https://github.com/dlr-sc/style-vectors-for-steering-llms)**|
+|**2024-02-02**|**A GP-based Robust Motion Planning Framework for Agile Autonomous Robot Navigation and Recovery in Unknown Environments**|Nicholas Mohammad et.al.|[2402.01617v1](http://arxiv.org/abs/2402.01617v1)|null|
 |**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867v1](http://arxiv.org/abs/2402.00867v1)|null|
 |**2024-02-01**|**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection**|Qinyu Zhao et.al.|[2402.00865v1](http://arxiv.org/abs/2402.00865v1)|**[link](https://github.com/qinyu-allen-zhao/optfsood)**|
 |**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861v1](http://arxiv.org/abs/2402.00861v1)|null|
@@ -3581,6 +3594,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Position Paper: Generalized grammar rules and structure-based generalization beyond classical equivariance for lexical tasks and transduction**|Mircea Petrache et.al.|[2402.01629v1](http://arxiv.org/abs/2402.01629v1)|null|
+|**2024-02-02**|**Stochastic Two Points Method for Deep Model Zeroth-order Optimization**|Yijiang Pang et.al.|[2402.01621v1](http://arxiv.org/abs/2402.01621v1)|null|
+|**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620v1](http://arxiv.org/abs/2402.01620v1)|**[link](https://github.com/dinobby/magdi)**|
+|**2024-02-02**|**Style Vectors for Steering Generative Large Language Model**|Kai Konen et.al.|[2402.01618v1](http://arxiv.org/abs/2402.01618v1)|**[link](https://github.com/dlr-sc/style-vectors-for-steering-llms)**|
+|**2024-02-02**|**A GP-based Robust Motion Planning Framework for Agile Autonomous Robot Navigation and Recovery in Unknown Environments**|Nicholas Mohammad et.al.|[2402.01617v1](http://arxiv.org/abs/2402.01617v1)|null|
 |**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867v1](http://arxiv.org/abs/2402.00867v1)|null|
 |**2024-02-01**|**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection**|Qinyu Zhao et.al.|[2402.00865v1](http://arxiv.org/abs/2402.00865v1)|**[link](https://github.com/qinyu-allen-zhao/optfsood)**|
 |**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861v1](http://arxiv.org/abs/2402.00861v1)|null|
