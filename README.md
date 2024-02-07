@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models**|Yichen Shi et.al.|[2402.04178v1](http://arxiv.org/abs/2402.04178v1)|**[link](https://github.com/laiyingxin2/shield)**|
+|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080v1](http://arxiv.org/abs/2402.04080v1)|null|
+|**2024-02-06**|**Generative Modeling of Graphs via Joint Diffusion of Node and Edge Attributes**|Nimrod Berman et.al.|[2402.04046v1](http://arxiv.org/abs/2402.04046v1)|null|
+|**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v1](http://arxiv.org/abs/2402.04031v1)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
+|**2024-02-06**|**Space Group Constrained Crystal Generation**|Rui Jiao et.al.|[2402.03992v1](http://arxiv.org/abs/2402.03992v1)|null|
+|**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981v1](http://arxiv.org/abs/2402.03981v1)|null|
+|**2024-02-06**|**Weibel- and non-resonant Whistler wave growth in an expanding plasma in a 1D simulation geometry**|M E Dieckmann et.al.|[2402.03925v1](http://arxiv.org/abs/2402.03925v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v1](http://arxiv.org/abs/2402.03292v1)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290v1](http://arxiv.org/abs/2402.03290v1)|null|
@@ -1324,6 +1331,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Gradient Sketches for Training Data Attribution and Studying the Loss Landscape**|Andrea Schioppa et.al.|[2402.03994v1](http://arxiv.org/abs/2402.03994v1)|null|
+|**2024-02-06**|**3Doodle: Compact Abstraction of Objects with 3D Strokes**|Changwoon Choi et.al.|[2402.03690v1](http://arxiv.org/abs/2402.03690v1)|null|
 |**2024-02-05**|**Computing Generic Fibres of Polynomial Ideals with FGLM and Hensel Lifting**|Jérémy Berthomieu et.al.|[2402.03144v1](http://arxiv.org/abs/2402.03144v1)|null|
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141v1](http://arxiv.org/abs/2402.02141v1)|null|
 |**2024-02-02**|**Solitons, dispersive shock waves and Noel Fredrick Smyth**|Saleh Baqer et.al.|[2402.01332v1](http://arxiv.org/abs/2402.01332v1)|null|
@@ -1707,6 +1716,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908v1](http://arxiv.org/abs/2402.03908v1)|null|
+|**2024-02-06**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v1](http://arxiv.org/abs/2402.03762v1)|null|
+|**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
 |**2024-02-02**|**DeepAAT: Deep Automated Aerial Triangulation for Fast UAV-based Mapping**|Zequan Chen et.al.|[2402.01134v1](http://arxiv.org/abs/2402.01134v1)|**[link](https://github.com/whu-usi3dv/deepaat)**|
 |**2024-02-01**|**Enhanced fringe-to-phase framework using deep learning**|Won-Hoe Kim et.al.|[2402.00977v1](http://arxiv.org/abs/2402.00977v1)|null|
@@ -2078,6 +2090,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Linear-time Minimum Bayes Risk Decoding with Reference Aggregation**|Jannis Vamvas et.al.|[2402.04251v1](http://arxiv.org/abs/2402.04251v1)|**[link](https://github.com/jvamvas/fastchrf)**|
+|**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239v1](http://arxiv.org/abs/2402.04239v1)|null|
+|**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236v1](http://arxiv.org/abs/2402.04236v1)|**[link](https://github.com/thudm/cogcom)**|
+|**2024-02-06**|**Role of spontaneously generated coherence (SGC) in laser cooling of atoms**|Rajnandan Choudhury Das et.al.|[2402.04234v1](http://arxiv.org/abs/2402.04234v1)|null|
+|**2024-02-06**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232v1](http://arxiv.org/abs/2402.04232v1)|null|
+|**2024-02-06**|**Further Constructions of AMUBs for Non-prime power Composite Dimensions**|Ajeet Kumar et.al.|[2402.04231v1](http://arxiv.org/abs/2402.04231v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
 |**2024-02-05**|**Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks**|Yongchang Hao et.al.|[2402.03295v1](http://arxiv.org/abs/2402.03295v1)|null|
@@ -3608,6 +3626,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Linear-time Minimum Bayes Risk Decoding with Reference Aggregation**|Jannis Vamvas et.al.|[2402.04251v1](http://arxiv.org/abs/2402.04251v1)|**[link](https://github.com/jvamvas/fastchrf)**|
+|**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239v1](http://arxiv.org/abs/2402.04239v1)|null|
+|**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236v1](http://arxiv.org/abs/2402.04236v1)|**[link](https://github.com/thudm/cogcom)**|
+|**2024-02-06**|**Role of spontaneously generated coherence (SGC) in laser cooling of atoms**|Rajnandan Choudhury Das et.al.|[2402.04234v1](http://arxiv.org/abs/2402.04234v1)|null|
+|**2024-02-06**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232v1](http://arxiv.org/abs/2402.04232v1)|null|
+|**2024-02-06**|**Further Constructions of AMUBs for Non-prime power Composite Dimensions**|Ajeet Kumar et.al.|[2402.04231v1](http://arxiv.org/abs/2402.04231v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
 |**2024-02-05**|**Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks**|Yongchang Hao et.al.|[2402.03295v1](http://arxiv.org/abs/2402.03295v1)|null|
