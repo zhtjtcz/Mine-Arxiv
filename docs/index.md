@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Energy Flux Decomposition in Magnetohydrodynamic Turbulence**|D. Capocci et.al.|[2402.10125v1](http://arxiv.org/abs/2402.10125v1)|null|
+|**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117v1](http://arxiv.org/abs/2402.10117v1)|null|
+|**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107v1](http://arxiv.org/abs/2402.10107v1)|null|
+|**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095v1](http://arxiv.org/abs/2402.10095v1)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|null|
 |**2024-02-14**|**Leveraging Pre-Trained Autoencoders for Interpretable Prototype Learning of Music Audio**|Pablo Alonso-Jiménez et.al.|[2402.09318v1](http://arxiv.org/abs/2402.09318v1)|null|
 |**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
@@ -1757,6 +1764,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128v1](http://arxiv.org/abs/2402.10128v1)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876v1](http://arxiv.org/abs/2402.08876v1)|null|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|null|
@@ -2137,6 +2145,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|**[link](https://github.com/romilbert/samformer)**|
+|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193v1](http://arxiv.org/abs/2402.10193v1)|**[link](https://github.com/FasterDecoding/BitDelta)**|
+|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
+|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191v1](http://arxiv.org/abs/2402.10191v1)|null|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404v1](http://arxiv.org/abs/2402.09404v1)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
 |**2024-02-14**|**Long-form evaluation of model editing**|Domenic Rosati et.al.|[2402.09394v1](http://arxiv.org/abs/2402.09394v1)|null|
@@ -3709,6 +3724,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208v1](http://arxiv.org/abs/2402.10208v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention**|Romain Ilbert et.al.|[2402.10198v1](http://arxiv.org/abs/2402.10198v1)|**[link](https://github.com/romilbert/samformer)**|
+|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193v1](http://arxiv.org/abs/2402.10193v1)|**[link](https://github.com/FasterDecoding/BitDelta)**|
+|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192v1](http://arxiv.org/abs/2402.10192v1)|null|
+|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191v1](http://arxiv.org/abs/2402.10191v1)|null|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404v1](http://arxiv.org/abs/2402.09404v1)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
 |**2024-02-14**|**Long-form evaluation of model editing**|Domenic Rosati et.al.|[2402.09394v1](http://arxiv.org/abs/2402.09394v1)|null|
