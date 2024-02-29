@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567v1](http://arxiv.org/abs/2402.18567v1)|null|
+|**2024-02-28**|**Photon statistics of resonantly driven spectrally diffusive quantum emitters**|Aymeric Delteil et.al.|[2402.18542v1](http://arxiv.org/abs/2402.18542v1)|null|
+|**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491v1](http://arxiv.org/abs/2402.18491v1)|null|
+|**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362v1](http://arxiv.org/abs/2402.18362v1)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
 |**2024-02-27**|**Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners**|Yazhou Xing et.al.|[2402.17723v1](http://arxiv.org/abs/2402.17723v1)|null|
 |**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563v1](http://arxiv.org/abs/2402.17563v1)|null|
@@ -1421,6 +1425,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**DynaWarp -- Efficient, large-scale log storage and retrieval**|Julian Reichinger et.al.|[2402.18355v1](http://arxiv.org/abs/2402.18355v1)|null|
+|**2024-02-28**|**Block and Detail: Scaffolding Sketch-to-Image Generation**|Vishnu Sarukkai et.al.|[2402.18116v1](http://arxiv.org/abs/2402.18116v1)|null|
+|**2024-02-27**|**Decremental $(1+ε)$ -Approximate Maximum Eigenvector: Dynamic Power Method**|Deeksha Adil et.al.|[2402.17929v1](http://arxiv.org/abs/2402.17929v1)|null|
+|**2024-02-27**|**Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning**|Jingying Wang et.al.|[2402.17903v1](http://arxiv.org/abs/2402.17903v1)|null|
 |**2024-02-27**|**CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention**|Mohammad Sadil Khan et.al.|[2402.17678v1](http://arxiv.org/abs/2402.17678v1)|null|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624v1](http://arxiv.org/abs/2402.17624v1)|null|
 |**2024-02-27**|**Equivariant ideals of polynomials**|Arka Ghosh et.al.|[2402.17604v1](http://arxiv.org/abs/2402.17604v1)|null|
@@ -2219,6 +2227,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573v1](http://arxiv.org/abs/2402.18573v1)|null|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v1](http://arxiv.org/abs/2402.18571v1)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567v1](http://arxiv.org/abs/2402.18567v1)|null|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563v1](http://arxiv.org/abs/2402.18563v1)|null|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764v1](http://arxiv.org/abs/2402.17764v1)|null|
 |**2024-02-27**|**Reducing Unnecessary Alerts in Pedestrian Protection Systems Based on P2V Communications**|Ignacio Soto et.al.|[2402.17763v1](http://arxiv.org/abs/2402.17763v1)|null|
 |**2024-02-27**|**Towards Optimal Learning of Language Models**|Yuxian Gu et.al.|[2402.17759v1](http://arxiv.org/abs/2402.17759v1)|null|
@@ -3848,6 +3860,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573v1](http://arxiv.org/abs/2402.18573v1)|null|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v1](http://arxiv.org/abs/2402.18571v1)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567v1](http://arxiv.org/abs/2402.18567v1)|null|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563v1](http://arxiv.org/abs/2402.18563v1)|null|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764v1](http://arxiv.org/abs/2402.17764v1)|null|
 |**2024-02-27**|**Reducing Unnecessary Alerts in Pedestrian Protection Systems Based on P2V Communications**|Ignacio Soto et.al.|[2402.17763v1](http://arxiv.org/abs/2402.17763v1)|null|
 |**2024-02-27**|**Towards Optimal Learning of Language Models**|Yuxian Gu et.al.|[2402.17759v1](http://arxiv.org/abs/2402.17759v1)|null|
