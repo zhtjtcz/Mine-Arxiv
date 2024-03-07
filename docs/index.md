@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938v1](http://arxiv.org/abs/2403.03938v1)|null|
+|**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890v1](http://arxiv.org/abs/2403.03890v1)|null|
+|**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881v1](http://arxiv.org/abs/2403.03881v1)|null|
+|**2024-03-06**|**Accelerating Convergence of Score-Based Diffusion Models, Provably**|Gen Li et.al.|[2403.03852v1](http://arxiv.org/abs/2403.03852v1)|null|
+|**2024-03-06**|**Diffusion on language model embeddings for protein sequence generation**|Viacheslav Meshchaninov et.al.|[2403.03726v1](http://arxiv.org/abs/2403.03726v1)|null|
 |**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206v1](http://arxiv.org/abs/2403.03206v1)|null|
 |**2024-03-05**|**MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets**|Hossein Aboutalebi et.al.|[2403.03194v1](http://arxiv.org/abs/2403.03194v1)|null|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181v1](http://arxiv.org/abs/2403.03181v1)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
@@ -1442,6 +1448,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging**|Takahiro Shirakawa et.al.|[2403.03485v1](http://arxiv.org/abs/2403.03485v1)|null|
+|**2024-03-06**|**DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**|Xiangquan Gui et.al.|[2403.03456v1](http://arxiv.org/abs/2403.03456v1)|null|
 |**2024-03-05**|**SmartSantander: IoT Experimentation over a Smart City Testbed**|Luis Sanchez et.al.|[2403.03196v1](http://arxiv.org/abs/2403.03196v1)|null|
 |**2024-03-05**|**CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following**|Kaiyan Zhang et.al.|[2403.03129v1](http://arxiv.org/abs/2403.03129v1)|null|
 |**2024-03-05**|**RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches**|Priya Sundaresan et.al.|[2403.02709v1](http://arxiv.org/abs/2403.02709v1)|null|
@@ -2255,6 +2263,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956v1](http://arxiv.org/abs/2403.03956v1)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952v1](http://arxiv.org/abs/2403.03952v1)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Can Audio Reveal Music Performance Difficulty? Insights from the Piano Syllabus Dataset**|Pedro Ramoneda et.al.|[2403.03947v1](http://arxiv.org/abs/2403.03947v1)|null|
+|**2024-03-06**|**Separate and Detailed Treatment of Absolute Signal and Noise Enables NMR Under Adverse Circumstances**|A Guinness et.al.|[2403.03943v1](http://arxiv.org/abs/2403.03943v1)|null|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942v1](http://arxiv.org/abs/2403.03942v1)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938v1](http://arxiv.org/abs/2403.03938v1)|null|
 |**2024-03-05**|**LC-Tsalis-INF: Generalized Best-of-Both-Worlds Linear Contextual Bandits**|Masahiro Kato et.al.|[2403.03219v1](http://arxiv.org/abs/2403.03219v1)|null|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218v1](http://arxiv.org/abs/2403.03218v1)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
@@ -3907,6 +3922,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956v1](http://arxiv.org/abs/2403.03956v1)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954v1](http://arxiv.org/abs/2403.03954v1)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952v1](http://arxiv.org/abs/2403.03952v1)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Can Audio Reveal Music Performance Difficulty? Insights from the Piano Syllabus Dataset**|Pedro Ramoneda et.al.|[2403.03947v1](http://arxiv.org/abs/2403.03947v1)|null|
+|**2024-03-06**|**Separate and Detailed Treatment of Absolute Signal and Noise Enables NMR Under Adverse Circumstances**|A Guinness et.al.|[2403.03943v1](http://arxiv.org/abs/2403.03943v1)|null|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942v1](http://arxiv.org/abs/2403.03942v1)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938v1](http://arxiv.org/abs/2403.03938v1)|null|
 |**2024-03-05**|**LC-Tsalis-INF: Generalized Best-of-Both-Worlds Linear Contextual Bandits**|Masahiro Kato et.al.|[2403.03219v1](http://arxiv.org/abs/2403.03219v1)|null|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218v1](http://arxiv.org/abs/2403.03218v1)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
