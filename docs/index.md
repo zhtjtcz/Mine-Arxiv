@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860v1](http://arxiv.org/abs/2403.07860v1)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838v1](http://arxiv.org/abs/2403.07838v1)|null|
+|**2024-03-12**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773v1](http://arxiv.org/abs/2403.07773v1)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764v1](http://arxiv.org/abs/2403.07764v1)|null|
+|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721v1](http://arxiv.org/abs/2403.07721v1)|null|
+|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711v1](http://arxiv.org/abs/2403.07711v1)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-12**|**Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**|Yijun Yang et.al.|[2403.07684v1](http://arxiv.org/abs/2403.07684v1)|null|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976v1](http://arxiv.org/abs/2403.06976v1)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973v1](http://arxiv.org/abs/2403.06973v1)|null|
 |**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952v1](http://arxiv.org/abs/2403.06952v1)|null|
@@ -1458,6 +1466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234v1](http://arxiv.org/abs/2403.07234v1)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
+|**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222v1](http://arxiv.org/abs/2403.07222v1)|null|
+|**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214v1](http://arxiv.org/abs/2403.07214v1)|null|
+|**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203v1](http://arxiv.org/abs/2403.07203v1)|null|
 |**2024-03-11**|**Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback**|Adarsh N L et.al.|[2403.06735v1](http://arxiv.org/abs/2403.06735v1)|null|
 |**2024-03-08**|**Data-Dependent LSH for the Earth Mover's Distance**|Rajesh Jayaram et.al.|[2403.05041v1](http://arxiv.org/abs/2403.05041v1)|null|
 |**2024-03-07**|**A challenge in A(G)I, cybernetics revived in the Ouroboros Model as one algorithm for all thinking**|Knud Thomsen et.al.|[2403.04292v1](http://arxiv.org/abs/2403.04292v1)|null|
@@ -2281,6 +2293,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872v1](http://arxiv.org/abs/2403.07872v1)|null|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869v1](http://arxiv.org/abs/2403.07869v1)|null|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865v1](http://arxiv.org/abs/2403.07865v1)|null|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860v1](http://arxiv.org/abs/2403.07860v1)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857v1](http://arxiv.org/abs/2403.07857v1)|null|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
 |**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971v1](http://arxiv.org/abs/2403.06971v1)|null|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963v1](http://arxiv.org/abs/2403.06963v1)|null|
 |**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953v1](http://arxiv.org/abs/2403.06953v1)|null|
@@ -3958,6 +3976,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872v1](http://arxiv.org/abs/2403.07872v1)|null|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869v1](http://arxiv.org/abs/2403.07869v1)|null|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865v1](http://arxiv.org/abs/2403.07865v1)|null|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860v1](http://arxiv.org/abs/2403.07860v1)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857v1](http://arxiv.org/abs/2403.07857v1)|null|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
 |**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971v1](http://arxiv.org/abs/2403.06971v1)|null|
 |**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963v1](http://arxiv.org/abs/2403.06963v1)|null|
 |**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953v1](http://arxiv.org/abs/2403.06953v1)|null|
