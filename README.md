@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
+|**2024-03-15**|**MusicHiFi: Fast High-Fidelity Stereo Vocoding**|Ge Zhu et.al.|[2403.10493v1](http://arxiv.org/abs/2403.10493v1)|null|
+|**2024-03-15**|**SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy**|Alison Bartsch et.al.|[2403.10401v1](http://arxiv.org/abs/2403.10401v1)|null|
+|**2024-03-15**|**Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding**|Pengkun Liu et.al.|[2403.10395v1](http://arxiv.org/abs/2403.10395v1)|**[link](https://github.com/pkunliu/isotropic3d)**|
+|**2024-03-15**|**Denoising Task Difficulty-based Curriculum for Training Diffusion Models**|Jin-Young Kim et.al.|[2403.10348v1](http://arxiv.org/abs/2403.10348v1)|null|
+|**2024-03-15**|**Towards Generalizable Deepfake Video Detection with Thumbnail Layout and Graph Reasoning**|Yuting Xu et.al.|[2403.10261v1](http://arxiv.org/abs/2403.10261v1)|**[link](https://github.com/rainy-xu/tall4deepfake)**|
 |**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638v1](http://arxiv.org/abs/2403.09638v1)|null|
 |**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631v1](http://arxiv.org/abs/2403.09631v1)|null|
 |**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630v1](http://arxiv.org/abs/2403.09630v1)|**[link](https://github.com/opendrivelab/driveagi)**|
@@ -1475,6 +1481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179v1](http://arxiv.org/abs/2403.10179v1)|null|
 |**2024-03-14**|**What Sketch Explainability Really Means for Downstream Tasks**|Hmrishav Bandyopadhyay et.al.|[2403.09480v1](http://arxiv.org/abs/2403.09480v1)|null|
 |**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344v1](http://arxiv.org/abs/2403.09344v1)|null|
 |**2024-03-14**|**Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset**|Hugo Laurençon et.al.|[2403.09029v1](http://arxiv.org/abs/2403.09029v1)|null|
@@ -1903,6 +1910,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**SCILLA: SurfaCe Implicit Learning for Large Urban Area, a volumetric hybrid solution**|Hala Djeghim et.al.|[2403.10344v1](http://arxiv.org/abs/2403.10344v1)|null|
+|**2024-03-15**|**FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model**|Qijun Feng et.al.|[2403.10242v1](http://arxiv.org/abs/2403.10242v1)|null|
+|**2024-03-15**|**Den-SOFT: Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience**|Xiaohang Yu et.al.|[2403.09973v1](http://arxiv.org/abs/2403.09973v1)|null|
+|**2024-03-14**|**MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation**|Jiayi Wu et.al.|[2403.09850v1](http://arxiv.org/abs/2403.09850v1)|null|
 |**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413v1](http://arxiv.org/abs/2403.09413v1)|**[link](https://github.com/KU-CVLAB/RAIN-GS)**|
 |**2024-03-13**|**3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface**|Linyi Jin et.al.|[2403.08768v1](http://arxiv.org/abs/2403.08768v1)|null|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640v1](http://arxiv.org/abs/2403.08640v1)|null|
@@ -2312,6 +2323,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
+|**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
+|**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
+|**2024-03-15**|**A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction**|Anshul Gupta et.al.|[2403.10511v1](http://arxiv.org/abs/2403.10511v1)|null|
+|**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507v1](http://arxiv.org/abs/2403.10507v1)|null|
+|**2024-03-15**|**Belief Change based on Knowledge Measures**|Umberto Straccia et.al.|[2403.10502v1](http://arxiv.org/abs/2403.10502v1)|null|
 |**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638v1](http://arxiv.org/abs/2403.09638v1)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637v1](http://arxiv.org/abs/2403.09637v1)|null|
 |**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636v1](http://arxiv.org/abs/2403.09636v1)|null|
@@ -4009,6 +4026,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
+|**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
+|**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
+|**2024-03-15**|**A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction**|Anshul Gupta et.al.|[2403.10511v1](http://arxiv.org/abs/2403.10511v1)|null|
+|**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507v1](http://arxiv.org/abs/2403.10507v1)|null|
+|**2024-03-15**|**Belief Change based on Knowledge Measures**|Umberto Straccia et.al.|[2403.10502v1](http://arxiv.org/abs/2403.10502v1)|null|
 |**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638v1](http://arxiv.org/abs/2403.09638v1)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637v1](http://arxiv.org/abs/2403.09637v1)|null|
 |**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636v1](http://arxiv.org/abs/2403.09636v1)|null|
