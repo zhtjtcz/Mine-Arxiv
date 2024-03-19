@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706v1](http://arxiv.org/abs/2403.11706v1)|**[link](https://github.com/gladia-research-group/gmsdi)**|
+|**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v1](http://arxiv.org/abs/2403.11697v1)|null|
+|**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667v1](http://arxiv.org/abs/2403.11667v1)|null|
+|**2024-03-18**|**Diffusion-Based Environment-Aware Trajectory Prediction**|Theodor Westny et.al.|[2403.11643v1](http://arxiv.org/abs/2403.11643v1)|null|
+|**2024-03-18**|**Arc2Face: A Foundation Model of Human Faces**|Foivos Paraperas Papantoniou et.al.|[2403.11641v1](http://arxiv.org/abs/2403.11641v1)|null|
+|**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627v1](http://arxiv.org/abs/2403.11627v1)|**[link](https://github.com/young98cn/lora_composer)**|
+|**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614v1](http://arxiv.org/abs/2403.11614v1)|null|
 |**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
 |**2024-03-15**|**MusicHiFi: Fast High-Fidelity Stereo Vocoding**|Ge Zhu et.al.|[2403.10493v1](http://arxiv.org/abs/2403.10493v1)|null|
 |**2024-03-15**|**SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy**|Alison Bartsch et.al.|[2403.10401v1](http://arxiv.org/abs/2403.10401v1)|null|
@@ -1481,6 +1488,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-17**|**Stylized Face Sketch Extraction via Generative Prior with Limited Data**|Kwan Yun et.al.|[2403.11263v1](http://arxiv.org/abs/2403.11263v1)|null|
+|**2024-03-16**|**RETINAQA : A Knowledge Base Question Answering Model Robust to both Answerable and Unanswerable Questions**|Prayushi Faldu et.al.|[2403.10849v1](http://arxiv.org/abs/2403.10849v1)|null|
 |**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179v1](http://arxiv.org/abs/2403.10179v1)|null|
 |**2024-03-14**|**What Sketch Explainability Really Means for Downstream Tasks**|Hmrishav Bandyopadhyay et.al.|[2403.09480v1](http://arxiv.org/abs/2403.09480v1)|null|
 |**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344v1](http://arxiv.org/abs/2403.09344v1)|null|
@@ -1910,6 +1919,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460v1](http://arxiv.org/abs/2403.11460v1)|**[link](https://github.com/densoitlab/fed3dgs)**|
+|**2024-03-18**|**BAGS: Building Animatable Gaussian Splatting from a Monocular Video with Diffusion Priors**|Tingyang Zhang et.al.|[2403.11427v1](http://arxiv.org/abs/2403.11427v1)|null|
+|**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364v1](http://arxiv.org/abs/2403.11364v1)|null|
+|**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134v1](http://arxiv.org/abs/2403.11134v1)|null|
+|**2024-03-17**|**Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications**|Yonggan Fu et.al.|[2403.11131v1](http://arxiv.org/abs/2403.11131v1)|null|
+|**2024-03-16**|**Ctrl123: Consistent Novel View Synthesis via Closed-Loop Transcription**|Hongxiang Zhao et.al.|[2403.10953v1](http://arxiv.org/abs/2403.10953v1)|null|
 |**2024-03-15**|**SCILLA: SurfaCe Implicit Learning for Large Urban Area, a volumetric hybrid solution**|Hala Djeghim et.al.|[2403.10344v1](http://arxiv.org/abs/2403.10344v1)|null|
 |**2024-03-15**|**FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model**|Qijun Feng et.al.|[2403.10242v1](http://arxiv.org/abs/2403.10242v1)|null|
 |**2024-03-15**|**Den-SOFT: Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience**|Xiaohang Yu et.al.|[2403.09973v1](http://arxiv.org/abs/2403.09973v1)|null|
@@ -2323,6 +2338,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Matter and cosmogenesis in Kant's Theory of the Heavens**|Garance Benoit et.al.|[2403.11710v1](http://arxiv.org/abs/2403.11710v1)|null|
+|**2024-03-18**|**Significant impact of light-matter strong coupling on chiral nonlinear optical effect**|Daichi Okada et.al.|[2403.11709v1](http://arxiv.org/abs/2403.11709v1)|null|
+|**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706v1](http://arxiv.org/abs/2403.11706v1)|**[link](https://github.com/gladia-research-group/gmsdi)**|
+|**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700v1](http://arxiv.org/abs/2403.11700v1)|null|
+|**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v1](http://arxiv.org/abs/2403.11697v1)|null|
+|**2024-03-18**|**Generalization error of spectral algorithms**|Maksim Velikanov et.al.|[2403.11696v1](http://arxiv.org/abs/2403.11696v1)|null|
+|**2024-03-18**|**Beamforming Design for Semantic-Bit Coexisting Communication System**|Maojun Zhang et.al.|[2403.11693v1](http://arxiv.org/abs/2403.11693v1)|null|
 |**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
 |**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
@@ -4026,6 +4048,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Matter and cosmogenesis in Kant's Theory of the Heavens**|Garance Benoit et.al.|[2403.11710v1](http://arxiv.org/abs/2403.11710v1)|null|
+|**2024-03-18**|**Significant impact of light-matter strong coupling on chiral nonlinear optical effect**|Daichi Okada et.al.|[2403.11709v1](http://arxiv.org/abs/2403.11709v1)|null|
+|**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706v1](http://arxiv.org/abs/2403.11706v1)|**[link](https://github.com/gladia-research-group/gmsdi)**|
+|**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700v1](http://arxiv.org/abs/2403.11700v1)|null|
+|**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v1](http://arxiv.org/abs/2403.11697v1)|null|
+|**2024-03-18**|**Generalization error of spectral algorithms**|Maksim Velikanov et.al.|[2403.11696v1](http://arxiv.org/abs/2403.11696v1)|null|
+|**2024-03-18**|**Beamforming Design for Semantic-Bit Coexisting Communication System**|Maojun Zhang et.al.|[2403.11693v1](http://arxiv.org/abs/2403.11693v1)|null|
 |**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
 |**2024-03-15**|**Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives**|Ronghui Li et.al.|[2403.10518v1](http://arxiv.org/abs/2403.10518v1)|**[link](https://github.com/li-ronghui/LODGE)**|
 |**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516v1](http://arxiv.org/abs/2403.10516v1)|**[link](https://github.com/mhamilton723/FeatUp)**|
