@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
+|**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745v1](http://arxiv.org/abs/2403.13745v1)|null|
+|**2024-03-20**|**Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes**|Yifan Chen et.al.|[2403.13724v1](http://arxiv.org/abs/2403.13724v1)|null|
 |**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963v1](http://arxiv.org/abs/2403.12963v1)|**[link](https://github.com/leonhlj/fouriscale)**|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961v1](http://arxiv.org/abs/2403.12961v1)|null|
@@ -1496,6 +1503,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Towards an extension of Fault Trees in the Predictive Maintenance Scenario**|Roberta De Fazio et.al.|[2403.13785v1](http://arxiv.org/abs/2403.13785v1)|null|
 |**2024-03-19**|**Diagrammatic Instructions to Specify Spatial Objectives and Constraints with Applications to Mobile Base Placement**|Qilin Sun et.al.|[2403.12465v1](http://arxiv.org/abs/2403.12465v1)|null|
 |**2024-03-18**|**Towards a Theory of Pragmatic Information**|Edward D. Weinberger et.al.|[2403.12324v1](http://arxiv.org/abs/2403.12324v1)|null|
 |**2024-03-17**|**Stylized Face Sketch Extraction via Generative Prior with Limited Data**|Kwan Yun et.al.|[2403.11263v1](http://arxiv.org/abs/2403.11263v1)|null|
@@ -1929,6 +1937,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image**|Shijie Zhang et.al.|[2403.13663v1](http://arxiv.org/abs/2403.13663v1)|null|
+|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957v1](http://arxiv.org/abs/2403.12957v1)|null|
 |**2024-03-19**|**PostoMETRO: Pose Token Enhanced Mesh Transformer for Robust 3D Human Mesh Recovery**|Wendi Yang et.al.|[2403.12473v1](http://arxiv.org/abs/2403.12473v1)|null|
 |**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019v1](http://arxiv.org/abs/2403.12019v1)|null|
@@ -2355,6 +2365,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**|Yang Yang et.al.|[2403.13803v1](http://arxiv.org/abs/2403.13803v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|**[link](https://github.com/shure-dev/NLaP)**|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799v1](http://arxiv.org/abs/2403.13799v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
 |**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968v1](http://arxiv.org/abs/2403.12968v1)|null|
 |**2024-03-19**|**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment**|Mengting Chen et.al.|[2403.12965v1](http://arxiv.org/abs/2403.12965v1)|null|
 |**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964v1](http://arxiv.org/abs/2403.12964v1)|**[link](https://github.com/zhangce01/dualadapter)**|
@@ -4081,6 +4101,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**|Yang Yang et.al.|[2403.13803v1](http://arxiv.org/abs/2403.13803v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|**[link](https://github.com/shure-dev/NLaP)**|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799v1](http://arxiv.org/abs/2403.13799v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
 |**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968v1](http://arxiv.org/abs/2403.12968v1)|null|
 |**2024-03-19**|**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment**|Mengting Chen et.al.|[2403.12965v1](http://arxiv.org/abs/2403.12965v1)|null|
 |**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964v1](http://arxiv.org/abs/2403.12964v1)|**[link](https://github.com/zhangce01/dualadapter)**|
