@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623v1](http://arxiv.org/abs/2403.14623v1)|null|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621v1](http://arxiv.org/abs/2403.14621v1)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613v1](http://arxiv.org/abs/2403.14613v1)|null|
+|**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602v1](http://arxiv.org/abs/2403.14602v1)|null|
+|**2024-03-21**|**Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors**|Nikolaos Tsagkas et.al.|[2403.14526v1](http://arxiv.org/abs/2403.14526v1)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429v1](http://arxiv.org/abs/2403.14429v1)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
 |**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
@@ -1507,6 +1514,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Object-Centric Domain Randomization for 3D Shape Reconstruction in the Wild**|Junhyeong Cho et.al.|[2403.14539v1](http://arxiv.org/abs/2403.14539v1)|null|
+|**2024-03-21**|**External Knowledge Enhanced 3D Scene Generation from Sketch**|Zijie Wu et.al.|[2403.14121v1](http://arxiv.org/abs/2403.14121v1)|null|
 |**2024-03-20**|**Towards an extension of Fault Trees in the Predictive Maintenance Scenario**|Roberta De Fazio et.al.|[2403.13785v1](http://arxiv.org/abs/2403.13785v1)|null|
 |**2024-03-19**|**Diagrammatic Instructions to Specify Spatial Objectives and Constraints with Applications to Mobile Base Placement**|Qilin Sun et.al.|[2403.12465v1](http://arxiv.org/abs/2403.12465v1)|null|
 |**2024-03-18**|**Towards a Theory of Pragmatic Information**|Edward D. Weinberger et.al.|[2403.12324v1](http://arxiv.org/abs/2403.12324v1)|null|
@@ -1941,6 +1950,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621v1](http://arxiv.org/abs/2403.14621v1)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244v1](http://arxiv.org/abs/2403.14244v1)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053v1](http://arxiv.org/abs/2403.14053v1)|null|
 |**2024-03-20**|**T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image**|Shijie Zhang et.al.|[2403.13663v1](http://arxiv.org/abs/2403.13663v1)|null|
 |**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957v1](http://arxiv.org/abs/2403.12957v1)|null|
@@ -2369,6 +2381,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Zero-Shot Multi-Object Shape Completion**|Shun Iwase et.al.|[2403.14628v1](http://arxiv.org/abs/2403.14628v1)|null|
+|**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627v1](http://arxiv.org/abs/2403.14627v1)|**[link](https://github.com/donydchen/mvsplat)**|
+|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623v1](http://arxiv.org/abs/2403.14623v1)|null|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621v1](http://arxiv.org/abs/2403.14621v1)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-21**|**Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning**|Hasindri Watawana et.al.|[2403.14616v1](http://arxiv.org/abs/2403.14616v1)|**[link](https://github.com/hasindri/hlss)**|
+|**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613v1](http://arxiv.org/abs/2403.14613v1)|null|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
@@ -4105,6 +4126,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Zero-Shot Multi-Object Shape Completion**|Shun Iwase et.al.|[2403.14628v1](http://arxiv.org/abs/2403.14628v1)|null|
+|**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627v1](http://arxiv.org/abs/2403.14627v1)|**[link](https://github.com/donydchen/mvsplat)**|
+|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623v1](http://arxiv.org/abs/2403.14623v1)|null|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621v1](http://arxiv.org/abs/2403.14621v1)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617v1](http://arxiv.org/abs/2403.14617v1)|null|
+|**2024-03-21**|**Hierarchical Text-to-Vision Self Supervised Alignment for Improved Histopathology Representation Learning**|Hasindri Watawana et.al.|[2403.14616v1](http://arxiv.org/abs/2403.14616v1)|**[link](https://github.com/hasindri/hlss)**|
+|**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613v1](http://arxiv.org/abs/2403.14613v1)|null|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611v1](http://arxiv.org/abs/2403.14611v1)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
