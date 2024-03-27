@@ -24,6 +24,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|null|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870v1](http://arxiv.org/abs/2403.17870v1)|null|
+|**2024-03-26**|**The memory of Rayleigh-Taylor turbulence**|S. Thévenin et.al.|[2403.17832v1](http://arxiv.org/abs/2403.17832v1)|null|
+|**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827v1](http://arxiv.org/abs/2403.17827v1)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803v1](http://arxiv.org/abs/2403.16803v1)|null|
 |**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790v1](http://arxiv.org/abs/2403.16790v1)|null|
 |**2024-03-25**|**Multilevel Modeling as a Methodology for the Simulation of Human Mobility**|Luca Serena et.al.|[2403.16745v1](http://arxiv.org/abs/2403.16745v1)|null|
@@ -1531,6 +1537,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Search and Society: Reimagining Information Access for Radical Futures**|Bhaskar Mitra et.al.|[2403.17901v1](http://arxiv.org/abs/2403.17901v1)|null|
+|**2024-03-26**|**ExpressEdit: Video Editing with Natural Language and Sketching**|Bekzat Tilekbay et.al.|[2403.17693v1](http://arxiv.org/abs/2403.17693v1)|null|
+|**2024-03-26**|**Equipping Sketch Patches with Context-Aware Positional Encoding for Graphic Sketch Representation**|Sicong Zang et.al.|[2403.17525v1](http://arxiv.org/abs/2403.17525v1)|null|
+|**2024-03-25**|**On Policy Reuse: An Expressive Language for Representing and Executing General Policies that Call Other Policies**|Blai Bonet et.al.|[2403.16824v1](http://arxiv.org/abs/2403.16824v1)|null|
 |**2024-03-25**|**CodeS: Natural Language to Code Repository via Multi-Layer Sketch**|Daoguang Zan et.al.|[2403.16443v1](http://arxiv.org/abs/2403.16443v1)|**[link](https://github.com/nl2code/codes)**|
 |**2024-03-24**|**Combined Task and Motion Planning Via Sketch Decompositions (Extended Version with Supplementary Material)**|Magí Dalmau-Moreno et.al.|[2403.16277v1](http://arxiv.org/abs/2403.16277v1)|null|
 |**2024-03-22**|**Efficiently Estimating Mutual Information Between Attributes Across Tables**|Aécio Santos et.al.|[2403.15553v1](http://arxiv.org/abs/2403.15553v1)|null|
@@ -2411,6 +2421,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|**[link](https://github.com/wangjk666/omnivid)**|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|null|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|null|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921v1](http://arxiv.org/abs/2403.17921v1)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
+|**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920v1](http://arxiv.org/abs/2403.17920v1)|null|
+|**2024-03-26**|**AgentStudio: A Toolkit for Building General Virtual Agents**|Longtao Zheng et.al.|[2403.17918v1](http://arxiv.org/abs/2403.17918v1)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803v1](http://arxiv.org/abs/2403.16803v1)|null|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792v1](http://arxiv.org/abs/2403.16792v1)|null|
 |**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790v1](http://arxiv.org/abs/2403.16790v1)|null|
@@ -4169,6 +4187,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
+|**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|**[link](https://github.com/wangjk666/omnivid)**|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933v1](http://arxiv.org/abs/2403.17933v1)|null|
+|**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927v1](http://arxiv.org/abs/2403.17927v1)|null|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921v1](http://arxiv.org/abs/2403.17921v1)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
+|**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920v1](http://arxiv.org/abs/2403.17920v1)|null|
+|**2024-03-26**|**AgentStudio: A Toolkit for Building General Virtual Agents**|Longtao Zheng et.al.|[2403.17918v1](http://arxiv.org/abs/2403.17918v1)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803v1](http://arxiv.org/abs/2403.16803v1)|null|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792v1](http://arxiv.org/abs/2403.16792v1)|null|
 |**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790v1](http://arxiv.org/abs/2403.16790v1)|null|
