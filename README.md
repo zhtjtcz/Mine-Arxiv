@@ -1,5 +1,5 @@
-[![Forks][forks-shield]][https://img.shields.io/github/forks/zhtjtcz/Mine-Arxiv]
-[![Stargazers][stars-shield]][https://img.shields.io/github/stars/zhtjtcz/Mine-Arxiv]
+![GitHub forks](https://img.shields.io/github/forks/zhtjtcz/Mine-Arxiv)
+![Gitea Stars](https://img.shields.io/github/stars/zhtjtcz/Mine-Arxiv)
 
 
 ## Updated on 2024.04.04
