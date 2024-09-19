@@ -1,7 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][https://img.shields.io/github/forks/zhtjtcz/Mine-Arxiv]
+[![Stargazers][stars-shield]][https://img.shields.io/github/stars/zhtjtcz/Mine-Arxiv]
+
 
 ## Updated on 2024.04.04
 
